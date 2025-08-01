@@ -1,0 +1,26 @@
+{
+    "id": "block-blockquote-dim-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "quoteIcon": "square",
+        "quoteOpacity": 0.3,
+        "quoteColor": "#ffffff",
+        "quoteSize": 154,
+        "textFontFamily": "Roboto",
+        "textColor": "#ffffff",
+        "paddingRight": 15,
+        "paddingUnit": "%",
+        "blockHeight": 60,
+        "blockHeightUnit": "vh",
+        "blockWidth": 70,
+        "mobileBlockWidth": 90,
+        "blockWidthUnit": "%",
+        "mobileBlockWidthUnit": "%",
+        "mobileBlockHorizontalAlign": "flex-start",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "noPaddings": false,
+        "blockBackgroundBackgroundColor": "#000000"
+    }
+}

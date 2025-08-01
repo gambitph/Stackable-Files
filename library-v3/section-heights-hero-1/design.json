@@ -1,0 +1,69 @@
+{
+    "id": "section-heights-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "0864ff7",
+        "hasBackground": true,
+        "blockBackgroundColor": "#327ac1",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-hero-1/13c571a2b80d.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "f01c445",
+                "fontSize": 64,
+                "fontFamily": "Inter",
+                "fontWeight": "bold",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Commitment to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "6b2a74b",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "3e651bc"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "1a7d65a",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontSize": 18,
+                        "fontFamily": "Inter",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

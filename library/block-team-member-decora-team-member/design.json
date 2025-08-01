@@ -1,0 +1,30 @@
+{
+    "id": "block-team-member-decora-team-member",
+    "name": "ugb/team-member",
+    "attributes": {
+        "design": "overlay",
+        "borderRadius": 0,
+        "shadow": 3,
+        "image1Id": 47,
+        "image2Id": 48,
+        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-team-member-decora-team-member/image-1-url.jpg",
+        "image2Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-team-member-decora-team-member/image-2-url.jpg",
+        "name1": "JULIO GREY",
+        "name2": "FLEUR NEO",
+        "name3": "",
+        "nameTag": "h3",
+        "nameColor": "var(--stk-global-color-15876, #fda939)",
+        "position1": "Chief Strategist",
+        "position2": "Head of Creatives",
+        "position3": "",
+        "positionFontFamily": "Poppins",
+        "description1": "As our Chief Strategist, Julio makes sure that we keep to goals that are ground-breaking.",
+        "description2": "Fleur keeps our look fresh and our style always cutting-edge.",
+        "description3": "",
+        "showSocial": false,
+        "columnHeight": 400,
+        "align": "wide",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

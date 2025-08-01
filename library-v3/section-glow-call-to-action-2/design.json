@@ -1,0 +1,73 @@
+{
+    "id": "section-glow-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "1ead643",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#732fb7",
+        "blockBackgroundColor2": "#000000",
+        "blockBackgroundGradientDirection": 180,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "cffbead",
+                "customAttributes": [],
+                "fontSize": 64,
+                "fontFamily": "Ubuntu",
+                "fontWeight": "bold",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Great Experience Awaits",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "55995f9",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "0c0137e"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "1254708",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColorType": "gradient",
+                        "buttonBackgroundColor": "#732fb7",
+                        "buttonBackgroundColor2": "#d03dc6",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Open Sans",
+                        "text": "Download Now"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

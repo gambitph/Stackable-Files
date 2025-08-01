@@ -1,0 +1,218 @@
+{
+    "id": "section-wireframes-metric-8",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "732a048",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "dfabd93",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "fdc44f8",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b1e8e9e",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Metric Block",
+                        "anchor": "title-for-this-metric-block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0975f17",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6653d5c"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b848ad4",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "824991b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "13575a8",
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "uniqueId": "1d7727e",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "1200+"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "3729c1a",
+                                                        "text": "Lorem ipsum dolor"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "b54c4e9",
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "uniqueId": "116d9e3",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "1200+"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "921363d",
+                                                        "customAttributes": [],
+                                                        "text": "Lorem ipsum dolor"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "e624fc7"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "6bff7d3",
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "uniqueId": "5bef21a",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "1200+"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "5cf0d95",
+                                                        "text": "Lorem ipsum dolor"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "e7a2508",
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "uniqueId": "cfe64cd",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "1200+"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "997370d",
+                                                        "text": "Lorem ipsum dolor"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "62896fb",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "56bfe8c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-metric-8/71875029cdeb.png",
+                                        "imageId": 900,
+                                        "imageWidthAttribute": 1200,
+                                        "imageHeightAttribute": 632
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "id": "section-peplum-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "0d7cfbd",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ffeff1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d2bf3c0"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "1cdbdc1",
+                        "fontSize": 64,
+                        "fontFamily": "Yeseva One",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#b27197",
+                        "text": "Card Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ed6a25a",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "dc1d184"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ed208ca"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "771fc07",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-card-1/75cceca59d19.jpg",
+                                        "imageId": 2093,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 2400,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "193f4c0",
+                                                "fontSize": 32,
+                                                "fontFamily": "Yeseva One",
+                                                "text": "Title for this Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "a8f2ce9",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "6b93f99",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "b60c945"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "946635c",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#000000",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Josefin Sans",
+                                                        "textTransform": "uppercase",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "39bfb8a"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "8ef8d3c",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-card-1/1351e53543af.jpg",
+                                        "imageId": 2094,
+                                        "imageWidthAttribute": 1703,
+                                        "imageHeightAttribute": 2560,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "881dde8",
+                                                "fontSize": 32,
+                                                "fontFamily": "Yeseva One",
+                                                "text": "Title for this Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "d6180f7",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "112ee8d",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "3ce9d89"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "ce5f6f6",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#000000",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Josefin Sans",
+                                                        "textTransform": "uppercase",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4071ab5"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "b51a2ad",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-card-1/dae6b72659ef.jpg",
+                                        "imageId": 2095,
+                                        "imageWidthAttribute": 1814,
+                                        "imageHeightAttribute": 2560,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "e960efd",
+                                                "fontSize": 32,
+                                                "fontFamily": "Yeseva One",
+                                                "text": "Title for this Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "c74e933",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "216c7db",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "656b920"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "f74c722",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#000000",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Josefin Sans",
+                                                        "textTransform": "uppercase",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

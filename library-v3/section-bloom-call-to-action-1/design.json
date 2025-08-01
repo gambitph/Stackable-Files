@@ -1,0 +1,149 @@
+{
+    "id": "section-bloom-call-to-action-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "9346ca8",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2c77b2a"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f251b3a",
+                        "hasBackground": true,
+                        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-call-to-action-1/97170f1935c8.png",
+                        "blockHeight": 600,
+                        "blockVerticalAlign": "center",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "innerBlockContentAlign": "alignwide",
+                        "align": "full"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c197ddd",
+                                "blockWidth": 600,
+                                "blockHorizontalAlign": "flex-end"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "6dc0a52",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 80,
+                                        "fontFamily": "Courgette",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Schedule Your Delivery Today",
+                                        "fontSizeMobile": 40
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0076fac",
+                                        "contentAlign": "right",
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id vestibulum turpis. Donec lacinia neque et risus vulputate, ut luctus risus consequat."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "48c673e",
+                                        "contentAlign": "right"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "6d114c6",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#b9d55f",
+                                                "fontSize": 18,
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "500",
+                                                "textColor1": "#14504c",
+                                                "text": "Shop Now"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "04ca51a",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "var(--stk-global-color-46782, #6865aa)",
+                        "innerBlockContentAlign": "alignfull",
+                        "align": "full"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1e632e2"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "549af2f",
+                                        "effectType": "scroll",
+                                        "effectAnimationIn": {
+                                            "translatex": 120
+                                        },
+                                        "contentAlign": "center",
+                                        "fontSize": 12,
+                                        "fontFamily": "Mulish",
+                                        "letterSpacing": 0.5,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Same day delivery. 24/7 Customer support.  Free shipping forever. Same day delivery. 24/7 Customer support.  Free shipping forever. Same day delivery. 24/7 Customer support.  Free shipping forever. Same day delivery. 24/7 Customer support."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

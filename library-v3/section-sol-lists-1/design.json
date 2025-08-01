@@ -1,0 +1,461 @@
+{
+    "id": "section-sol-lists-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e790efb",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d34c3f6",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "a1b0d86",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-lists-1/e44ea70204b7.jpg",
+                        "imageId": 1144,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1708,
+                        "imageShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "90e2f18"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "cb0d72e",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColor1": "#ed5521",
+                        "text": "SUBTITLE FOR THIS BLOCK"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "535afc6",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Raleway",
+                        "fontWeight": "800",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1a1a1a",
+                        "text": "Our Features"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "12cc38f",
+                        "textColorClass": "has-stk-global-color-56986-color",
+                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis feugiat pharetra quis imperdiet cursus tristique non vitae."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9be6b32"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "cdea0df"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "db5439f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "040c5b2",
+                                                "blockMargin": {
+                                                    "bottom": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "5a8677c",
+                                                        "contentAlign": "left",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"feather\" class=\"svg-inline--fa fa-feather fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M467.14 44.84c-62.55-62.48-161.67-64.78-252.28 25.73-78.61 78.52-60.98 60.92-85.75 85.66-60.46 60.39-70.39 150.83-63.64 211.17l178.44-178.25c6.26-6.25 16.4-6.25 22.65 0s6.25 16.38 0 22.63L7.04 471.03c-9.38 9.37-9.38 24.57 0 33.94 9.38 9.37 24.6 9.37 33.98 0l66.1-66.03C159.42 454.65 279 457.11 353.95 384h-98.19l147.57-49.14c49.99-49.93 36.38-36.18 46.31-46.86h-97.78l131.54-43.8c45.44-74.46 34.31-148.84-16.26-199.36z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-71534, #ed5521)",
+                                                        "iconSize": 24
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "21ff804",
+                                                        "fontSize": 24,
+                                                        "fontFamily": "Raleway",
+                                                        "textRemoveTextMargins": false,
+                                                        "hasP": true,
+                                                        "text": "Lightweight",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "6521306",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-stk-global-color-56986-color",
+                                                "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                "text": "Subtitle for feature"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "7a3e185"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "83ce7d2",
+                                                "blockMargin": {
+                                                    "bottom": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "3f9a9dd",
+                                                        "contentAlign": "left",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"cloud\" class=\"svg-inline--fa fa-cloud fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M537.6 226.6c4.1-10.7 6.4-22.4 6.4-34.6 0-53-43-96-96-96-19.7 0-38.1 6-53.3 16.2C367 64.2 315.3 32 256 32c-88.4 0-160 71.6-160 160 0 2.7.1 5.4.2 8.1C40.2 219.8 0 273.2 0 336c0 79.5 64.5 144 144 144h368c70.7 0 128-57.3 128-128 0-61.9-44-113.6-102.4-125.4z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-71534, #ed5521)",
+                                                        "iconSize": 24
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "be74b58",
+                                                        "fontSize": 24,
+                                                        "fontFamily": "Raleway",
+                                                        "textRemoveTextMargins": false,
+                                                        "hasP": true,
+                                                        "text": "Anti-fogging",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "89e2230",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-stk-global-color-56986-color",
+                                                "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                "text": "Subtitle for feature"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "65c0285"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "24eef56",
+                                                "blockMargin": {
+                                                    "bottom": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "771b8c3",
+                                                        "contentAlign": "left",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"moon\" class=\"svg-inline--fa fa-moon fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-71534, #ed5521)",
+                                                        "iconSize": 24
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "5ec37f7",
+                                                        "fontSize": 24,
+                                                        "fontFamily": "Raleway",
+                                                        "textRemoveTextMargins": false,
+                                                        "hasP": true,
+                                                        "text": "Blue Light",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "2223e34",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-stk-global-color-56986-color",
+                                                "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                "text": "Subtitle for feature"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "42b2574"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "d81c2c7"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "5011d61",
+                                                "blockMargin": {
+                                                    "bottom": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "abd1d8f",
+                                                        "contentAlign": "left",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"umbrella\" class=\"svg-inline--fa fa-umbrella fa-w-18\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\"><path fill=\"currentColor\" d=\"M575.7 280.8C547.1 144.5 437.3 62.6 320 49.9V32c0-17.7-14.3-32-32-32s-32 14.3-32 32v17.9C138.3 62.6 29.5 144.5.3 280.8c-2.2 10.1 8.5 21.3 18.7 11.4 52-55 107.7-52.4 158.6 37 5.3 9.5 14.9 8.6 19.7 0 20.2-35.4 44.9-73.2 90.7-73.2 58.5 0 88.2 68.8 90.7 73.2 4.8 8.6 14.4 9.5 19.7 0 51-89.5 107.1-91.4 158.6-37 10.3 10 20.9-1.3 18.7-11.4zM256 301.7V432c0 8.8-7.2 16-16 16-7.8 0-13.2-5.3-15.1-10.7-5.9-16.7-24.1-25.4-40.8-19.5-16.7 5.9-25.4 24.2-19.5 40.8 11.2 31.9 41.6 53.3 75.4 53.3 44.1 0 80-35.9 80-80V301.6c-9.1-7.9-19.8-13.6-32-13.6-12.3.1-22.4 4.8-32 13.7z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-71534, #ed5521)",
+                                                        "iconSize": 24
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "78ab672",
+                                                        "fontSize": 24,
+                                                        "fontFamily": "Raleway",
+                                                        "textRemoveTextMargins": false,
+                                                        "hasP": true,
+                                                        "text": "UV Protection",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "4a5e9b2",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-stk-global-color-56986-color",
+                                                "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                "text": "Subtitle for feature"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "262c6c1"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "ebc1a0c",
+                                                "blockMargin": {
+                                                    "bottom": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "1056fcf",
+                                                        "contentAlign": "left",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"dumbbell\" class=\"svg-inline--fa fa-dumbbell fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M104 96H56c-13.3 0-24 10.7-24 24v104H8c-4.4 0-8 3.6-8 8v48c0 4.4 3.6 8 8 8h24v104c0 13.3 10.7 24 24 24h48c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24zm528 128h-24V120c0-13.3-10.7-24-24-24h-48c-13.3 0-24 10.7-24 24v272c0 13.3 10.7 24 24 24h48c13.3 0 24-10.7 24-24V288h24c4.4 0 8-3.6 8-8v-48c0-4.4-3.6-8-8-8zM456 32h-48c-13.3 0-24 10.7-24 24v168H256V56c0-13.3-10.7-24-24-24h-48c-13.3 0-24 10.7-24 24v400c0 13.3 10.7 24 24 24h48c13.3 0 24-10.7 24-24V288h128v168c0 13.3 10.7 24 24 24h48c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-71534, #ed5521)",
+                                                        "iconSize": 24
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "955bed4",
+                                                        "fontSize": 24,
+                                                        "fontFamily": "Raleway",
+                                                        "textRemoveTextMargins": false,
+                                                        "hasP": true,
+                                                        "text": "Durable",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "a6cfecc",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-stk-global-color-56986-color",
+                                                "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                "text": "Subtitle for feature"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "1d49b6b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "90c1e1b",
+                                                "blockMargin": {
+                                                    "bottom": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "734bf57",
+                                                        "contentAlign": "left",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"palette\" class=\"svg-inline--fa fa-palette fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M204.3 5C104.9 24.4 24.8 104.3 5.2 203.4c-37 187 131.7 326.4 258.8 306.7 41.2-6.4 61.4-54.6 42.5-91.7-23.1-45.4 9.9-98.4 60.9-98.4h79.7c35.8 0 64.8-29.6 64.9-65.3C511.5 97.1 368.1-26.9 204.3 5zM96 320c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm32-128c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128-64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm128 64c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-71534, #ed5521)",
+                                                        "iconSize": 24
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "2b25e9a",
+                                                        "fontSize": 24,
+                                                        "fontFamily": "Raleway",
+                                                        "textRemoveTextMargins": false,
+                                                        "hasP": true,
+                                                        "text": "Fashion Colors",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "6035cf7",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-stk-global-color-56986-color",
+                                                "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                "text": "Subtitle for feature"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

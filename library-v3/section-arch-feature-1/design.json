@@ -1,0 +1,89 @@
+{
+    "id": "section-arch-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "63a167d",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c1263cf",
+                "contentAlign": "center",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "090a45f",
+                        "fontFamily": "Lato",
+                        "fontWeight": "600",
+                        "text": "Modernity at its Finest"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "87e1322",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "dd6e8ab"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "d9266ae",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#7bdcb5",
+                                "buttonBorderRadius": 50,
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Learn More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c18f9dd",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "9193d92",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-arch-feature-1/48a3d478804b.jpg",
+                        "imageId": 720,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 1500
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

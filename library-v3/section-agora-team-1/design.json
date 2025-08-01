@@ -1,0 +1,305 @@
+{
+    "id": "section-agora-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "175b530",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fff7f0",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "429e0f3"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5decb19",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "columnGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f7c1dc0",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "f4effe0",
+                                        "blockWidth": 640,
+                                        "customAttributes": [],
+                                        "fontSize": 80,
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#000000",
+                                        "text": "Our Team",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "324f90b",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "df842a7",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ba4bd97",
+                        "effectType": "entrance",
+                        "effectEntrance": "translateX(48px)",
+                        "columnGap": 24,
+                        "rowGapMobile": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a09f377",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "b09df01",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "43c967f",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-team-1/69e563c569bd.jpg",
+                                                "imageId": 1503,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageFocalPoint": {
+                                                    "x": "0.46",
+                                                    "y": "0.05"
+                                                },
+                                                "imageHeight": 450,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "c2ae355",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "fontFamily": "Prata",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "60a03d3",
+                                                "fontFamily": "Space Mono",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fbb5c9a",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "dd74e2b",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "39610ba",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-team-1/a0fdc8ea01d6.jpg",
+                                                "imageId": 1501,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 450,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "5668598",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "fontFamily": "Prata",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "f7cf16c",
+                                                "fontFamily": "Space Mono",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "50416e1",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "7872df1",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "b78a418",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-team-1/d952ab3afc99.jpg",
+                                                "imageId": 1502,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageFocalPoint": {
+                                                    "x": "0.41",
+                                                    "y": "0.00"
+                                                },
+                                                "imageHeight": 450,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "dac29cc",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "fontFamily": "Prata",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "8945049",
+                                                "fontFamily": "Space Mono",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

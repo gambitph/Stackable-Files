@@ -1,0 +1,94 @@
+{
+    "id": "section-arch-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "346fc19",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#006ba1",
+        "blockBackgroundColor2": "#7bdcb5",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "37ec290",
+                "fontSize": 64,
+                "fontFamily": "Lato",
+                "fontWeight": "900",
+                "textRemoveTextMargins": true,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Architects &amp; Co.",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/subtitle",
+            {
+                "uniqueId": "10ea70f",
+                "fontSize": 32,
+                "fontFamily": "Serif",
+                "fontStyle": "italic",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Designing vertical living spaces."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "ef8b132"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "1e683a9",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#7bdcb5",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Lato",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Get Quote",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ],
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "72c7994",
+                        "buttonBackgroundColor": "transparent",
+                        "icon": "<svg data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                        "iconColor1": "#7bdcb5",
+                        "iconPosition": "right",
+                        "fontSize": 18,
+                        "fontFamily": "Lato",
+                        "textColor1": "#7bdcb5",
+                        "text": "View Our Work",
+                        "buttonBackgroundColorHover": "transparent",
+                        "buttonBackgroundColorParentHover": "transparent",
+                        "className": "is-style-plain"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

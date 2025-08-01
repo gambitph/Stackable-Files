@@ -1,0 +1,71 @@
+{
+    "id": "section-lounge-call-to-action-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "734c745",
+        "hasBackground": true,
+        "blockBackgroundColor": "#FFFFFF",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-call-to-action-2/671059f69629.jpg",
+        "blockBackgroundTintStrength": 2,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6cb5ae7"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "ebdadaa",
+                        "fontSize": 56,
+                        "fontFamily": "Playfair Display",
+                        "fontWeight": "bold",
+                        "textColor1": "#393f59",
+                        "text": "Call to Action"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7003a52",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "a04b3a3",
+                        "contentAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "22699df",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#d2b18e",
+                                "fontSize": 18,
+                                "fontFamily": "Serif",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

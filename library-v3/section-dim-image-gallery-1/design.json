@@ -1,0 +1,120 @@
+{
+    "id": "section-dim-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1f88b36",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "73ef890"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b933df8",
+                        "fontFamily": "Roboto",
+                        "text": "Photo Gallery"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "4fb8f86",
+                        "blockWidth": 700,
+                        "blockHorizontalAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e4c8826",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-image-gallery-1/d7db9fdcf4bc.jpg",
+                                "containerHeight": 500,
+                                "containerVerticalAlign": "center",
+                                "containerBackgroundTintStrengthHover": 8
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "0a9b72c",
+                                        "fontSize": 16,
+                                        "fontFamily": "Sans-Serif",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for this Block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7bfdb1e",
+                                        "fontSize": 40,
+                                        "fontFamily": "Roboto",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Research"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c4aa7d1",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-image-gallery-1/de7747cafb92.jpg",
+                                "containerHeight": 500,
+                                "containerVerticalAlign": "center",
+                                "customAttributes": [],
+                                "containerBackgroundTintStrengthHover": 8
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "0659a2a",
+                                        "fontSize": 16,
+                                        "fontFamily": "Sans-Serif",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for this Block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "93f3832",
+                                        "fontSize": 40,
+                                        "fontFamily": "Roboto",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "View"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

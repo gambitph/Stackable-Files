@@ -1,0 +1,109 @@
+{
+    "id": "section-seren-quote-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "44c4461",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "59de712",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/blockquote",
+                    {
+                        "uniqueId": "a69442d"
+                    },
+                    [
+                        [
+                            "stackable/icon",
+                            {
+                                "uniqueId": "7738e3e",
+                                "opacity": 0.2,
+                                "position": "absolute",
+                                "positionNum": {
+                                    "top": -50,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": -50
+                                },
+                                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 50 50\"><path d=\"M21.1 6.8v36.4H0V22.1L21.1 6.8zm28.9 0v36.4H28.9V22.1L50 6.8z\"></path></svg>",
+                                "iconColor1": "#FFFFFF",
+                                "iconSize": 200
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "935e117",
+                                "fontFamily": "DM Sans",
+                                "fontStyle": "italic",
+                                "fontWeight": "500",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "eab6064",
+                        "customAttributes": [],
+                        "fontFamily": "Manrope",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Gabby Linta",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5c96e1f",
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Customer since 2015"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0b61384"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "4c69b65",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-quote-1/5c5741d81b71.jpg",
+                        "imageId": 2049,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 800,
+                        "imageShape": "circle"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

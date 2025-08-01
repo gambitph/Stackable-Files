@@ -1,0 +1,142 @@
+{
+    "id": "section-aspire-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d9d4e29",
+        "hasBackground": true,
+        "blockBackgroundColor": "#091830",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ecf7f81",
+                "hasContainer": true,
+                "containerBackgroundColor": "#3c5070",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-card-1/3c1aced3fe38.jpeg",
+                "containerBackgroundTintStrength": 7,
+                "containerHeight": 500,
+                "containerVerticalAlign": "flex-end"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d7b0664",
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Archivo Black",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4412c92",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "ec3cbc8"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "fc6854a",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#d3fc32",
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#091830",
+                                "text": "Button Text",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9d27cf7",
+                "hasContainer": true,
+                "containerBackgroundColor": "#3c5070",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-card-1/0e62684fbcea.jpeg",
+                "containerBackgroundTintStrength": 7,
+                "containerHeight": 500,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "1c3417b",
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Archivo Black",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c03b876",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "986d332"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e135d6c",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#d3fc32",
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#091830",
+                                "text": "Button Text",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

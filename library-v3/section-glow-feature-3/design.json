@@ -1,0 +1,100 @@
+{
+    "id": "section-glow-feature-3",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "f2d35cb",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e846e81",
+                "contentAlign": "left",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "07dd706",
+                        "fontSize": 56,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Experience Greatness"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e7303c0",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "7c4eff1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "575d0d7",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColorType": "gradient",
+                                "buttonBackgroundColor": "#732fb7",
+                                "buttonBackgroundColor2": "#d03dc6",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 18,
+                                "fontFamily": "Open Sans",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5c3cff9",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "bbbfbc7",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-3/34c180f3f523.jpg",
+                        "imageId": 2252,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 1072,
+                        "imageShape": "blob8"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

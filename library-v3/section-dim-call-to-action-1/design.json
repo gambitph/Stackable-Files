@@ -1,0 +1,64 @@
+{
+    "id": "section-dim-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "3324d3b",
+        "containerBackgroundColor": "#000000",
+        "containerHeight": 500,
+        "containerVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "4bf7c21",
+                "fontSize": 64,
+                "fontFamily": "Roboto",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Way to Achieve Your Dream",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "1d6e494",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "f30cd01"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "5af9555",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontSize": 18,
+                        "fontFamily": "Sans-Serif",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

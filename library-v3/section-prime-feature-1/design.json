@@ -1,0 +1,95 @@
+{
+    "id": "section-prime-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "e46a2b9",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "49d2203",
+                "contentAlign": "center",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "436de78",
+                        "fontFamily": "Inter",
+                        "fontWeight": "300",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Experience Excellence"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "af2a970",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "091e316"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "c835887",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#0693e3",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Inter",
+                                "text": "Learn More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1fe2af8",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "32e6b27",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-feature-1/5dd46494fb3b.jpg",
+                        "imageId": 1783,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 1046
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

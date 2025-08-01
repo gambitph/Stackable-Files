@@ -1,0 +1,112 @@
+{
+    "id": "section-pitch-call-to-action",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "db3bf1f",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action/13732bda3d73.png",
+        "blockHeight": 750,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c4fbff6",
+                "blockBackgroundColor": "transparent",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action/a77dfa389de6.png",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c2385c5",
+                        "blockMargin": {
+                            "bottom": 0
+                        },
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action/cc56df79bab9.png",
+                        "imageId": 1110,
+                        "imageWidthAttribute": 386,
+                        "imageHeightAttribute": 393,
+                        "imageWidth": 12,
+                        "imageWidthMobile": 80
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "3b510ee",
+                        "positionNum": {
+                            "top": -9,
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "color": "var(--stk-global-color-51431, #1570ef)",
+                        "width": 60
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "24b6e4d",
+                        "blockWidth": 720,
+                        "blockHorizontalAlign": "center",
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "fontSizeTablet": 32,
+                        "fontSizeMobile": 25,
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ee3cec6",
+                        "blockWidth": 720,
+                        "blockHorizontalAlign": "center",
+                        "textColorClass": "has-stk-global-color-92072-color",
+                        "textColor1": "var(--stk-global-color-92072, #190f33)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis massa est nunc at et nulla ultrices tristique nulla."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "01a60fc"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "70f50c7",
+                                "buttonPadding": {
+                                    "top": 12,
+                                    "right": "",
+                                    "bottom": 12,
+                                    "left": ""
+                                },
+                                "buttonMinHeight": 24,
+                                "buttonBorderRadius": 10,
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                "iconPosition": "right",
+                                "text": "Check it Out"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

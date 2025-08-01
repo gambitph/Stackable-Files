@@ -1,0 +1,68 @@
+{
+    "id": "section-chic-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1151aab",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#f28e18",
+        "blockBackgroundColor2": "#ffa1df",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-metric-1/b717626a832d.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 900,
+        "blockVerticalAlign": "flex-end",
+        "blockPadding": {
+            "top": "",
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "contentAlign": "right",
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "wave-3",
+        "topSeparatorShadow": "2px 4px 6px #000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8b212ad"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "0df923c",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 120,
+                        "fontFamily": "DM Serif Display",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " 4,283,284,234 "
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6cd16ef",
+                        "fontSize": 18,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Minutes Streamed in the App"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

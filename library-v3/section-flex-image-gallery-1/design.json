@@ -1,0 +1,181 @@
+{
+    "id": "section-flex-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cf3e36b",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c0e3027",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-1/3593c31e1e0f.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "center",
+                "columnWidth": 25,
+                "blockBackgroundColorHover": "#000000",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "3d8c33c",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#ff3737",
+                        "text": "Ropes"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0ee59a4",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fd04ffa",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-1/42b8de5aef81.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "center",
+                "columnWidth": 25,
+                "customAttributes": [],
+                "blockBackgroundColorHover": "#000000",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "ea3dd7e",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#ff3737",
+                        "text": "Cardio"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0cfe346",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5aaef2e",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-1/9adca9c79e8f.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "center",
+                "columnWidth": 25,
+                "customAttributes": [],
+                "blockBackgroundColorHover": "#000000",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "8308dbe",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#ff3737",
+                        "text": "Weights"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f5157b4",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e505960",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-1/c2cba222065e.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "center",
+                "columnWidth": 25,
+                "customAttributes": [],
+                "blockBackgroundColorHover": "#000000",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "859ee28",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#ff3737",
+                        "text": "Lifting"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "33a17f4",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

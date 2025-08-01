@@ -1,0 +1,124 @@
+{
+    "id": "section-pitch-call-to-action-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b21f33a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#101828",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f3a83f1"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "b449227",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "var(--stk-global-color-51431, #1570ef)",
+                        "blockBorderRadius": 16
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "73c9d31",
+                                "containerVerticalAlign": "center",
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 32
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "217fb93",
+                                        "textColorClass": "has-background-color",
+                                        "textColor1": "#ffffff",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "fontSizeTablet": 25,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4a9dea6",
+                                        "textColorClass": "has-background-color",
+                                        "textColor1": "#ffffff",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at a et tellus et a accumsan risus adipiscing. Euismod consectetur lacus, convallis et consequat imperdiet mi."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "1aa6bb6"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "2e2e6a2",
+                                                "buttonBackgroundColor": "#101828",
+                                                "text": "Check it out"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ce0ceff",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "contentAlignMobile": "center"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "478b5ed",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action-2/66732a842ee5.png",
+                                        "imageId": 1143,
+                                        "imageWidthAttribute": 700,
+                                        "imageHeightAttribute": 718,
+                                        "imageHeight": 450,
+                                        "imageWidth": 460,
+                                        "positionNum": {
+                                            "top": 24,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

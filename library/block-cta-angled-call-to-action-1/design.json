@@ -1,0 +1,33 @@
+{
+    "id": "block-cta-angled-call-to-action-1",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "ALWAYS GRAB THE OPPORTUNITY",
+        "titleTag": "h2",
+        "titleColor": "#ffffff",
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Inquire",
+        "buttonNewTab": false,
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "#eb5757",
+        "buttonBorderRadius": 0,
+        "titleTabletAlign": "center",
+        "descriptionTabletAlign": "center",
+        "buttonTabletAlign": "center",
+        "tabletPaddingLeft": 0,
+        "blockHeight": 60,
+        "blockHeightUnit": "vh",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundBackgroundMediaId": 27,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-angled-call-to-action-1/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundPosition": "center center",
+        "blockBackgroundBackgroundTintStrength": 0,
+        "contentAlign": "left",
+        "tabletContentAlign": "center"
+    }
+}

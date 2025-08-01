@@ -1,0 +1,229 @@
+{
+    "id": "section-propel-feature-1",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "b4a622d",
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-horizontal"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "91a576e",
+                "hasContainer": true,
+                "containerBackgroundColor": "#0f1e33"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "597005f",
+                        "innerBlockContentAlign": "alignfull",
+                        "align": "full"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d3b184e",
+                                "columnWidth": 40.8
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "c1d9d32",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-feature-1/2b4bae2073e3.jpg",
+                                        "imageId": 2069,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 1200,
+                                        "imageHeight": 305
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4e5894e",
+                                "columnWidth": 59.2
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "5764066",
+                                        "fontFamily": "Open Sans",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Feature 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "3e077aa",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "130e1f5"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "48883ae",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#fcb900",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Nunito",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Learn More",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4feb853",
+                "hasContainer": true,
+                "containerBackgroundColor": "#0f1e33",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "efa69ec",
+                        "customAttributes": [],
+                        "innerBlockContentAlign": "alignfull",
+                        "align": "full"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f3b8204",
+                                "columnWidth": 40.8,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "624dee0",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-feature-1/254a5183b42f.jpg",
+                                        "imageId": 2070,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 1200,
+                                        "imageHeight": 305,
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "91155a9",
+                                "columnWidth": 59.2,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8645f90",
+                                        "customAttributes": [],
+                                        "fontFamily": "Open Sans",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Feature 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "381b061",
+                                        "customAttributes": [],
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "40f3541",
+                                        "customAttributes": []
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "d9c9140",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#fcb900",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Nunito",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Learn More",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "id": "section-wireframes-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "33878b2",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "12ce435"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "628ef77",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "4eb3108",
+                        "columnGap": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1d844aa"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "402d74e"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "b16a526"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "50ad376",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "713066d",
+                                                        "hasP": true,
+                                                        "text": "Feature 1",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "2ea10f6",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "f51b5d3"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "7f3797a"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "9379ceb",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "6516275",
+                                                        "hasP": true,
+                                                        "text": "Feature 2",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "0c8e781",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "c02d7ed"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "2c87be1"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "157f27b",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "12ed9a8",
+                                                        "hasP": true,
+                                                        "text": "Feature 3",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "949e923",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "52d4e84"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d805a59",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-2/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

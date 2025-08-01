@@ -1,0 +1,226 @@
+{
+    "id": "section-wireframes-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7582e52",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "24c6116"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "dd476c8",
+                        "blockMargin": {
+                            "bottom": 48
+                        },
+                        "columnGap": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c2de2fc"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "b112ecb",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-1/a07f180261df.png",
+                                        "imageId": 1305,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 400,
+                                        "imageHeight": 500
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4b9ec5f",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "913319f",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "text": "Subtitle for this Section"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "84a5178",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for this Section"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5e74184",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi. Vivamus at lacinia elit. Phasellus at faucibus lacus."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "747b173"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "79ab8ee",
+                                                "text": "Button Text"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d833b3d"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2a0fd6d"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "ae04168"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a95ec24",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "30ff8a9",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f6ff998"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "7f0e1c7"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "9885039",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6de5cbb",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f45983e"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "1035fdb"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "9dc2732",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "cf54d37",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

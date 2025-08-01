@@ -1,0 +1,359 @@
+{
+    "id": "section-wireframes-feature-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "14a00d1",
+        "blockMargin": {
+            "bottom": 100
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d2828c7"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "0779e68",
+                        "blockMargin": {
+                            "bottom": 12
+                        },
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c2a5a71",
+                        "blockWidth": 800,
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "fontSizeTablet": 28,
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "bacc4f1",
+                        "blockWidth": 680,
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "15a8cf8",
+                        "blockPaddingTablet": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4c0ea6b",
+                                "containerVerticalAlign": "center",
+                                "columnWidthTablet": 60,
+                                "columnAdjacentCountTablet": 2,
+                                "columnSpacingTablet": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "9029dd3"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "5d0b3b7",
+                                                "columnSpacingTablet": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "3eedb40",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "1,000",
+                                                        "fontSizeTablet": 40
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "75871f2",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "FEATURE 1",
+                                                        "textTag": "h6",
+                                                        "fontSizeTablet": 16,
+                                                        "anchor": "feature-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "52b1783",
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                                        "fontSizeTablet": 14
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "323b1c8",
+                                                "customAttributes": [],
+                                                "columnSpacingTablet": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "d7ed620",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "customAttributes": [],
+                                                        "text": "1,000",
+                                                        "fontSizeTablet": 40
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "c5e9b56",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "customAttributes": [],
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "FEATURE 2",
+                                                        "textTag": "h6",
+                                                        "fontSizeTablet": 16,
+                                                        "anchor": "feature-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "0935a33",
+                                                        "customAttributes": [],
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                                        "fontSizeTablet": 14
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "f7f5834"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "588abe0",
+                                                "customAttributes": [],
+                                                "columnSpacingTablet": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "7473e5f",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "customAttributes": [],
+                                                        "text": "1,000",
+                                                        "fontSizeTablet": 40
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "03bccae",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "customAttributes": [],
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "FEATURE 3",
+                                                        "textTag": "h6",
+                                                        "fontSizeTablet": 16,
+                                                        "anchor": "feature-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "fe81a52",
+                                                        "customAttributes": [],
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                                        "fontSizeTablet": 14
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "9fe3e2a",
+                                                "customAttributes": [],
+                                                "columnSpacingTablet": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/count-up",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "8e61db6",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "customAttributes": [],
+                                                        "text": "1,000",
+                                                        "fontSizeTablet": 40
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "cdfb9b9",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "customAttributes": [],
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "FEATURE 4",
+                                                        "textTag": "h6",
+                                                        "fontSizeTablet": 16,
+                                                        "anchor": "feature-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "348a708",
+                                                        "customAttributes": [],
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                                        "fontSizeTablet": 14
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1298a5e",
+                                "columnWidthTablet": 40,
+                                "columnAdjacentCountTablet": 2,
+                                "columnSpacingTablet": {
+                                    "top": 12,
+                                    "right": 12,
+                                    "bottom": 12,
+                                    "left": 12
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "2f37f96",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-6/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380,
+                                        "imageHeightTablet": 500,
+                                        "imageHeightMobile": 320,
+                                        "imageWidthTablet": 100
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

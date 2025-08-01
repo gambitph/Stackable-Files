@@ -1,0 +1,108 @@
+{
+    "id": "section-capital-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fe8cad1",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0ae4193"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "79b227f",
+                        "fontFamily": "IBM Plex Sans",
+                        "fontWeight": "400",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#9b51e0",
+                        "text": "Our Company's Stats"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "755485d",
+                        "text": " Description for this block. Use this space for describing your block.  "
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0146181"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0151342"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "1474372",
+                                        "fontSize": 18,
+                                        "fontFamily": "IBM Plex Sans",
+                                        "textTransform": "uppercase",
+                                        "text": "Subtitle for this Stat"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "ced1f8a",
+                                        "fontSize": 64,
+                                        "fontFamily": "IBM Plex Sans",
+                                        "fontWeight": "400",
+                                        "text": "$99.00"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4f9bdd2"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "fc24c77",
+                                        "fontSize": 18,
+                                        "fontFamily": "IBM Plex Sans",
+                                        "textTransform": "uppercase",
+                                        "text": "Subtitle for this Stat"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "a71503b",
+                                        "fontSize": 64,
+                                        "fontFamily": "IBM Plex Sans",
+                                        "fontWeight": "400",
+                                        "text": "$99.00"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

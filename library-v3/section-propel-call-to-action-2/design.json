@@ -1,0 +1,71 @@
+{
+    "id": "section-propel-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "8c70d72",
+        "hasBackground": true,
+        "blockBackgroundColor": "#0f1e33",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-call-to-action-2/f480350124d1.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "324e8a9",
+                "fontSize": 56,
+                "fontFamily": "Open Sans",
+                "fontStyle": "italic",
+                "fontWeight": "600",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Great Experience Awaits",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "c315599",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "49887c5"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "a17abb5",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#fcb900",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Nunito",
+                        "text": "Join Us"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

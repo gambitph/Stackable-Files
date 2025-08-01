@@ -1,0 +1,363 @@
+{
+    "id": "section-speck-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e2ec69a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "43a7d60",
+                "hasContainer": true,
+                "containerBackgroundColor": "#1b36d1",
+                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "85b3ab8",
+                        "fontSize": 32,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Basic"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "fb57a6f"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "e883b8d",
+                                "htmlTag": "span",
+                                "fontSize": 24,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "fb09cf1",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "9",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "fa88bb4",
+                                "htmlTag": "span",
+                                "fontSize": 24,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "f24a12b",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Sub Price"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "100d61d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f6a56ec",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ffe923",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#1b36d1",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "53c416f",
+                "hasContainer": true,
+                "containerBackgroundColor": "#1b36d1",
+                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "a5829a5",
+                        "fontSize": 32,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Advanced"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "bf4704b"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "8980985",
+                                "htmlTag": "span",
+                                "fontSize": 24,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "e769350",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "49",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "7ca2c10",
+                                "htmlTag": "span",
+                                "fontSize": 24,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "2ea0b02",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Sub Price"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "206e04f"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "db38d51",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ffe923",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#1b36d1",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "47d7892",
+                "containerBackgroundColor": "#1b36d1",
+                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "55fe17f",
+                        "fontSize": 32,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Pro"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "cf05bea"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "b0b5039",
+                                "htmlTag": "span",
+                                "fontSize": 24,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "b5217cb",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "99",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "b7af316",
+                                "htmlTag": "span",
+                                "fontSize": 24,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "823d4ed",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Sub Price"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "70b57b3"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "b676d55",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ffe923",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#1b36d1",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

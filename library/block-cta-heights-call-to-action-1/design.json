@@ -1,0 +1,21 @@
+{
+    "id": "block-cta-heights-call-to-action-1",
+    "name": "ugb/cta",
+    "attributes": {
+        "borderRadius": 16,
+        "shadow": 3,
+        "title": "Join The Block Editor Revolution",
+        "description": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do.",
+        "buttonFontFamily": "Sans-Serif",
+        "buttonFontSize": 18,
+        "buttonText": "Join Now",
+        "buttonNewTab": false,
+        "buttonBackgroundColor": "var(--stk-global-color-4603, #313131)",
+        "buttonBorderRadius": 0,
+        "descriptionBottomMargin": 30,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#ffffff"
+    }
+}

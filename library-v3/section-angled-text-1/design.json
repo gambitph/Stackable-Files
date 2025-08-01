@@ -1,0 +1,65 @@
+{
+    "id": "section-angled-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "950ba4d",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "columnGap": 40
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b60dc69"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "213b4bd",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "textColor1": "#eb5757",
+                        "text": "Title for This Block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1c0a815"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "31cc093",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0901b23"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c43fe7d",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

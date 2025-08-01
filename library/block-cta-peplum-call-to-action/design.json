@@ -1,0 +1,25 @@
+{
+    "id": "block-cta-peplum-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "borderRadius": 0,
+        "shadow": 5,
+        "titleColor": "var(--stk-global-color-68335, #ffffff)",
+        "descriptionColor": "var(--stk-global-color-68335, #ffffff)",
+        "buttonFontFamily": "Josefin Sans",
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonBackgroundColor": "var(--stk-global-color-68335, #ffffff)",
+        "buttonBorderRadius": 0,
+        "buttonShadow": 5,
+        "columnBackgroundColor": "var(--stk-global-color-10518, #b27197)",
+        "columnBackgroundMediaId": 18,
+        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-peplum-call-to-action/column-background-media-url.jpg",
+        "columnBackgroundTintStrength": 9,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-15911, #ffeff1)",
+        "contentAlign": "left"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": "section-dustin-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "e29492f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-call-to-action-2/f4b61c874b14.jpg",
+        "blockBackgroundTintStrength": 4,
+        "blockHeight": 300,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "5ea4b89",
+                "fontSize": 40,
+                "fontFamily": "Lato",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Make Sure You are Ahead of the Curve",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "dc06f04"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "c65f834",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "id": "section-wireframes-card-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "247f1d3",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "63b10cb",
+                "containerVerticalAlign": "center",
+                "columnWidth": 40,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "77e3670",
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "77858d2",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6f0141a",
+                "columnWidth": 60,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "b3c4269"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "39239b7"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "6f9a700",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-3/a07f180261df.png",
+                                        "imageId": 1305,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 400,
+                                        "contentAlign": "center",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4e9c089",
+                                                "text": "Card 1",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "c3b77fb",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "f1087b9"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "f750161",
+                                                        "text": "Button Text",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "21c6cbb"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "d8be62e",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-3/a07f180261df.png",
+                                        "imageId": 1305,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 400,
+                                        "contentAlign": "center",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "0a74ea8",
+                                                "text": "Card 2",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "2ca4c4b",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "91da908"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "8ee41ba",
+                                                        "text": "Button Text",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "id": "section-pitch-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f0e1958",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f3faff",
+        "blockHeight": 640,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1e4d581",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "1ef9838",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-metric-1/3d98afbd69fc.png",
+                        "imageId": 1106,
+                        "imageWidthAttribute": 80,
+                        "imageHeightAttribute": 36,
+                        "imageWidth": 75,
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "d52aa8d",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "textColorClass": "has-stk-global-color-51431-color",
+                        "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "86a7203",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "textTag": "h4",
+                        "fontSizeTablet": 25,
+                        "fontSizeMobile": 25,
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0fa8820"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "117e7a8"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "bfec066",
+                                        "fontSize": 25,
+                                        "text": "15K"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "9cb566c",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "df7437e"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "15989dd",
+                                        "fontSize": 25,
+                                        "text": "15K"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f8d6893",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b1c7e12"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "1eaa662",
+                                        "fontSize": 25,
+                                        "text": "15K"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2987f40",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

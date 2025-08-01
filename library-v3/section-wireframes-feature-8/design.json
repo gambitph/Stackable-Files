@@ -1,0 +1,194 @@
+{
+    "id": "section-wireframes-feature-8",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ca16bf9",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2b28136"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9c4d223",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e1c0e31",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "f5991b5",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-8/71875029cdeb.png",
+                        "imageId": 900,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 632
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "820888f",
+                "containerVerticalAlign": "flex-end"
+            },
+            [
+                [
+                    "stackable/icon-box",
+                    {
+                        "uniqueId": "6097bbb"
+                    },
+                    [
+                        [
+                            "stackable/icon-label",
+                            {
+                                "uniqueId": "dccdff1"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "071491c",
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {}
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "c0fead0",
+                                        "hasP": true,
+                                        "text": "Feature 1",
+                                        "textTag": "h4",
+                                        "anchor": "feature-1"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "4fc96f0",
+                                "text": "Description for this block. Use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/icon-box",
+                    {
+                        "uniqueId": "f365787"
+                    },
+                    [
+                        [
+                            "stackable/icon-label",
+                            {
+                                "uniqueId": "1c5e0e2"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "886dc7b",
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {}
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "5b961b3",
+                                        "hasP": true,
+                                        "text": "Feature 2",
+                                        "textTag": "h4",
+                                        "anchor": "feature-2"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "65e2c23",
+                                "text": "Description for this block. Use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/icon-box",
+                    {
+                        "uniqueId": "8ea8d5a"
+                    },
+                    [
+                        [
+                            "stackable/icon-label",
+                            {
+                                "uniqueId": "dc60731"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "fb44692",
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {}
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "ff75470",
+                                        "hasP": true,
+                                        "text": "Feature 3",
+                                        "textTag": "h4",
+                                        "anchor": "feature-3"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "961dc4f",
+                                "text": "Description for this block. Use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

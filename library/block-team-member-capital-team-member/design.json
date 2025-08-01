@@ -1,0 +1,32 @@
+{
+    "id": "block-team-member-capital-team-member",
+    "name": "ugb/team-member",
+    "attributes": {
+        "design": "plain",
+        "imageShape": "",
+        "image1Id": 17,
+        "image2Id": 16,
+        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-team-member-capital-team-member/image-1-url.jpg",
+        "image2Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-team-member-capital-team-member/image-2-url.jpg",
+        "image1Alt": "Name",
+        "image2Alt": "Name",
+        "name3": "",
+        "position3": "",
+        "description3": "",
+        "socialDesign": "plain",
+        "socialBackgroundColor": "var(--stk-global-color-16757, #9b51e0)",
+        "socialBorderRadius": 0,
+        "socialFacebookUrl": "#",
+        "socialTwitterUrl": "#",
+        "socialInstagramUrl": "#",
+        "socialEmailUrl": "mailto:my@email.com",
+        "social1FacebookUrl": "#",
+        "social1TwitterUrl": "#",
+        "social1InstagramUrl": "#",
+        "social2FacebookUrl": "#",
+        "social2TwitterUrl": "#",
+        "social2InstagramUrl": "#",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

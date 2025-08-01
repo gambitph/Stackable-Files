@@ -1,0 +1,29 @@
+{
+    "id": "block-text-peplum-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "design": "side-title-1",
+        "columns": 2,
+        "columnRuleColor": "var(--stk-global-color-15911, #ffeff1)",
+        "columnRuleHeight": 80,
+        "showTitle": true,
+        "title": "Advanced Text Block",
+        "titleFontSize": 64,
+        "titleColor": "var(--stk-global-color-68335, #ffffff)",
+        "subtitle": "",
+        "subtitleOnTop": true,
+        "text3": "",
+        "text4": "",
+        "textColor": "var(--stk-global-color-68335, #ffffff)",
+        "blockHeight": 500,
+        "columnContentVerticalAlign": "center",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-10518, #b27197)",
+        "blockBackgroundBackgroundMediaId": 11,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-peplum-advanced-text/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 9,
+        "blockBackgroundFixedBackground": true
+    }
+}

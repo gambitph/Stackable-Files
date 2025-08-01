@@ -1,0 +1,245 @@
+{
+    "id": "section-wireframes-testimonial-9",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8ea9f7d",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "11b9837",
+                "columnAdjacentCount": 3,
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "490f6f9",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-9/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "248c643",
+                "blockVerticalAlign": "center",
+                "blockPadding": {
+                    "top": 32,
+                    "right": 32,
+                    "bottom": 32,
+                    "left": 32
+                },
+                "columnAdjacentCount": 3,
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "6458949",
+                        "blockMargin": {
+                            "bottom": 50
+                        },
+                        "fontSize": 18,
+                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ccaf144"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ab388b5",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 16,
+                                "columnAdjacentCount": 2,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "7023d77",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px",
+                                        "contentAlignTablet": "left"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "79abba6",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 84,
+                                "columnAdjacentCount": 2,
+                                "customAttributes": [],
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5f8a5ea",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "<strong>Name</strong>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "36231b2",
+                                        "text": "Position"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "38d1ce0",
+                "blockVerticalAlign": "center",
+                "blockPadding": {
+                    "top": 32,
+                    "right": 32,
+                    "bottom": 32,
+                    "left": 32
+                },
+                "columnAdjacentCount": 3,
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "1306cb4",
+                        "blockMargin": {
+                            "bottom": 50
+                        },
+                        "fontSize": 18,
+                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ccae410"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "de2d296",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 16,
+                                "columnAdjacentCount": 2,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d4f2129",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px",
+                                        "contentAlignTablet": "left"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4bc2788",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 84,
+                                "columnAdjacentCount": 2,
+                                "customAttributes": [],
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0714765",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "<strong>Name</strong>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d2e2fd4",
+                                        "text": "Position"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "id": "section-curious-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "bdb9228",
+        "hasBackground": true,
+        "blockBackgroundMediaId": 1002,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/3c1bf6ddb280.png",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockBackgroundMediaHeightAttribute": 1440,
+        "blockBackgroundMediaWidthAttribute": 1115
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a38ea5d",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "a5fde77",
+                        "effectAnimationOut": {},
+                        "effectAnimationIn": {},
+                        "customAttributes": [],
+                        "displayCondition": {},
+                        "text": "SERVICES",
+                        "blockMargin": {
+                            "bottom": 16
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "30f958a",
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor sit amet",
+                        "anchor": "lorem-ipsum-dolor-sit-amet",
+                        "blockMargin": {
+                            "bottom": 16
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e3465d7",
+                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "40e085f"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0d8ee10"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "8e56a57",
+                                        "blockShadow": "-8px 8px 0px 0px rgba(0,0,0, 1)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/f2e6315f3983.png",
+                                        "imageId": 1001,
+                                        "imageWidthAttribute": 577,
+                                        "imageHeightAttribute": 542
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0d2afbc",
+                                        "text": "Lorem ipsum dolor sit amet",
+                                        "textTag": "h4",
+                                        "anchor": "lorem-ipsum-dolor-sit-amet"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c3c890b",
+                                        "fontSize": 16,
+                                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "aecd20f"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "479d5cf",
+                                        "blockShadow": "-8px 8px 0px 0px rgba(0,0,0, 1)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/6576dae4854a.png",
+                                        "imageId": 1000,
+                                        "imageWidthAttribute": 577,
+                                        "imageHeightAttribute": 542,
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {}
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "835509a",
+                                        "text": "Lorem ipsum dolor sit amet",
+                                        "textTag": "h4",
+                                        "anchor": "lorem-ipsum-dolor-sit-amet"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f940880",
+                                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1cd3396"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "542eb6e",
+                                        "blockShadow": "-8px 8px 0px 0px rgba(0,0,0, 1)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/1a30c27e9162.png",
+                                        "imageId": 999,
+                                        "imageWidthAttribute": 577,
+                                        "imageHeightAttribute": 542,
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {}
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f99f923",
+                                        "text": "Lorem ipsum dolor sit amet",
+                                        "textTag": "h4",
+                                        "anchor": "lorem-ipsum-dolor-sit-amet"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1144898",
+                                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

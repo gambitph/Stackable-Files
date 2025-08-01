@@ -1,0 +1,77 @@
+{
+    "id": "section-flex-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6f0f967",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "columnGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "62fbe0d"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "360181f",
+                        "fontSize": 56,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textColor1": "#ff3737",
+                        "text": "Achieve Your Goal"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "953da5b"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "00a45d4",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ae0e093"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e652522",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

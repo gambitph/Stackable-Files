@@ -1,0 +1,21 @@
+{
+    "id": "block-video-popup-dim-video-popup",
+    "name": "ugb/video-popup",
+    "attributes": {
+        "videoID": "",
+        "height": 600,
+        "borderRadius": 0,
+        "shadow": 0,
+        "previewBackgroundColor": "var(--stk-global-color-30923, #000000)",
+        "previewBackgroundMediaId": 75,
+        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-dim-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundTintStrength": 4,
+        "previewFixedBackground": false,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

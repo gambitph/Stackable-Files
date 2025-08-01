@@ -1,0 +1,527 @@
+{
+    "id": "section-bloom-faq-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ca6fa52",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fe95561",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-faq-1/f6cc778b4122.jpg",
+                "blockBackgroundPosition": "bottom center",
+                "blockHeight": 600,
+                "columnWidth": 40,
+                "columnAdjacentCount": 2,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            []
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "875ef90",
+                "hasBackground": true,
+                "blockBackgroundColor": "var(--stk-global-color-91842, #b3b1e2)",
+                "blockBackgroundTintStrength": 8,
+                "blockHeight": 600,
+                "blockMargin": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockPadding": {
+                    "top": 64,
+                    "right": 120,
+                    "bottom": 64,
+                    "left": 64
+                },
+                "containerShadow": "none",
+                "containerVerticalAlign": "center",
+                "containerPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "columnWidth": 60,
+                "columnAdjacentCount": 2,
+                "customAttributes": [],
+                "columnSpacing": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockPaddingMobile": {
+                    "top": 16,
+                    "right": 16,
+                    "bottom": 16,
+                    "left": 16
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1,
+                "columnSpacingMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "bb91220",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "fontSize": 48,
+                        "fontFamily": "Courgette",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#6865aa",
+                        "text": "Frequently Asked Questions",
+                        "showTopLine": true,
+                        "topLineColor": "var(--stk-global-color-46782, #6865aa)",
+                        "topLineMargin": 40,
+                        "fontSizeMobile": 40
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "be47350",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis arcu et nisl vehicula, vitae congue quam euismod."
+                    },
+                    []
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "b960ebd",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                        "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "onlyOnePanelOpen": true
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a2ae496",
+                                "blockPadding": {
+                                    "top": 8,
+                                    "right": 32,
+                                    "bottom": 8,
+                                    "left": 32
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "430b8f1"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "22f0921",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "hasP": true,
+                                                "text": "Question #1",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "56d8e42",
+                                                "customAttributes": [],
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"minus\" class=\"svg-inline--fa fa-minus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-91842, #b3b1e2)",
+                                                "showBackgroundShape": true,
+                                                "backgroundShape": "blob3",
+                                                "backgroundShapeColor": "var(--stk-global-color-91842, #b3b1e2)",
+                                                "backgroundShapeOpacity": 0.2,
+                                                "backgroundShapeSize": 2.5
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "071acfb",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": 8,
+                                    "left": ""
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5b977fa",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "aa32a5c",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                        "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "onlyOnePanelOpen": true
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fb72b4d",
+                                "blockPadding": {
+                                    "top": 8,
+                                    "right": 32,
+                                    "bottom": 8,
+                                    "left": 32
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "bcdea50"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "9b3c6f5",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "hasP": true,
+                                                "text": "Question #3",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "5e2a0ee",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"minus\" class=\"svg-inline--fa fa-minus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "iconColor1": "#f1cc83",
+                                                "showBackgroundShape": true,
+                                                "backgroundShape": "blob3",
+                                                "backgroundShapeColor": "#f1cc83",
+                                                "backgroundShapeOpacity": 0.2,
+                                                "backgroundShapeSize": 2.5
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6718d78",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": 8,
+                                    "left": ""
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "8b732be",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "81a2e7d",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                        "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "onlyOnePanelOpen": true
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e5c1248",
+                                "blockPadding": {
+                                    "top": 8,
+                                    "right": 32,
+                                    "bottom": 8,
+                                    "left": 32
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "efeb2fd"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "348e437",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "hasP": true,
+                                                "text": "Question #2",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "f600aaf",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"minus\" class=\"svg-inline--fa fa-minus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "iconColor1": "#e986a3",
+                                                "showBackgroundShape": true,
+                                                "backgroundShape": "blob3",
+                                                "backgroundShapeColor": "#e986a3",
+                                                "backgroundShapeOpacity": 0.2,
+                                                "backgroundShapeSize": 2.5
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2f75e3c",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": 8,
+                                    "left": ""
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "85b86c9",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "05d23d8",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                        "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "onlyOnePanelOpen": true
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4c5e23a",
+                                "blockPadding": {
+                                    "top": 8,
+                                    "right": 32,
+                                    "bottom": 8,
+                                    "left": 32
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "c83c270"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "d391254",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "hasP": true,
+                                                "text": "Question #4",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "a2d3fa1",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"minus\" class=\"svg-inline--fa fa-minus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "iconColor1": "#ef7120",
+                                                "showBackgroundShape": true,
+                                                "backgroundShape": "blob3",
+                                                "backgroundShapeColor": "#ef7120",
+                                                "backgroundShapeOpacity": 0.2,
+                                                "backgroundShapeSize": 2.5
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7c09797",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": 8,
+                                    "left": ""
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b560ca4",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

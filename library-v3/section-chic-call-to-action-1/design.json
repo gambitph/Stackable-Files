@@ -1,0 +1,83 @@
+{
+    "id": "section-chic-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "dedbd55",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#ffa1df",
+        "blockBackgroundColor2": "#f28e18",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-call-to-action-1/759e3581534e.jpg",
+        "blockBackgroundTintStrength": 7,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "blockPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": 120
+        },
+        "containerBackgroundColor": "#ffeff4",
+        "containerWidth": 800,
+        "containerVerticalAlign": "center",
+        "containerHorizontalAlign": "flex-start",
+        "containerPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "4dc9422",
+                "fontSize": 48,
+                "fontFamily": "DM Serif Display",
+                "text": "Get the Most Out of This",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "9cb2b66",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "07d7109"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "5635e38",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#f28e18",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "text": "Subscribe to Channel",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

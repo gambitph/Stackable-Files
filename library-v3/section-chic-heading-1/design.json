@@ -1,0 +1,54 @@
+{
+    "id": "section-chic-heading-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "aedbde4",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5f2c155"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3acd246",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 64,
+                        "fontFamily": "DM Serif Display",
+                        "textRemoveTextMargins": true,
+                        "textColorType": "gradient",
+                        "textColor1": "#ffa1df",
+                        "textColor2": "#f28e18",
+                        "text": "Advanced Heading Block",
+                        "showTopLine": true,
+                        "topLineColor": "#f28e18",
+                        "topLineAlign": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "b268924",
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "text": "Subtitle for this Heading"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

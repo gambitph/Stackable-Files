@@ -1,0 +1,389 @@
+{
+    "id": "section-wireframes-pricing-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d2cf936",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "825d208"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "21da5a6",
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "468fee9",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0722bfc"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ba6aaab"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "0c102a0",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "0918bca",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Pricing Box 1",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "aa602e1"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "10970d0",
+                                                        "htmlTag": "span",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "85b8101",
+                                                        "htmlTag": "span",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "d23fee9",
+                                                        "htmlTag": "span",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "0cc430f",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "ee59bc0",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "e3ba135",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "ec67c75",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "b5c4125"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "0ba3a43",
+                                                        "text": "Button Text"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0562925"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "d2781f3",
+                                        "containerBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                        "containerShadow": "none",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "91f9136",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Pricing Box 2",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "edd7356"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "a13319e",
+                                                        "htmlTag": "span",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "96a8b86",
+                                                        "htmlTag": "span",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "f233ca4",
+                                                        "htmlTag": "span",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "dea2107",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "b416754",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d9e38fe",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "1c20133",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "714e570"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "26a8f41",
+                                                        "text": "Button Text"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "12c4c17"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "13aa9a5",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "929d4e9",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Pricing Box 3",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "2801689"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "20596d9",
+                                                        "htmlTag": "span",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "03572c6",
+                                                        "htmlTag": "span",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "81345f5",
+                                                        "htmlTag": "span",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "53d98f8",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "f312d02",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "e271ac0",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "064b387",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "67e7fd0"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "b206b91",
+                                                        "text": "Button Text"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

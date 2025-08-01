@@ -1,0 +1,76 @@
+{
+    "id": "section-dim-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a71463f",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f05ae06",
+                "hasContainer": true,
+                "containerBackgroundColor": "#000000",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-feature-1/0885f589b7f0.jpg",
+                "containerBackgroundTintStrength": 6,
+                "containerHeight": 500,
+                "containerVerticalAlign": "flex-end",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ec2caaa",
+                        "fontSize": 40,
+                        "fontFamily": "Roboto",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Minimalist Movement"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "05a201b",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "226e8f1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "62cc5fe",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontSize": 18,
+                                "fontFamily": "Sans-Serif",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

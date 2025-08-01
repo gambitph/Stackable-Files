@@ -1,0 +1,73 @@
+{
+    "id": "section-propel-hero-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "7f79122",
+        "hasBackground": true,
+        "blockBackgroundColor": "#0f1e33",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-hero-2/a2e911eee374.jpg",
+        "blockBackgroundTintStrength": 7,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "wave-3",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "76bd898",
+                "blockWidth": 930,
+                "fontSize": 64,
+                "fontFamily": "Open Sans",
+                "fontStyle": "italic",
+                "fontWeight": "600",
+                "textColor1": "#FFFFFF",
+                "text": "Our Commitment to Excellence Ensures your Peace of Mind",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "82d0b51",
+                "blockWidth": 930,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "c9f8cf1"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "2363b4a",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#fcb900",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Nunito",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

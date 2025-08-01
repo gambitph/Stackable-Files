@@ -1,0 +1,127 @@
+{
+    "id": "section-proact-text-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fbd0346",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#4c548a",
+        "blockBackgroundColor2": "#dd3334",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "86de4bf",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "c598500",
+                        "fontSize": 16,
+                        "fontFamily": "Nunito",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "348c258",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "600",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Advanced Text Block",
+                        "showBottomLine": false,
+                        "bottomLineAlign": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "26d26c2",
+                        "columnGap": 64
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2a043f5",
+                                "containerBorderWidth": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "cc0da49",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e39ecf9"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6c91dcf",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7e21df3"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6e39257",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

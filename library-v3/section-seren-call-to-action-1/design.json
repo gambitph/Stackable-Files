@@ -1,0 +1,68 @@
+{
+    "id": "section-seren-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "fb009aa",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-call-to-action-1/334c2175026e.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "1565d03",
+                "fontSize": 56,
+                "fontFamily": "Manrope",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Join the Revolution",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "fb32a2f",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "66fb57e"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "7e1e613",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "fontSize": 18,
+                        "fontFamily": "DM Sans",
+                        "text": "Contact Us"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

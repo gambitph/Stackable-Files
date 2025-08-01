@@ -1,0 +1,139 @@
+{
+    "id": "section-proact-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "668e959",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3dd1f6e",
+                "hasBackground": true,
+                "blockBackgroundColorType": "gradient",
+                "blockBackgroundColor": "#4c548a",
+                "blockBackgroundColor2": "#dd3334",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-image-gallery-1/c6086d027419.jpg",
+                "blockHeight": 500,
+                "containerVerticalAlign": "center",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "f88ee6c",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d2c6be1",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9f43497",
+                "hasBackground": true,
+                "blockBackgroundColorType": "gradient",
+                "blockBackgroundColor": "#4c548a",
+                "blockBackgroundColor2": "#dd3334",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-image-gallery-1/99c4758bbeb4.jpg",
+                "blockHeight": 500,
+                "containerVerticalAlign": "center",
+                "customAttributes": [],
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "2b71633",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7e0f0f0",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cd6915b",
+                "hasBackground": true,
+                "blockBackgroundColorType": "gradient",
+                "blockBackgroundColor": "#4c548a",
+                "blockBackgroundColor2": "#dd3334",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-image-gallery-1/d771b0fe1f9d.jpg",
+                "blockHeight": 500,
+                "containerVerticalAlign": "center",
+                "customAttributes": [],
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "e2c40a5",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "982f7e1",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

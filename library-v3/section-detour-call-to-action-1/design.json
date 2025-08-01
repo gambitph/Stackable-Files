@@ -1,0 +1,84 @@
+{
+    "id": "section-detour-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "16b9424",
+        "hasBackground": true,
+        "blockBackgroundColor": "#FFFFFF",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-call-to-action-1/253850f80395.jpg",
+        "blockBackgroundTintStrength": 7,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "a897f39"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "df2679b",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "b600e76",
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "text": "Experience Greatness",
+                                "textTag": "h1"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "6935072",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "705e483",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "c3a9377"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "c250559",
+                                        "customAttributes": [],
+                                        "buttonBackgroundColor": "#eb5757",
+                                        "fontSize": 16,
+                                        "fontFamily": "Montserrat",
+                                        "text": "Learn More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

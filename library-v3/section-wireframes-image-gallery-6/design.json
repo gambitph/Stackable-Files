@@ -1,0 +1,254 @@
+{
+    "id": "section-wireframes-image-gallery-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "82aa6f9",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9534726"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9240061",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section",
+                        "blockMargin": {
+                            "bottom": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f93f0c2",
+                        "blockWidth": 480,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9c430ef",
+                        "rowGapMobile": 40
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7a4d67e",
+                                "columnWidth": 25,
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d8c9eae",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-6/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380,
+                                        "imageHeight": 350,
+                                        "imageWidth": 100,
+                                        "imageHeightMobile": 240
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "e0e9f84"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "3080c51",
+                                                "buttonPadding": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "buttonBackgroundColor": "transparent",
+                                                "text": "Button",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ee6396d",
+                                "columnWidth": 25,
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "7a70a5d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-6/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380,
+                                        "imageHeight": 350,
+                                        "imageHeightMobile": 240
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "1b7079c"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "ebfb52d",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "buttonBackgroundColor": "transparent",
+                                                "text": "Button",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "153034e",
+                                "columnWidth": 25,
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "600184e",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-6/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380,
+                                        "imageHeight": 350,
+                                        "imageHeightMobile": 240
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "86a68b5"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "615207e",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "buttonBackgroundColor": "transparent",
+                                                "text": "Button",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "be37dea",
+                                "columnWidth": 25,
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "330a7f5",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-6/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380,
+                                        "imageHeight": 350,
+                                        "imageHeightMobile": 240
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "8ccbb24"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "0b754e7",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "buttonBackgroundColor": "transparent",
+                                                "text": "Button",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

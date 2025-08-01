@@ -1,0 +1,127 @@
+{
+    "id": "section-speck-hero-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8637846",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "columnGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4ee821d",
+                "blockMargin": {
+                    "top": "",
+                    "right": -300,
+                    "bottom": "",
+                    "left": ""
+                },
+                "containerVerticalAlign": "center",
+                "zIndex": 2,
+                "columnSpacing": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockMarginMobile": {
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "4780c94",
+                        "blockMargin": {
+                            "right": -100,
+                            "bottom": 64,
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 80,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "900",
+                        "textShadow": "6px 6px 4px rgba(120, 120, 120, 0.2)",
+                        "text": "<span style=\"color: #FFFFFF\" class=\"stk-highlight\">We Design</span><span style=\"color: #25e0f4\" class=\"stk-highlight\"> </span><span style=\"color: #FFFFFF;background: linear-gradient(to bottom, transparent 50%, #25e0f4 50%)\" class=\"stk-highlight\">Impactful Digital Products.</span>",
+                        "textTag": "h1",
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": 8,
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "dfc0e7b",
+                        "blockWidth": 450,
+                        "contentAlign": "left",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "1a06c70",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "8fc719a",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ffe923",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#1b36d1",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "304d4ac",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-hero-2/322c9050c2e1.jpg",
+                "containerHeight": 700,
+                "hideMobile": true
+            },
+            []
+        ]
+    ]
+}

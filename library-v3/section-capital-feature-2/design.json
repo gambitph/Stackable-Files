@@ -1,0 +1,102 @@
+{
+    "id": "section-capital-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "5132852",
+        "hasBackground": true,
+        "blockBackgroundColor": "#313131",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "slant-1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "23499ae",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "042dae3",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-capital-feature-2/30f238ecea62.png",
+                        "imageId": 1585,
+                        "imageWidthAttribute": 500,
+                        "imageHeightAttribute": 500,
+                        "imageHeight": 500,
+                        "imageWidth": 500,
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1fbf465",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "39b8621",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "fontSize": 48,
+                        "fontFamily": "IBM Plex Sans",
+                        "fontWeight": "400",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Corporate Office"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "602dfce",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "e74ec53"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "cb6d778",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#9b51e0",
+                                "fontFamily": "IBM Plex Sans",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

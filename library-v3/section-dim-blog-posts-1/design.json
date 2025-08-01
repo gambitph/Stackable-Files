@@ -1,0 +1,122 @@
+{
+    "id": "section-dim-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "582d97f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockFixedBackground": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1ff1b43"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9d44a8d",
+                        "columnGap": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ea8fb9c",
+                                "contentAlign": "right"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "35a16f9",
+                                        "fontSize": 16,
+                                        "fontFamily": "Sans-Serif",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for this block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8a91887",
+                                        "fontFamily": "Roboto",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Blog Post 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5c7a2c3",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "8cf1e7a"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "8765f0a",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#FFFFFF",
+                                                "fontSize": 18,
+                                                "fontFamily": "Sans-Serif",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Read More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "280f04d"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "9fdf594",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-blog-posts-1/50ad44a63241.jpg",
+                                        "imageId": 2310,
+                                        "imageWidthAttribute": 668,
+                                        "imageHeightAttribute": 1000
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

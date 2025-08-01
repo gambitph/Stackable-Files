@@ -1,0 +1,97 @@
+{
+    "id": "section-lush-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ce06190",
+        "hasBackground": true,
+        "blockBackgroundColor": "#eeeeee",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-metric-1/2fc11cd8807d.jpg",
+        "blockBackgroundPosition": "bottom center",
+        "blockBackgroundColorOpacity": 0.8,
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "62f625a"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "bc8a4a0",
+                        "fontSize": 120,
+                        "fontFamily": "Lora",
+                        "fontWeight": "300",
+                        "textColor1": "#66826b",
+                        "text": "01",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "71704d0",
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "text": "Number Box 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "beb83a4",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "69628da"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "aea1f81",
+                        "fontSize": 120,
+                        "fontFamily": "Lora",
+                        "fontWeight": "300",
+                        "textColor1": "#66826b",
+                        "text": "02",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d89e350",
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "text": "Number Box 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7490f8e",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

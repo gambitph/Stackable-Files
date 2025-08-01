@@ -1,0 +1,177 @@
+{
+    "id": "section-prism-image-gallery",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "9a00b06",
+        "blockBackgroundColor": "transparent",
+        "blockHorizontalAlign": "center",
+        "blockMargin": {
+            "bottom": 80
+        },
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/9665ae6c7781.png",
+        "containerFixedBackground": false,
+        "containerWidth": 100,
+        "containerHorizontalAlign": "center",
+        "containerPadding": {
+            "top": 240,
+            "right": "",
+            "bottom": 240,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "blockMarginMobile": {
+            "bottom": 32
+        },
+        "containerWidthUnit": "%",
+        "containerPaddingTablet": {
+            "top": 56,
+            "right": "",
+            "bottom": 56,
+            "left": ""
+        },
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "bdb0e99",
+                "text": "Product Showcase",
+                "fontSizeMobile": 24,
+                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-product-showcase-span"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "20976db",
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "text": "<span class=\"stk-highlight\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc.</span>"
+            },
+            []
+        ],
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "3b3a90c",
+                "blockMargin": {
+                    "bottom": 32
+                }
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "c9909e5"
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "b095cc0"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "4a59de2"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "a33f8c5",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/9a4b852ebb44.png",
+                                                "imageId": 3646,
+                                                "imageWidthAttribute": 577,
+                                                "imageHeightAttribute": 644
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "cf9f9d0"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "598966e",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/cdf1fb4368aa.png",
+                                                "imageId": 3647,
+                                                "imageWidthAttribute": 577,
+                                                "imageHeightAttribute": 644
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "48ab4ce"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "6bfee91",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/d9966e013120.png",
+                                                "imageId": 3648,
+                                                "imageWidthAttribute": 577,
+                                                "imageHeightAttribute": 644
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "adf7bce",
+                "blockHorizontalAlign": "center",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "350453a"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "a5e8837",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderRadius": 50,
+                        "text": "Check it Out"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

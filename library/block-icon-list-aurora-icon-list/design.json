@@ -1,0 +1,24 @@
+{
+    "id": "block-icon-list-aurora-icon-list",
+    "name": "ugb/icon-list",
+    "attributes": {
+        "text": "<li>This is the space for List Item 1</li><li>Yet another space for List Item 2</li><li>This is the space for another List Item 3</li><li>This space is for List Item 4</li>",
+        "gap": 20,
+        "paddingRight": 0,
+        "paddingLeft": 0,
+        "tabletPaddingRight": 24,
+        "tabletPaddingLeft": 24,
+        "paddingUnit": "%",
+        "blockHeightUnit": "vh",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundBackgroundTintStrength": 5,
+        "showBlockTitle": true,
+        "blockTitle": "Upgraded Features",
+        "blockTitleBottomMargin": 24,
+        "blockDescription": "",
+        "contentAlign": "left"
+    }
+}

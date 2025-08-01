@@ -1,0 +1,52 @@
+{
+    "id": "section-dim-heading-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f6bf93d",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-heading-1/de7747cafb92.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 300,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "31d4536"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c60d615",
+                        "fontSize": 64,
+                        "fontFamily": "Roboto",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Advanced Heading",
+                        "showTopLine": true,
+                        "topLineColor": "#FFFFFF"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "86142dd",
+                        "fontSize": 18,
+                        "fontFamily": "Sans-Serif",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

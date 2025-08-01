@@ -1,0 +1,75 @@
+{
+    "id": "section-chic-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "71f7309",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-hero-1/a04b846c7e08.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "containerBackgroundColorType": "gradient",
+        "containerBackgroundColor": "#f28e18",
+        "containerBackgroundColor2": "#ffa1df",
+        "containerBackgroundGradientDirection": 320,
+        "containerHeight": 600,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "a3e0fe9",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "fontSize": 64,
+                "fontFamily": "DM Serif Display",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "We are Committed to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "28f099b",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2669b2c"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "349c757",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColor1": "#f28e18",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

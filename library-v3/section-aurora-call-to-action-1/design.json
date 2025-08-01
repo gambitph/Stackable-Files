@@ -1,0 +1,68 @@
+{
+    "id": "section-aurora-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "865f35d",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-call-to-action-1/b8e111cce88e.jpg",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "d9db731",
+                "fontSize": 48,
+                "fontFamily": "Poppins",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Great Experience Awaits",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "d6fcf1c",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "385cd5f"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "d97447f",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontFamily": "Poppins",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Sign Up",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

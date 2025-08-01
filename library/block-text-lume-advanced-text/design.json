@@ -1,0 +1,31 @@
+{
+    "id": "block-text-lume-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "design": "side-title-2",
+        "columns": 2,
+        "showColumnRule": true,
+        "columnRuleColor": "#6d6d6d",
+        "columnRuleHeight": 64,
+        "showTitle": true,
+        "titleTag": "h3",
+        "title": "Learn<br>from the<br>Greatest",
+        "titleColor": "#ffffff",
+        "titleVerticalAlign": "flex-end",
+        "subtitle": "",
+        "text2": "Description for this block. Use this space for describing your block. Any text will do. Description for this block.",
+        "text3": "",
+        "text4": "",
+        "textColor": "#ffffff",
+        "marginUnit": "%",
+        "paddingTop": 15,
+        "paddingRight": 15,
+        "paddingLeft": 15,
+        "paddingUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "noPaddings": false,
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-52097, #111111)"
+    }
+}

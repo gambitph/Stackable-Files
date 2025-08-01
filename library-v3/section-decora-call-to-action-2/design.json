@@ -1,0 +1,59 @@
+{
+    "id": "section-decora-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "043999b",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-call-to-action-2/c241b0fe6507.jpg",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "2a6a191",
+                "fontSize": 56,
+                "fontFamily": "Nixie One",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "dd9eddf",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "c67179a"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "c1b6092",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#fda939",
+                        "fontSize": 18,
+                        "fontFamily": "Ledger",
+                        "text": "See More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

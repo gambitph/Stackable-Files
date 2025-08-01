@@ -1,0 +1,131 @@
+{
+    "id": "section-wireframes-table-of-contents-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "895cfc6",
+        "align": "center"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6f250fa"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "aecd609",
+                        "text": "Table of Contents",
+                        "textTag": "h4",
+                        "anchor": "table-of-contents"
+                    },
+                    []
+                ],
+                [
+                    "stackable/table-of-contents",
+                    {
+                        "uniqueId": "b199a15",
+                        "text": "<li><a href=\"#introduction\">Introduction</a></li><li><a href=\"#chapter-1-abstract\">Chapter 1: Abstract</a></li><li><a href=\"#chapter-2-history\">Chapter 2: History</a></li><li><a href=\"#chapter-3-main-content\">Chapter 3: Main Content</a></li><li><a href=\"#chapter-4-additional-thoughts\">Chapter 4: Additional Thoughts</a></li><li><a href=\"#conclusion\">Conclusion</a></li>",
+                        "listType": "unordered",
+                        "headings": [
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "e275ff32-944d-46f7-8970-6a9c62518543",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "9786aa63-d9ac-4359-a9bd-e02dd6858662",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "This Is the Title of Your Blog Post",
+                                "level": 1,
+                                "anchor": "this-is-the-title-of-your-blog-post",
+                                "clientId": "dbf1f419-b7f5-4e91-b829-89c6a5e5ba11",
+                                "tag": 1,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "df382ad9-8ec3-4e08-8cc0-061005baac5a",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "aecd609d-5f6b-4f8f-bf1e-c5c43a319ea2",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Introduction",
+                                "level": 2,
+                                "anchor": "introduction",
+                                "clientId": "080137e6-f390-4181-a5b2-1df023f487f4",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Chapter 1: Abstract",
+                                "level": 2,
+                                "anchor": "chapter-1-abstract",
+                                "clientId": "06874441-0e66-4afc-a5de-5d0119d05351",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Chapter 2: History",
+                                "level": 2,
+                                "anchor": "chapter-2-history",
+                                "clientId": "933105a0-9296-4823-a3a9-b9c6b885b5b5",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Chapter 3: Main Content",
+                                "level": 2,
+                                "anchor": "chapter-3-main-content",
+                                "clientId": "0b927ecc-6c9a-4b5b-a6aa-b4c3aca44801",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Chapter 4: Additional Thoughts",
+                                "level": 2,
+                                "anchor": "chapter-4-additional-thoughts",
+                                "clientId": "e810f700-9cb1-48c8-8672-7d355febfbef",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Conclusion",
+                                "level": 2,
+                                "anchor": "conclusion",
+                                "clientId": "7e9391e3-4270-40b2-85a1-59b75f70f15e",
+                                "tag": 2,
+                                "isExcluded": false
+                            }
+                        ],
+                        "includeH3": false,
+                        "includeH4": false,
+                        "includeH5": false,
+                        "includeH6": false
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

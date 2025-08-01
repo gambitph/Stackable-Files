@@ -1,0 +1,456 @@
+{
+    "id": "section-prime-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "52f5f4a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-pricing-1/5dd46494fb3b.jpg",
+        "blockBackgroundTintStrength": 6,
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": 29
+        },
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "25d6a75"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9ce2997",
+                        "fontSize": 56,
+                        "fontFamily": "Inter",
+                        "fontWeight": "200",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subscription Fee"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "6621812",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7d5642c"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8bed809"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "e438fe2",
+                                        "containerBackgroundColor": "#000000",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "eb1c43d",
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Monthly",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "fa98c66"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "6e2f8c1",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "3dd1908",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "500",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "29",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "e2523b3",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "8898fd9",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Tax Included"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "62fb995"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "df65be6",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#0693e3",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Buy Now",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "20d96da",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9af9ff8"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "a25b3d8",
+                                        "containerBackgroundColor": "#000000",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "0680730",
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Annual",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "5c28e12"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "d1d56f9",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "8e0df11",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "500",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "199",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ebe5317",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "3008830",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Tax Included"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "6174338"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "2238ca1",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#0693e3",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Buy Now",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "e47811c",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e609f68"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "c1851f6",
+                                        "containerBackgroundColor": "#000000",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "700dfc1",
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Lifetime",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "b72fc24"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "755c1fc",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "981166c",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "500",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "299",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "8ffc444",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "9f3bce1",
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Tax Included"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "f5b550c"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "19e8475",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#0693e3",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Buy Now",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "53be407",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

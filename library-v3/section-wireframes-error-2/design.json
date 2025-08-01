@@ -1,0 +1,113 @@
+{
+    "id": "section-wireframes-error-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "09a52f2",
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "39d3f52"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c295a3a",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-error-2/35bc50f9a19b.png",
+                        "imageId": 162,
+                        "imageWidthAttribute": 640,
+                        "imageHeightAttribute": 640,
+                        "imageHeightTablet": 480,
+                        "imageHeightMobile": 300,
+                        "imageWidthTablet": 100
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d845531",
+                "blockWidth": 480,
+                "blockMargin": {
+                    "top": 64,
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockMarginMobile": {
+                    "top": 0,
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "9f5024d",
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7e4cc02",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Error Page",
+                        "fontSizeTablet": 48,
+                        "anchor": "title-for-this-error-page"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "807c48d",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "fa5c780"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "843fa0c",
+                                "text": "Go back to Homepage"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "69fe35b",
+                                "blockHorizontalAlign": "flex-start",
+                                "text": "Contact Us"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

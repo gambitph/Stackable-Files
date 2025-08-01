@@ -1,0 +1,23 @@
+{
+    "id": "block-feature-detour-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageColumnWidth": 62,
+        "imageColumnTabletWidth": 55,
+        "invert": true,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-detour-feature/image-url.jpg",
+        "imageId": 15,
+        "imageWidth": 800,
+        "imageHeight": 533,
+        "imageSquare": false,
+        "title": "EXPLORE NEW PLACES",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Book Now",
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-49985, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-54427, #eb5757)",
+        "buttonBorderRadius": 0,
+        "align": "wide",
+        "tabletContentAlign": "center"
+    }
+}

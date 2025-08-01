@@ -1,0 +1,273 @@
+{
+    "id": "section-wireframes-feature-10",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4b5124e",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": 116
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bf0f73c"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "74c4143",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "767c477",
+                        "blockWidth": 480,
+                        "blockHorizontalAlign": "center",
+                        "blockMargin": {
+                            "bottom": 50
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d4070cd",
+                        "columnGap": 24,
+                        "blockPaddingTablet": {
+                            "top": 16,
+                            "right": 16,
+                            "bottom": 16,
+                            "left": 16
+                        },
+                        "rowGapTablet": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "66f4788",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#ffffff",
+                                "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnAdjacentCount": 6,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "22dafac",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "6c26a6c",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor ",
+                                        "textTag": "h5",
+                                        "anchor": "lorem-ipsum-dolor"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "68cec73",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2efe413",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#ffffff",
+                                "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnAdjacentCount": 6,
+                                "positionNum": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": -40,
+                                    "left": ""
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1,
+                                "positionNumTablet": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 0,
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "181a48a",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a702cbb",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor ",
+                                        "textTag": "h5",
+                                        "anchor": "lorem-ipsum-dolor"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "47ca27b",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "57ecab6",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#ffffff",
+                                "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnAdjacentCount": 6,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "aad0676",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "e436b73",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor ",
+                                        "textTag": "h5",
+                                        "anchor": "lorem-ipsum-dolor"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "aad3dbe",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "30b69bf",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#ffffff",
+                                "blockShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnAdjacentCount": 6,
+                                "positionNum": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": -40,
+                                    "left": ""
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1,
+                                "positionNumTablet": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 0,
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "dabd99f",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "4abafd4",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor ",
+                                        "textTag": "h5",
+                                        "anchor": "lorem-ipsum-dolor"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1745b76",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

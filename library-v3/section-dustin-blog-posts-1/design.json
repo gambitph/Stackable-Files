@@ -1,0 +1,245 @@
+{
+    "id": "section-dustin-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a4e09c1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "300efe1"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "eb4c1f2",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-blog-posts-1/e222117ff924.jpg",
+                        "imageId": 2195,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 1200,
+                        "imageHeight": 500
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5f9de03",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Blog Post 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5d929e4",
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColor1": "#ffbe75",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5d5ecb9",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum morbi blandit cursus risus at ultrices mi tempus."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "7668ed0"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "1255625",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffbe75",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Read More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b6ae84c"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "5485d55",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-blog-posts-1/82945aa203bd.jpg",
+                        "imageId": 2196,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 1200,
+                        "imageHeight": 500
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d7acb32",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Blog Post 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "dd0f414",
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColor1": "#ffbe75",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "84c3200",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum morbi blandit cursus risus at ultrices mi tempus."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "ff6a95d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "1f0f4ad",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffbe75",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Read More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e3584f2"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "cb69d10",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-blog-posts-1/df6a25291538.jpg",
+                        "imageId": 2197,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 1200,
+                        "imageHeight": 500
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9ef65f4",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Blog Post 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "9fbf006",
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColor1": "#ffbe75",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "255362d",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum morbi blandit cursus risus at ultrices mi tempus."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "411c858"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "11d2a9e",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffbe75",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Read More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

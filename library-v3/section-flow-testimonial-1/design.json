@@ -1,0 +1,355 @@
+{
+    "id": "section-flow-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4b36b25",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/79a375a5c53f.png",
+        "blockFixedBackground": true,
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0c8dc29"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "8a62c8f",
+                        "customAttributes": [],
+                        "contentAlign": "center",
+                        "fontFamily": "Space Grotesk",
+                        "fontWeight": "bold",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "00a1fe0",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Hear From Our Customers",
+                        "anchor": "no-need-to-take-our-word-for-it"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a0407f1"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e8b93a7",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d47378d",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/ae48a403f117.png",
+                                        "imageId": 2413,
+                                        "imageWidthAttribute": 240,
+                                        "imageHeightAttribute": 100,
+                                        "imageWidth": 50
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "08a1d10",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis. Aliquam venenatis volutpat scelerisque."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "2e5f2b9",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/5f020082f16f.jpg",
+                                        "imageId": 1999,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "9cb8c06",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Natalie Thompson",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "f1bdc96",
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Flex studios CEO"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "617d5b2",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "be1a59c",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/8578867fb20b.png",
+                                        "imageId": 2415,
+                                        "imageWidthAttribute": 240,
+                                        "imageHeightAttribute": 100,
+                                        "imageWidth": 50
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5b5b6ed",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis. Aliquam venenatis volutpat scelerisque."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "ba262c3",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/69e563c569bd.jpg",
+                                        "imageId": 1503,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "imageFocalPoint": {
+                                            "x": "0.42",
+                                            "y": "0.11"
+                                        },
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "7e51611",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Richard Diaz",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "4752796",
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Bean Coffee HR Officer"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "04ed692",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "25c16b7",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/59884de0ef8c.png",
+                                        "imageId": 2414,
+                                        "imageWidthAttribute": 240,
+                                        "imageHeightAttribute": 100,
+                                        "imageWidth": 50
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2aa5a89",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis. Aliquam venenatis volutpat scelerisque."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "359f05f",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-testimonial-1/0e5f580f1445.jpg",
+                                        "imageId": 1054,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "4815b9e",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "March Miranda",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5cc9d4a",
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Detour tours Co-founder"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

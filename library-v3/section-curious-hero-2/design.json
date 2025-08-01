@@ -1,0 +1,189 @@
+{
+    "id": "section-curious-hero-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ed4f5fe",
+        "hasBackground": true,
+        "blockBackgroundColor": "#93d0e2",
+        "columnGap": 40,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d90c537",
+                "containerVerticalAlign": "center",
+                "columnWidth": 40,
+                "columnAdjacentCount": 3
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "2801cd5",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#ffffff",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "#000000",
+                        "blockPadding": {
+                            "top": 24,
+                            "right": 24,
+                            "bottom": 24,
+                            "left": 24
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e73e4c0"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "83c1a08",
+                                        "blockMargin": {
+                                            "bottom": 8
+                                        },
+                                        "textColorClass": "has-foreground-color",
+                                        "textColor1": "#000000",
+                                        "text": "COMMUNICATION DESIGNER"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a2e0913",
+                                        "blockMargin": {
+                                            "bottom": 56
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "<strong>Heidi Lucas</strong>",
+                                        "textTag": "h1",
+                                        "fontSizeMobile": 28,
+                                        "anchor": "strong-heidi-lucas-strong"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "1c99e0b",
+                                        "blockMargin": {
+                                            "bottom": 56
+                                        },
+                                        "contentAlign": "left",
+                                        "color": "#fcc6df",
+                                        "className": "is-style-dots"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "f6d3373",
+                                        "blockMargin": {
+                                            "bottom": 56
+                                        },
+                                        "textColorClass": "has-foreground-color",
+                                        "textColor1": "#000000",
+                                        "text": "I help brands deliver their branding and messaging to their target demographic",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "1dc128c"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "432a53d",
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "Talk to Me"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1ba73b4",
+                "containerVerticalAlign": "flex-end",
+                "columnWidth": 44.999999999999986,
+                "columnAdjacentCount": 3,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3231639",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-hero-2/67c6d83c9f42.png",
+                        "imageId": 988,
+                        "imageWidthAttribute": 937,
+                        "imageHeightAttribute": 797,
+                        "positionNum": {
+                            "top": 24,
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a84ebe9",
+                "columnWidth": 15,
+                "columnAdjacentCount": 3
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "dc0b87c",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-hero-2/388165923024.png",
+                        "imageId": 991,
+                        "imageWidthAttribute": 215,
+                        "imageHeightAttribute": 215,
+                        "imageHeight": 120,
+                        "imageWidth": 120,
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

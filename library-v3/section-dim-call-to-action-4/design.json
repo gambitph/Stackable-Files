@@ -1,0 +1,93 @@
+{
+    "id": "section-dim-call-to-action-4",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "99e4973",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-call-to-action-4/f55866ee8672.jpg",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "157f330"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "826e52e",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "35db84e",
+                                "fontSize": 48,
+                                "fontFamily": "Roboto",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Minimalist Movement",
+                                "textTag": "h3"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "083070c",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "6f28f87",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "aa5c610"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "550de27",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#FFFFFF",
+                                        "fontSize": 18,
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Button Text"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "section-hue-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "17147c3",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5912911"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b93868a",
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Karla",
+                        "fontWeight": "bold",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "About Us"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c41a34e"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0adfd42",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.  Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4569116"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "c16cc76",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#00e0ff",
+                                "fontSize": 18,
+                                "fontFamily": "Inconsolata",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

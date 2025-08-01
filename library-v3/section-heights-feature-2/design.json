@@ -1,0 +1,265 @@
+{
+    "id": "section-heights-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "95d5210",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "dbcc706"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "a148d4b",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "Feature Grid Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "028cfac",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/feature-grid",
+                    {
+                        "uniqueId": "5d696b9",
+                        "innerBlockContentAlign": "alignwide",
+                        "align": "full",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3cfd10d",
+                                "hasContainer": true,
+                                "containerBorderRadius": 20,
+                                "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "ab1e781",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-feature-2/b26f52458dcb.jpg",
+                                        "imageId": 2210,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 600
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "bf4db99",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for This Block",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "7f0464f",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "414e91e"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "cc5ec1e",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#313131",
+                                                "fontSize": 18,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8195771",
+                                "hasContainer": true,
+                                "containerBorderRadius": 20,
+                                "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5a932e4",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-feature-2/8546379a6bea.jpg",
+                                        "imageId": 2211,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 600
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0ae6fcd",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for This Block",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "fd73f5e",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "354d07c"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "75e5f26",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#313131",
+                                                "fontSize": 18,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e40a05c",
+                                "hasContainer": true,
+                                "containerBorderRadius": 20,
+                                "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "7a73930",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-feature-2/06583b39fc85.jpg",
+                                        "imageId": 2213,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 600
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "41aea73",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for This Block",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0bf0788",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "8516425"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "80fae6d",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#313131",
+                                                "fontSize": 18,
+                                                "fontFamily": "Inter",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

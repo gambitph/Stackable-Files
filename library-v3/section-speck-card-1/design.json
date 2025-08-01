@@ -1,0 +1,122 @@
+{
+    "id": "section-speck-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "72a4302",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c755e43"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "3606e79",
+                        "fontSize": 64,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "900",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9da6143",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "11c593e"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f199e41",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#1b36d1",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-card-1/8dcd4f84dcd4.jpg",
+                                "containerBackgroundTintStrength": 6,
+                                "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "02358ec",
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Card Block Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "700b6ab",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "70e5787"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "d1b555d",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#ffe923",
+                                                "fontSize": 18,
+                                                "fontFamily": "DM Sans",
+                                                "textColor1": "#1b36d1",
+                                                "text": "Read More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

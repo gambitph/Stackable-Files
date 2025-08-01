@@ -1,0 +1,174 @@
+{
+    "id": "section-wireframes-testimonial-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e940361",
+        "columnGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e995aac"
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "8a58ca1",
+                        "contentAlign": "center",
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"quote-right\" class=\"svg-inline--fa fa-quote-right fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z\"></path></svg>"
+                    },
+                    []
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "9824ac7",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "387c8a7",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "ba20be5",
+                                "textRemoveTextMargins": true,
+                                "text": "Name",
+                                "textTag": "h3",
+                                "anchor": "name"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "64e519b",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d11ed78"
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "1fb3d6a",
+                        "contentAlign": "center",
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"quote-right\" class=\"svg-inline--fa fa-quote-right fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z\"></path></svg>"
+                    },
+                    []
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "c34dc81",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "bcc7724",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "be69916",
+                                "textRemoveTextMargins": true,
+                                "text": "Name",
+                                "textTag": "h3",
+                                "anchor": "name"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "61ff2a2",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "897ba91"
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "fb90c53",
+                        "contentAlign": "center",
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"quote-right\" class=\"svg-inline--fa fa-quote-right fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z\"></path></svg>"
+                    },
+                    []
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "5bbda26",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "32bd72b",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "53f106c",
+                                "textRemoveTextMargins": true,
+                                "text": "Name",
+                                "textTag": "h3",
+                                "anchor": "name"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "ffccfbf",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "section-wireframes-call-to-action-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7a583b3",
+        "hasBackground": true,
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 64,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "418d665",
+                "columnWidth": 60,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3d5e624",
+                        "textRemoveTextMargins": false,
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0b49d99",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi.  Vivamus at lacinia elit. Phasellus at faucibus lacus. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "64f754b"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "d4c3025",
+                                "text": "Button Text"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e94fc23",
+                "containerVerticalAlign": "center",
+                "columnWidth": 40,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "c1c0b5f",
+                        "text": "<li>Lorem ipsum dolor</li><li>Sit amet consectetuer</li><li>Elit sed</li><li>Diam nonummy nibh</li><li>Tincidunt ut</li>"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "id": "section-speck-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "738d19b",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "968df9c"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "bb4e787",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "790d167",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#1b36d1",
+                                "blockShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-790d167.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "189c5f8",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "654c005"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "59a975e",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-testimonial-1/cc8c8e0b6f68.jpg",
+                                                "imageId": 1791,
+                                                "imageWidthAttribute": 591,
+                                                "imageHeightAttribute": 591,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2cbb9e9",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "e0d33fa",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Work Sans",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "3c7210a",
+                                                "fontSize": 16,
+                                                "fontFamily": "DM Sans",
+                                                "textTransform": "uppercase",
+                                                "textColor1": "#25e0f4",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8c37e31"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "48e3707",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "1713edf",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#1b36d1",
+                                "blockShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-1713edf.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "bbb8e24",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "54196a4"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "e708f82",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-testimonial-1/dde6dbdea8ac.jpg",
+                                                "imageId": 1601,
+                                                "imageWidthAttribute": 1200,
+                                                "imageHeightAttribute": 800,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "e7f7677",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "6916d2e",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Work Sans",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "98f8ecb",
+                                                "fontSize": 16,
+                                                "fontFamily": "DM Sans",
+                                                "textTransform": "uppercase",
+                                                "textColor1": "#25e0f4",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

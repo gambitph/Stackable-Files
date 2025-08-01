@@ -1,0 +1,30 @@
+{
+    "id": "block-header-seren-header",
+    "name": "ugb/header",
+    "attributes": {
+        "borderRadius": 0,
+        "shadow": 0,
+        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-seren-header/column-background-media-url.jpg",
+        "columnBackgroundTintStrength": 7,
+        "title": "REACH THE TOP",
+        "titleTag": "h1",
+        "titleMobileFontSize": 48,
+        "subtitle": "",
+        "showSubtitle": false,
+        "buttonFontFamily": "Poppins",
+        "buttonText": "SIGN UP",
+        "buttonNewTab": false,
+        "buttonDesign": "ghost",
+        "buttonBackgroundColor": "#ffffff",
+        "buttonBorderRadius": 0,
+        "buttonAlign": "right",
+        "button2Text": "",
+        "button2NewTab": false,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundBackgroundTintStrength": 0,
+        "contentAlign": "left"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "id": "section-elevate-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ddbf49b",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ae96eae",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-image-gallery-1/b3cacf3c5b3b.jpg",
+                "containerHeight": 300,
+                "containerVerticalAlign": "flex-end",
+                "blockBackgroundColorHover": "#000000"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "1ebff9c",
+                        "fontSize": 16,
+                        "fontFamily": "Lato",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ebba9cb",
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 1"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "828a58e",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-image-gallery-1/55d35227c31f.jpg",
+                "containerHeight": 300,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "blockBackgroundColorHover": "#000000"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6a1543a",
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Lato",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "e1551e2",
+                        "customAttributes": [],
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 2"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "section-dare-lists-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d41f7fd",
+        "hasBackground": true,
+        "blockBackgroundColor": "#FFFFFF",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-lists-1/64fccd54ed40.jpg",
+        "blockBackgroundTintStrength": 6,
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c901b7e"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7372a49",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "Experience the World"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ce35553",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "a6b3b75",
+                        "text": "<li>This is List Item 1</li><li>This is List Item 2</li><li>This is List Item 3</li><li>This is List Item 4</li><li>This is List Item 5</li><li>This is List Item 6</li>",
+                        "columns": 2,
+                        "icon": "<svg data-prefix=\"fas\" data-icon=\"plus-circle\" class=\"svg-inline--fa fa-plus-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z\"></path></svg>",
+                        "markerColor": "#f8bd01",
+                        "iconSize": 2
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "cdb35b4"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "017ba1e",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#f8bd01",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Reserve a Slot"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "block-icon-list-glow-icon-list",
+    "name": "ugb/icon-list",
+    "attributes": {
+        "icon": "<svg data-prefix=\"fas\" data-icon=\"plus-circle\" class=\"svg-inline--fa fa-plus-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z\"></path></svg>",
+        "iconColor": "var(--stk-global-color-17279, #d03dc6)",
+        "columns": 1,
+        "text": "<li>Use this space for the is List Item 1 for the Icon List</li><li>If you need space for Item 2, you can use this space</li><li>This space is for List Item 3 for the Icon List</li><li>This is the List Item 4 for the Icon List</li>",
+        "gap": 10,
+        "listTextColor": "var(--stk-global-color-24372, #ffffff)",
+        "paddingRight": 15,
+        "paddingLeft": 0,
+        "mobilePaddingRight": 10,
+        "paddingUnit": "%",
+        "mobilePaddingUnit": "%",
+        "blockWidth": 650,
+        "mobileBlockWidth": 80,
+        "mobileBlockWidthUnit": "%",
+        "blockHorizontalAlign": "flex-end",
+        "mobileBlockHorizontalAlign": "flex-end",
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-64736, #000000)",
+        "showBlockTitle": true,
+        "blockTitle": "Make the Experience Great",
+        "blockTitleColor": "#eeeeee",
+        "showBlockDescription": true,
+        "blockDescriptionBottomMargin": 35,
+        "blockDescriptionColor": "#eeeeee",
+        "contentAlign": "right"
+    }
+}

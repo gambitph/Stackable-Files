@@ -1,0 +1,66 @@
+{
+    "id": "section-bean-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "b2890cd",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-call-to-action-1/734903259c10.jpg",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "31e78ac",
+                "fontSize": 48,
+                "fontFamily": "Cardo",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Purchase a cup of coffee today",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "b28e63a",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "029e768"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "e1b7d38",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#b79066",
+                        "fontSize": 18,
+                        "fontFamily": "Source Sans Pro",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "id": "section-lush-metric-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7f972ec",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f8f8f5",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-metric-2/f2b18ed704f7.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "10941cf"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "628f819",
+                        "fontSize": 80,
+                        "fontFamily": "Lora",
+                        "textColor1": "#66826b",
+                        "text": "1,234.56"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "cd7d65d",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "fontSize": 32,
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "text": "Count Up 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "de8020f",
+                        "contentAlign": "left",
+                        "text": "Description for this block. Use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c8cd34c"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "067bc2b",
+                        "fontSize": 80,
+                        "fontFamily": "Lora",
+                        "textColor1": "#66826b",
+                        "text": "1,234.56"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "5122bb6",
+                        "fontSize": 32,
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "text": "Count Up 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "215aece",
+                        "contentAlign": "left",
+                        "text": "Description for this block. Use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1005dc7"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "b6341b8",
+                        "fontSize": 80,
+                        "fontFamily": "Lora",
+                        "textColor1": "#66826b",
+                        "text": "1,234.56"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "b6a3bd7",
+                        "fontSize": 32,
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "text": "Count Up 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f4b3131",
+                        "contentAlign": "left",
+                        "text": "Description for this block. Use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "id": "section-curious-hero-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f2b5cb4",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-hero-1/5b39e641ad84.png",
+        "blockHeight": 720,
+        "blockMargin": {
+            "bottom": 150
+        },
+        "rowAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "blockHeightMobile": 0,
+        "blockMarginTablet": {
+            "bottom": 100
+        },
+        "rowGapMobile": 0,
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b10bafc",
+                "containerPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "columnSpacing": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a9c4903",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#ffffff",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "#000000",
+                        "blockPadding": {
+                            "top": 24,
+                            "right": 24,
+                            "bottom": 24,
+                            "left": 24
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "127c507"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "8f8d36e",
+                                        "blockMargin": {
+                                            "bottom": 8
+                                        },
+                                        "textColorClass": "has-foreground-color",
+                                        "textColor1": "#000000",
+                                        "text": "COMMUNICATION DESIGNER"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "277fb1f",
+                                        "blockMargin": {
+                                            "bottom": 56
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "<strong>Heidi Lucas</strong>",
+                                        "textTag": "h1",
+                                        "fontSizeMobile": 28,
+                                        "anchor": "strong-heidi-lucas-strong"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "0faae56",
+                                        "blockMargin": {
+                                            "bottom": 56
+                                        },
+                                        "contentAlign": "left",
+                                        "color": "#fcc6df",
+                                        "className": "is-style-dots"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "fbfe488",
+                                        "blockMargin": {
+                                            "bottom": 56
+                                        },
+                                        "textColorClass": "has-foreground-color",
+                                        "textColor1": "#000000",
+                                        "text": "I help brands deliver their branding and messaging to their target demographic",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "9681a77"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "8263cb8",
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "Talk to Me"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1c6f672",
+                "containerHeight": 800,
+                "containerVerticalAlign": "flex-end",
+                "containerVerticalAlignMobile": "flex-start",
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "32e2f7e",
+                        "blockVerticalAlign": "flex-end",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-hero-1/4881e0714f00.png",
+                        "imageId": 636,
+                        "imageWidthAttribute": 576,
+                        "imageHeightAttribute": 612,
+                        "imageWidth": 80,
+                        "positionNum": {
+                            "top": 40,
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

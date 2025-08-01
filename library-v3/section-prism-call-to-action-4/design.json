@@ -1,0 +1,134 @@
+{
+    "id": "section-prism-call-to-action-4",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "d9b0865",
+        "hasBackground": true,
+        "blockBackgroundColor": "transparent",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-call-to-action-4/456fbeeee6a5.png",
+        "blockBackgroundSize": "auto",
+        "blockBackgroundCustomSize": 0,
+        "blockFixedBackground": true,
+        "blockHeight": 680,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "blockPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "containerBackgroundColor": "#ffffff",
+        "containerBackgroundColorOpacity": 0.6,
+        "containerBackgroundTintStrength": 5,
+        "containerBorderType": "solid",
+        "containerBorderColor": "#ffffff",
+        "containerBorderWidth": {
+            "top": 2,
+            "right": 2,
+            "bottom": 2,
+            "left": 2
+        },
+        "containerBorderRadius": 16,
+        "containerHorizontalAlign": "center",
+        "containerPadding": {
+            "top": 56,
+            "right": 56,
+            "bottom": 56,
+            "left": 56
+        },
+        "innerBlockContentAlign": "alignfull",
+        "blockHeightTablet": 480,
+        "containerPaddingTablet": {
+            "top": 56,
+            "right": "",
+            "bottom": 56,
+            "left": ""
+        },
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "84f543e",
+                "blockBorderRadius": 32,
+                "blockWidth": 648,
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "textRemoveTextMargins": false,
+                "textColorType": "gradient",
+                "textColorClass": "has-stk-global-color-1163-color",
+                "textColor1": "var(--stk-global-color-1163, #6ceaea)",
+                "textColor2": "var(--stk-global-color-70676, #bc4eff)",
+                "textGradientDirection": 110,
+                "text": "<span class=\"stk-highlight\">Changes for the Better.</span>",
+                "textTag": "h1",
+                "fontSizeMobile": 32,
+                "lineHeightMobile": 1.4,
+                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-changes-for-the-better-span"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "99a0854",
+                "blockWidth": 593,
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "contentAlign": "center",
+                "text": "<span class=\"stk-highlight\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc.</span>"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "50bedd8"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "143c359",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderType": "solid",
+                        "buttonBorderColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "buttonBorderRadius": 50,
+                        "iconColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                        "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                        "text": "<span style=\"color: #fffdfd\" class=\"stk-highlight\">Download Now</span>",
+                        "buttonBackgroundColorHover": "transparent",
+                        "buttonBackgroundColorParentHover": "transparent",
+                        "className": "is-style-ghost"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

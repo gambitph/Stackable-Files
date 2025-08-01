@@ -1,0 +1,48 @@
+{
+    "id": "section-dare-heading-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "77bf080",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b4cd214"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "cb5f201",
+                        "fontSize": 64,
+                        "fontFamily": "Poppins",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "<span style=\"color: #222222;background-color: #f8bd01\" class=\"stk-highlight\">Advanced Heading</span>",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "343a05e",
+                        "contentAlign": "center",
+                        "fontSize": 18,
+                        "fontFamily": "Poppins",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

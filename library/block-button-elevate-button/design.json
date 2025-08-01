@@ -1,0 +1,31 @@
+{
+    "id": "block-button-elevate-button",
+    "name": "ugb/button",
+    "attributes": {
+        "collapseOn": "mobile",
+        "showButton2": true,
+        "showButton3": true,
+        "button1FontFamily": "Lato",
+        "button1Text": "Sign Up",
+        "button1NewTab": false,
+        "button1BackgroundColor": "#313131",
+        "button1HoverEffect": "lift",
+        "button1BorderRadius": 100,
+        "button2FontFamily": "Lato",
+        "button2Text": "Log In",
+        "button2NewTab": false,
+        "button2Design": "ghost",
+        "button2BackgroundColor": "#313131",
+        "button2HoverEffect": "lift",
+        "button2BorderRadius": 100,
+        "button3FontFamily": "Lato",
+        "button3Text": "Subscribe",
+        "button3NewTab": false,
+        "button3Design": "plain",
+        "button3BackgroundColor": "#313131",
+        "button3HoverEffect": "lift",
+        "blockHeight": 15,
+        "blockHeightUnit": "vh",
+        "align": "center"
+    }
+}

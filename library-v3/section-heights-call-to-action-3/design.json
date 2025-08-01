@@ -1,0 +1,55 @@
+{
+    "id": "section-heights-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "a39aee8",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "ae6d258",
+                "blockWidth": 650,
+                "blockHorizontalAlign": "center",
+                "fontSize": 64,
+                "fontFamily": "Inter",
+                "fontWeight": "bold",
+                "textColor1": "#313131",
+                "text": "Join the Block Editor Revolution",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "401f214"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "036a8d1",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "fontSize": 18,
+                        "fontFamily": "Inter",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

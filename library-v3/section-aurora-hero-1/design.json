@@ -1,0 +1,70 @@
+{
+    "id": "section-aurora-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "4047ecd",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-hero-1/e375abcf8dea.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "slant-2",
+        "bottomSeparatorColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "eb889c6",
+                "fontSize": 64,
+                "fontFamily": "Poppins",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Way to Achieve Your Dream",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "ee3dcd4",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "47d09b9"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "41c6b74",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontFamily": "Poppins",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Explore",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

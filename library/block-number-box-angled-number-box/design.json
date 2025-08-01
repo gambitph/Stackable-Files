@@ -1,0 +1,30 @@
+{
+    "id": "block-number-box-angled-number-box",
+    "name": "ugb/number-box",
+    "attributes": {
+        "num1": "1",
+        "num2": "2",
+        "num3": "3",
+        "title1": "PROGRAMMING",
+        "title2": "DESIGNING",
+        "title3": "DEVELOPMENT",
+        "numberBGColor": "var(--stk-global-color-75345, #1d3b57)",
+        "columns": 3,
+        "design": "plain",
+        "numberStyle": "square",
+        "numberFontFamily": "Poppins",
+        "numberFontSize": 75,
+        "numberPadding": 1.6,
+        "titleTag": "h4",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "showBlockTitle": true,
+        "blockTitle": "THE DESIGN PROCESS",
+        "blockTitleBottomMargin": 30,
+        "blockTitleAlign": "center",
+        "blockTitleTag": "h2",
+        "blockDescription": "",
+        "contentAlign": "center"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "id": "section-dim-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "11076a2",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6a9f87b"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "8a6eb2c",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "5adc106",
+                                "fontFamily": "Roboto",
+                                "text": "Hear From Our Customers"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "c994e6f",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "3c9c47c",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-testimonial-1/a04d81226c5d.jpg",
+                                "imageId": 2303,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "e83b07a",
+                                "fontFamily": "Roboto",
+                                "textRemoveTextMargins": true,
+                                "text": "Margaret Ramsay",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "5ec6aa8",
+                                "fontSize": 16,
+                                "fontFamily": "Sans-Serif",
+                                "textTransform": "uppercase",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "id": "section-bloom-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6e288b7",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "62b2718",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7258ec2",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f3a04f7",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "var(--stk-global-color-34722, #b9d55f)",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerBackgroundColor": "var(--stk-global-color-46782, #6865aa)"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "7085d2e",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "c339030",
+                                                "textColor1": "#394415",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "6c1776b",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-testimonial-1/d952ab3afc99.jpg",
+                                                "imageId": 1502,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "1877f4c",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Courgette",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#394415",
+                                                "text": "Name",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "a1b0499",
+                                                "fontFamily": "Mulish",
+                                                "textColor1": "#394415",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "25c9a35",
+                                "hasBackground": true,
+                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-testimonial-1/c1c71e1a281a.jpg"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c82356a",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "var(--stk-global-color-91842, #b3b1e2)",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "63294a2",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "ceec553",
+                                                "textColor1": "#27236a",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "47748f1",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-testimonial-1/3dfb36b012e6.jpg",
+                                                "imageId": 1708,
+                                                "imageWidthAttribute": 640,
+                                                "imageHeightAttribute": 962,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "c09d5f0",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Courgette",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#27236a",
+                                                "text": "Name",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "147337e",
+                                                "fontFamily": "Mulish",
+                                                "textColor1": "#27236a",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a3806cb",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b5aa008",
+                                "hasBackground": true,
+                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-testimonial-1/d48a3c3a02da.jpg"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b2e47e5",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#e986a3",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerBackgroundColor": "var(--stk-global-color-46782, #6865aa)"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "2d3680c",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "c963bd6",
+                                                "textColor1": "#6e0a3d",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "a7cf2b9",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-testimonial-1/2008efa931f9.jpg",
+                                                "imageId": 1709,
+                                                "imageWidthAttribute": 640,
+                                                "imageHeightAttribute": 427,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "e74ddc0",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Courgette",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#6e0a3d",
+                                                "text": "Name",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "1e5d164",
+                                                "fontFamily": "Mulish",
+                                                "textColor1": "#6e0a3d",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0259373",
+                                "hasBackground": true,
+                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-testimonial-1/a60670a5f3db.jpg",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

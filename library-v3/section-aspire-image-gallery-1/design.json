@@ -1,0 +1,207 @@
+{
+    "id": "section-aspire-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cf7b5d5",
+        "hasBackground": true,
+        "blockBackgroundColor": "#091830",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ce9e21c",
+                "hasContainer": true,
+                "containerBackgroundColorType": "gradient",
+                "containerBackgroundColor": "#d3fc32",
+                "containerBackgroundColor2": "#4a5a11",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-image-gallery-1/c26754321ddb.jpeg",
+                "containerBackgroundTintStrength": 5,
+                "containerBackgroundGradientDirection": 240,
+                "containerHeight": 500,
+                "containerVerticalAlign": "center",
+                "containerBackgroundColorHover": "#d3fc32",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "515807e",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "fontWeight": "500",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "4c7b442",
+                        "fontFamily": "Archivo Black",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "8c9fdf7",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5a73729",
+                "hasContainer": true,
+                "containerBackgroundColorType": "gradient",
+                "containerBackgroundColor": "#d3fc32",
+                "containerBackgroundColor2": "#4a5a11",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-image-gallery-1/3fb63469eb57.jpeg",
+                "containerBackgroundTintStrength": 5,
+                "containerBackgroundGradientDirection": 240,
+                "containerHeight": 500,
+                "containerVerticalAlign": "center",
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#d3fc32",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "68cdc07",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "fontWeight": "500",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "13271cf",
+                        "fontFamily": "Archivo Black",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "61354b3",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "eb40fa3",
+                "hasContainer": true,
+                "containerBackgroundColorType": "gradient",
+                "containerBackgroundColor": "#d3fc32",
+                "containerBackgroundColor2": "#4a5a11",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-image-gallery-1/7291cd6753bc.jpeg",
+                "containerBackgroundTintStrength": 5,
+                "containerBackgroundGradientDirection": 240,
+                "containerHeight": 500,
+                "containerVerticalAlign": "center",
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#d3fc32",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "72e60fd",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "fontWeight": "500",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "573fb62",
+                        "fontFamily": "Archivo Black",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "caa1ea5",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

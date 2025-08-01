@@ -1,0 +1,190 @@
+{
+    "id": "section-wireframes-image-gallery-10",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "da4e513",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "123f993"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d5d2746",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b5d3482",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5ee18fd",
+                        "blockMargin": {
+                            "bottom": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "14abfff",
+                                "columnWidth": 25,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "0e689e6",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-10/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b302310",
+                                "columnWidth": 50.00000000000001,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "80b23ec",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-10/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0540186",
+                                "columnWidth": 25,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5ecdb7f",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-10/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "43a9665"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "dbdb17f",
+                                "columnWidth": 37.5,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "f68f109",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-10/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "be59bc4",
+                                "columnWidth": 25.000000000000007,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "506e734",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-10/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fc21d7a",
+                                "columnWidth": 37.5,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "835412a",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-10/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

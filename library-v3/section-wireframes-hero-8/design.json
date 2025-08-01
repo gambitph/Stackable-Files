@@ -1,0 +1,219 @@
+{
+    "id": "section-wireframes-hero-8",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ea4e8b7",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7fc6a5f",
+                "columnWidth": 35,
+                "columnAdjacentCount": 3,
+                "zIndex": 2,
+                "positionNum": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": 100
+                },
+                "positionNumTablet": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": 0
+                },
+                "positionNumMobile": {
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "183aadd",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-8/ee9b3bb1bcb9.png",
+                        "imageId": 891,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 578,
+                        "imageHeight": 240,
+                        "imageWidth": 240,
+                        "contentAlign": "left",
+                        "blockMarginTablet": {
+                            "bottom": 0
+                        },
+                        "imageWidthMobile": 100,
+                        "imageWidthUnit": "px",
+                        "positionNumTablet": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "f7c4a2e",
+                        "positionNum": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 100
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Hero Section",
+                        "textTag": "h1",
+                        "positionNumMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 0
+                        },
+                        "anchor": "title-for-this-hero-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9d52ef6",
+                        "positionNum": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 100
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit.",
+                        "positionNumMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 0
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "5d753e5",
+                        "positionNumMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "c0d94f7",
+                                "positionNum": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 100
+                                },
+                                "text": "Primary Button",
+                                "positionNumMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 0
+                                }
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3717761",
+                "columnWidth": 35.00000000000001,
+                "columnAdjacentCount": 3,
+                "positionNumTablet": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "fc75005",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-8/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2849646",
+                "columnWidth": 30,
+                "columnAdjacentCount": 3
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "b28da9a",
+                        "text": "Lorem ipsum dolor sit amet"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "4618e8d",
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "textTag": "h3",
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "f1e7385",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-8/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "zIndex": -1,
+                        "positionNum": {
+                            "top": -40,
+                            "right": "",
+                            "bottom": "",
+                            "left": 24
+                        }
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

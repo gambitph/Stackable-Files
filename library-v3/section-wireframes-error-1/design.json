@@ -1,0 +1,163 @@
+{
+    "id": "section-wireframes-error-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c7f77d4",
+        "blockMargin": {
+            "top": 100,
+            "right": "",
+            "bottom": 100,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1b514f2"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "0b31b87",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-error-1/fd87d60c2db1.png",
+                        "imageId": 149,
+                        "imageWidthAttribute": 380,
+                        "imageHeightAttribute": 380,
+                        "imageHeight": 400
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "56351ca",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Error Page",
+                        "anchor": "title-for-this-error-page"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "8bf759c",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "3eb7114",
+                        "blockMargin": {
+                            "bottom": 0
+                        },
+                        "contentAlign": "center",
+                        "text": "SUBTITLE FOR LINKS"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "d5d18c9",
+                        "contentAlign": "center",
+                        "columnGap": 50,
+                        "rowGap": 0,
+                        "flexWrapMobile": "wrap",
+                        "columnGapMobile": 50,
+                        "rowGapMobile": 8
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "400805f",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "text": "Link 1",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "8198a0d",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "text": "Link 2",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7a977ab",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "text": "Link 3",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "b21ae44",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "text": "Link 4",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

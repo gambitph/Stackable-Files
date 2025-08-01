@@ -1,0 +1,187 @@
+{
+    "id": "section-detour-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "dec1ea6",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b03f426"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "92c974f",
+                        "fontFamily": "Oswald",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "What We Have to Offer"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "dc5a9dc",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/feature-grid",
+                    {
+                        "uniqueId": "1957dcb",
+                        "innerBlockContentAlign": "alignwide",
+                        "align": "full",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1fcc621",
+                                "hasContainer": true,
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "a011fc1",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-service-1/6c1b2cf5ca67.png",
+                                        "imageId": 1663,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 500,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "c19a8fa",
+                                        "fontFamily": "Oswald",
+                                        "fontWeight": "bold",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "63e22c7",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "76bfc22",
+                                "hasContainer": true,
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "b1ddc72",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-service-1/8d9e94ff5a61.png",
+                                        "imageId": 1664,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 500,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "356e62a",
+                                        "fontFamily": "Oswald",
+                                        "fontWeight": "bold",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0298034",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f60d173",
+                                "hasContainer": true,
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "07b97e9",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-service-1/f98e1c0c434a.png",
+                                        "imageId": 1665,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 500,
+                                        "imageHeight": 64,
+                                        "imageWidth": 64,
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "072dd23",
+                                        "fontFamily": "Oswald",
+                                        "fontWeight": "bold",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "03e8eed",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

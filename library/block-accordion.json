@@ -1,0 +1,47 @@
+{
+  "block-accordion-dim-accordion": {
+    "id": "block-accordion-dim-accordion",
+    "name": "ugb/accordion",
+    "attributes": {
+      "borderRadius": 0,
+      "shadow": 0,
+      "reverseArrow": true,
+      "containerBackgroundColor": "#000000",
+      "title": "The Way to Achieve Your Dream",
+      "containerPaddingTop": 40,
+      "containerPaddingRight": 40,
+      "containerPaddingBottom": 40,
+      "containerPaddingLeft": 40,
+      "blockOpacity": 1
+    }
+  },
+  "block-accordion-elevate-accordion": {
+    "id": "block-accordion-elevate-accordion",
+    "name": "ugb/accordion",
+    "attributes": {
+      "borderRadius": 0,
+      "shadow": 2,
+      "title": "The Way to Achieve Your Dream",
+      "titleTag": "h4",
+      "blockHeightUnit": "vh",
+      "contentAlign": "left"
+    }
+  },
+  "block-accordion-lounge-accordion": {
+    "id": "block-accordion-lounge-accordion",
+    "name": "ugb/accordion",
+    "attributes": {
+      "design": "line-colored",
+      "borderRadius": 0,
+      "shadow": 6,
+      "title": "Accordion Title",
+      "titleFontFamily": "Playfair Display",
+      "titleLetterSpacing": 1.5,
+      "titleFontSize": 30,
+      "titleMobileFontSize": 25,
+      "titleColor": "#393f59",
+      "arrowColor": "#393f59",
+      "borderColor": "#d2b18e"
+    }
+  }
+}

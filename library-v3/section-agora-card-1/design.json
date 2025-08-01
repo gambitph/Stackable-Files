@@ -1,0 +1,538 @@
+{
+    "id": "section-agora-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ca5ef3c",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fff7f0",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a0cbaf5"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "2a46b1f",
+                        "blockWidth": 640,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 64,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 80,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "Our Properties",
+                        "showTopLine": true,
+                        "topLineHeight": 1,
+                        "topLineMargin": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5bd3b92",
+                        "columnGap": 24,
+                        "columnGapMobile": 16,
+                        "rowGapMobile": 16
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "597fc7c",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "9dea77a",
+                                        "containerBorderType": "solid",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-card-1/eb11061c17af.jpg",
+                                        "imageId": 1268,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1768,
+                                        "effectType": "entrance",
+                                        "effectEntrance": "translateY(70px)",
+                                        "effectAnimationIn": {
+                                            "translatey": 200
+                                        },
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "2049148",
+                                                "blockWidth": 640,
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Prata",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#000000",
+                                                "text": "Modern Loft in Naples, Italy",
+                                                "textTag": "h3",
+                                                "showTopLine": false,
+                                                "topLineMargin": 48
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "e890899",
+                                                "customAttributes": [],
+                                                "iconGap": 40
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "78d4a4e",
+                                                        "contentAlign": "left",
+                                                        "customAttributes": [],
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"map-marker-alt\" class=\"svg-inline--fa fa-map-marker-alt fa-w-12\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path fill=\"currentColor\" d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z\"></path></svg>",
+                                                        "iconColor1": "#c88445",
+                                                        "iconSize": 21
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "6c5c2d0",
+                                                        "customAttributes": [],
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "400",
+                                                        "hasP": true,
+                                                        "text": "3029 Hickory Drive, Naples",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "b95653b",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "10f4365",
+                                                        "fontSize": 21,
+                                                        "fontFamily": "Space Mono",
+                                                        "text": "Learn More",
+                                                        "textColor1Hover": "#c88445",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "891bfcb",
+                                        "containerBorderType": "solid",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-card-1/8e195ddfa34c.jpg",
+                                        "imageId": 1265,
+                                        "imageWidthAttribute": 1440,
+                                        "imageHeightAttribute": 2560,
+                                        "effectType": "entrance",
+                                        "effectEntrance": "translateY(70px)",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "0254fbe",
+                                                "blockWidth": 640,
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Prata",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#000000",
+                                                "text": "3-Bedroom Home in Germany",
+                                                "textTag": "h3",
+                                                "showTopLine": false,
+                                                "topLineMargin": 48
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "2c60df0",
+                                                "customAttributes": [],
+                                                "iconGap": 40
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "a30561b",
+                                                        "contentAlign": "left",
+                                                        "customAttributes": [],
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"map-marker-alt\" class=\"svg-inline--fa fa-map-marker-alt fa-w-12\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path fill=\"currentColor\" d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z\"></path></svg>",
+                                                        "iconColor1": "#c88445",
+                                                        "iconSize": 21
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "a285aee",
+                                                        "customAttributes": [],
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "400",
+                                                        "hasP": true,
+                                                        "text": "1783 Gartenstrasse, Dresden",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "2781914",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "cd7e101",
+                                                        "fontSize": 21,
+                                                        "fontFamily": "Space Mono",
+                                                        "text": "Learn More",
+                                                        "textColor1Hover": "#c88445",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0d09d1e",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/spacer",
+                                    {
+                                        "uniqueId": "1ee685f",
+                                        "heightMobile": 0
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "677e799",
+                                        "containerBorderType": "solid",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-card-1/607e33e51660.jpg",
+                                        "imageId": 1266,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1440,
+                                        "effectType": "entrance",
+                                        "effectEntrance": "translateY(70px)",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "100da38",
+                                                "blockWidth": 640,
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Prata",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#000000",
+                                                "text": "Cozy Apartment in France",
+                                                "textTag": "h3",
+                                                "showTopLine": false,
+                                                "topLineMargin": 48
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "d87c5ce",
+                                                "customAttributes": [],
+                                                "iconGap": 40
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "885e851",
+                                                        "contentAlign": "left",
+                                                        "customAttributes": [],
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"map-marker-alt\" class=\"svg-inline--fa fa-map-marker-alt fa-w-12\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path fill=\"currentColor\" d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z\"></path></svg>",
+                                                        "iconColor1": "#c88445",
+                                                        "iconSize": 21
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "92a0e8e",
+                                                        "customAttributes": [],
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "400",
+                                                        "hasP": true,
+                                                        "text": "5218 East Grand Avenue, Toulouse",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "6ceaae5",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "6b534f4",
+                                                        "fontSize": 21,
+                                                        "fontFamily": "Space Mono",
+                                                        "text": "Learn More",
+                                                        "textColor1Hover": "#c88445",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "80b6ac2",
+                                        "containerBorderType": "solid",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-card-1/a6c1b39cc24b.jpg",
+                                        "imageId": 1472,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1920,
+                                        "effectType": "entrance",
+                                        "effectEntrance": "translateY(70px)",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "67550f2",
+                                                "blockWidth": 640,
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Prata",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#000000",
+                                                "text": "Condominium in Lisbon, Portugal",
+                                                "textTag": "h3",
+                                                "showTopLine": false,
+                                                "topLineMargin": 48
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "dcb3331",
+                                                "customAttributes": [],
+                                                "iconGap": 40
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "0345458",
+                                                        "contentAlign": "left",
+                                                        "customAttributes": [],
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"map-marker-alt\" class=\"svg-inline--fa fa-map-marker-alt fa-w-12\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path fill=\"currentColor\" d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z\"></path></svg>",
+                                                        "iconColor1": "#c88445",
+                                                        "iconSize": 21
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "6b9960d",
+                                                        "customAttributes": [],
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "fontWeight": "400",
+                                                        "hasP": true,
+                                                        "text": "6319 Manchester Lane, Lisbon",
+                                                        "textTag": "h4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "133b088",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "0858bda",
+                                                        "fontSize": 21,
+                                                        "fontFamily": "Space Mono",
+                                                        "text": "Learn More",
+                                                        "textColor1Hover": "#c88445",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

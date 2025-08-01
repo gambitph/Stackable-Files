@@ -1,0 +1,75 @@
+{
+    "id": "section-peplum-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a2eecb1",
+        "hasBackground": true,
+        "blockBackgroundColor": "#b27197",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-text-1/dae6b72659ef.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockFixedBackground": true,
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c33b799"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ae5b2ac",
+                        "fontSize": 64,
+                        "fontFamily": "Yeseva One",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Advanced Text Block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0bee8d1"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "73d90c6",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5676d91"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "8f9ce27",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

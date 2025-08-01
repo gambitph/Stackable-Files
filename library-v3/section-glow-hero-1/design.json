@@ -1,0 +1,70 @@
+{
+    "id": "section-glow-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "cbd7a5a",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-hero-1/479b9e7b3248.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "72c05f1",
+                "fontSize": 72,
+                "fontFamily": "Ubuntu",
+                "fontWeight": "bold",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Be the Greatest",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "87fd4ee",
+                "blockWidth": 725,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "5a10d75"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "4bf4542",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColorType": "gradient",
+                        "buttonBackgroundColor": "#732fb7",
+                        "buttonBackgroundColor2": "#d03dc6",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Open Sans",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

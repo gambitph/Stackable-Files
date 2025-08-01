@@ -1,0 +1,25 @@
+{
+    "id": "block-blog-posts-propel-blog-post",
+    "name": "ugb/blog-posts",
+    "attributes": {
+        "design": "list",
+        "borderRadius": 0,
+        "imageHeight": 371,
+        "categoryFontFamily": "Nunito",
+        "categoryColor": "var(--stk-global-color-29206, #000000)",
+        "titleTag": "h5",
+        "titleColor": "var(--stk-global-color-29206, #000000)",
+        "excerptColor": "var(--stk-global-color-29206, #000000)",
+        "metaFontFamily": "Nunito",
+        "metaColor": "var(--stk-global-color-29206, #000000)",
+        "readmoreFontFamily": "Nunito",
+        "readmoreColor": "var(--stk-global-color-29206, #000000)",
+        "readmoreHoverColor": "var(--stk-global-color-87814, #fcb900)",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-41650, #ffffff)",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "block-feature-upland-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "design": "overlap-bg4",
+        "containerWidth": 650,
+        "containerOffset": 175,
+        "borderRadius": 0,
+        "shadow": 6,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-upland-feature/image-url.jpg",
+        "imageId": 68,
+        "imageWidth": 580,
+        "imageHeight": 387,
+        "imageBackgroundHeight": 690,
+        "title": "Best in the Metro",
+        "buttonFontFamily": "Lato",
+        "buttonText": "More",
+        "buttonNewTab": false,
+        "buttonSize": "small",
+        "buttonBackgroundColor": "#313131",
+        "buttonBorderRadius": 0,
+        "align": "wide"
+    }
+}

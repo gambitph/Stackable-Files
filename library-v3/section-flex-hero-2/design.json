@@ -1,0 +1,63 @@
+{
+    "id": "section-flex-hero-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "e9f7f40",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-hero-2/f9cf553c1ae8.jpg",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "rounded-3",
+        "bottomSeparatorInverted": true,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "a0250a5",
+                "fontSize": 72,
+                "fontFamily": "Poppins",
+                "fontStyle": "italic",
+                "fontWeight": "900",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Achieve Your Goal"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "aaed5a0"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "d092672",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#ff3737",
+                        "fontFamily": "Poppins",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

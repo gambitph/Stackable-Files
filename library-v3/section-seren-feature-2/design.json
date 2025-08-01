@@ -1,0 +1,162 @@
+{
+    "id": "section-seren-feature-2",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "f1de3ec",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "581b1e0"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "5b2de33",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-feature-2/1ebc6993203a.png",
+                        "imageId": 2057,
+                        "imageWidthAttribute": 150,
+                        "imageHeightAttribute": 150,
+                        "imageWidth": 10
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "690888d",
+                        "fontFamily": "Manrope",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Feature 1",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "24c0772",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "a9c0596"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "af9f879",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Learn More",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ad1c8f2"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "75d2201",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-feature-2/f0911f8122b8.png",
+                        "imageId": 2058,
+                        "imageWidthAttribute": 150,
+                        "imageHeightAttribute": 150,
+                        "imageWidth": 10
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7cbc006",
+                        "fontFamily": "Manrope",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Feature 2",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fe6ba25",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "6f87f5f"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "d1b26e3",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Learn More",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

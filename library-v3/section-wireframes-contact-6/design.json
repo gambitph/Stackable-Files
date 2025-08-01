@@ -1,0 +1,84 @@
+{
+    "id": "section-wireframes-contact-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "9a14187",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4aec870",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {}
+            },
+            [
+                [
+                    "stackable/map",
+                    {
+                        "uniqueId": "2a528ea",
+                        "usesApiKey": true
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a8ba43a",
+                "containerWidth": 480,
+                "containerVerticalAlign": "center",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {}
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d98d2b8",
+                        "text": "Contact Us",
+                        "anchor": "contact-us"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b72bdfe",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "0db3361"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "af3bdb0",
+                                "text": "Button Text"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "id": "section-yule-card-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d437873",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f6f6f6",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "646e8a5"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "0564f60",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "DM Serif Display",
+                        "textColor1": "#00473d",
+                        "text": "Related Articles",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "731d2b7",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6f9e16e"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "37880eb"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "24c5010",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-card-2/915522993671.jpg",
+                                        "imageId": 1280,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "6b5ca8f",
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Gift Ideas for Candle Lovers",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "505a3b0",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "9fccf60"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "a37a450",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#00c279",
+                                                        "buttonBorderRadius": 8,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Source Sans Pro",
+                                                        "text": "Read More",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7066d50"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "130f7a2",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-card-2/5aa3d5ad594b.jpg",
+                                        "imageId": 1281,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "905fc4a",
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Gift Ideas for Tea Lovers",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "401eb9e",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "752d3f9"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "75f3258",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#00c279",
+                                                        "buttonBorderRadius": 8,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Source Sans Pro",
+                                                        "text": "Read More",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

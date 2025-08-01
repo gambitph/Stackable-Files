@@ -1,0 +1,71 @@
+{
+    "id": "section-glow-testimonial-1",
+    "name": "stackable/testimonial",
+    "attributes": {
+        "uniqueId": "8006e5c",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/text",
+            {
+                "uniqueId": "a39eb86",
+                "blockWidth": 600,
+                "blockHorizontalAlign": "center",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/image",
+            {
+                "uniqueId": "ffa89f8",
+                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-testimonial-1/e7933290f7a0.jpg",
+                "imageId": 2251,
+                "imageWidthAttribute": 150,
+                "imageHeightAttribute": 150,
+                "imageHeight": 75,
+                "imageWidth": 75,
+                "imageShape": "circle",
+                "imageWidthUnit": "px"
+            },
+            []
+        ],
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "ce064df",
+                "fontSize": 40,
+                "fontFamily": "Ubuntu",
+                "fontWeight": "bold",
+                "textRemoveTextMargins": true,
+                "textColor1": "#d12dcf",
+                "text": "Name",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/subtitle",
+            {
+                "uniqueId": "967afbb",
+                "fontSize": 16,
+                "fontFamily": "Open Sans",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Position"
+            },
+            []
+        ]
+    ]
+}

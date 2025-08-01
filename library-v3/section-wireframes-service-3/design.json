@@ -1,0 +1,245 @@
+{
+    "id": "section-wireframes-service-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b34d6fb",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cd14d39"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "64fcb57",
+                        "columnGap": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fefbb7d"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "4698cd0",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-service-3/10cfc8a67838.png",
+                                        "imageId": 1309,
+                                        "imageWidthAttribute": 75,
+                                        "imageHeightAttribute": 75,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b85976c",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "14e8fcb",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "268a1d4",
+                                        "text": "<li>Lorem ipsum dolor</li><li>Sit amet consectetuer</li><li>Elit sed</li>"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5508829"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "f6277b1",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-service-3/10cfc8a67838.png",
+                                        "imageId": 1309,
+                                        "imageWidthAttribute": 75,
+                                        "imageHeightAttribute": 75,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "e0dd508",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2751e77",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "d8d42f3",
+                                        "text": "<li>Lorem ipsum dolor</li><li>Sit amet consectetuer</li><li>Elit sed</li>"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d5e3789",
+                        "columnGap": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "acf51bc"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "a38b45d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-service-3/10cfc8a67838.png",
+                                        "imageId": 1309,
+                                        "imageWidthAttribute": 75,
+                                        "imageHeightAttribute": 75,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8a9d61f",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "21ad00c",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "fcacbd0",
+                                        "text": "<li>Lorem ipsum dolor</li><li>Sit amet consectetuer</li><li>Elit sed</li>"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "711ffac"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5b81e27",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-service-3/10cfc8a67838.png",
+                                        "imageId": 1309,
+                                        "imageWidthAttribute": 75,
+                                        "imageHeightAttribute": 75,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "6721297",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 4",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2453226",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "39787eb",
+                                        "text": "<li>Lorem ipsum dolor</li><li>Sit amet consectetuer</li><li>Elit sed</li>"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

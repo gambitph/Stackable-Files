@@ -1,0 +1,29 @@
+{
+    "id": "block-card-arch-card",
+    "name": "ugb/card",
+    "attributes": {
+        "borderRadius": 0,
+        "imageBackgroundHeight": 470,
+        "image1Id": 39,
+        "image2Id": 40,
+        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-card-arch-card/image-1-url.jpg",
+        "image2Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-card-arch-card/image-2-url.jpg",
+        "title3": "",
+        "subtitle3": "",
+        "subtitleFontFamily": "Lato",
+        "description3": "",
+        "buttonFontFamily": "Lato",
+        "buttonTextTransform": "uppercase",
+        "buttonSize": "small",
+        "buttonBackgroundColor": "#7bdcb5",
+        "buttonBorderRadius": 100,
+        "button1NewTab": false,
+        "button2NewTab": false,
+        "button3Text": "",
+        "button3NewTab": false,
+        "align": "wide",
+        "blockTitle": "",
+        "blockDescription": "",
+        "contentAlign": "center"
+    }
+}

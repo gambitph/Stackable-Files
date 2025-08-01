@@ -1,0 +1,211 @@
+{
+    "id": "section-detour-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fdaa710",
+        "hasBackground": true,
+        "blockBackgroundColor": "#313131",
+        "blockPadding": {
+            "top": 88,
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "straight-1",
+        "topSeparatorHeight": 400,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ec88f89"
+            },
+            [
+                [
+                    "stackable/team-member",
+                    {
+                        "uniqueId": "15f38a0",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "b9d47da",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-team-1/746552fee0a5.jpg",
+                                "imageId": 2008,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 150,
+                                "imageWidth": 150,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "5159370",
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textRemoveTextMargins": true,
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "c5267e8",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "text": "Position"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "780a1ff",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "efa0777"
+            },
+            [
+                [
+                    "stackable/team-member",
+                    {
+                        "uniqueId": "568ea32",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "d608173",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-team-1/980d44fcf0a8.jpg",
+                                "imageId": 2009,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 150,
+                                "imageWidth": 150,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "e5977ff",
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textRemoveTextMargins": true,
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "9b2a80a",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "text": "Position"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "7d29369",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0419c04"
+            },
+            [
+                [
+                    "stackable/team-member",
+                    {
+                        "uniqueId": "f37d958",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "07d43ab",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-team-1/87076b83b78e.jpg",
+                                "imageId": 2010,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 150,
+                                "imageWidth": 150,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "a6af85d",
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textRemoveTextMargins": true,
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "f699f56",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "text": "Position"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "52ff84f",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

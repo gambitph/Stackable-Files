@@ -1,0 +1,71 @@
+{
+    "id": "section-peplum-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "bbb3d24",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ffeff1",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-hero-1/5596a89350d5.jpg",
+        "containerHeight": 700,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "b4faae5",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "fontSize": 64,
+                "fontFamily": "Yeseva One",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Special Edition",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "799921d",
+                "blockWidth": 316,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "5a20fc8"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "977954d",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#000000",
+                        "fontSize": 16,
+                        "fontFamily": "Josefin Sans",
+                        "textTransform": "uppercase",
+                        "text": "Buy Now"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,755 @@
+{
+    "id": "section-flow-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a599fed",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-pricing-1/c4e08df50b93.png",
+        "blockBackgroundPosition": "center center",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d629964"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "8cfae26",
+                        "customAttributes": [],
+                        "contentAlign": "center",
+                        "fontFamily": "Space Grotesk",
+                        "fontWeight": "bold",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "322e547",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Achieve More With Our Premium Plans.",
+                        "anchor": "no-need-to-take-our-word-for-it"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9683060",
+                        "blockWidth": 750,
+                        "blockHorizontalAlign": "center",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis. Aliquam venenatis volutpat scelerisque."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "53d26bb",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fa00749",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "b0a86e5",
+                                        "containerBackgroundColorOpacity": 0.5,
+                                        "containerBorderType": "solid",
+                                        "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "bc3c6cb",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Space Grotesk",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Free",
+                                                "textTag": "h4",
+                                                "anchor": "no-need-to-take-our-word-for-it"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "69c8861",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "bb6b48e",
+                                                "contentAlign": "left",
+                                                "blockMarginTablet": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "e8333c4",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "83e4db4",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "0",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ca5e326",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "/forever",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "dd74a18"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "1ab3c07",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "var(--stk-global-color-9296, #000000)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "Download Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "ca4fecb",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "6da1992",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                                "markerColor": "var(--stk-global-color-56266, #8c33da)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2ddd73f",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "2ea5f64",
+                                        "containerBackgroundColorOpacity": 0.5,
+                                        "containerBorderType": "solid",
+                                        "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "d582123",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Space Grotesk",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Personal",
+                                                "textTag": "h4",
+                                                "anchor": "no-need-to-take-our-word-for-it"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "665a3bf",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "382f08e",
+                                                "contentAlign": "left",
+                                                "blockMarginTablet": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "3049470",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "d2f49fc",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "49",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "59e4ed6",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "/month",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "b4e27e8"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "66b9890",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "var(--stk-global-color-9296, #000000)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "Download Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "6f130e9",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "66eb3f3",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                                "markerColor": "var(--stk-global-color-56266, #8c33da)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "35678e1",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "4fc9139",
+                                        "containerBackgroundColorType": "gradient",
+                                        "containerBackgroundColor": "#b16cea",
+                                        "containerBackgroundColor2": "#ff9e4e",
+                                        "containerBackgroundColorOpacity": 0.5,
+                                        "containerBackgroundGradientDirection": 220,
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "0ada9ff",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Space Grotesk",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "text": "Business",
+                                                "textTag": "h4",
+                                                "anchor": "no-need-to-take-our-word-for-it"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "1e434da",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "f7ae197",
+                                                "contentAlign": "left",
+                                                "blockMarginTablet": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "14d27fb",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "a9bc38d",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "12281da",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "/month",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "f9b8ac9"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "b369951",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "textColorClass": "has-stk-global-color-56986-color",
+                                                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                        "text": "Download Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "9861246",
+                                                "color": "var(--stk-global-color-58834, #ffffff)",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "829efe8",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                                "markerColor": "var(--stk-global-color-58834, #ffffff)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "868e595",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "5e14f2b",
+                                        "containerBackgroundColorOpacity": 0.5,
+                                        "containerBorderType": "solid",
+                                        "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "3d241ef",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Space Grotesk",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Enterprise",
+                                                "textTag": "h4",
+                                                "anchor": "no-need-to-take-our-word-for-it"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4337902",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "781de6b",
+                                                "contentAlign": "left",
+                                                "blockMarginTablet": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 32,
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "634cf69",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "1ab7db9",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "149",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ac00524",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "/year",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "35a3fbf"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "b32f39d",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "var(--stk-global-color-9296, #000000)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Space Grotesk",
+                                                        "text": "Download Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/divider",
+                                            {
+                                                "uniqueId": "2b51d09",
+                                                "width": 100
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "4fb0dc0",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                                "markerColor": "var(--stk-global-color-56266, #8c33da)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

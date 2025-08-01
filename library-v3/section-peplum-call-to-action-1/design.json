@@ -1,0 +1,72 @@
+{
+    "id": "section-peplum-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "ca2d6ab",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ffeff1",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "containerBackgroundColor": "#b27197",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-call-to-action-1/d23948e1a76b.jpg",
+        "containerBackgroundTintStrength": 9,
+        "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+        "containerHeight": 300,
+        "containerVerticalAlign": "center",
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "3f6c48b",
+                "fontSize": 56,
+                "fontFamily": "Yeseva One",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Title for This Block",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "9d4b7a0",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "fb47243"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "6925d86",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#000000",
+                        "fontSize": 16,
+                        "fontFamily": "Josefin Sans",
+                        "textTransform": "uppercase",
+                        "text": "Button Text"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

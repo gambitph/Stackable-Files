@@ -1,0 +1,255 @@
+{
+    "id": "section-elevate-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c7d7223",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c09b7b8"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "0cd85aa",
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "Subscription Fees"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "bf6de35"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b7356e9"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "bb6077b",
+                                        "blockShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "475632a",
+                                                "fontFamily": "Lato",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Basic",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "32fa03c"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "6bfdfd5",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lato",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ed8dcc1",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lato",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "a041985",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lato",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "da7a1dc"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "1bb1b9c",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": 32
+                                                        },
+                                                        "buttonBackgroundColor": "#313131",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Lato",
+                                                        "text": "Button Text"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "6786a62",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3580ef9"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "b4ea609",
+                                        "blockShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "cedfda9",
+                                                "fontFamily": "Lato",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Premium",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "f28765f"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "49065f4",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lato",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "79d496d",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lato",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "72f8ead",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lato",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "d7ef96d"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "94b6691",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": 32
+                                                        },
+                                                        "buttonBackgroundColor": "#313131",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Lato",
+                                                        "text": "Button Text"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "2d9ee7e",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

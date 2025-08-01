@@ -1,0 +1,66 @@
+{
+    "id": "section-dare-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "70146c0",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f8bd01",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-hero-1/1fef292a0ff9.jpg",
+        "blockBackgroundImageBlendMode": "overlay",
+        "blockBackgroundTintStrength": 7,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "30fe223",
+                "fontSize": 72,
+                "fontFamily": "Poppins",
+                "fontWeight": "900",
+                "textTransform": "uppercase",
+                "textColor1": "#313131",
+                "text": "Commitment to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "cf6bae6",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2ad8453"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "6f94ca9",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "fontFamily": "Poppins",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

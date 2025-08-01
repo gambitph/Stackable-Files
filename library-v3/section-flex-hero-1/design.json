@@ -1,0 +1,72 @@
+{
+    "id": "section-flex-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "778d07a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-hero-1/d236c044888e.jpg",
+        "blockBackgroundTintStrength": 6,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "45250e5",
+                "fontSize": 64,
+                "fontFamily": "Poppins",
+                "fontStyle": "italic",
+                "fontWeight": "900",
+                "textTransform": "uppercase",
+                "textColor1": "#ff3737",
+                "text": "Be the Best. Always.",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "0f71acd",
+                "blockWidth": 800,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "9f69522"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "a48cd7f",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#ff3737",
+                        "fontFamily": "Poppins",
+                        "text": "Get Started"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

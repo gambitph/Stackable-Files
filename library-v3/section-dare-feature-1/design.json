@@ -1,0 +1,101 @@
+{
+    "id": "section-dare-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "6888b6f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f8bd01",
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "slant-1",
+        "topSeparatorHeight": 400,
+        "topSeparatorWidth": 1.6,
+        "topSeparatorShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)",
+        "innerBlockContentAlign": "alignwide",
+        "containerShadow": "none",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5a7830e",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ce4ebbe",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "fontFamily": "Poppins",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "text": "Motorbike Experience"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "167d126",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4daa288"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "dfab5ce",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#313131",
+                                "fontFamily": "Poppins",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "609daa1",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "5369766",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-feature-1/fa1cc31ac9a8.png",
+                        "imageId": 1627,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 1000,
+                        "imageHeight": 460,
+                        "imageWidth": 520,
+                        "imageShape": "blob3",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

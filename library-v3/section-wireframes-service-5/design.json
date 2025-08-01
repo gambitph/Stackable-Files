@@ -1,0 +1,231 @@
+{
+    "id": "section-wireframes-service-5",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "56e06f2",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "70582cd"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "508ef8b",
+                        "contentAlign": "center",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "dc27edd",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "2c55479",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac suscipit risus. Curabitur egestas consequat urna a vulputate."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "4ce6d39",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1864ca9",
+                                "hasBackground": true,
+                                "blockPadding": {
+                                    "top": 48,
+                                    "right": 48,
+                                    "bottom": 48,
+                                    "left": 48
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "af3701f",
+                                        "contentAlign": "center"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "9a927d9",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 1",
+                                        "textTag": "h4",
+                                        "anchor": "service-1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f6511de",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac suscipit risus."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "72005ea",
+                                "hasBackground": true,
+                                "blockPadding": {
+                                    "top": 48,
+                                    "right": 48,
+                                    "bottom": 48,
+                                    "left": 48
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "38cbd6a",
+                                        "contentAlign": "center",
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "018513e",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 2",
+                                        "textTag": "h4",
+                                        "anchor": "service-2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2a28aa9",
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac suscipit risus."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ba18d4b",
+                                "hasBackground": true,
+                                "blockPadding": {
+                                    "top": 48,
+                                    "right": 48,
+                                    "bottom": 48,
+                                    "left": 48
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "2b06aa7",
+                                        "contentAlign": "center",
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "2c54c96",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Service 3",
+                                        "textTag": "h4",
+                                        "anchor": "service-3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d67a9ae",
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac suscipit risus."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

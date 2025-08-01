@@ -1,0 +1,197 @@
+{
+    "id": "section-wireframes-testimonial-10",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b42457c",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "79f527f",
+                "columnAdjacentCount": 3,
+                "customAttributes": [],
+                "columnWidthTablet": 50,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3cacd04",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-10/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4a463f0",
+                "blockVerticalAlign": "center",
+                "blockPadding": {
+                    "top": 32,
+                    "right": 32,
+                    "bottom": 32,
+                    "left": 32
+                },
+                "columnAdjacentCount": 3,
+                "customAttributes": [],
+                "columnWidthTablet": 50,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "cc0f1c9",
+                        "blockMargin": {
+                            "bottom": 50
+                        },
+                        "fontSize": 18,
+                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "89da711"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b56e2a5",
+                                "containerVerticalAlign": "center",
+                                "columnAdjacentCount": 2,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6acad55",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "<strong>Name</strong>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "247567e",
+                                        "text": "Position"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "21285b0",
+                "columnAdjacentCount": 3,
+                "customAttributes": [],
+                "columnWidthTablet": 50,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3de1003",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-10/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "468ad0a",
+                "blockVerticalAlign": "center",
+                "blockPadding": {
+                    "top": 32,
+                    "right": 32,
+                    "bottom": 32,
+                    "left": 32
+                },
+                "columnAdjacentCount": 3,
+                "customAttributes": [],
+                "columnWidthTablet": 50,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "3952f68",
+                        "blockMargin": {
+                            "bottom": 50
+                        },
+                        "fontSize": 18,
+                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "8e88015"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c4a4369",
+                                "containerVerticalAlign": "center",
+                                "columnAdjacentCount": 2,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "3efd1fb",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "<strong>Name</strong>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e6254d0",
+                                        "text": "Position"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

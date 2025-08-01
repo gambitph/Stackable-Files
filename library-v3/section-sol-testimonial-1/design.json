@@ -1,0 +1,499 @@
+{
+    "id": "section-sol-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6ea7f51",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "558149d",
+                "columnWidth": 40
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "e3b2d30",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "customAttributes": [],
+                        "contentAlign": "left",
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColor1": "#ed5521",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "2b0d81b",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Raleway",
+                        "fontWeight": "800",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1a1a1a",
+                        "text": "Hear From Our Customers"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d4476ce",
+                        "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis feugiat pharetra quis imperdiet cursus tristique tincidunt non vitae.  "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "705a4f6"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "5d9ef32",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#ed5521",
+                                "fontSize": 18,
+                                "fontFamily": "Inter",
+                                "textColorClass": "has-stk-global-color-58834-color",
+                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                "text": "Submit Your Story"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "370b4a7",
+                "columnWidth": 60
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "1b94742"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f2813ed"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "e7e0884",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "18261fc",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "c7bd791",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "8fcc3ab"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "113f2d7",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-testimonial-1/b72e9aa2ce52.jpg",
+                                                                "imageId": 1055,
+                                                                "imageWidthAttribute": 1707,
+                                                                "imageHeightAttribute": 2560,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "b0da90f",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "683ae53",
+                                                                "blockMargin": {
+                                                                    "bottom": 8
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "800",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "8217491",
+                                                                "blockMargin": {
+                                                                    "bottom": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 16,
+                                                                "fontFamily": "Inter",
+                                                                "textColor1": "#919191",
+                                                                "text": "Customer"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "c430fda",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d98cbbe",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "303a252",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "70c1402"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "9b78a58",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-testimonial-1/e73419642ae4.jpg",
+                                                                "imageId": 1052,
+                                                                "imageWidthAttribute": 1707,
+                                                                "imageHeightAttribute": 2560,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "2231bbb",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "b75eb24",
+                                                                "blockMargin": {
+                                                                    "bottom": 8
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "800",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "a06bcf8",
+                                                                "blockMargin": {
+                                                                    "bottom": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 16,
+                                                                "fontFamily": "Inter",
+                                                                "textColor1": "#919191",
+                                                                "text": "Customer"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "eea9354"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "416309b",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4f5004f",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "d9baba0",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "f8e684a"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "642d417",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-testimonial-1/0e5f580f1445.jpg",
+                                                                "imageId": 1054,
+                                                                "imageWidthAttribute": 1707,
+                                                                "imageHeightAttribute": 2560,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "183acf6",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "2522722",
+                                                                "blockMargin": {
+                                                                    "bottom": 8
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "800",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "9da5676",
+                                                                "blockMargin": {
+                                                                    "bottom": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 16,
+                                                                "fontFamily": "Inter",
+                                                                "textColor1": "#919191",
+                                                                "text": "Customer"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "dd099ba",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "37e2aff",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "3712819",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "1bf40d7"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "77b0833",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-testimonial-1/9ad29d9192fa.jpg",
+                                                                "imageId": 1053,
+                                                                "imageWidthAttribute": 1707,
+                                                                "imageHeightAttribute": 2560,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "95d234f",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "e9c9dea",
+                                                                "blockMargin": {
+                                                                    "bottom": 8
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "800",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "a1fa50e",
+                                                                "blockMargin": {
+                                                                    "bottom": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 16,
+                                                                "fontFamily": "Inter",
+                                                                "textColor1": "#919191",
+                                                                "text": "Customer"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

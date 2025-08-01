@@ -1,0 +1,166 @@
+{
+    "id": "section-bean-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e9d382a",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "826210d",
+                "hasBackground": true,
+                "blockBackgroundColor": "#3f2816",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-image-gallery-1/3fb028c4b51a.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "flex-end",
+                "blockBackgroundColorHover": "#3f2816",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "577b3f2",
+                        "fontSize": 16,
+                        "fontFamily": "Source Sans Pro",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle for this block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "cb19828",
+                        "fontFamily": "Cardo",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c42bc78",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a3e997e",
+                "hasBackground": true,
+                "blockBackgroundColor": "#3f2816",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-image-gallery-1/87605ed49ef3.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "blockBackgroundColorHover": "#3f2816",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "c541fc0",
+                        "fontSize": 16,
+                        "fontFamily": "Source Sans Pro",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle for this block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7310f17",
+                        "fontFamily": "Cardo",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fc67752",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bfbfd59",
+                "hasBackground": true,
+                "blockBackgroundColor": "#3f2816",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-image-gallery-1/3cc00ffe38a3.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "blockBackgroundColorHover": "#3f2816",
+                "blockBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "1fe0fce",
+                        "fontSize": 16,
+                        "fontFamily": "Source Sans Pro",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle for this block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "57a1dda",
+                        "fontFamily": "Cardo",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c0357ab",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

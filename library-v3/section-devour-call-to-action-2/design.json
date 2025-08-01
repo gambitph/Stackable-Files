@@ -1,0 +1,96 @@
+{
+    "id": "section-devour-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "38e8637",
+        "containerBackgroundColor": "#000000",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-call-to-action-2/9e19eb4ac652.jpg",
+        "containerBackgroundTintStrength": 8,
+        "containerBorderRadius": 30,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "d5af362"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "a4f958a",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "7259606",
+                                "fontSize": 64,
+                                "fontFamily": "Cherry Swash",
+                                "fontWeight": "bold",
+                                "textColor1": "#3d9457",
+                                "text": "Order Now",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "03d8731",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "dd7afcf",
+                        "containerVerticalAlign": "center",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "a99cbe3"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "af3d825",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "#ffce46",
+                                        "buttonBorderRadius": 50,
+                                        "fontFamily": "Karla",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Learn More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

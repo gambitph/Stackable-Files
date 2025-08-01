@@ -1,0 +1,27 @@
+{
+    "id": "block-cta-yule-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "borderRadius": 6,
+        "shadow": 6,
+        "title": "Give the Gift of Comfort",
+        "buttonFontFamily": "Source Sans Pro",
+        "buttonFontSize": 18,
+        "buttonText": "Buy Now",
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-4615, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-84674, #00c279)",
+        "buttonHoverBackgroundColor": "var(--stk-global-color-40036, #00473d)",
+        "columnBackgroundColor": "var(--stk-global-color-40036, #00473d)",
+        "descriptionBottomMargin": 32,
+        "blockHorizontalAlign": "center",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-40036, #00473d)",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-yule-call-to-action/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 5,
+        "contentAlign": "center"
+    }
+}

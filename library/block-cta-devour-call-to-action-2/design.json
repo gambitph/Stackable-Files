@@ -1,0 +1,20 @@
+{
+    "id": "block-cta-devour-call-to-action-2",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "horizontal-2",
+        "shadow": 9,
+        "title": "Order now",
+        "titleColor": "var(--stk-global-color-86077, #ffce46)",
+        "buttonFontFamily": "Karla",
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-5230, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-71717, #3d9457)",
+        "buttonBorderRadius": 100,
+        "columnBackgroundColor": "#000000",
+        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-2/column-background-media-url.jpg",
+        "columnBackgroundTintStrength": 8,
+        "align": "wide"
+    }
+}

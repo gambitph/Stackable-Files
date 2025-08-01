@@ -1,0 +1,66 @@
+{
+    "id": "section-lounge-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "5ba0e51",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-call-to-action-3/f945d0d9066c.jpg",
+        "blockBackgroundImageBlendMode": "overlay",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "6df0f22",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "fontSize": 64,
+                "fontFamily": "Playfair Display",
+                "fontWeight": "bold",
+                "textColor1": "#393f59",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "24e3078",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "3eeeb6a"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b5400e6",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#d2b18e",
+                        "fontSize": 18,
+                        "fontFamily": "Serif",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "section-angled-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "228b298",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000033",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f9a15cf",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "674340c",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Abstraction"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "92fc4b3",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "b22bc86"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f18a44a",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontFamily": "Poppins",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5561492",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "e110ee0",
+                        "blockMargin": {
+                            "top": -80,
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-feature-1/5c4901e40da3.jpg",
+                        "imageId": 701,
+                        "imageWidthAttribute": 533,
+                        "imageHeightAttribute": 800,
+                        "imageHeight": 500
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

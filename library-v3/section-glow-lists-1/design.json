@@ -1,0 +1,58 @@
+{
+    "id": "section-glow-lists-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8836142",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "45c3665"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8c72c8d",
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Make the Experience Great"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5e2c0fd",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "a85a067",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "<li>Use this space for List Item 1</li><li>Use this space for List Item 2</li><li>Use this space for List Item 3</li><li>Use this space for List Item 4</li>",
+                        "icon": "<svg data-prefix=\"fas\" data-icon=\"plus-circle\" class=\"svg-inline--fa fa-plus-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z\"></path></svg>",
+                        "markerColor": "#d12dcf"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

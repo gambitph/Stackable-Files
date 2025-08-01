@@ -1,0 +1,174 @@
+{
+    "id": "section-hue-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f4cd4a5",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundColor2": "#ff166d",
+        "blockBackgroundGradientDirection": 0,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "blockPadding": {
+            "top": 0,
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "slant-1",
+        "topSeparatorHeight": 400,
+        "topSeparatorWidth": 1,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0a856c4"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "081d3de",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-blog-posts-1/69c9be8b2810.jpg",
+                        "imageId": 2177,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 1200,
+                        "imageHeight": 500,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "453f097",
+                                "fontFamily": "Karla",
+                                "fontWeight": "bold",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Blog Post 1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "0b37830",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "3258d3e"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "4d180f0",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#00e0ff",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inconsolata",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Button"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "18ff796"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "c230886",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-blog-posts-1/b63799225ad1.jpg",
+                        "imageId": 2178,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 1187,
+                        "imageHeight": 500,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "fc41e9c",
+                                "fontFamily": "Karla",
+                                "fontWeight": "bold",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Blog Post 2"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "478e9cd",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "fdfaf09"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "ae2ca1b",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#00e0ff",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inconsolata",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Button"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

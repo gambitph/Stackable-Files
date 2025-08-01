@@ -1,0 +1,70 @@
+{
+    "id": "section-lume-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "02199e4",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "665d823",
+                "fontSize": 64,
+                "fontFamily": "Unica One",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Join the Revolution",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "b168a55",
+                "blockWidth": 614,
+                "blockHorizontalAlign": "center",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2fe0092"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b6cd38d",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#37cdc0",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

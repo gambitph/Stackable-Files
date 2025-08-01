@@ -1,0 +1,306 @@
+{
+    "id": "section-flow-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "22cb5ce",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-metric-1/015f685ecf4e.png",
+        "blockFixedBackground": true,
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e0a0a1a",
+                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                "containerBackgroundColorOpacity": 0.3,
+                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                "containerPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0933f81",
+                        "blockMargin": {
+                            "bottom": 48
+                        },
+                        "columnGap": 40,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2c38b70",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "b93ea11",
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Subtitle for this section"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "bbf939a",
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "No Need to Take Our Word for It.",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5912b98",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "55c16f9",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies massa eget felis placerat, sit amet pulvinar massa semper. Ut nisi velit, tempor vitae ex sit amet, ultricies efficitur metus. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1864a1f",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod sodales lacus ac molestie. Sed a sem ut eros semper dignissim. Morbi sollicitudin auctor lacus, sit amet efficitur leo vehicula et."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7648b05"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3ebcf69",
+                                "blockBorderType": "solid",
+                                "blockBorderWidth": {
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "blockBorderWidthMobile": {
+                                    "top": "",
+                                    "right": 1,
+                                    "bottom": 0,
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "2933e5d",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "1200+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "2abd848",
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Downloads Per Month",
+                                        "textTag": "h4",
+                                        "anchor": "downloads-per-month"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c7793f6",
+                                "blockBorderType": "solid",
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "d3370f0",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "800+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "9d51a3e",
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "New Users Per Month",
+                                        "textTag": "h4",
+                                        "anchor": "new-users-per-month"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e9638b5",
+                                "blockBorderType": "solid",
+                                "blockBorderWidth": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 0
+                                },
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "blockBorderWidthMobile": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 1
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "7974af2",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "5500+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "8031244",
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "5 Star Reviews",
+                                        "textTag": "h4",
+                                        "anchor": "5-star-reviews"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

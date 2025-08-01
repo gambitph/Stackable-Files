@@ -1,0 +1,136 @@
+{
+    "id": "section-angled-service-1",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "1a2c597",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f848366"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3abf468",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-service-1/d22dd4ebb806.jpg",
+                        "imageId": 699,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 902
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "985131b",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c5fd14a",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "03e7cdf"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "9e0ce8c",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "34b6778"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "7a21664",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-service-1/520bce6524d7.jpg",
+                        "imageId": 700,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 902
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "91e776c",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "33f8055",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "7349b9c"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "03ff116",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

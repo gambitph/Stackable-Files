@@ -1,0 +1,585 @@
+{
+    "id": "section-munch-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7aac3b4",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+        "blockMargin": {
+            "top": "",
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "topSeparatorShow": false,
+        "topSeparatorDesign": "rounded-3",
+        "topSeparatorColor": "var(--stk-global-color-81840, #f6f6f6)",
+        "topSeparatorHeight": 400,
+        "topSeparatorShadow": "none",
+        "topSeparatorLayer2Show": true,
+        "topSeparatorLayer3Show": true,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3426f5d"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "3dae507",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "Chivo",
+                        "fontWeight": "600",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "text": "Featured"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "c8e0c61",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Lilita One",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "In the Media"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3657623",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "861c837",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "198ea96",
+                                        "containerBackgroundColor": "#ffca0e",
+                                        "containerBorderRadius": 12,
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-blog-posts-1/afaed8bc372c.jpg",
+                                        "imageId": 2166,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1794,
+                                        "imageHeight": 300,
+                                        "transformHover": "scale(1.05)",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "ede5e3f",
+                                                "blockMargin": {
+                                                    "bottom": 4
+                                                },
+                                                "fontSize": 12,
+                                                "fontFamily": "Chivo",
+                                                "textColorClass": "has-stk-global-color-9296-color",
+                                                "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                "text": "Jan. 10, 2022"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "2ffcdad",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 15,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Lilita One",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "post 1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "646ddbb",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/testimonial",
+                                            {
+                                                "uniqueId": "15a4657",
+                                                "hasContainer": false,
+                                                "contentAlign": "",
+                                                "className": "is-style-compact"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/columns",
+                                                    {
+                                                        "uniqueId": "605ed73",
+                                                        "columnFit": true,
+                                                        "columnGap": 24,
+                                                        "rowGap": 24
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "62f5908",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/image",
+                                                                    {
+                                                                        "uniqueId": "3908dc0",
+                                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-blog-posts-1/5f020082f16f.jpg",
+                                                                        "imageId": 1999,
+                                                                        "imageWidthAttribute": 1920,
+                                                                        "imageHeightAttribute": 1280,
+                                                                        "imageHeight": 75,
+                                                                        "imageWidth": 75,
+                                                                        "imageShape": "circle",
+                                                                        "imageWidthUnit": "px"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "b512b24",
+                                                                "contentAlign": "left",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "867f631",
+                                                                        "blockMargin": {
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "fontSize": 24,
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textRemoveTextMargins": true,
+                                                                        "text": "Author Name",
+                                                                        "textTag": "h3"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "4ad7ff3",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "text": "Position"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8724842",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "0e28aae",
+                                        "containerBackgroundColor": "#ffca0e",
+                                        "containerBorderRadius": 12,
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-blog-posts-1/e712b205a153.jpg",
+                                        "imageId": 2167,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "transformHover": "scale(1.05)",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "fdb1209",
+                                                "blockMargin": {
+                                                    "bottom": 4
+                                                },
+                                                "fontSize": 12,
+                                                "fontFamily": "Chivo",
+                                                "textColorClass": "has-stk-global-color-9296-color",
+                                                "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                "text": "February 18, 2022"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "1099b83",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 15,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Lilita One",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Post 2"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "57c7725",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/testimonial",
+                                            {
+                                                "uniqueId": "0730117",
+                                                "hasContainer": false,
+                                                "contentAlign": "",
+                                                "className": "is-style-compact"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/columns",
+                                                    {
+                                                        "uniqueId": "e7b2cf7",
+                                                        "columnFit": true,
+                                                        "columnGap": 24,
+                                                        "rowGap": 24
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "3de4dca",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/image",
+                                                                    {
+                                                                        "uniqueId": "bbf49a5",
+                                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-blog-posts-1/d952ab3afc99.jpg",
+                                                                        "imageId": 1502,
+                                                                        "imageWidthAttribute": 1707,
+                                                                        "imageHeightAttribute": 2560,
+                                                                        "imageFocalPoint": {
+                                                                            "x": "0.45",
+                                                                            "y": "0.06"
+                                                                        },
+                                                                        "imageHeight": 75,
+                                                                        "imageWidth": 75,
+                                                                        "imageShape": "circle",
+                                                                        "imageWidthUnit": "px"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "39a42a7",
+                                                                "contentAlign": "left",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "961879e",
+                                                                        "blockMargin": {
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "fontSize": 24,
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textRemoveTextMargins": true,
+                                                                        "text": "Author Name",
+                                                                        "textTag": "h3"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "dbfb0d3",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "text": "Position"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9182a5a",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "890e427",
+                                        "containerBackgroundColor": "#ffca0e",
+                                        "containerBorderRadius": 12,
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-blog-posts-1/44e593d0a5b0.jpg",
+                                        "imageId": 2168,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280,
+                                        "transformHover": "scale(1.05)",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "f0339fc",
+                                                "blockMargin": {
+                                                    "bottom": 4
+                                                },
+                                                "fontSize": 12,
+                                                "fontFamily": "Chivo",
+                                                "textColorClass": "has-stk-global-color-9296-color",
+                                                "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                "text": "March 27, 2022"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "87589ce",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 15,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Lilita One",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Post 3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "295a460",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/testimonial",
+                                            {
+                                                "uniqueId": "7da4e4a",
+                                                "hasContainer": false,
+                                                "contentAlign": "",
+                                                "className": "is-style-compact"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/columns",
+                                                    {
+                                                        "uniqueId": "5f7221f",
+                                                        "columnFit": true,
+                                                        "columnGap": 24,
+                                                        "rowGap": 24
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "dbea492",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/image",
+                                                                    {
+                                                                        "uniqueId": "5a516c3",
+                                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-blog-posts-1/7650c2fd6d3b.jpg",
+                                                                        "imageId": 2003,
+                                                                        "imageWidthAttribute": 1920,
+                                                                        "imageHeightAttribute": 1272,
+                                                                        "imageHeight": 75,
+                                                                        "imageWidth": 75,
+                                                                        "imageShape": "circle",
+                                                                        "imageWidthUnit": "px"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "93bc184",
+                                                                "contentAlign": "left",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "e73d119",
+                                                                        "blockMargin": {
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "fontSize": 24,
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textRemoveTextMargins": true,
+                                                                        "text": "Author Name",
+                                                                        "textTag": "h3"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "1a2cdd2",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "text": "Position"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

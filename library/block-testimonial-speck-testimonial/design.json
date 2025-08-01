@@ -1,0 +1,30 @@
+{
+    "id": "block-testimonial-speck-testimonial",
+    "name": "ugb/testimonial",
+    "attributes": {
+        "design": "bubble",
+        "borderRadius": 0,
+        "shadow": 8,
+        "columnBackgroundColor": "var(--stk-global-color-49022, #ffe923)",
+        "testimonial3": "",
+        "showImage": false,
+        "imageSize": "thumbnail",
+        "name1": "Edward Winkelman",
+        "name2": "James Linta",
+        "name3": "",
+        "nameColor": "var(--stk-global-color-30181, #ffffff)",
+        "position1": "copywriter",
+        "position2": "managing director",
+        "position3": "",
+        "positionFontFamily": "DM Sans",
+        "positionColor": "var(--stk-global-color-13433, #25e0f4)",
+        "nameBottomMargin": -2,
+        "bubbleBackgroundColor": "var(--stk-global-color-49022, #ffe923)",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-84839, #1b36d1)",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

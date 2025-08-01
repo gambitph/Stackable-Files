@@ -1,0 +1,294 @@
+{
+    "id": "section-agora-service-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "da28389",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fff7f0",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "effectType": "entrance",
+        "effectEntrance": "translateX(48px)",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a85630a"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "83bd361",
+                        "customAttributes": [],
+                        "fontSize": 80,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "The Process",
+                        "showTopLine": true,
+                        "topLineHeight": 1,
+                        "topLineMargin": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "8add010",
+                        "customAttributes": [],
+                        "color": "#ecdcc9",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9eaed4b"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7155f9e"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "0b046e8",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "01",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "17d9ba7",
+                                        "blockWidth": 640,
+                                        "customAttributes": [],
+                                        "fontSize": 48,
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#000000",
+                                        "text": "Appointment with us",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48,
+                                        "fontSizeMobile": 24
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e7e45e3"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "215b3ca",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "ebb2ea4",
+                        "customAttributes": [],
+                        "color": "#ecdcc9",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3447c61"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0bdc300"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "f33114e",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "02",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "e33a562",
+                                        "blockWidth": 640,
+                                        "customAttributes": [],
+                                        "fontSize": 48,
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#000000",
+                                        "text": "Property Visit",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48,
+                                        "fontSizeMobile": 24
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c6b5d2f"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "619d335",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "72758ac",
+                        "customAttributes": [],
+                        "color": "#ecdcc9",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "056ea0b"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d42b6a5"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "3c5fe7d",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "03",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "c0cea79",
+                                        "blockWidth": 640,
+                                        "customAttributes": [],
+                                        "fontSize": 48,
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#000000",
+                                        "text": "Payment &amp; Documents",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48,
+                                        "fontSizeMobile": 24
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7c1d368"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "db06c0c",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "661b74a",
+                        "customAttributes": [],
+                        "color": "#ecdcc9",
+                        "width": 100
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

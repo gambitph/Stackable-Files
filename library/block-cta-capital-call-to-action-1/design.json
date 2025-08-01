@@ -1,0 +1,32 @@
+{
+    "id": "block-cta-capital-call-to-action-1",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "Get the Most out of this",
+        "titleFontSize": 64,
+        "titleTabletFontSize": 25,
+        "titleColor": "#ffffff",
+        "description": "",
+        "showDescription": false,
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "IBM Plex Sans",
+        "buttonFontSize": 18,
+        "buttonText": "Get a Tour",
+        "buttonNewTab": false,
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "#9b51e0",
+        "buttonBorderRadius": 0,
+        "paddingTop": 180,
+        "paddingBottom": 180,
+        "mobileBlockHeight": 25,
+        "mobileBlockHeightUnit": "vh",
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundBackgroundMediaId": 32,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-capital-call-to-action-1/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 5
+    }
+}

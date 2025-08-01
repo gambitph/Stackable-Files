@@ -1,0 +1,250 @@
+{
+    "id": "section-proact-feature-1",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "5a97339",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "rowAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-large-mid",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3d952b8",
+                "columnWidth": 30
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "df4c784",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-feature-1/1f1ee6288e00.jpg",
+                        "imageId": 2080,
+                        "imageWidthAttribute": 400,
+                        "imageHeightAttribute": 301,
+                        "imageHeight": 200,
+                        "imageWidth": 200,
+                        "imageShape": "blob8",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "0f75355",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 1",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d9317c4",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "d1486db"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f8b0f29",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ed5f47",
+                                "buttonBorderRadius": 8,
+                                "fontSize": 18,
+                                "fontFamily": "Rubik",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "More",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "31a28a9",
+                "hasContainer": true,
+                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                "containerPadding": {
+                    "top": 80,
+                    "right": "",
+                    "bottom": 80,
+                    "left": ""
+                },
+                "columnWidth": 40
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "d729635",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-feature-1/73405335dbc7.jpg",
+                        "imageId": 2081,
+                        "imageWidthAttribute": 401,
+                        "imageHeightAttribute": 301,
+                        "imageHeight": 200,
+                        "imageWidth": 200,
+                        "imageShape": "blob8",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8e6ccd0",
+                        "customAttributes": [],
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "text": "<span style=\"color: #4c548a\" class=\"stk-highlight\">Feature 2</span>",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "98a9588",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "43fa733"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e183a16",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ed5f47",
+                                "buttonBorderRadius": 8,
+                                "fontSize": 18,
+                                "fontFamily": "Rubik",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "More",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f6e5ebe",
+                "columnWidth": 30
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "e433f3b",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-feature-1/a8410b943ac9.jpg",
+                        "imageId": 2082,
+                        "imageWidthAttribute": 401,
+                        "imageHeightAttribute": 300,
+                        "imageHeight": 200,
+                        "imageWidth": 200,
+                        "imageShape": "blob8",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5fc947e",
+                        "customAttributes": [],
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 3",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c0c2f37",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "cd003c6"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "6866616",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ed5f47",
+                                "buttonBorderRadius": 8,
+                                "fontSize": 18,
+                                "fontFamily": "Rubik",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "More",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

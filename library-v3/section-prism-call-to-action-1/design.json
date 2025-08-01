@@ -1,0 +1,85 @@
+{
+    "id": "section-prism-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "4400175",
+        "blockBorderRadius": 32,
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-call-to-action-1/f8b077e833ee.png",
+        "containerPadding": {
+            "top": 56,
+            "right": "",
+            "bottom": 56,
+            "left": ""
+        },
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "9df7dcb",
+                "blockBorderRadius": 32,
+                "text": "<span style=\"color: #ffffff\" class=\"stk-highlight\">Changes for the Better.</span>",
+                "fontSizeMobile": 24,
+                "lineHeightMobile": 1.4,
+                "anchor": "span-style-color-ffffff-class-stk-highlight-changes-for-the-better-span"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "f40aa79",
+                "blockWidth": 593,
+                "blockHorizontalAlign": "center",
+                "contentAlign": "center",
+                "text": "<span style=\"color: #ffffff\" class=\"stk-highlight\">Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.</span>"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "749b333"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "75e8968",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#ffffff",
+                        "buttonBorderType": "solid",
+                        "buttonBorderColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "buttonBorderRadius": 50,
+                        "iconColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                        "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                        "text": "Get Started",
+                        "buttonBackgroundColorHover": "transparent",
+                        "buttonBackgroundColorParentHover": "transparent",
+                        "className": "is-style-ghost"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

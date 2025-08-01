@@ -1,0 +1,28 @@
+{
+    "id": "block-feature-bean-feature-1",
+    "name": "ugb/feature",
+    "attributes": {
+        "design": "overlap",
+        "borderRadius": 0,
+        "shadow": 5,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-bean-feature-1/image-url.jpg",
+        "imageId": 43,
+        "imageWidth": 1024,
+        "imageHeight": 576,
+        "title": "Feature Block",
+        "titleColor": "var(--stk-global-color-11912, #3f2816)",
+        "descriptionColor": "var(--stk-global-color-50330, #2a2a2a)",
+        "buttonFontFamily": "Source Sans Pro",
+        "buttonTextTransform": "uppercase",
+        "buttonLetterSpacing": 0.5,
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-9213, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-3843, #b79066)",
+        "buttonBorderRadius": 0,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-71011, #e2d8c7)"
+    }
+}

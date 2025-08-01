@@ -1,0 +1,151 @@
+{
+    "id": "section-chic-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b278b4e",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b78846c"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "d5473f6",
+                        "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-card-1/4797c9ded800.jpg",
+                        "imageId": 1618,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 1024,
+                        "contentAlign": "center",
+                        "customAttributes": [],
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "8e94e74",
+                                "fontFamily": "DM Serif Display",
+                                "text": "Card 1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "509a806",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "24b292d"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "b072e46",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "#f28e18",
+                                        "buttonBorderRadius": 50,
+                                        "fontSize": 16,
+                                        "fontFamily": "Roboto",
+                                        "textTransform": "uppercase",
+                                        "text": "Read More",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fda7144"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "a88700d",
+                        "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-card-1/96bb24daba29.jpg",
+                        "imageId": 1619,
+                        "imageWidthAttribute": 683,
+                        "imageHeightAttribute": 1024,
+                        "contentAlign": "center",
+                        "customAttributes": [],
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "80f8a36",
+                                "fontFamily": "DM Serif Display",
+                                "text": "Card 2"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "5aac85c",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "1945a58"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "63e9a21",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "#f28e18",
+                                        "buttonBorderRadius": 50,
+                                        "fontSize": 16,
+                                        "fontFamily": "Roboto",
+                                        "textTransform": "uppercase",
+                                        "text": "Read More",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

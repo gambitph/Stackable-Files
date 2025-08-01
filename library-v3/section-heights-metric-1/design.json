@@ -1,0 +1,103 @@
+{
+    "id": "section-heights-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "04e0101",
+        "blockHeight": 300,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d5e689d"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "fb28e9b",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "$99.99"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "ce8f202",
+                        "fontSize": 16,
+                        "fontFamily": "Serif",
+                        "text": "Count Up 1"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f6bebfd"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "1a4c8c6",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "1,234+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "b867d7d",
+                        "fontSize": 16,
+                        "fontFamily": "Serif",
+                        "text": "Count Up 2"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bf30c6d"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "6ae016b",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "1,234.56"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "1edcd2d",
+                        "fontSize": 16,
+                        "fontFamily": "Serif",
+                        "text": "Count Up 3"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

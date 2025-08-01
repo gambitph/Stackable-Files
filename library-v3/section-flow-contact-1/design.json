@@ -1,0 +1,372 @@
+{
+    "id": "section-flow-contact-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "31a5e75",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-contact-1/2a2e0d58e3fd.png",
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 48,
+        "rowGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d66e8f4",
+                "containerVerticalAlign": "center",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "49de5da",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Contact Our Team!",
+                        "anchor": "no-need-to-take-our-word-for-it"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f4803bf",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis."
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "9775d76",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0d5fbc5",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "93087eb",
+                                "columnWidth": 15.1,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "6673609",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-contact-1/b475ef34d0b5.png",
+                                        "imageId": 2449,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d3b50ff",
+                                "columnWidth": 84.9,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "fad3454",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Company address"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ab9411a",
+                                        "text": "1234 Woodridge Street, Blue Hill Village"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7659747",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f7dea90",
+                                "columnWidth": 15.1,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "c02c64c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-contact-1/308f55c0cacc.png",
+                                        "imageId": 2450,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ae437cf",
+                                "columnWidth": 84.9,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "1a1b414",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Email Address"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ee06eee",
+                                        "text": "hello@flowapp.com"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "391aebe",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "04d4ed4",
+                                "columnWidth": 15.1,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "37cbf3f",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-contact-1/cfd33b6c740e.png",
+                                        "imageId": 2490,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "55755f7",
+                                "columnWidth": 84.9,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "089b9dd",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "fontWeight": "bold",
+                                        "text": "Contact Number"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0eef4bc",
+                                        "text": "0999-123-4567"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6cc694a",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "759dc80",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-contact-1/2457825da1e2.png",
+                        "imageId": 2376,
+                        "imageWidthAttribute": 1918,
+                        "imageHeightAttribute": 649,
+                        "imageHeight": 600,
+                        "imageShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)",
+                        "imageHeightMobile": 400
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

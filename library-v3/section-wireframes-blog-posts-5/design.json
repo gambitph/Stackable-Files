@@ -1,0 +1,267 @@
+{
+    "id": "section-wireframes-blog-posts-5",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fec3551",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "411b451"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "9966aed",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "38c2232",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu consectetur mauris. Nunc ornare dignissim sagittis. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "b3955e5",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-5/71e0c4bfb3a1.png",
+                        "imageId": 1306,
+                        "imageWidthAttribute": 500,
+                        "imageHeightAttribute": 600,
+                        "imageHeightMobile": 250,
+                        "className": "is-style-horizontal"
+                    },
+                    [
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "b349e80",
+                                "text": "Subtitle "
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "1af1525",
+                                "textRemoveTextMargins": true,
+                                "text": "Blog Post 1",
+                                "textTag": "h3",
+                                "anchor": "blog-post-1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "915264c",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "3e5f106"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "c49321e",
+                                        "text": "Read More",
+                                        "className": "is-style-link"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d2742dc",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4f238a7",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "7b9aa15",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-5/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "imageHeightMobile": 250,
+                                        "className": "is-style-horizontal"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "c3a8ac5",
+                                                "text": "Subtitle ",
+                                                "blockMarginTablet": {
+                                                    "bottom": 0
+                                                }
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "18a35c9",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Blog Post 2",
+                                                "textTag": "h3",
+                                                "anchor": "blog-post-2"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d44ad77",
+                                                "text": "Description for this block. Use this space for describing your block. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "17be117"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "d16f793",
+                                                        "text": "Read More",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ba35c74",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "3983c05",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-5/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "imageHeightMobile": 250,
+                                        "className": "is-style-horizontal"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "6045117",
+                                                "text": "Subtitle "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "44e6700",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Blog Post 3",
+                                                "textTag": "h3",
+                                                "anchor": "blog-post-3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "748415b",
+                                                "text": "Description for this block. Use this space for describing your block. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "8917a71"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "cba1452",
+                                                        "text": "Read More",
+                                                        "className": "is-style-link"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

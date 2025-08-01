@@ -1,0 +1,26 @@
+{
+    "id": "block-icon-list-lume-icon-list",
+    "name": "ugb/icon-list",
+    "attributes": {
+        "icon": "<svg viewBox=\"0 0 194 194\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M96.9 2c-52.4 0-95 42.6-95 95s42.6 95 95 95 95-42.6 95-95-42.6-95-95-95zM151 104.5h-46.6v46.6h-15v-46.6H42.8v-15h46.6V42.9h15v46.6H151v15z\"></path></svg>",
+        "iconColor": "var(--stk-global-color-36389, #37cdc0)",
+        "iconSize": 25,
+        "columns": 3,
+        "text": "<li>List Item 1</li><li>List Item 2</li><li>List Item 3</li><li>List Item 4</li><li>List Item 5</li><li>List Item 6</li><li>List Item 7</li><li>List Item 5</li><li>List Item 5</li>",
+        "listTextColor": "var(--stk-global-color-71449, #ffffff)",
+        "blockWidth": 700,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#111111",
+        "showBlockTitle": true,
+        "blockTitle": "Discover New Things",
+        "blockTitleAlign": "center",
+        "blockTitleColor": "#ffffff",
+        "blockTitleTag": "h3",
+        "showBlockDescription": true,
+        "blockDescriptionAlign": "center",
+        "blockDescriptionColor": "#ffffff",
+        "contentAlign": "left"
+    }
+}

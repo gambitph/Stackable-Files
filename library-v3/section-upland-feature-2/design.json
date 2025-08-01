@@ -1,0 +1,80 @@
+{
+    "id": "section-upland-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7c11d35",
+        "blockBackgroundColor": "#fbfbfe",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "955718d"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "648fb0c",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-feature-2/a5e877a0330b.jpg",
+                        "imageId": 1922,
+                        "imageWidthAttribute": 1707,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 700
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1f15d82",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "dde75dc",
+                        "fontFamily": "Lato",
+                        "fontWeight": "500",
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "1e81e7d",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "cba3a94"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "35c367b",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "Lato",
+                                "text": "Learn More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

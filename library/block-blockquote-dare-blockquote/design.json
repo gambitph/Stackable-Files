@@ -1,0 +1,32 @@
+{
+    "id": "block-blockquote-dare-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "design": "basic",
+        "borderRadius": 0,
+        "shadow": 5,
+        "quoteOpacity": 0.5,
+        "quoteColor": "var(--stk-global-color-78615, #f8bd01)",
+        "quoteSize": 120,
+        "quoteX": 100,
+        "quoteY": 45,
+        "text": "Sports have given me the opportunity to pursue my passions and see where my potential is. Finding new passions is part of evolving as a person.",
+        "textColor": "var(--stk-global-color-23277, #313131)",
+        "textAlign": "center",
+        "blockHeight": 360,
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundColorOpacity": 1,
+        "blockBackgroundBackgroundTintStrength": 2,
+        "blockBackgroundFixedBackground": false,
+        "showTopSeparator": false,
+        "showBottomSeparator": false,
+        "bottomSeparatorDesign": "rounded-3",
+        "topSeparatorFlipHorizontally": false,
+        "topSeparatorFlipVertically": false,
+        "bottomSeparatorFlipHorizontally": false,
+        "bottomSeparatorFlipVertically": true,
+        "contentAlign": "center"
+    }
+}

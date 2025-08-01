@@ -1,0 +1,124 @@
+{
+    "id": "section-wireframes-table-of-contents-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ed376e6",
+        "align": "center"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7d31e96",
+                "hasContainer": true,
+                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                "containerWidth": 700,
+                "containerHorizontalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b2efbe6",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "text": "Table of Contents",
+                        "textTag": "h4",
+                        "anchor": "table-of-contents"
+                    },
+                    []
+                ],
+                [
+                    "stackable/table-of-contents",
+                    {
+                        "uniqueId": "ba092e6",
+                        "text": "<li><a href=\"#introduction\">Introduction</a></li><li><a href=\"#chapter-1-abstract\">Chapter 1: Abstract</a></li><li><a href=\"#chapter-2-history\">Chapter 2: History</a></li><li><a href=\"#chapter-3-main-content\">Chapter 3: Main Content</a></li><li><a href=\"#chapter-4-additional-thoughts\">Chapter 4: Additional Thoughts</a></li><li><a href=\"#conclusion\">Conclusion</a></li>",
+                        "columns": 2,
+                        "headings": [
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "772a8989-f0fc-4631-aea8-beb7550b2d41",
+                                "tag": 4,
+                                "isExcluded": true
+                            },
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "2ce8247b-09a7-46e2-8af7-a3fef5972273",
+                                "tag": 4,
+                                "isExcluded": true
+                            },
+                            {
+                                "content": "This Is the Title of Your Blog Post",
+                                "level": 1,
+                                "anchor": "this-is-the-title-of-your-blog-post",
+                                "clientId": "a331d953-a5a8-49a5-89f7-e792fedd45b0",
+                                "tag": 1
+                            },
+                            {
+                                "content": "Table of Contents",
+                                "level": 4,
+                                "anchor": "table-of-contents",
+                                "clientId": "361bbdb1-153b-4d68-9450-a1b129ed5322",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Introduction",
+                                "level": 2,
+                                "anchor": "introduction",
+                                "clientId": "4c6335e9-a1d7-4d00-8b91-e1c5e58cc7b8",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Chapter 1: Abstract",
+                                "level": 2,
+                                "anchor": "chapter-1-abstract",
+                                "clientId": "a53ad90e-1346-4949-8968-a22ed8f85c33",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Chapter 2: History",
+                                "level": 2,
+                                "anchor": "chapter-2-history",
+                                "clientId": "3db5a7d4-778b-4ce4-8f24-4e8704235683",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Chapter 3: Main Content",
+                                "level": 2,
+                                "anchor": "chapter-3-main-content",
+                                "clientId": "6823025d-fe76-47f2-bccb-3efe38ac558e",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Chapter 4: Additional Thoughts",
+                                "level": 2,
+                                "anchor": "chapter-4-additional-thoughts",
+                                "clientId": "a3d799d9-3488-4af0-9313-55f365699c47",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Conclusion",
+                                "level": 2,
+                                "anchor": "conclusion",
+                                "clientId": "e1c63add-c3e2-42ea-bfc0-2668034b0fb5",
+                                "tag": 2
+                            }
+                        ],
+                        "includeH4": false,
+                        "includeH5": false,
+                        "includeH6": false
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

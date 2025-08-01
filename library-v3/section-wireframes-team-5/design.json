@@ -1,0 +1,382 @@
+{
+    "id": "section-wireframes-team-5",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "221411c",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7ecd02b"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6f8521f",
+                        "contentAlign": "center",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "cd9018c",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a2adb8d"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fc065a4"
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "ec35ed5",
+                                        "className": "is-style-fade"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "bd7a1ae",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-5/71e0c4bfb3a1.png",
+                                                "imageId": 1306,
+                                                "imageHeight": 450,
+                                                "imageFilter": "grayscale(1)",
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageFilterHover": "grayscale(0)",
+                                                "imageFilterParentHover": "grayscale(0)"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "0222ec4",
+                                                "blockBackgroundColorOpacity": 0,
+                                                "hasContainer": true,
+                                                "containerBackgroundColorType": "gradient",
+                                                "containerBackgroundColor": "transparent",
+                                                "containerBackgroundColor2": "#000000",
+                                                "containerBackgroundColorOpacity": 0.3,
+                                                "containerBackgroundGradientDirection": 180,
+                                                "containerBackgroundGradientLocation2": 100,
+                                                "containerVerticalAlign": "flex-end",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "containerBackgroundColorOpacityParentHover": 0.6
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "9e6f456",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Position",
+                                                        "opacityParentHover": 0
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "3b8bc2a",
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Team Member 1",
+                                                        "textTag": "h4",
+                                                        "opacityParentHover": 0,
+                                                        "anchor": "team-member-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "df6a10d",
+                                                        "opacity": 0,
+                                                        "position": "absolute",
+                                                        "positionNum": {
+                                                            "top": "",
+                                                            "right": 0,
+                                                            "bottom": 0,
+                                                            "left": 0
+                                                        },
+                                                        "transform": "translateY(24px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur.",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0dbb759"
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "497afa3",
+                                        "className": "is-style-fade"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "fbad754",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-5/71e0c4bfb3a1.png",
+                                                "imageId": 1306,
+                                                "imageHeight": 450,
+                                                "imageFilter": "grayscale(1)",
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageFilterHover": "grayscale(0)",
+                                                "imageFilterParentHover": "grayscale(0)"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "0d37f63",
+                                                "blockBackgroundColorOpacity": 0,
+                                                "hasContainer": true,
+                                                "containerBackgroundColorType": "gradient",
+                                                "containerBackgroundColor": "transparent",
+                                                "containerBackgroundColor2": "#000000",
+                                                "containerBackgroundColorOpacity": 0.3,
+                                                "containerBackgroundGradientDirection": 180,
+                                                "containerBackgroundGradientLocation2": 100,
+                                                "containerVerticalAlign": "flex-end",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "containerBackgroundColorOpacityParentHover": 0.6
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "5e1da57",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Position",
+                                                        "opacityParentHover": 0
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "d074bc4",
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Team Member 2",
+                                                        "textTag": "h4",
+                                                        "opacityParentHover": 0,
+                                                        "anchor": "team-member-2"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "9200f55",
+                                                        "opacity": 0,
+                                                        "position": "absolute",
+                                                        "positionNum": {
+                                                            "top": "",
+                                                            "right": 0,
+                                                            "bottom": 0,
+                                                            "left": 0
+                                                        },
+                                                        "transform": "translateY(24px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur.",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8b372d3"
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "9a32291",
+                                        "className": "is-style-fade"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "1106b32",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-5/71e0c4bfb3a1.png",
+                                                "imageId": 1306,
+                                                "imageHeight": 450,
+                                                "imageFilter": "grayscale(1)",
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageFilterHover": "grayscale(0)",
+                                                "imageFilterParentHover": "grayscale(0)"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fc00173",
+                                                "blockBackgroundColorOpacity": 0,
+                                                "hasContainer": true,
+                                                "containerBackgroundColorType": "gradient",
+                                                "containerBackgroundColor": "transparent",
+                                                "containerBackgroundColor2": "#000000",
+                                                "containerBackgroundColorOpacity": 0.3,
+                                                "containerBackgroundGradientDirection": 180,
+                                                "containerBackgroundGradientLocation2": 100,
+                                                "containerVerticalAlign": "flex-end",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "containerBackgroundColorOpacityParentHover": 0.6
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "35ec080",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Position",
+                                                        "opacityParentHover": 0
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "83d0b5c",
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Team Member 3",
+                                                        "textTag": "h4",
+                                                        "opacityParentHover": 0,
+                                                        "anchor": "team-member-3"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "14feb1d",
+                                                        "opacity": 0,
+                                                        "position": "absolute",
+                                                        "positionNum": {
+                                                            "top": "",
+                                                            "right": 0,
+                                                            "bottom": 0,
+                                                            "left": 0
+                                                        },
+                                                        "transform": "translateY(24px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur.",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

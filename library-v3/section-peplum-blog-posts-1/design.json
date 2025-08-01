@@ -1,0 +1,184 @@
+{
+    "id": "section-peplum-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1927c41",
+        "hasBackground": true,
+        "blockBackgroundColor": "#b27197",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7d9e505"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "1b134c1",
+                        "fontSize": 56,
+                        "fontFamily": "Yeseva One",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Our Blog"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "701fd38",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "e42653c"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fa1fe64",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#901279",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-blog-posts-1/4b69dd30d0ed.jpg",
+                                "containerBackgroundTintStrength": 3,
+                                "containerHeight": 300,
+                                "containerVerticalAlign": "center",
+                                "containerBackgroundColorHover": "#901279",
+                                "containerBackgroundTintStrengthHover": 5
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7f72f8c",
+                                        "fontSize": 48,
+                                        "fontFamily": "Yeseva One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Blog Post 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e7945be",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et consectetur sem. Fusce ultricies eget ante ac volutpat. Pellentesque viverra massa in euismod convallis. Cras sit amet lacinia lorem."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "3f5bc03"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "f60e769",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#000000",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "textTransform": "uppercase",
+                                                "text": "Read More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "db0a8a5",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#901279",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-blog-posts-1/d359850766e0.jpg",
+                                "containerBackgroundTintStrength": 3,
+                                "containerHeight": 300,
+                                "containerVerticalAlign": "center",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#901279",
+                                "containerBackgroundTintStrengthHover": 5
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "dc21302",
+                                        "fontSize": 48,
+                                        "fontFamily": "Yeseva One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Blog Post 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5c8642d",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et consectetur sem. Fusce ultricies eget ante ac volutpat. Pellentesque viverra massa in euismod convallis. Cras sit amet lacinia lorem."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "a27f886"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "bf9cd3e",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#000000",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "textTransform": "uppercase",
+                                                "text": "Read More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

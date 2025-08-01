@@ -1,0 +1,223 @@
+{
+    "id": "section-wireframes-hero-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "46a5810",
+        "hasBackground": true,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7d4dfc8"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9958e60",
+                        "columnGap": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "692dba4"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "fe2fbe1",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-3/d7a363e397fc.png",
+                                        "imageId": 1311,
+                                        "imageWidthAttribute": 600,
+                                        "imageHeightAttribute": 500,
+                                        "imageHeight": 500
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b56986f",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "db03f9a",
+                                        "text": "Title for this Section"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c82c9c9",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi. Vivamus at lacinia elit. Phasellus at faucibus lacus."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "b48a0bb"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "0826d47",
+                                                "text": "Button Text"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "815a2f3",
+                                                "buttonBackgroundColor": "transparent",
+                                                "buttonBorderType": "solid",
+                                                "text": "Button Text",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-ghost"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "a7cfe55",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "1110c44"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "be809e8"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "9bbb28e"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "5f1e213",
+                                                "contentAlign": "left"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4470211",
+                                                "hasP": true,
+                                                "text": "Description for this block. Use this space for describing this block.",
+                                                "textTag": "h5"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "26a54fc"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "3962f18"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "648457a",
+                                                "contentAlign": "left"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "aab0bdc",
+                                                "hasP": true,
+                                                "text": "Description for this block. Use this space for describing this block.",
+                                                "textTag": "h5"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "de6f710"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "4aa70e3"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "f90b9a3",
+                                                "contentAlign": "left"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "cb74b58",
+                                                "hasP": true,
+                                                "text": "Description for this block. Use this space for describing this block.",
+                                                "textTag": "h5"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

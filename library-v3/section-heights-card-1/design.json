@@ -1,0 +1,204 @@
+{
+    "id": "section-heights-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fedf433",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9ad20b4"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "f2ab7db",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "Card Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d515ced",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "b18e153"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "32552f8"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "11eca8f",
+                                        "containerBorderRadius": 20,
+                                        "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-card-1/c9d1a66b6c0f.jpg",
+                                        "imageId": 2216,
+                                        "imageWidthAttribute": 2250,
+                                        "imageHeightAttribute": 1500,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "8121d06",
+                                                "fontSize": 32,
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "bold",
+                                                "textColor1": "#313131",
+                                                "text": "Title 1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "f230b04",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "7813dc3",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "4f5b454"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "09fe803",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#313131",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "82e829c"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "643d348",
+                                        "containerBorderRadius": 20,
+                                        "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-card-1/2a15edf6ad53.jpg",
+                                        "imageId": 2217,
+                                        "imageWidthAttribute": 1024,
+                                        "imageHeightAttribute": 806,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "95adafc",
+                                                "fontSize": 32,
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "bold",
+                                                "textColor1": "#313131",
+                                                "text": "Title 2"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "b88e979",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "2889787",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "0687752"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "25e26ea",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#313131",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

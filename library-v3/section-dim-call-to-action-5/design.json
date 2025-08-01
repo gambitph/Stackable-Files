@@ -1,0 +1,72 @@
+{
+    "id": "section-dim-call-to-action-5",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "59d1800",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-call-to-action-5/90cbbff2b97b.jpg",
+        "blockBackgroundTintStrength": 3,
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "7e130aa",
+                "fontSize": 48,
+                "fontFamily": "Roboto",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Minimalist Movement",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "d6f027a",
+                "blockWidth": 600,
+                "blockHorizontalAlign": "flex-end",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "cf23213"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "ad31f39",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontSize": 18,
+                        "fontFamily": "Sans-Serif",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

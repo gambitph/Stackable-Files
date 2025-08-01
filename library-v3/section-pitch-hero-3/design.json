@@ -1,0 +1,176 @@
+{
+    "id": "section-pitch-hero-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7e70f91",
+        "hasBackground": true,
+        "blockBackgroundColor": "#101828",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5c87696"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c501fb8"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "601fb07",
+                                "columnAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "2e80478",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-3/01f5cbeff97d.png",
+                                        "imageId": 1098,
+                                        "imageWidthAttribute": 181,
+                                        "imageHeightAttribute": 181,
+                                        "imageWidth": 140,
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d217d58",
+                                        "textColorClass": "has-stk-global-color-51431-color",
+                                        "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                        "text": "<strong>BLACK FRIDAY SALE</strong>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a85cdb8",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-background-color",
+                                        "textColor1": "#ffffff",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "fontSizeTablet": 32,
+                                        "fontSizeMobile": 25,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f058e4b",
+                                        "textColorClass": "has-background-color",
+                                        "textColor1": "#ffffff",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis massa est nunc at et nulla ultrices tristique nulla."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "9c36eb9"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "7e52834",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                "iconPosition": "right",
+                                                "text": "Let's Go"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "35baf64",
+                                "hasBackground": true,
+                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-3/90b308512e31.png",
+                                "blockBackgroundTintStrength": 2,
+                                "blockVerticalAlignMobile": "center"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d9a3c89",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-3/708279248b70.png",
+                                        "imageId": 1097,
+                                        "imageWidthAttribute": 1015,
+                                        "imageHeightAttribute": 763,
+                                        "positionNum": {
+                                            "top": 100,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "positionNumMobile": {
+                                            "top": 16,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "0db884e",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-3/b6a6a83fb1d1.png",
+                                        "imageId": 1101,
+                                        "imageWidthAttribute": 150,
+                                        "imageHeightAttribute": 58,
+                                        "imageWidth": 140,
+                                        "zIndex": 2,
+                                        "positionNum": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 100,
+                                            "left": ""
+                                        },
+                                        "imageWidthTablet": 100,
+                                        "imageWidthUnit": "px",
+                                        "imageWidthUnitTablet": "px",
+                                        "positionNumTablet": {
+                                            "top": 20,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "positionNumMobile": {
+                                            "top": -100,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

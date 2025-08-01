@@ -1,0 +1,356 @@
+{
+    "id": "section-munch-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "309a4f3",
+        "hasBackground": true,
+        "blockBackgroundColor": "#037edf",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-service-1/7e297ec0d8fe.jpg",
+        "blockBackgroundImageBlendMode": "soft-light",
+        "blockBackgroundTintStrength": 7,
+        "blockFixedBackground": true,
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "832a313"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "0bc5b83",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "contentAlign": "left",
+                        "fontSize": 16,
+                        "fontFamily": "Chivo",
+                        "fontWeight": "600",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "How to"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "76d6ed1",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Lilita One",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Order from us"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "14591c2",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5ced500",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "90c5e4a",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "zIndex": 2,
+                                        "fontFamily": "Lilita One",
+                                        "text": "01",
+                                        "shapeShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "shapeSize": 112
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "b3bd95f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "ad529b6",
+                                                "blockMargin": {
+                                                    "top": -64,
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "hasContainer": true,
+                                                "containerBorderRadius": 12,
+                                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                "containerHeight": 300
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "df51237",
+                                                        "blockMargin": {
+                                                            "top": 32,
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "fontSize": 32,
+                                                        "fontFamily": "Lilita One",
+                                                        "textTransform": "uppercase",
+                                                        "textRemoveTextMargins": true,
+                                                        "textColor1": "#037edf",
+                                                        "text": "Step 1: Browse menu"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "90ef501",
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis nunc erat, a luctus lectus feugiat non."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ac0e5a4",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "47c3bb3",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "zIndex": 2,
+                                        "fontFamily": "Lilita One",
+                                        "text": "02",
+                                        "shapeShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "shapeSize": 112
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "e665404"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "5adeefa",
+                                                "blockMargin": {
+                                                    "top": -64,
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "hasContainer": true,
+                                                "containerBorderRadius": 12,
+                                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                "containerHeight": 300
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "dddee5e",
+                                                        "blockMargin": {
+                                                            "top": 32,
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "fontSize": 32,
+                                                        "fontFamily": "Lilita One",
+                                                        "textTransform": "uppercase",
+                                                        "textRemoveTextMargins": true,
+                                                        "textColor1": "#037edf",
+                                                        "text": "Step 2: Add to cart"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "50c3e38",
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis nunc erat, a luctus lectus feugiat non."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "63da7f3",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "b99c9c1",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "zIndex": 2,
+                                        "fontFamily": "Lilita One",
+                                        "text": "03",
+                                        "shapeShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "shapeSize": 112
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "15f424f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fcaf471",
+                                                "blockMargin": {
+                                                    "top": -64,
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "hasContainer": true,
+                                                "containerBorderRadius": 12,
+                                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                "containerHeight": 300
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "center",
+                                                        "uniqueId": "9b5c980",
+                                                        "blockMargin": {
+                                                            "top": 32,
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "fontSize": 32,
+                                                        "fontFamily": "Lilita One",
+                                                        "textTransform": "uppercase",
+                                                        "textRemoveTextMargins": true,
+                                                        "textColor1": "#037edf",
+                                                        "text": "Step 3: Fill up form"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "34c5550",
+                                                        "contentAlign": "center",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis nunc erat, a luctus lectus feugiat non."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

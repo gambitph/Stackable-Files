@@ -1,0 +1,688 @@
+{
+    "id": "section-flow-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cc9baf1",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/76def7cd211b.png",
+        "blockBackgroundTintStrength": 4,
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e97995d"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5f67cd1",
+                        "customAttributes": [],
+                        "contentAlign": "center",
+                        "fontFamily": "Space Grotesk",
+                        "fontWeight": "bold",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "e6c6454",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Our App's Features",
+                        "anchor": "no-need-to-take-our-word-for-it"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "932c7c7",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "53b2bf1",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c654559",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "1fba1c6",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/a2e0e032da3b.png",
+                                        "imageId": 2410,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7a52821",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 1",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "37cd457",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a3bb751",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 49.9,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5274028",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/f0515e7e0e01.png",
+                                        "imageId": 2411,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7f9c4af",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 2",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "75861f0",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1b77593",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "2d3f140",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/4b496ada96c6.png",
+                                        "imageId": 2451,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7d83ee7",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 3",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5e91838",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0f0ada7",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "314da8b",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/b475ef34d0b5.png",
+                                        "imageId": 2449,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "5ba96ef",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 4",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a3d3b0c",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d2c5980",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b724088",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "cd9b0e3",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/3b5f5044eeee.png",
+                                        "imageId": 2452,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f35bcaf",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 5",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "25d9bee",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b3ffce5",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "0afc630",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/d37e7c09aa4b.png",
+                                        "imageId": 2447,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "ea791fa",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 6",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1bcfb8a",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7a8737a",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "562c202",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/1afe7b4cdb5d.png",
+                                        "imageId": 2448,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "088308d",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 7",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f10c2ce",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8dc9362",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.3,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 25,
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "c804ca1",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-2/308f55c0cacc.png",
+                                        "imageId": 2450,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 5px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "4408371",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 8",
+                                        "textTag": "h4",
+                                        "anchor": "no-need-to-take-our-word-for-it"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d62eae9",
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

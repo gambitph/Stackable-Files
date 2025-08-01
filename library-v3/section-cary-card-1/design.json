@@ -1,0 +1,151 @@
+{
+    "id": "section-cary-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "89545e0",
+        "blockWidth": 700,
+        "blockHorizontalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "37ce5e9"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "96169f8",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-card-1/8aef2bb54c7b.jpeg",
+                        "imageId": 1870,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 532,
+                        "contentAlign": "center",
+                        "customAttributes": [],
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "5bbb7c9",
+                                "fontSize": 32,
+                                "fontFamily": "Roboto",
+                                "fontWeight": "300",
+                                "text": "Card 1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "2c61a02",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "56a0776"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "2ee7355",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#000000",
+                                        "fontSize": 18,
+                                        "fontFamily": "Sans-Serif",
+                                        "text": "Learn More",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d7ebc64"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "dd02d9a",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-card-1/a07ad90c15de.jpeg",
+                        "imageId": 1871,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 533,
+                        "contentAlign": "center",
+                        "customAttributes": [],
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "49032a0",
+                                "fontSize": 32,
+                                "fontFamily": "Roboto",
+                                "fontWeight": "300",
+                                "text": "Card 2"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "812ef75",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "7c895db"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "a497957",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#000000",
+                                        "fontSize": 18,
+                                        "fontFamily": "Sans-Serif",
+                                        "text": "Learn More",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

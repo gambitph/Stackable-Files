@@ -1,0 +1,165 @@
+{
+    "id": "section-prism-feature-4",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "67b88ed",
+        "blockMargin": {
+            "bottom": 40
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4bae587",
+                "hasBackground": true,
+                "blockBackgroundColorType": "gradient",
+                "blockBackgroundColor": "#e9ffe8",
+                "blockBackgroundColor2": "#f6fff5",
+                "blockBackgroundColorOpacity": 1,
+                "blockBackgroundGradientDirection": 200,
+                "blockBackgroundGradientLocation1": 23,
+                "blockHeight": 500,
+                "containerVerticalAlign": "flex-start",
+                "containerPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "columnAlign": "stretch",
+                "templateLock": "insert",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "blockHeightMobile": 280
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "4a89201",
+                        "blockBackgroundColorType": "gradient",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-feature-4/90b16a2c5251.png",
+                        "imageId": 3663,
+                        "imageWidthAttribute": 976,
+                        "imageHeightAttribute": 800,
+                        "imageWidth": 70,
+                        "imageShadow": "-42px 10px 30px rgba(var(--stk-global-color-1163-rgba, 108, 234, 234), 0.3)",
+                        "imageFilter": "grayscale(0)",
+                        "contentAlign": "right",
+                        "imageWidthTablet": 100
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2452f20",
+                "hasBackground": true,
+                "blockBackgroundColorOpacity": 0.2,
+                "columnAlign": "center",
+                "columnSpacing": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "80bbbee",
+                        "blockBackgroundColor": "transparent",
+                        "blockBackgroundColorOpacity": 1,
+                        "textRemoveTextMargins": false,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "textTag": "h3",
+                        "fontSizeMobile": 24,
+                        "lineHeightMobile": 1.4,
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fca8e0f",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "8c3dc19",
+                        "blockMargin": {
+                            "bottom": 0
+                        },
+                        "blockMarginTablet": {
+                            "bottom": 32
+                        }
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "3717af9",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderRadius": 50,
+                                "textColorClass": "has-stk-global-color-70676-color",
+                                "textColor1": "var(--stk-global-color-70676, #bc4eff)",
+                                "text": "<span class=\"stk-highlight\"><span style=\"text-decoration: underline\"><strong>DOWNLOAD FOR FREE</strong></span></span>",
+                                "className": "is-style-link"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6a7a899"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0a2b253",
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

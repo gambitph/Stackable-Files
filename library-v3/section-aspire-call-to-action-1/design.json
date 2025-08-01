@@ -1,0 +1,94 @@
+{
+    "id": "section-aspire-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "47ffd57",
+        "hasBackground": true,
+        "blockBackgroundColor": "#091830",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-call-to-action-1/8118cc291026.jpeg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "0ac0013"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "2b606fc",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "6f0765f",
+                                "customAttributes": [],
+                                "fontSize": 56,
+                                "fontFamily": "Archivo Black",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Title for This Block"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "b7bc30e",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "90a028f",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "a91e36f"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "92b29ce",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "#d3fc32",
+                                        "fontFamily": "DM Sans",
+                                        "textColor1": "#091830",
+                                        "text": "Button Text",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

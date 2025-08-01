@@ -1,0 +1,158 @@
+{
+    "id": "section-dustin-feature-2",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "6ac8611",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f2e4aba"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "93ce30c",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-feature-2/44ec99018398.jpg",
+                        "imageId": 2192,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 800
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "bc332fe",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "caa2479",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "f18296a"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "651b37b",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#000000",
+                                "buttonBorderRadius": 50,
+                                "iconColor1": "#FFFFFF",
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Button",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "23872f4"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "0300e77",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-feature-2/b4f366bc9fb5.jpg",
+                        "imageId": 2193,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 800
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "fdecfbe",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "142ef48",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "449d349"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "0e572a2",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#000000",
+                                "buttonBorderRadius": 50,
+                                "iconColor1": "#FFFFFF",
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Button",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

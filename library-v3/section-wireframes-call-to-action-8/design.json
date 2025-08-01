@@ -1,0 +1,96 @@
+{
+    "id": "section-wireframes-call-to-action-8",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "9d145df",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-call-to-action-8/71875029cdeb.png",
+        "blockHeight": 540,
+        "blockVerticalAlign": "center",
+        "blockHorizontalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7811cbc",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {}
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "49366d7",
+                        "text": "Title for this Call to Action Block",
+                        "anchor": "title-for-this-call-to-action-block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7d84829",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor. Aliquam tempus ligula ac mattis sagittis. Curabitur nisl ipsum, euismod sed sodales nec, pulvinar eu magna."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "b2568f0"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "3e5fa20",
+                                "text": "Button Text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "27eab82",
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "text": "Button Text",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0a914db",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {}
+            },
+            [
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "44fcc45"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

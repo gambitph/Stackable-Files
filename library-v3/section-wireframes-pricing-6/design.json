@@ -1,0 +1,574 @@
+{
+    "id": "section-wireframes-pricing-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c6d9482",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0da8a31"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "dc20a4d",
+                        "blockMargin": {
+                            "bottom": 12
+                        },
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7080914",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5d071b5",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "2a5894f",
+                        "blockHorizontalAlignMobile": "center",
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPaddingMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "rowGapMobile": 40
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3857393",
+                                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                                "blockMarginMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPaddingTablet": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1,
+                                "columnSpacingTablet": {
+                                    "top": "",
+                                    "right": 140,
+                                    "bottom": "",
+                                    "left": 140
+                                },
+                                "columnSpacingMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "ff45fab",
+                                        "containerPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "containerPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "className": "is-style-banner"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "9d194ef",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#1a4548",
+                                                "blockMargin": {
+                                                    "bottom": ""
+                                                },
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                },
+                                                "fontSize": 15,
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "OPTION 1",
+                                                "textTag": "h6",
+                                                "positionNumUnit": "%",
+                                                "anchor": "option-1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "ae9739d",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Title for This Block",
+                                                "textTag": "h5",
+                                                "anchor": "title-for-this-block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "9e2af70"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "0a2182b",
+                                                        "htmlTag": "span",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "9d303c8",
+                                                        "htmlTag": "span",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "df18454",
+                                                        "htmlTag": "span",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "3f0f00b",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "e8edb61",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "0f1ba64"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "6f9e9dc",
+                                                        "blockPadding": {
+                                                            "top": 16,
+                                                            "right": 16,
+                                                            "bottom": 16,
+                                                            "left": 16
+                                                        },
+                                                        "buttonFullWidth": true,
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a05fe1e",
+                                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1,
+                                "columnSpacingTablet": {
+                                    "top": "",
+                                    "right": 140,
+                                    "bottom": "",
+                                    "left": 140
+                                },
+                                "columnSpacingMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "9a08817",
+                                        "containerPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-banner"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "805e71f",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#1a4548",
+                                                "blockMargin": {
+                                                    "bottom": ""
+                                                },
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                },
+                                                "fontSize": 15,
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "OPTION 2",
+                                                "textTag": "h6",
+                                                "positionNumUnit": "%",
+                                                "anchor": "option-2"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "c401ae6",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Title for This Block",
+                                                "textTag": "h5",
+                                                "anchor": "title-for-this-block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "9c85562"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "5ee46c0",
+                                                        "htmlTag": "span",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ac2da89",
+                                                        "htmlTag": "span",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "21066d7",
+                                                        "htmlTag": "span",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "eb37a8f",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "7d6d868",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "8ad7d0c"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "8effd44",
+                                                        "blockPadding": {
+                                                            "top": 16,
+                                                            "right": 16,
+                                                            "bottom": 16,
+                                                            "left": 16
+                                                        },
+                                                        "customAttributes": [],
+                                                        "buttonFullWidth": true,
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5308dba",
+                                "containerShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1,
+                                "columnSpacingTablet": {
+                                    "top": "",
+                                    "right": 140,
+                                    "bottom": "",
+                                    "left": 140
+                                },
+                                "columnSpacingMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "fedc6d3",
+                                        "containerPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-banner"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "41aa3dd",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#1a4548",
+                                                "blockMargin": {
+                                                    "bottom": ""
+                                                },
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                },
+                                                "fontSize": 15,
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "OPTION 3",
+                                                "textTag": "h6",
+                                                "positionNumUnit": "%",
+                                                "anchor": "option-3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "c0f5784",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Title for This Block",
+                                                "textTag": "h5",
+                                                "anchor": "title-for-this-block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "5aa1792"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "b76e891",
+                                                        "htmlTag": "span",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "2a80261",
+                                                        "htmlTag": "span",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "79be94d",
+                                                        "htmlTag": "span",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "c3aab01",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "d2bd4e5",
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "e9f4516"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "8bae23d",
+                                                        "blockPadding": {
+                                                            "top": 16,
+                                                            "right": 16,
+                                                            "bottom": 16,
+                                                            "left": 16
+                                                        },
+                                                        "customAttributes": [],
+                                                        "buttonFullWidth": true,
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

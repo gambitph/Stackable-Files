@@ -1,0 +1,205 @@
+{
+    "id": "section-upland-service-1",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "9bcd60b",
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c2672ef",
+                "hasContainer": true
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3188102",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-service-1/ca42746b5f3b.png",
+                        "imageId": 1408,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 800,
+                        "imageWidth": 20
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "11a8e42",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "cbdcf15",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "c0f98a7"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "1c6f454",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "Lato",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "opacityHover": 0.8,
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "36f40d6",
+                "hasContainer": true
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c6fb2cd",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-service-1/27dcb9af542d.png",
+                        "imageId": 1409,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 800,
+                        "imageWidth": 20
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "f3cf12c",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "3744c24",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "3892f84"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "10ea6d0",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "Lato",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "opacityHover": 0.8,
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8b05191",
+                "hasContainer": true
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "81a97c9",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-service-1/8153a1a1b792.png",
+                        "imageId": 1410,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 800,
+                        "imageWidth": 20
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c77659a",
+                        "fontFamily": "Lato",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for This Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "59721cc",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "1395839"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "0205975",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "Lato",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "opacityHover": 0.8,
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

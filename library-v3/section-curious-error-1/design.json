@@ -1,0 +1,115 @@
+{
+    "id": "section-curious-error-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c63ca93",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fee6a8",
+        "blockHeight": 720,
+        "blockVerticalAlign": "center",
+        "blockPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "80980af",
+                "blockWidth": 1008,
+                "blockHorizontalAlign": "center"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "30dd191",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#fcc6df",
+                        "blockPadding": {
+                            "top": 56,
+                            "right": 56,
+                            "bottom": 56,
+                            "left": 56
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2e78c8e",
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "6892d2d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-error-1/0369c763fda1.png",
+                                        "imageId": 756,
+                                        "imageWidthAttribute": 198,
+                                        "imageHeightAttribute": 170,
+                                        "imageWidth": 195,
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a744235",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Uh oh, 404!",
+                                        "textTag": "h1",
+                                        "anchor": "uh-oh-404"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "bee9661",
+                                        "text": "There seems to be an unexpected error."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4800417",
+                        "contentAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "4835436",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#93d0e2",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#000000",
+                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                "iconColor1": "#000000",
+                                "iconRotation": 180,
+                                "textColorClass": "has-foreground-color",
+                                "textColor1": "#000000",
+                                "text": "Return to home"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

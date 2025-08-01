@@ -1,0 +1,103 @@
+{
+    "id": "section-seren-feature-3",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "ba1fd3a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7f529eb",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c34b044",
+                        "customAttributes": [],
+                        "fontSize": 40,
+                        "fontFamily": "Manrope",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Feature Block",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "139ea73",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "ddfa73b"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "cd5c686",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9323b9f",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "76a3fc0",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-feature-3/8514f907ad41.jpg",
+                        "imageId": 2372,
+                        "imageWidthAttribute": 1707,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 600,
+                        "imageWidth": 80
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "id": "section-hue-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6486ab2",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ca9d9bb"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "e94f1b9",
+                        "fontSize": 64,
+                        "fontFamily": "Karla",
+                        "fontWeight": "bold",
+                        "text": "Be Amazing"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f736503",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "45953d5"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "17db2fa"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "a008078",
+                                        "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-card-1/3bc7243257e6.jpg",
+                                        "imageId": 2171,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 533,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "038eb59",
+                                                "fontFamily": "Karla",
+                                                "fontWeight": "bold",
+                                                "text": "Card Block 1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "548e127",
+                                                "blockMargin": {
+                                                    "bottom": ""
+                                                },
+                                                "fontSize": 16,
+                                                "fontFamily": "Inconsolata",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "85781f3",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "822fe5e"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "6b044e9",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#00e0ff",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inconsolata",
+                                                        "textColorClass": "has-black-color",
+                                                        "textColor1": "#000000",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "75b56fb"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "1c67ec9",
+                                        "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-card-1/647b1a13aec7.jpg",
+                                        "imageId": 2172,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 533,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "9f0e418",
+                                                "fontFamily": "Karla",
+                                                "fontWeight": "bold",
+                                                "text": "Card Block 1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "dbcdfcb",
+                                                "blockMargin": {
+                                                    "bottom": ""
+                                                },
+                                                "fontSize": 16,
+                                                "fontFamily": "Inconsolata",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "7b0b0c0",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "0a0e742"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "00d5a2e",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#00e0ff",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inconsolata",
+                                                        "textColorClass": "has-black-color",
+                                                        "textColor1": "#000000",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

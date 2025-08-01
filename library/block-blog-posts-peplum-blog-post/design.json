@@ -1,0 +1,25 @@
+{
+    "id": "block-blog-posts-peplum-blog-post",
+    "name": "ugb/blog-posts",
+    "attributes": {
+        "design": "portfolio2",
+        "borderRadius": 0,
+        "shadow": 5,
+        "numberOfItems": 2,
+        "order": "asc",
+        "columnBackgroundColor": "#901279",
+        "showCategory": false,
+        "showMeta": false,
+        "readmoreColor": "var(--stk-global-color-15911, #ffeff1)",
+        "titleBottomMargin": 8,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-10518, #b27197)",
+        "showBlockTitle": true,
+        "blockTitle": "Our Blog",
+        "blockTitleColor": "var(--stk-global-color-68335, #ffffff)",
+        "showBlockDescription": true,
+        "blockDescriptionColor": "var(--stk-global-color-15911, #ffeff1)"
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "id": "section-devour-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "26c29d0",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1b646ab",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "e434722",
+                        "fontSize": 16,
+                        "fontFamily": "Karla",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Best Seller"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ceaefe1",
+                        "fontFamily": "Cherry Swash",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#3d9457",
+                        "text": "Hamburger Set 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "2e3e549"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "7510b0f",
+                                "htmlTag": "span",
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "16ca05f",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "25",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "6d7818d",
+                                "htmlTag": "span",
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "1c2ccaa",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. You can use this space for describing your block.  Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "da6f90f"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "0202933",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffce46",
+                                "buttonBorderRadius": 50,
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4e03caa",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "b5dbb58",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-feature-2/ce4cfdb0738f.jpg",
+                        "imageId": 2021,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 2400,
+                        "imageHeight": 500
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

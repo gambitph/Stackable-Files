@@ -1,0 +1,238 @@
+{
+    "id": "section-bean-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ceb2492",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ac1af9d"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "a7cc66f",
+                        "fontSize": 56,
+                        "fontFamily": "Cardo",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#3f2816",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "core/paragraph",
+                    {
+                        "content": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5262811"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "52b1e7e",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-card-1/3fb028c4b51a.jpg",
+                                "containerShadow": "none",
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "64e1961",
+                                        "fontSize": 32,
+                                        "fontFamily": "Cardo",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title for this Block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b3b45df",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "133dd39"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "c2de75c",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#b79066",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Sans Pro",
+                                                "text": "Read More",
+                                                "opacityHover": 0.8
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d79a07b",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-card-1/3cc00ffe38a3.jpg",
+                                "containerShadow": "none",
+                                "contentAlign": "left",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "45a831a",
+                                        "fontSize": 32,
+                                        "fontFamily": "Cardo",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title for this Block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "13e4ad4",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "a8db92f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "7de97b5",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#b79066",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Sans Pro",
+                                                "text": "Read More",
+                                                "opacityHover": 0.8
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "95bba9e",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-card-1/b8492bba566b.jpg",
+                                "containerShadow": "none",
+                                "contentAlign": "left",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "9d0e8d3",
+                                        "fontSize": 32,
+                                        "fontFamily": "Cardo",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title for this Block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c1e9a01",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "e1be978"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "70bf445",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#b79066",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Sans Pro",
+                                                "text": "Read More",
+                                                "opacityHover": 0.8
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

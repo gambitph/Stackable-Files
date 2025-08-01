@@ -1,0 +1,214 @@
+{
+    "id": "section-glow-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1a6156c",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "48429a9"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "67660bf",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "text": "The Best Choices"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "586ab56",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "df0143b"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "638a44d",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-image-gallery-1/41a6cca572be.jpg",
+                                "containerBorderRadius": 20,
+                                "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "containerBackgroundColorHover": "#000000"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "c821518",
+                                        "fontSize": 16,
+                                        "fontFamily": "Open Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0b49710",
+                                        "customAttributes": [],
+                                        "fontSize": 48,
+                                        "fontFamily": "Ubuntu",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Image 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1282d49",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "63553e8",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-image-gallery-1/cd919f0dd98b.jpg",
+                                "containerBorderRadius": 20,
+                                "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#000000"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "a485e41",
+                                        "fontSize": 16,
+                                        "fontFamily": "Open Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "bb9444c",
+                                        "customAttributes": [],
+                                        "fontSize": 48,
+                                        "fontFamily": "Ubuntu",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Image 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2a2a2a6",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2a1d59c",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-image-gallery-1/7480246618bd.jpg",
+                                "containerBorderRadius": 20,
+                                "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#000000"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "14d838c",
+                                        "fontSize": 16,
+                                        "fontFamily": "Open Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "bc9f173",
+                                        "customAttributes": [],
+                                        "fontSize": 48,
+                                        "fontFamily": "Ubuntu",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Image 3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "442f2c0",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "id": "section-sol-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4830b9c",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f6f6f6",
+        "blockMargin": {
+            "bottom": 23
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 64,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "63dc570",
+                "columnAlign": "center",
+                "effectAnimationSmooth": true,
+                "effectAnimationIn": {
+                    "translatex": -300
+                }
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "7ae7225",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColor1": "#ed5521",
+                        "text": "#1 BEST SELLER"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "96afb49",
+                        "customAttributes": [],
+                        "fontSize": 56,
+                        "fontFamily": "Raleway",
+                        "fontWeight": "800",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1a1a1a",
+                        "text": "Featured Product"
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "bac9aca",
+                        "blockMargin": {
+                            "top": 24,
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "color": "#b9b9b9",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "454425b",
+                        "blockMargin": {
+                            "bottom": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "96ae8e9"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "92cc269",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "fontSize": 16,
+                                        "fontFamily": "Inter",
+                                        "textColor1": "#919191",
+                                        "text": "Frame Colors"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7e13b3a",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Raleway",
+                                        "fontWeight": "400",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1a1a1a",
+                                        "text": "Black, Gold"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "bfe9ed4"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "a9acf20",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "fontSize": 16,
+                                        "fontFamily": "Inter",
+                                        "textColor1": "#919191",
+                                        "text": "Lens Colors"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "e2f62b4",
+                                        "fontSize": 24,
+                                        "fontFamily": "Raleway",
+                                        "fontWeight": "400",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1a1a1a",
+                                        "text": "Green"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "dc60c94"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "3f1c07b",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "fontSize": 16,
+                                        "fontFamily": "Inter",
+                                        "textColor1": "#919191",
+                                        "text": "Prescription"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "4e7248f",
+                                        "fontSize": 24,
+                                        "fontFamily": "Raleway",
+                                        "fontWeight": "400",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1a1a1a",
+                                        "text": "Available"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "310fa82",
+                        "blockMargin": {
+                            "top": 0,
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "color": "#b9b9b9",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ac756ed",
+                        "customAttributes": [],
+                        "textColorClass": "has-stk-global-color-78455-color",
+                        "textColor1": "#111111",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis feugiat pharetra quis imperdiet cursus tristique tincidunt non vitae. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "8b94c46"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "f69151f",
+                                "htmlTag": "span",
+                                "fontFamily": "Raleway",
+                                "fontWeight": "700",
+                                "textColor1": "#1a1a1a",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "4f41593",
+                                "htmlTag": "span",
+                                "fontSize": 80,
+                                "fontFamily": "Raleway",
+                                "fontWeight": "700",
+                                "textColor1": "#1a1a1a",
+                                "text": "24",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "35ef9d5",
+                                "htmlTag": "span",
+                                "fontSize": 32,
+                                "fontFamily": "Raleway",
+                                "fontWeight": "700",
+                                "textColor1": "#1a1a1a",
+                                "text": ".50",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "f726f18",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "textColor1": "#1a1a1a",
+                        "text": "$5 off with code 5OFF"
+                    },
+                    []
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "a22c61c",
+                        "height": 24
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "f361e31"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "9dca791",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#ed5521",
+                                "fontSize": 18,
+                                "fontFamily": "Inter",
+                                "textColorClass": "has-stk-global-color-58834-color",
+                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "9b492b3",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#ed5521",
+                                "icon": "<svg data-prefix=\"fas\" data-icon=\"heart\" class=\"svg-inline--fa fa-heart fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z\"></path></svg>",
+                                "iconColor1": "#ed5521",
+                                "fontSize": 18,
+                                "textColor1": "#ed5521",
+                                "text": "Add to Favorites",
+                                "buttonBackgroundColorHover": "#ed5521",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "buttonBorderColorHover": "transparent",
+                                "iconColor1Hover": "var(--stk-global-color-58834, #ffffff)",
+                                "textColor1Hover": "var(--stk-global-color-58834, #ffffff)",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6425171",
+                "columnAlign": "center",
+                "effectAnimationIn": {
+                    "translatex": 300
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "fb3fc04",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-feature-2/2f15f32214f7.jpg",
+                        "imageId": 1079,
+                        "imageWidthAttribute": 1702,
+                        "imageHeightAttribute": 2560,
+                        "imageShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

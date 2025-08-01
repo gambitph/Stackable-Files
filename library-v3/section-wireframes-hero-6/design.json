@@ -1,0 +1,152 @@
+{
+    "id": "section-wireframes-hero-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "0c3205c",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ebebeb",
+        "blockBorderRadius": 16,
+        "blockMargin": {
+            "top": 24,
+            "right": 24,
+            "bottom": "",
+            "left": 24
+        },
+        "blockPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "blockMarginMobile": {
+            "top": 32,
+            "right": 32,
+            "bottom": 32,
+            "left": 32
+        },
+        "blockPaddingMobile": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9579a07",
+                "containerWidth": 800,
+                "containerHorizontalAlign": "center",
+                "containerPadding": {
+                    "top": 40,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "blockMarginMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockPaddingMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6908d3b",
+                        "contentAlign": "center",
+                        "text": "SUBTITLE",
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "0a9a891",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "fontSizeMobile": 28,
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c08a3da",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeMobile": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "282dc22",
+                        "contentAlign": "center",
+                        "flexWrapMobile": "wrap"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e6ac877",
+                                "text": "Primary Button"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "94a6341",
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "text": "Secondary Button",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "a9a8b9b",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-6/b8f581fe71e7.png",
+                        "imageId": 147,
+                        "imageWidthAttribute": 380,
+                        "imageHeightAttribute": 200,
+                        "transform": "translateY(24px)"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

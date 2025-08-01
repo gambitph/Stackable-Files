@@ -1,0 +1,112 @@
+{
+    "id": "section-proact-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "07931aa",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f960bb6",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "feb2fbc",
+                        "fontSize": 16,
+                        "fontFamily": "Nunito",
+                        "textTransform": "uppercase",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "4ef6d43",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "600",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#ed5f47",
+                        "text": "Advanced Text Block",
+                        "showBottomLine": false,
+                        "bottomLineAlign": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "1147a38",
+                        "columnGap": 64
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "128558f",
+                                "containerBorderWidth": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "caa5075",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7b8dccf"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "11f586f",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fc4046e"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "844aad0",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

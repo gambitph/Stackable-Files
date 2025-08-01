@@ -1,0 +1,76 @@
+{
+    "id": "section-proact-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "cd1bd8f",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#4c548a",
+        "blockBackgroundColor2": "#dd3334",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-call-to-action-3/ac27dfcd10bb.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "41c1d53",
+                "fontSize": 64,
+                "fontFamily": "Poppins",
+                "fontWeight": "600",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "textColor2": "#dd3334",
+                "textGradientDirection": 0,
+                "text": "Call to Action Block",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "e147043",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "054a041"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "418edd4",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ed5f47",
+                        "buttonBorderRadius": 8,
+                        "fontSize": 18,
+                        "fontFamily": "Rubik",
+                        "text": "Contact Us"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

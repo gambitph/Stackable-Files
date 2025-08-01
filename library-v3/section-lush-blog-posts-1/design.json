@@ -1,0 +1,174 @@
+{
+    "id": "section-lush-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5333ad8",
+        "hasBackground": true,
+        "blockBackgroundColor": "#e4e4d3",
+        "blockPadding": {
+            "top": 110,
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "straight-1",
+        "topSeparatorHeight": 400,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "eb146c8"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "f3af87a",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-blog-posts-1/b56b6ffcffb3.jpg",
+                        "imageId": 2127,
+                        "imageWidthAttribute": 1707,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 500,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "10c2525",
+                                "fontFamily": "Lora",
+                                "textColor1": "#66826b",
+                                "text": "Blog Post 1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "26a7a20",
+                                "fontSize": 16,
+                                "fontFamily": "Alice",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "13dc88b",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "7cd4e65"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "52c13b0",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#be9743",
+                                        "fontSize": 18,
+                                        "fontFamily": "Alice",
+                                        "text": "Read More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "86d04b5"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "743bd2b",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-blog-posts-1/2fc11cd8807d.jpg",
+                        "imageId": 2129,
+                        "imageWidthAttribute": 1847,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 500,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "772308c",
+                                "fontFamily": "Lora",
+                                "textColor1": "#66826b",
+                                "text": "Blog Post 2"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "14d08ce",
+                                "fontSize": 16,
+                                "fontFamily": "Alice",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "d20eefb",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "b012402"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "a4b69b1",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#be9743",
+                                        "fontSize": 18,
+                                        "fontFamily": "Alice",
+                                        "text": "Read More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

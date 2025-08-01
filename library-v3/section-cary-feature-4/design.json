@@ -1,0 +1,80 @@
+{
+    "id": "section-cary-feature-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c666bfe",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bc84b30",
+                "blockVerticalAlign": "center",
+                "containerVerticalAlign": "center",
+                "columnWidth": 40
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d57df03",
+                        "fontSize": 64,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "685ab8c",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "c2f9317"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f6062c5",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#000000",
+                                "fontSize": 18,
+                                "fontFamily": "Sans-Serif",
+                                "text": "Buy Now",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4e4d898",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-feature-4/826033737e18.jpeg",
+                "blockHeight": 800,
+                "columnWidth": 60
+            },
+            []
+        ]
+    ]
+}

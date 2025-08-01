@@ -1,0 +1,685 @@
+{
+    "id": "section-wireframes-faq-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "2e55675",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "82bff02"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7c5ef0f",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "74fe544",
+                        "blockWidth": 700,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu consectetur mauris. Nunc ornare dignissim sagittis. Donec mattis lorem a porta vestibulum. Donec scelerisque dignissim odio, eget."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "888b556",
+                        "columnGap": 40,
+                        "rowGap": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4476ad8",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "df0b32d",
+                                        "text": "Category 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "d56ef84",
+                                        "hasBackground": true,
+                                        "blockBorderType": "solid",
+                                        "blockBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "blockBorderWidth": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": "",
+                                            "left": 0
+                                        },
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-colored"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "9501227",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "481aa6f"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "b6cc6c7",
+                                                                "hasP": true,
+                                                                "text": "Title for This Block",
+                                                                "textTag": "h4",
+                                                                "anchor": "title-for-this-block"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "d73aefd",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "b878c21",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "24ca54b",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "7756cf7",
+                                        "hasBackground": true,
+                                        "blockBorderType": "solid",
+                                        "blockBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "blockBorderWidth": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": "",
+                                            "left": 0
+                                        },
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-colored"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "5fb69b1",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "13c1ff0"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "d06d655",
+                                                                "hasP": true,
+                                                                "text": "Title for This Block",
+                                                                "textTag": "h4",
+                                                                "anchor": "title-for-this-block"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "e1903be",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "f03b213",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "9c8b3ad",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "2c5a823",
+                                        "hasBackground": true,
+                                        "blockBorderType": "solid",
+                                        "blockBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "blockBorderWidth": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": "",
+                                            "left": 0
+                                        },
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-colored"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "f859eb8",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "3693858"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "2466ca6",
+                                                                "hasP": true,
+                                                                "text": "Title for This Block",
+                                                                "textTag": "h4",
+                                                                "anchor": "title-for-this-block"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "6685a38",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "c98683b",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "7570719",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b2b33e9",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "ad14c72",
+                                        "text": "Category 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "ee9ee3e",
+                                        "hasBackground": true,
+                                        "blockBorderType": "solid",
+                                        "blockBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "blockBorderWidth": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": "",
+                                            "left": 0
+                                        },
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-colored"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "08e0c66",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "d1c5808"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "15fb20e",
+                                                                "hasP": true,
+                                                                "text": "Title for This Block",
+                                                                "textTag": "h4",
+                                                                "anchor": "title-for-this-block"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "2a4721a",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "7f03659",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "91f5830",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "71ee8e5",
+                                        "hasBackground": true,
+                                        "blockBorderType": "solid",
+                                        "blockBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "blockBorderWidth": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": "",
+                                            "left": 0
+                                        },
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-colored"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "e9fe074",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "c037f1b"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "63d5fa6",
+                                                                "hasP": true,
+                                                                "text": "Title for This Block",
+                                                                "textTag": "h4",
+                                                                "anchor": "title-for-this-block"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "13c2990",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "06e388b",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "93e7021",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "12acb6a",
+                                        "hasBackground": true,
+                                        "blockBorderType": "solid",
+                                        "blockBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                                        "blockBorderWidth": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": "",
+                                            "left": 0
+                                        },
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-colored"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "272cc3d",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "00a254d"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "a4c0602",
+                                                                "hasP": true,
+                                                                "text": "Title for This Block",
+                                                                "textTag": "h4",
+                                                                "anchor": "title-for-this-block"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "a654da6",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "6d90f02",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "5425569",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

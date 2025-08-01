@@ -1,0 +1,68 @@
+{
+    "id": "section-proact-lists-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "71ea390",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#49548c",
+        "blockBackgroundColor2": "#dd3334",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-lists-1/13fe7c311606.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e08297b"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "70dd824",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "500",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Icon List Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ce06c7e",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "5f531a0",
+                        "blockWidth": 700,
+                        "blockHorizontalAlign": "flex-end",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "<li>This is space for List Item 1</li><li>This is space for List Item 2</li><li>This is space for List Item 3</li><li>This is space for List Item 4</li><li>This is space for List Item 5</li><li>This is space for List Item 6</li>",
+                        "columns": 2,
+                        "markerColor": "#FFFFFF"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

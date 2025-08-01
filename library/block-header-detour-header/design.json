@@ -1,0 +1,28 @@
+{
+    "id": "block-header-detour-header",
+    "name": "ugb/header",
+    "attributes": {
+        "borderRadius": 0,
+        "columnBackgroundColorOpacity": 0.6,
+        "title": "REACH THE TOP",
+        "titleTag": "h1",
+        "titleColor": "#ffffff",
+        "titleMobileFontSize": 40,
+        "subtitleColor": "#ffffff",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "#eb5757",
+        "buttonBorderRadius": 0,
+        "button2Text": "",
+        "button2NewTab": false,
+        "blockWidth": 80,
+        "blockWidthUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundMediaId": 52,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-detour-header/block-background-background-media-url.jpg"
+    }
+}

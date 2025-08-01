@@ -1,0 +1,146 @@
+{
+    "id": "section-lush-feature-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5dd9a78",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3a02147",
+                "hasContainer": true,
+                "containerBackgroundColor": "#e4e4d3"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9d6c71a"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a5f2d4d",
+                                "columnWidth": 66.7
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "6692e6b",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-feature-3/ee8e0a9b8ca5.jpg",
+                                        "imageId": 2130,
+                                        "imageWidthAttribute": 1024,
+                                        "imageHeightAttribute": 898
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1288d08",
+                                "columnWidth": 33.3
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f7e35f7",
+                                        "fontSize": 32,
+                                        "fontFamily": "Lora",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#66826b",
+                                        "text": "Feature Grid 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "dc547d2",
+                                        "text": "Description for this block. You can use this space for describing your block. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e259b9f",
+                "hasContainer": true,
+                "containerBackgroundColor": "#e4e4d3",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "2eff4fd"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "51f615e",
+                                "columnWidth": 66.7
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "b03c379",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-feature-3/b245bf028894.jpg",
+                                        "imageId": 2114,
+                                        "imageWidthAttribute": 2000,
+                                        "imageHeightAttribute": 1753
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d8e2cf7",
+                                "columnWidth": 33.3
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "e114cb8",
+                                        "fontSize": 32,
+                                        "fontFamily": "Lora",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#66826b",
+                                        "text": "Feature Grid 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "16a71df",
+                                        "text": "Description for this block. You can use this space for describing your block. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

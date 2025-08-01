@@ -1,0 +1,201 @@
+{
+    "id": "section-capital-card-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "14818bf",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bafc9db"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "79a8fe1",
+                        "fontFamily": "IBM Plex Sans",
+                        "textRemoveTextMargins": true,
+                        "text": "Card Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7d28f34",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5529ff8"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c42b3fa"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "6df894d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-capital-card-2/9bad4b8a9b86.jpg",
+                                        "imageId": 1587,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {},
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "c99bcf8",
+                                                "fontSize": 32,
+                                                "textRemoveTextMargins": true,
+                                                "text": "Title for this Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "17d9071",
+                                                "fontSize": 18,
+                                                "fontFamily": "IBM Plex Sans",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "1376afd",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "54bdb46"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "08ce485",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": 32
+                                                        },
+                                                        "buttonBackgroundColor": "#9b51e0",
+                                                        "fontFamily": "IBM Plex Sans",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2f079e6"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "55a5b7b",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-capital-card-2/9a07accf39bd.jpg",
+                                        "imageId": 1588,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280,
+                                        "effectAnimationOut": {},
+                                        "effectAnimationIn": {},
+                                        "customAttributes": [],
+                                        "displayCondition": {},
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "35256d7",
+                                                "fontSize": 32,
+                                                "textRemoveTextMargins": true,
+                                                "text": "Title for this Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "d22161b",
+                                                "fontSize": 18,
+                                                "fontFamily": "IBM Plex Sans",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "52ae289",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "e6a121d"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "a38e822",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": 32
+                                                        },
+                                                        "buttonBackgroundColor": "#9b51e0",
+                                                        "fontFamily": "IBM Plex Sans",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

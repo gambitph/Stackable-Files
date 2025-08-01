@@ -1,0 +1,276 @@
+{
+    "id": "section-glow-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fbef499",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "dc5d1be"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "05ca399",
+                        "fontSize": 48,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "The Best Choices"
+                    },
+                    []
+                ],
+                [
+                    "stackable/feature-grid",
+                    {
+                        "uniqueId": "02ffcb2",
+                        "innerBlockContentAlign": "alignwide",
+                        "align": "full",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8375326"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d405bc9",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-2/154341bcf83d.png",
+                                        "imageId": 2248,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 500,
+                                        "imageWidth": 30
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "5d30716",
+                                        "fontFamily": "Ubuntu",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Feature 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d97e22d",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "9a17114"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "22d6b7e",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColorType": "gradient",
+                                                "buttonBackgroundColor": "#732fb7",
+                                                "buttonBackgroundColor2": "#d03dc6",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Open Sans",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "52fad0c"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "1a4854f",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-2/e440a91e2675.png",
+                                        "imageId": 2249,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 500,
+                                        "imageWidth": 30
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "d766d90",
+                                        "fontFamily": "Ubuntu",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Feature 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5d94e9d",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "4ce44b3"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "21d28c9",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColorType": "gradient",
+                                                "buttonBackgroundColor": "#732fb7",
+                                                "buttonBackgroundColor2": "#d03dc6",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Open Sans",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9960174"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "6ae5f42",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-2/6742b101cbc5.png",
+                                        "imageId": 2250,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 500,
+                                        "imageWidth": 30
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b19c048",
+                                        "fontFamily": "Ubuntu",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Feature 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4ece4c4",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "5741003"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "2a3b6a9",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColorType": "gradient",
+                                                "buttonBackgroundColor": "#732fb7",
+                                                "buttonBackgroundColor2": "#d03dc6",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Open Sans",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

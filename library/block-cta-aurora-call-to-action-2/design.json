@@ -1,0 +1,26 @@
+{
+    "id": "block-cta-aurora-call-to-action-2",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "horizontal",
+        "borderRadius": 0,
+        "shadow": 7,
+        "title": "The Great Experience Awaits",
+        "titleColor": "#ffffff",
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Poppins",
+        "buttonFontSize": 18,
+        "buttonText": "Sign Up",
+        "buttonNewTab": false,
+        "buttonBackgroundColor": "#ffffff",
+        "buttonBorderRadius": 0,
+        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-aurora-call-to-action-2/column-background-media-url.jpg",
+        "hoverEffect": "scale",
+        "paddingRight": 80,
+        "paddingLeft": 80,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000"
+    }
+}

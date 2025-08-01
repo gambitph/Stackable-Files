@@ -1,0 +1,58 @@
+{
+    "id": "section-decora-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e72f838",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "29f7c2f"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8a858bb",
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "b718156",
+                        "fontSize": 16,
+                        "fontFamily": "Ledger",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e9e374b"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "37b9df7",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper velit nec lacinia vulputate. Curabitur in fringilla eros. Proin eu blandit lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper velit nec lacinia vulputate. Curabitur in fringilla eros. Proin eu blandit lectus."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

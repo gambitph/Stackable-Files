@@ -1,0 +1,237 @@
+{
+    "id": "section-speck-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5177cd2",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f6521f5"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "e4050c6",
+                        "fontSize": 64,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "900",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "1cf6606",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "e7c1e50"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d6fd412",
+                                "columnWidth": 25,
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "6a7fd42",
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "466bd60",
+                                        "fontFamily": "DM Sans",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#ffe923",
+                                        "text": "$99.99"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4b37d76",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8a3589b",
+                                "columnWidth": 25,
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8eb5e22",
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "140a9fa",
+                                        "fontFamily": "DM Sans",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#ffe923",
+                                        "text": "1,234"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "9e20ce0",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7a3d0db",
+                                "columnWidth": 25,
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7f4aa9b",
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "508587a",
+                                        "fontFamily": "DM Sans",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#ffe923",
+                                        "text": "1,234.56"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a25ff0a",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8a7a794",
+                                "columnWidth": 25,
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8e72342",
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "d8adbe9",
+                                        "fontFamily": "DM Sans",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#ffe923",
+                                        "text": "$99.99"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "28b2a8b",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

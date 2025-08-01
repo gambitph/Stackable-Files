@@ -1,0 +1,23 @@
+{
+    "id": "block-feature-peplum-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-peplum-feature/image-url.jpg",
+        "imageId": 22,
+        "imageWidth": 800,
+        "imageHeight": 1000,
+        "imageShadow": 5,
+        "title": "Feature Block",
+        "titleColor": "var(--stk-global-color-10518, #b27197)",
+        "buttonFontFamily": "Josefin Sans",
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-68335, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-28053, #111111)",
+        "buttonBorderRadius": 0,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-15911, #ffeff1)"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "id": "section-propel-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "06e8241",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-call-to-action-3/5390c92d3151.jpg",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "03af6c9",
+                "customAttributes": [],
+                "fontSize": 56,
+                "fontFamily": "Open Sans",
+                "fontStyle": "italic",
+                "fontWeight": "600",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Call to Action Block",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "f343b7e",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "a41497c"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "656487c",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#fcb900",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Nunito",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

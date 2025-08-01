@@ -1,0 +1,78 @@
+{
+    "id": "section-hue-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "69bf5df",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#ff0004",
+        "blockBackgroundColor2": "#4927dd",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-call-to-action-2/c99aa31d3181.jpg",
+        "blockBackgroundGradientBlendMode": "exclusion",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "3fb89c0",
+                "fontSize": 56,
+                "fontFamily": "Karla",
+                "fontWeight": "bold",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Be Great. Always.",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "70f0062",
+                "blockWidth": 500,
+                "blockHorizontalAlign": "flex-end",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "c2bbbdf"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b95f753",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#00e0ff",
+                        "fontSize": 18,
+                        "fontFamily": "Inconsolata",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

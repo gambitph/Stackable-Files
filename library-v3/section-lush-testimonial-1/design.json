@@ -1,0 +1,249 @@
+{
+    "id": "section-lush-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5390cea",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1af77db"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "4bda89d",
+                        "fontSize": 56,
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#66826b",
+                        "text": "Testimonials"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ce82788"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e3ad87e"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "62bd703",
+                                        "hasContainer": false,
+                                        "contentAlign": "",
+                                        "className": "is-style-bubble"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "eb7858c",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#e4e4d3",
+                                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                                "customCSSMinified": ".stk-eb7858c.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                                "className": "stk-block-testimonial__text"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "419a940",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "columnFit": true,
+                                                "innerBlockContentAlign": "alignfull"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "4f18a09"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "b75d822",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-testimonial-1/d22dadde4ed7.jpg",
+                                                                "imageId": 2119,
+                                                                "imageWidthAttribute": 150,
+                                                                "imageHeightAttribute": 150,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "2de9af5",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "8c08bae",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "fontFamily": "Lora",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#66826b",
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "90d6c9d",
+                                                                "fontSize": 16,
+                                                                "fontFamily": "Alice",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fe1d212"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "7e05d7b",
+                                        "hasContainer": false,
+                                        "contentAlign": "",
+                                        "className": "is-style-bubble"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "2287d32",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#e4e4d3",
+                                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                                "customCSSMinified": ".stk-2287d32.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                                "className": "stk-block-testimonial__text"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "d9837d5",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "columnFit": true,
+                                                "innerBlockContentAlign": "alignfull"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "ef0571d"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "47ac670",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-testimonial-1/a533dc868b37.jpg",
+                                                                "imageId": 2120,
+                                                                "imageWidthAttribute": 150,
+                                                                "imageHeightAttribute": 150,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "b63db75",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "03b486a",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "fontFamily": "Lora",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#66826b",
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "eea3704",
+                                                                "fontSize": 16,
+                                                                "fontFamily": "Alice",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

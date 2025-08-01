@@ -1,0 +1,109 @@
+{
+    "id": "section-lounge-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "975da02",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "innerBlockContentAlign": "alignwide",
+        "alignVertical": true,
+        "align": "full",
+        "className": "is-style-overlap-background-3",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b6b2adc",
+                "blockMargin": {
+                    "top": "",
+                    "bottom": -200
+                },
+                "blockPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "hasContainer": true,
+                "containerWidth": 600,
+                "containerPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "zIndex": 2,
+                "blockMarginMobile": {
+                    "bottom": -100
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "af6a4be",
+                        "fontFamily": "Playfair Display",
+                        "fontWeight": "bold",
+                        "textColor1": "#393f59",
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "8feb2a4",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "0926c61"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "633d5cc",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#d2b18e",
+                                "fontSize": 18,
+                                "fontFamily": "Serif",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4752db6",
+                "zIndex": 1,
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3785c70",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-feature-1/09694fd94d7e.jpg",
+                        "imageId": 2151,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 667,
+                        "imageHeight": 600
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

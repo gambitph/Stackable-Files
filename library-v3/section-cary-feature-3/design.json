@@ -1,0 +1,96 @@
+{
+    "id": "section-cary-feature-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "477c0a1",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5fc13cd"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "5493872",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-feature-3/dc32b56829df.jpeg",
+                        "imageId": 1878,
+                        "imageWidthAttribute": 1500,
+                        "imageHeightAttribute": 1000,
+                        "imageHeight": 500
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "79942a5",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "text": "Card Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "ff76891",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Subtitle for this block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "43493d6"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e78b51d",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#000000",
+                                "fontSize": 18,
+                                "fontFamily": "Sans-Serif",
+                                "text": "Read More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,319 @@
+{
+    "id": "section-curious-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e2fed14",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/618533655416.png",
+        "blockHeight": 840,
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0d82fe2"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "d036324",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "text": "TESTIMONIALS"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "75f0c46",
+                        "textRemoveTextMargins": true,
+                        "text": "<strong>What my clients think</strong>",
+                        "fontSizeMobile": 28,
+                        "anchor": "strong-what-my-clients-think-strong"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fb87e2d",
+                        "blockWidth": 1004,
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c0fb29a"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c061dc5",
+                                "blockHeight": 480,
+                                "hasContainer": true,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "#000000",
+                                "containerShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                "containerVerticalAlign": "center",
+                                "columnSpacing": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "c6c8f71",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "right",
+                                        "color": "var(--stk-global-color-70180, #d77034)",
+                                        "width": 32,
+                                        "className": ""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "c499d7f",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
+                                        "imageId": 683,
+                                        "imageWidthAttribute": 48,
+                                        "imageHeightAttribute": 48,
+                                        "imageWidth": 48,
+                                        "imageShape": "circle",
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "c8a95fa",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Marketing &amp; Communication Designer"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "ed299ed",
+                                        "textRemoveTextMargins": true,
+                                        "text": "<strong>Heidi Lucas</strong>",
+                                        "fontSizeMobile": 28,
+                                        "anchor": "strong-heidi-lucas-strong"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ee468f2",
+                                        "text": "“Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.”",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b21ee72",
+                                "blockHeight": 480,
+                                "hasContainer": true,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "#000000",
+                                "containerShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                "containerVerticalAlign": "center",
+                                "columnSpacing": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "891b47d",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "right",
+                                        "color": "var(--stk-global-color-70180, #d77034)",
+                                        "width": 32,
+                                        "className": ""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "b87c1f4",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
+                                        "imageId": 683,
+                                        "imageWidthAttribute": 48,
+                                        "imageHeightAttribute": 48,
+                                        "imageWidth": 48,
+                                        "imageShape": "circle",
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "2c2137d",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Marketing &amp; Communication Designer"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "aaf0491",
+                                        "textRemoveTextMargins": true,
+                                        "text": "<strong>Heidi Lucas</strong>",
+                                        "fontSizeMobile": 28,
+                                        "anchor": "strong-heidi-lucas-strong"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b844409",
+                                        "text": "“Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.”",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "dc748ad",
+                                "blockHeight": 480,
+                                "hasContainer": true,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "#000000",
+                                "containerShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                "containerVerticalAlign": "center",
+                                "columnSpacing": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "43920cd",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "right",
+                                        "color": "var(--stk-global-color-70180, #d77034)",
+                                        "width": 32,
+                                        "className": ""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "2d1e8ae",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
+                                        "imageId": 683,
+                                        "imageWidthAttribute": 48,
+                                        "imageHeightAttribute": 48,
+                                        "imageWidth": 48,
+                                        "imageShape": "circle",
+                                        "contentAlign": "left",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "b97df8f",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Marketing &amp; Communication Designer"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "913a95c",
+                                        "textRemoveTextMargins": true,
+                                        "text": "<strong>Heidi Lucas</strong>",
+                                        "fontSizeMobile": 28,
+                                        "anchor": "strong-heidi-lucas-strong"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "7950a2f",
+                                        "text": "“Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.”",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

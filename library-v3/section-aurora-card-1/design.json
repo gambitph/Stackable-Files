@@ -1,0 +1,166 @@
+{
+    "id": "section-aurora-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5c2ce56",
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2b28dc0",
+                "hasBackground": true,
+                "blockBackgroundColor": "#000000",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-card-1/7e8772d39ae2.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "862b8c7",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "a08387b",
+                        "fontSize": 16,
+                        "fontFamily": "Poppins",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0948471",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "09111e3"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "83a2385",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Read More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3922ba1",
+                "hasBackground": true,
+                "blockBackgroundColor": "#000000",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-card-1/39197abd92e8.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "14867e6",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6fa2fbe",
+                        "fontSize": 16,
+                        "fontFamily": "Poppins",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b272351",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "097d08d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "945f34f",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Read More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

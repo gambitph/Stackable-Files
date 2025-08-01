@@ -1,0 +1,111 @@
+{
+    "id": "section-flex-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "bd3c08a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "alignVertical": true,
+        "align": "full",
+        "className": "is-style-overlap-shape-1",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cde7d8c",
+                "blockMargin": {
+                    "bottom": -450
+                },
+                "hasContainer": true,
+                "containerBackgroundColor": "#000000",
+                "containerWidth": 350,
+                "zIndex": 2,
+                "blockMarginMobile": {
+                    "bottom": -225
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d21ee44",
+                        "fontSize": 40,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Get Motivated"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e9e21fb",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "d3ba8ce"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "70eb8ec",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ff3737",
+                                "fontFamily": "Poppins",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0fdf756",
+                "zIndex": 1,
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c6337b1",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-feature-2/f20a2c860e12.jpg",
+                        "imageId": 2278,
+                        "imageWidthAttribute": 956,
+                        "imageHeightAttribute": 956,
+                        "imageWidth": 70,
+                        "imageShape": "blob1"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

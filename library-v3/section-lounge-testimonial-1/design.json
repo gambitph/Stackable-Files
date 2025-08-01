@@ -1,0 +1,336 @@
+{
+    "id": "section-lounge-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fc0f0ab",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cc1f5f9"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "4682613",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "060abd8",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#FFFFFF",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-060abd8.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "159bad7",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2c18c61"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "f02c0f0",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-testimonial-1/d65ad95bc8ef.jpg",
+                                                "imageId": 2160,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 600,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2bddb5a",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "2764133",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Playfair Display",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#393f59",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "f25bd78",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4272f99"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "e18ccef",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "02e0451",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#FFFFFF",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-02e0451.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "ae60ca2",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2bf30b1"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "8eab5b2",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-testimonial-1/eedf8b133fd0.jpg",
+                                                "imageId": 2161,
+                                                "imageWidthAttribute": 400,
+                                                "imageHeightAttribute": 400,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "6948392",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4534ce1",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Playfair Display",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#393f59",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "e377736",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "74d83ce"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "d905ccd",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "d1a2e95",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#FFFFFF",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-d1a2e95.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "d068ad9",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "6f60303"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "72979b3",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-testimonial-1/05c9b9d78610.jpg",
+                                                "imageId": 2162,
+                                                "imageWidthAttribute": 800,
+                                                "imageHeightAttribute": 800,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "644e0d2",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "34b1ce2",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Playfair Display",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#393f59",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "a93df0e",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "section-wireframes-error-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "351019a",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "38a789f",
+                "columnWidth": 33.3
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "2d5b4c4",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-error-4/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2602f42",
+                "columnWidth": 66.7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7ffbff9",
+                        "text": "404",
+                        "textTag": "h1",
+                        "anchor": "404"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "980688d",
+                        "customAttributes": [],
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Error Page",
+                        "textTag": "h3",
+                        "anchor": "title-for-this-error-page"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4ecf2d4",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "5b6c85c"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "01aa1c1",
+                                "text": "Go Back"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

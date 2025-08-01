@@ -1,0 +1,29 @@
+{
+    "id": "block-testimonial-dim-testimonial",
+    "name": "ugb/testimonial",
+    "attributes": {
+        "design": "plain",
+        "columns": 1,
+        "testimonial1": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+        "testimonial2": "",
+        "testimonial3": "",
+        "imageShape": "square",
+        "image1Id": 47,
+        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-testimonial-dim-testimonial/image-1-url.jpg",
+        "image1Alt": "Margaret Ramsey",
+        "name1": "Margaret Ramsey",
+        "name2": "",
+        "name3": "",
+        "position1": "Head of Operations",
+        "position2": "",
+        "position3": "",
+        "blockHeight": 575,
+        "blockWidth": 75,
+        "blockWidthUnit": "%",
+        "align": "wide",
+        "showBlockTitle": true,
+        "blockTitle": "Hear From Our Customers",
+        "blockDescription": "",
+        "contentAlign": "center"
+    }
+}

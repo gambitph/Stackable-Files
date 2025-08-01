@@ -1,0 +1,293 @@
+{
+    "id": "section-decora-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "23d938c",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d661f6d",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "daeefc7",
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "text": "Storage"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "7bfaf2e"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "ee1b7a9",
+                                "htmlTag": "span",
+                                "fontFamily": "Serif",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "60419a9",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "Serif",
+                                "text": "99",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "51d8cb8",
+                                "htmlTag": "span",
+                                "fontFamily": "Serif",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "fbff284",
+                        "fontSize": 16,
+                        "fontFamily": "Ledger",
+                        "text": "Based on Weight"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "10a3b3d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "8fe063b",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#fda939",
+                                "fontSize": 18,
+                                "fontFamily": "Ledger",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9feb4cf",
+                "hasContainer": true,
+                "containerBackgroundColor": "#faf6f5",
+                "containerShadow": "none",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "056e55f",
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "text": "Shipping"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "5068add"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "64908bf",
+                                "htmlTag": "span",
+                                "fontFamily": "Serif",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "f8430b9",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "Serif",
+                                "text": "109",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "09c4311",
+                                "htmlTag": "span",
+                                "fontFamily": "Serif",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6720ab0",
+                        "fontSize": 16,
+                        "fontFamily": "Ledger",
+                        "text": "Based on Weight"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "9539570"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "6f7412d",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#fda939",
+                                "fontSize": 18,
+                                "fontFamily": "Ledger",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f1f6978",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "20fbcfe",
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "text": "Documents"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "3e7230b"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "ed66ac9",
+                                "htmlTag": "span",
+                                "fontFamily": "Serif",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "a213ce6",
+                                "htmlTag": "span",
+                                "fontSize": 72,
+                                "fontFamily": "Serif",
+                                "text": "59",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "02da676",
+                                "htmlTag": "span",
+                                "fontFamily": "Serif",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "0128e3b",
+                        "fontSize": 16,
+                        "fontFamily": "Ledger",
+                        "text": "Based on Weight"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "0dcfd8c"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "c329c2c",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#fda939",
+                                "fontSize": 18,
+                                "fontFamily": "Ledger",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

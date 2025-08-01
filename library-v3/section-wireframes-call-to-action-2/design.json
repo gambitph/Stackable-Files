@@ -1,0 +1,97 @@
+{
+    "id": "section-wireframes-call-to-action-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "15ecff4",
+        "hasBackground": true,
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "dc4be17",
+                "columnWidth": 60,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5fa11ad",
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "40c4b4c",
+                        "blockMargin": {
+                            "bottom": 40
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "fafae8f",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cef7962",
+                "containerVerticalAlign": "center",
+                "columnWidth": 40,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "e3e874a",
+                        "contentAlign": "right",
+                        "contentAlignMobile": "left"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7c30436",
+                                "text": "Button Text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "ccc6324",
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "text": "Button Text",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

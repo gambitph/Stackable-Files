@@ -1,0 +1,31 @@
+{
+    "id": "block-feature-speck-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageColumnWidth": 65,
+        "imageColumnTabletWidth": 1,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-speck-feature/image-url.png",
+        "imageShape": "blob1",
+        "imageId": 18,
+        "imageWidth": 750,
+        "imageHeight": 499,
+        "imageShapeFlipX": false,
+        "imageShapeFlipY": true,
+        "titleColor": "var(--stk-global-color-30181, #ffffff)",
+        "descriptionColor": "var(--stk-global-color-30181, #ffffff)",
+        "buttonFontFamily": "DM Sans",
+        "buttonFontSize": 18,
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-84839, #1b36d1)",
+        "buttonBackgroundColor": "var(--stk-global-color-49022, #ffe923)",
+        "buttonBorderRadius": 0,
+        "titleTabletAlign": "center",
+        "descriptionTabletAlign": "center",
+        "buttonTabletAlign": "center",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-84839, #1b36d1)"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "id": "section-devour-feature-3",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "0a2a3e5",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "slant-1",
+        "topSeparatorHeight": 400,
+        "topSeparatorFlipHorizontally": true,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "546dacc",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "5dd2158",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-feature-3/afbb2f6fed55.png",
+                        "imageId": 2028,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 770
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b1458ea",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "947dcd5",
+                        "fontFamily": "Cherry Swash",
+                        "fontWeight": "bold",
+                        "textColor1": "#3d9457",
+                        "text": "Title for This Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "2b19d22",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "d9228aa"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "962b522",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffce46",
+                                "buttonBorderRadius": 50,
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Buy Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

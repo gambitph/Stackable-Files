@@ -1,0 +1,60 @@
+{
+    "id": "section-upland-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "5bcdb9d",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-call-to-action-1/23bc2ec6813f.jpg",
+        "blockHeight": 800,
+        "blockVerticalAlign": "flex-start",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "slant-1",
+        "bottomSeparatorShow": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "2830d7e",
+                "fontSize": 56,
+                "fontFamily": "Lato",
+                "text": "Never Miss Out on a Great Opportunity",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "0262c00",
+                "text": "Description for this block. Use this space for describing your block. Any text will do."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "e79ffe6"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "a17964a",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#313131",
+                        "fontSize": 18,
+                        "fontFamily": "Lato",
+                        "text": "Sign Up",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

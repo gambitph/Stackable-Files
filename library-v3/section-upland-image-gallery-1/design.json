@@ -1,0 +1,170 @@
+{
+    "id": "section-upland-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3a26bb3",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c25e4f3"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "2a40f4c",
+                        "blockWidth": 690,
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Lato",
+                        "fontWeight": "700",
+                        "text": "Apartment Listings"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4c9f3a8",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "b398453"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5ea680e",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-image-gallery-1/837f94fe3531.jpg",
+                                "containerBackgroundTintStrength": 3,
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "containerBackgroundColorHover": "#000000",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "51469e9",
+                                        "fontSize": 32,
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "600",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "<span style=\"color: #FFFFFF;background-color: #3b3b3b\" class=\"stk-highlight\">Image 1</span>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b16180c",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d86b606",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-image-gallery-1/44051c28b243.jpg",
+                                "containerBackgroundTintStrength": 3,
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#000000",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "d1e2beb",
+                                        "fontSize": 32,
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "600",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "<span style=\"color: #FFFFFF;background-color: #3b3b3b\" class=\"stk-highlight\">Image 2</span>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "017ab95",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "87ac2a5",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#000000",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-image-gallery-1/d7ce68fc3e4a.jpg",
+                                "containerBackgroundTintStrength": 3,
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#000000",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "552a453",
+                                        "fontSize": 32,
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "600",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "<span style=\"color: #FFFFFF;background-color: #3b3b3b\" class=\"stk-highlight\">Image 3</span>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "38d1f7c",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

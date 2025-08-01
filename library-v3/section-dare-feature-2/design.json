@@ -1,0 +1,262 @@
+{
+    "id": "section-dare-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "39af5ea",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f8bd01",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0aec853"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7391ee9",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "text": "Nothing But the Best"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b4c25fe",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/feature-grid",
+                    {
+                        "uniqueId": "676171e",
+                        "contentAlign": "left",
+                        "innerBlockContentAlign": "alignwide",
+                        "align": "full",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7967bd7"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "47f6cab",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-feature-2/9c3c58645e53.jpg",
+                                        "imageId": 1630,
+                                        "imageWidthAttribute": 2000,
+                                        "imageHeightAttribute": 2500,
+                                        "imageHeight": 400,
+                                        "imageWidth": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "c7ff3bc",
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "900",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "46ea612",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "739ed9c"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "8f3e191",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#313131",
+                                                "fontFamily": "Poppins",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5248b12"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "aef0380",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-feature-2/683ac7ced075.jpg",
+                                        "imageId": 1631,
+                                        "imageWidthAttribute": 2000,
+                                        "imageHeightAttribute": 2500,
+                                        "imageHeight": 400,
+                                        "imageWidth": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "c446ad9",
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "900",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a871b95",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "4d43081"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "8d45cd3",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#313131",
+                                                "fontFamily": "Poppins",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "44eef36"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "9ff03e5",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-feature-2/4f738a4e0a12.jpg",
+                                        "imageId": 1632,
+                                        "imageWidthAttribute": 2000,
+                                        "imageHeightAttribute": 2500,
+                                        "imageHeight": 400,
+                                        "imageWidth": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8bed956",
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "900",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e86cefc",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "ebfaaa8"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "bc7c20e",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#313131",
+                                                "fontFamily": "Poppins",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Button",
+                                                "className": "is-style-plain"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

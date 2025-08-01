@@ -1,0 +1,109 @@
+{
+    "id": "section-flex-image-gallery-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "14339f1",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "20dbac7",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-2/6b37d5a25239.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "flex-end",
+                "containerBackgroundColorHover": "#ff3737",
+                "containerBackgroundTintStrengthHover": 7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "a4afce5",
+                        "fontSize": 48,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Ropes"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6415620",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-2/75f68258b0c9.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#ff3737",
+                "containerBackgroundTintStrengthHover": 7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "1d6c21f",
+                        "fontSize": 48,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Wellness"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9b0e8f5",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-image-gallery-2/1460380f793d.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#ff3737",
+                "containerBackgroundTintStrengthHover": 7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "92218ee",
+                        "fontSize": 48,
+                        "fontFamily": "Poppins",
+                        "fontStyle": "italic",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Training"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "section-heights-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "da76ce8",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f835677",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "213f612",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7359437",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "376cda0"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "2e912e8",
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#313131",
+                                "fontSize": 18,
+                                "fontFamily": "Inter",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3454390",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "27b21b0",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-heights-feature-1/cd574facb90a.jpg",
+                        "imageId": 2209,
+                        "imageWidthAttribute": 1440,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 800,
+                        "imageWidth": 80
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

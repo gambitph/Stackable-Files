@@ -1,0 +1,80 @@
+{
+    "id": "section-yule-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1f21ad8",
+        "hasBackground": true,
+        "blockBackgroundColor": "#00473d",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b628a64"
+            },
+            [
+                [
+                    "stackable/hero",
+                    {
+                        "uniqueId": "00ab284",
+                        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-feature-1/917517c2954c.jpg",
+                        "containerBorderRadius": 8,
+                        "containerHeight": 700,
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "76c1478",
+                                "fontSize": 64,
+                                "fontFamily": "DM Serif Display",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Make the Season Special",
+                                "textTag": "h1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "2cf7b57",
+                                "blockWidth": 750,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "41c1ced"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "23b2e9e",
+                                        "buttonBackgroundColor": "#00c279",
+                                        "buttonBorderRadius": 8,
+                                        "fontSize": 18,
+                                        "fontFamily": "Source Sans Pro",
+                                        "text": "View Pricing",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

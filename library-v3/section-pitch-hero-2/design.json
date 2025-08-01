@@ -1,0 +1,227 @@
+{
+    "id": "section-pitch-hero-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cf690e0",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/ebb7a3f101fa.png",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bfc652f"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3968c3c"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f913d8e",
+                                "columnWidth": 50,
+                                "columnAdjacentCount": 2,
+                                "columnAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2958bc8",
+                                        "textColorClass": "has-stk-global-color-51431-color",
+                                        "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                        "text": "<strong>BLACK FRIDAY</strong>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3228607",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "fontSizeTablet": 32,
+                                        "fontSizeMobile": 25,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "77cc376",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis massa est nunc at et nulla ultrices tristique nulla."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "8afbe9b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "5ea085e",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                "iconPosition": "right",
+                                                "text": "Let's Go"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e6b87df",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "transparent",
+                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/31bcddff6661.png",
+                                "blockHeight": 780,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/3a18ceec4aca.png",
+                                "columnWidth": 50,
+                                "columnAdjacentCount": 2
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "dd7456d",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "3e119e0",
+                                                "columnAlign": "center",
+                                                "columnWidthTablet": 100,
+                                                "columnAdjacentCountTablet": 1,
+                                                "positionNumTablet": {
+                                                    "top": 82,
+                                                    "right": 37,
+                                                    "bottom": "",
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "f7b7a27",
+                                                        "hasBackground": true,
+                                                        "blockBackgroundColor": "#ffffff",
+                                                        "blockBorderRadius": 12,
+                                                        "blockShadow": "0px 10px 60px rgba(0, 0, 0, 0.1)",
+                                                        "blockWidth": 240,
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "zIndex": 2,
+                                                        "positionNum": {
+                                                            "top": 61,
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 100
+                                                        },
+                                                        "contentAlign": "center",
+                                                        "fontSize": 14,
+                                                        "text": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit.”"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "f539e2a",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/eda32d6774f4.png",
+                                                        "imageId": 1092,
+                                                        "imageWidthAttribute": 361,
+                                                        "imageHeightAttribute": 360,
+                                                        "imageWidth": 80,
+                                                        "imageWidthTablet": 80
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "f5fcfc8",
+                                                "containerHeight": 640,
+                                                "containerVerticalAlign": "flex-end",
+                                                "contentAlign": "left",
+                                                "blockVerticalAlignMobile": "center",
+                                                "columnWidthTablet": 100,
+                                                "columnAdjacentCountTablet": 1,
+                                                "positionNumTablet": {
+                                                    "top": -100,
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": 100
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "92381c5",
+                                                        "hasBackground": true,
+                                                        "blockBackgroundColor": "#ffffff",
+                                                        "blockBorderRadius": 12,
+                                                        "blockWidth": 240,
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "zIndex": 2,
+                                                        "positionNum": {
+                                                            "top": 45,
+                                                            "right": 49,
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "contentAlign": "center",
+                                                        "fontSize": 14,
+                                                        "text": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit.”"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "b3d178c",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/cc36a37a2650.png",
+                                                        "imageId": 1093,
+                                                        "imageWidthAttribute": 270,
+                                                        "imageHeightAttribute": 271,
+                                                        "imageWidth": 60
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

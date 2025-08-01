@@ -1,0 +1,127 @@
+{
+    "id": "section-speck-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7bd13b2",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e361360"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "ae02e00",
+                        "fontSize": 180,
+                        "fontFamily": "DM Sans",
+                        "fontWeight": "bold",
+                        "textColor1": "#25e0f4",
+                        "text": "01",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3231947",
+                        "blockMargin": {
+                            "top": -180,
+                            "right": "",
+                            "bottom": "",
+                            "left": 120
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "900",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Number Box 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "dc56f24",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0ee8015"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "af7b8f0",
+                        "fontSize": 180,
+                        "fontFamily": "DM Sans",
+                        "fontWeight": "bold",
+                        "textColor1": "#25e0f4",
+                        "text": "02",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "03c4aa2",
+                        "blockMargin": {
+                            "top": -180,
+                            "right": "",
+                            "bottom": "",
+                            "left": 120
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "900",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Number Box 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "342525c",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

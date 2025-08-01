@@ -1,0 +1,299 @@
+{
+    "id": "section-wireframes-card-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "baa47b4",
+        "blockMargin": {
+            "top": 100,
+            "right": "",
+            "bottom": 100,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "474edb6"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "9917b49",
+                        "blockMargin": {
+                            "bottom": 0
+                        },
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "dd52a33",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "blockMarginTablet": {
+                            "bottom": 16
+                        },
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0d5e652",
+                        "blockWidth": 480,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9baab98",
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "rowGapMobile": 40
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e1f939e",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": 12,
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "da0bc4a",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Title for this Card",
+                                        "textTag": "h4",
+                                        "anchor": "title-for-this-card"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "67620b3",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-7/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "84bc561",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                        "fontSizeTablet": 16
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "4d5df14"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "ec6b3f1",
+                                                "text": "Button"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c7121fe",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": 6,
+                                    "bottom": "",
+                                    "left": 6
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f73a3d3",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Title for this Card",
+                                        "textTag": "h4",
+                                        "anchor": "title-for-this-card"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "09cacb5",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-7/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "8a62862",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                        "fontSizeTablet": 16
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "5dc46a2"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "66d2233",
+                                                "text": "Button"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d08db57",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 12
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "08d168a",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Title for this Card",
+                                        "textTag": "h4",
+                                        "anchor": "title-for-this-card"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "39399af",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-7/fd87d60c2db1.png",
+                                        "imageId": 149,
+                                        "imageWidthAttribute": 380,
+                                        "imageHeightAttribute": 380
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1d0afa4",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                        "fontSizeTablet": 16
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "20a9335"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "bc66018",
+                                                "text": "Button"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

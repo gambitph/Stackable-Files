@@ -1,0 +1,27 @@
+{
+    "id": "block-cta-dare-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "horizontal-3",
+        "borderRadius": 0,
+        "shadow": 0,
+        "title": "The Great Experience Awaits",
+        "titleTag": "h2",
+        "titleTextTransform": "uppercase",
+        "titleMobileFontSize": 30,
+        "titleColor": "var(--stk-global-color-8235, #ffffff)",
+        "description": "Description for this block. Use this space for describing your block. Any text will do. ",
+        "descriptionColor": "var(--stk-global-color-8235, #ffffff)",
+        "buttonFontFamily": "Poppins",
+        "buttonTabletFontSize": 18,
+        "buttonText": "Explore",
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-23277, #313131)",
+        "buttonBackgroundColor": "var(--stk-global-color-78615, #f8bd01)",
+        "buttonHoverEffect": "scale-more",
+        "buttonBorderRadius": 0,
+        "columnBackgroundColor": "var(--stk-global-color-23277, #313131)",
+        "columnBackgroundColorOpacity": 1,
+        "align": "wide"
+    }
+}

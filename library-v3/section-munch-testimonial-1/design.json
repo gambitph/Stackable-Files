@@ -1,0 +1,206 @@
+{
+    "id": "section-munch-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6e54bd0",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b117b70"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "c919115",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "Chivo",
+                        "fontWeight": "600",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColor1": "#f75a4b",
+                        "text": "Testimonials"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "4645bb7",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Lilita One",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-9296-color",
+                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                        "text": "Hear from our customers"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d469dac",
+                        "columnGap": 64,
+                        "columnGapTablet": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a96fdf8"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "60cbfdf",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-testimonial-1/93b40e436136.jpg",
+                                        "imageId": 2209,
+                                        "imageWidthAttribute": 1781,
+                                        "imageHeightAttribute": 2560,
+                                        "imageBorderRadius": 12,
+                                        "imageHeight": 400,
+                                        "imageShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)",
+                                        "imageHeightTablet": 500
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "28a6496",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/blockquote",
+                                    {
+                                        "uniqueId": "9758103",
+                                        "blockWidth": 100,
+                                        "blockHorizontalAlign": "center",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 24,
+                                            "left": ""
+                                        },
+                                        "contentAlign": "center",
+                                        "blockWidthUnit": "%",
+                                        "className": "is-style-centered-quote"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "9b5a105",
+                                                "position": "absolute",
+                                                "positionNum": {
+                                                    "top": 50,
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": 50
+                                                },
+                                                "transform": "translateX(-50px) translateY(-50px)",
+                                                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 50 50\"><path d=\"M12.5 9.2H19c1.1 0 1.8.2 2.3.7.5.5.7 1.2.7 2.3v3.4c0 1.1-.2 1.8-.7 2.3-.5.5-1.2.7-2.3.7h-5.8c-.7 0-1.3.2-1.7.6-.4.4-.6 1-.6 1.7v1.3H20c1.1 0 1.8.2 2.3.7.5.5.7 1.2.7 2.3v12.5c0 1.1-.2 1.8-.7 2.3-.5.5-1.2.7-2.3.7H3c-1.1 0-1.8-.2-2.3-.7-.5-.4-.7-1.2-.7-2.2V21.9c0-4.3 1.1-7.4 3.4-9.6 2.3-2 5.3-3.1 9.1-3.1zm26.9 0h6.5c1.1 0 1.8.2 2.3.7.5.5.7 1.2.7 2.3v3.4c0 1.1-.2 1.8-.7 2.3-.5.5-1.2.7-2.3.7h-5.8c-.7 0-1.3.2-1.7.6-.4.4-.6 1-.6 1.7v1.3H47c1.1 0 1.8.2 2.3.7.5.5.7 1.2.7 2.3v12.5c0 1.1-.2 1.8-.7 2.3-.5.5-1.2.7-2.3.7H30c-1.1 0-1.8-.2-2.3-.7-.5-.5-.7-1.2-.7-2.3V21.9c0-4.3 1.1-7.4 3.4-9.6 2.2-2 5.2-3.1 9-3.1z\"></path></svg>",
+                                                "iconOpacity": 0.4,
+                                                "iconSize": 80,
+                                                "positionNumUnit": "%"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "baea2ae",
+                                                "contentAlign": "center",
+                                                "fontFamily": "Chivo",
+                                                "fontStyle": "italic",
+                                                "fontWeight": "400",
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis nunc erat, a luctus lectus feugiat non. Sed sed arcu est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Etiam posuere hendrerit nulla, eget aliquam arcu facilisis non."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "9b5c22b",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Lilita One",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-9296-color",
+                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                        "text": "Customer name"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "fc27503",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "contentAlign": "center",
+                                        "fontSize": 16,
+                                        "fontFamily": "Chivo",
+                                        "fontWeight": "600",
+                                        "textTransform": "uppercase",
+                                        "letterSpacing": 1,
+                                        "textColorClass": "has-stk-global-color-9296-color",
+                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                        "text": "Satisfied customer"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

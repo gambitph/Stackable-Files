@@ -1,0 +1,171 @@
+{
+    "id": "section-wireframes-metric-9",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fd97d44",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "884b749",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "eaff3e8",
+                        "blockWidth": 500,
+                        "text": "Title for this Metric Block",
+                        "textTag": "h3",
+                        "anchor": "title-for-this-metric-block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e7194b8",
+                        "blockWidth": 500,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f423ed8"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "077caca",
+                                "contentAlign": "center",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "b55542c",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "a936483",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "100+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "cdecb80",
+                                        "text": "Lorem ipsum"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2e5a6e0",
+                                "contentAlign": "center",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "ed0d833",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "aecd97d",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "100+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d6085b6",
+                                        "text": "Lorem ipsum"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "51fdcc3",
+                                "contentAlign": "center",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "eebcb56",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "customAttributes": []
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "62723f7",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "100+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "25b2660",
+                                        "text": "Lorem ipsum"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

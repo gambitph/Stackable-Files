@@ -1,0 +1,148 @@
+{
+    "id": "section-lush-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5250381",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f8ccaa0"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "efb5840",
+                        "fontSize": 56,
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#66826b",
+                        "text": "Team Members"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "77ebbb6",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "dbad329"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "eb82496",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-team-1/569420ae4000.jpg",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "contentAlign": "left",
+                                "containerBackgroundColorHover": "#000000"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "76eda39",
+                                        "fontSize": 40,
+                                        "fontFamily": "Lora",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Name"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "0302cd8",
+                                        "fontSize": 16,
+                                        "fontFamily": "Alice",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Position"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "2ccca9c",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3097a70",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-team-1/ceb3c600fd30.jpg",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "contentAlign": "left",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#000000"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "cb9b5e1",
+                                        "fontSize": 40,
+                                        "fontFamily": "Lora",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Name"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "a298935",
+                                        "fontSize": 16,
+                                        "fontFamily": "Alice",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Position"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "af21373",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

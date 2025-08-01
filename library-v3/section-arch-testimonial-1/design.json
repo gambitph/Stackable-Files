@@ -1,0 +1,163 @@
+{
+    "id": "section-arch-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "af89fd2",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ac1835e",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "36d170b",
+                        "fontFamily": "Lato",
+                        "fontWeight": "600",
+                        "text": "Hear From Our Customers"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d0bb484"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9005d8e"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "56fc8be",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "5b3d454",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "9888c45",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-arch-testimonial-1/7f38a2462557.jpg",
+                                                "imageId": 1411,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 600,
+                                                "imageBorderRadius": 0,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "cb19376",
+                                                "fontFamily": "Lato",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "ee83ac9",
+                                                "fontSize": 16,
+                                                "fontFamily": "Lato",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "762a8ec"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "d70b515",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4eb9acc",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "ebe5022",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-arch-testimonial-1/e35d1533d16a.jpg",
+                                                "imageId": 1412,
+                                                "imageWidthAttribute": 800,
+                                                "imageHeightAttribute": 800,
+                                                "imageBorderRadius": 0,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "41fb974",
+                                                "fontFamily": "Lato",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "8512567",
+                                                "fontSize": 16,
+                                                "fontFamily": "Lato",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

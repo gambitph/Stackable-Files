@@ -1,0 +1,385 @@
+{
+    "id": "section-curious-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1c3bbb6",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "rowGapMobile": 0,
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7255403"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6a45431",
+                        "blockMargin": {
+                            "bottom": 50
+                        },
+                        "columnGap": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "25b0da6"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5819fe5",
+                                        "blockMargin": {
+                                            "bottom": 8
+                                        },
+                                        "text": "MY SERVICES"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "2218a94",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Things I’m good at",
+                                        "fontSizeMobile": 32,
+                                        "anchor": "things-im-good-at"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9b46a6d"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "8a280ce",
+                                        "text": "Lorem ipsum dolor sit amet. Ad quam maiores et laudantium vero ut voluptatibus error id enim.",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "738d0a6"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "ac4f586",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderColor": "#ffffff",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "text": "All Projects",
+                                                "className": ""
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f970a80",
+                        "blockMargin": {
+                            "bottom": 100
+                        },
+                        "columnGap": 32,
+                        "blockMarginMobile": {
+                            "bottom": 50
+                        },
+                        "rowGapMobile": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9bf4992"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "5f13afd",
+                                        "blockWidth": 420,
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "textTag": "h3",
+                                        "fontSizeMobile": 24,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "87f4d9c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-1/978b58276760.png",
+                                        "imageId": 802,
+                                        "imageWidthAttribute": 889,
+                                        "imageHeightAttribute": 702
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "3949567",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "right",
+                                        "positionNum": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "9b2552e",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "View Project "
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7dcbbdb"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "153ce31",
+                                        "blockWidth": 420,
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "textTag": "h3",
+                                        "fontSizeMobile": 24,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "311c0ed",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-1/d68a18b50b85.png",
+                                        "imageId": 659,
+                                        "imageWidthAttribute": 592,
+                                        "imageHeightAttribute": 468
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "5c1fe2f",
+                                        "contentAlign": "right"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "d6607aa",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "View Project"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9f93b6d",
+                        "rowGapMobile": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2c83d8a"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "03d9995",
+                                        "blockWidth": 420,
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "textTag": "h3",
+                                        "fontSizeMobile": 24,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "eeed923",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-1/f01d6d794793.png",
+                                        "imageId": 662,
+                                        "imageWidthAttribute": 592,
+                                        "imageHeightAttribute": 468
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "71eae9c",
+                                        "contentAlign": "right"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "95aab4e",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "View Project"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4259aeb"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a879cf1",
+                                        "blockWidth": 420,
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                        "textTag": "h3",
+                                        "fontSizeMobile": 24,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "18c2f8d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-1/0e4f548f5157.png",
+                                        "imageId": 663,
+                                        "imageWidthAttribute": 592,
+                                        "imageHeightAttribute": 468
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "eda671b",
+                                        "contentAlign": "right"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "e4f8c34",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "View Project"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "section-elevate-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4552c5d",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fa62151"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "35bbe37",
+                        "fontSize": 64,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "1,257"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5cae8b8",
+                        "fontSize": 16,
+                        "fontFamily": "Lato",
+                        "textTransform": "uppercase",
+                        "text": "Likes Attained"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7ad9449"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "1df79ed",
+                        "fontSize": 64,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "5,739"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "efa694b",
+                        "fontSize": 16,
+                        "fontFamily": "Lato",
+                        "textTransform": "uppercase",
+                        "text": "People Reached"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1e8e39c"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "bc8a594",
+                        "fontSize": 64,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "2,546"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "dfd86c2",
+                        "fontSize": 16,
+                        "fontFamily": "Lato",
+                        "textTransform": "uppercase",
+                        "text": "Places Reached"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

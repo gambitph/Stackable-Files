@@ -1,0 +1,67 @@
+{
+    "id": "section-aurora-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "1c0e22e",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-call-to-action-2/57a10d148b90.jpg",
+        "containerHeight": 500,
+        "containerVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "6169767",
+                "fontSize": 48,
+                "fontFamily": "Poppins",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Great Experience Awaits",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "f348bc7",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "9f8b769"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "e8c2f29",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontFamily": "Poppins",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Reserve a Slot",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

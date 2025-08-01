@@ -1,0 +1,19 @@
+{
+    "id": "block-blog-posts-dustin-blog-post",
+    "name": "ugb/blog-posts",
+    "attributes": {
+        "columns": 3,
+        "borderRadius": 0,
+        "numberOfItems": 3,
+        "categoryFontFamily": "Lato",
+        "categoryColor": "#000000",
+        "titleColor": "#000000",
+        "excerptLength": 40,
+        "metaFontFamily": "lato",
+        "metaColor": "#ffbe75",
+        "showReadmore": false,
+        "align": "wide",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

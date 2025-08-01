@@ -1,0 +1,143 @@
+{
+    "id": "section-angled-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "25f2866",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f736683"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "ed068f9",
+                        "contentAlign": "left",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "6435457",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "67d8f3e",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-team-1/63a3af693421.jpg",
+                                "imageId": 1283,
+                                "imageWidthAttribute": 1707,
+                                "imageHeightAttribute": 2560,
+                                "imageBorderRadius": 90,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "3bcf1d4",
+                                "fontFamily": "Poppins",
+                                "fontWeight": "600",
+                                "textTransform": "uppercase",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#eb5757",
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "d72ea10",
+                                "fontSize": 16,
+                                "fontFamily": "Poppins",
+                                "textTransform": "uppercase",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "150f326"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "f78fa64",
+                        "contentAlign": "left",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "1f558b0",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "6bd847f",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-team-1/00e7eb7c7368.jpg",
+                                "imageId": 1404,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageBorderRadius": 90,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "a8b2a88",
+                                "fontFamily": "Poppins",
+                                "fontWeight": "600",
+                                "textTransform": "uppercase",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#eb5757",
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "49f4bcd",
+                                "fontSize": 16,
+                                "fontFamily": "Poppins",
+                                "textTransform": "uppercase",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

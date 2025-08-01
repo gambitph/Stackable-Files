@@ -1,0 +1,105 @@
+{
+    "id": "section-aurora-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "eaa1ade",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "alignVertical": true,
+        "align": "full",
+        "className": "is-style-overlap-background-4"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c569b1d",
+                "zIndex": 1,
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "ad1dcad",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-2/f7491980afcd.jpg",
+                        "imageId": 1007,
+                        "imageWidthAttribute": 1500,
+                        "imageHeightAttribute": 1000
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9314bce",
+                "blockMargin": {
+                    "top": -200
+                },
+                "hasContainer": true,
+                "containerBackgroundColor": "#000000",
+                "containerWidth": 500,
+                "containerHorizontalAlign": "center",
+                "zIndex": 2,
+                "blockMarginMobile": {
+                    "top": -100
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d09b8ed",
+                        "fontSize": 32,
+                        "fontFamily": "Poppins",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "The Exploration"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ddce667",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "0f967b1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "81ca4b0",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Button",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

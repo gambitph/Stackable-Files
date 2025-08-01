@@ -1,0 +1,55 @@
+{
+    "id": "section-detour-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "9566079",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-call-to-action-2/5f45a3f7dfea.jpg",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "containerBackgroundColor": "#000000",
+        "containerBackgroundColorOpacity": 0.5,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "ebf07c5",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "fontSize": 48,
+                "fontFamily": "Oswald",
+                "fontWeight": "bold",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Great Experience Awaits",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "65976e0"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "98bdd3f",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#eb5757",
+                        "fontSize": 16,
+                        "fontFamily": "Montserrat",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

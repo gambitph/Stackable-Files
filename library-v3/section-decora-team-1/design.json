@@ -1,0 +1,89 @@
+{
+    "id": "section-decora-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "fd6560c",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8e5e0d0",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-team-1/c3af6ab2ac58.jpg",
+                "containerHeight": 400,
+                "containerVerticalAlign": "flex-end",
+                "containerBackgroundColorHover": "#fda939",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5924f8b",
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Julio Grey"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "ac3037f",
+                        "fontSize": 16,
+                        "fontFamily": "Ledger",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Chief Strategist"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cf32d83",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-team-1/45b6539a543a.jpg",
+                "containerVerticalAlign": "flex-end",
+                "containerBackgroundColorHover": "#fda939",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ab4572a",
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Fleur Neo"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "3bca0e6",
+                        "fontSize": 16,
+                        "fontFamily": "Ledger",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Head of Creatives"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

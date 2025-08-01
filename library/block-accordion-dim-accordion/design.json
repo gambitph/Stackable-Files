@@ -1,0 +1,16 @@
+{
+    "id": "block-accordion-dim-accordion",
+    "name": "ugb/accordion",
+    "attributes": {
+        "borderRadius": 0,
+        "shadow": 0,
+        "reverseArrow": true,
+        "containerBackgroundColor": "#000000",
+        "title": "The Way to Achieve Your Dream",
+        "containerPaddingTop": 40,
+        "containerPaddingRight": 40,
+        "containerPaddingBottom": 40,
+        "containerPaddingLeft": 40,
+        "blockOpacity": 1
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "id": "section-devour-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "010f81f",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "df0a503",
+                "hasBackground": true,
+                "blockBackgroundColor": "#000000",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-card-1/189caee65789.jpg",
+                "containerHeight": 450,
+                "containerVerticalAlign": "flex-end"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "05c9ba3",
+                        "fontSize": 40,
+                        "fontFamily": "Karla",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Fluffy Pancakes"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4323c56",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Your breakfast will never be the same again without our fluffiest pancakes."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "7003c84"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7263532",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffce46",
+                                "buttonBorderRadius": 50,
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Order Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "12bc5d4",
+                "hasBackground": true,
+                "blockBackgroundColor": "#000000",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-card-1/5f7d17072d67.jpg",
+                "containerHeight": 450,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "17c807f",
+                        "fontSize": 40,
+                        "fontFamily": "Karla",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Crunchy Asian Salad"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c2c6830",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Zesty and crunchy, this Crunchy Asian Salad is the best start to a great meal. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "ede13be"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "57bf170",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#ffce46",
+                                "buttonBorderRadius": 50,
+                                "fontFamily": "Karla",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Order Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

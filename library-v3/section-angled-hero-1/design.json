@@ -1,0 +1,66 @@
+{
+    "id": "section-angled-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "3965a70",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-hero-1/a1581d1c2073.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "flex-start",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "7278392",
+                "fontFamily": "Poppins",
+                "fontWeight": "700",
+                "textTransform": "uppercase",
+                "text": "Commitment to <span style=\"color: #eb5757\" class=\"ugb-highlight\">Excellence</span>",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "3afb080",
+                "text": "Description for this block. Use this space for describing your block. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "60b19b6"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "6bd033e",
+                        "buttonBackgroundColor": "#eb5757",
+                        "fontFamily": "Poppins",
+                        "text": "Explore"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "core/paragraph",
+            {},
+            []
+        ]
+    ]
+}

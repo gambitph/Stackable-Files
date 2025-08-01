@@ -1,0 +1,76 @@
+{
+    "id": "section-dim-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c1fcb59",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7a6fce1",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-feature-2/47091608cacc.jpg",
+                "blockHeight": 600
+            },
+            []
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "90423a7",
+                "contentAlign": "right",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ef9ed98",
+                        "fontFamily": "Roboto",
+                        "text": "Endless Displays"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "965e26c",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "83b73cb"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "1573077",
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#000000",
+                                "fontSize": 18,
+                                "fontFamily": "Sans-Serif",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "section-prime-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "e9d0bc0",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-call-to-action-1/0378e842df8d.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "a04ec0e",
+                "fontSize": 64,
+                "fontFamily": "Inter",
+                "fontWeight": "200",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Get the Most Out of This",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "ec9be9f"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "3491d53",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#0693e3",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

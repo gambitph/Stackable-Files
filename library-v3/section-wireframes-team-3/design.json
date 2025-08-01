@@ -1,0 +1,680 @@
+{
+    "id": "section-wireframes-team-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1eb85c9",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "29a3e1c"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "cb83753",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "columnGap": 32,
+                        "rowGapMobile": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "09c6c78",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "c72dabe",
+                                        "columnGap": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "1311e64",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "e73a55b",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-3/71e0c4bfb3a1.png",
+                                                        "imageId": 1306,
+                                                        "imageWidthAttribute": 500,
+                                                        "imageHeightAttribute": 600
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "81fe0b9",
+                                                "containerVerticalAlign": "center",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "columnSpacingMobile": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "6a550dc",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 4,
+                                                            "left": ""
+                                                        },
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "Team Member 1",
+                                                        "textTag": "h3",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "be00588",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "text": "Position",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "edb46a1",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. ",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/button-group",
+                                                    {
+                                                        "uniqueId": "06e44a2",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "b2440f1",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"facebook-square\" class=\"svg-inline--fa fa-facebook-square fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z\"></path></svg>",
+                                                                "iconColor1": "#3b5998",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "f6ad475",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"twitter\" class=\"svg-inline--fa fa-twitter fa-w-16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z\"></path></svg>",
+                                                                "iconColor1": "#00acee",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "3a29753",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"linkedin-in\" class=\"svg-inline--fa fa-linkedin-in fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z\"></path></svg>",
+                                                                "iconColor1": "#0e76a8",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "bd71016",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "0937583",
+                                        "columnGap": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "e973e57",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "28d74b8",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-3/71e0c4bfb3a1.png",
+                                                        "imageId": 1306,
+                                                        "imageWidthAttribute": 500,
+                                                        "imageHeightAttribute": 600
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "6065eaf",
+                                                "containerVerticalAlign": "center",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "columnSpacingMobile": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "8488e54",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 4,
+                                                            "left": ""
+                                                        },
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "Team Member 2",
+                                                        "textTag": "h3",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "63c4b46",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "text": "Position",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "95ca6b1",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. ",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/button-group",
+                                                    {
+                                                        "uniqueId": "fd411f4",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "72fe698",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"facebook-square\" class=\"svg-inline--fa fa-facebook-square fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z\"></path></svg>",
+                                                                "iconColor1": "#3b5998",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "64c5acf",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"twitter\" class=\"svg-inline--fa fa-twitter fa-w-16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z\"></path></svg>",
+                                                                "iconColor1": "#00acee",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "9cd64d5",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"linkedin-in\" class=\"svg-inline--fa fa-linkedin-in fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z\"></path></svg>",
+                                                                "iconColor1": "#0e76a8",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7801381",
+                        "columnGap": 32,
+                        "rowGapMobile": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "cce7a94",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "58b902b",
+                                        "columnGap": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "90b64bd",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "e437442",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-3/71e0c4bfb3a1.png",
+                                                        "imageId": 1306,
+                                                        "imageWidthAttribute": 500,
+                                                        "imageHeightAttribute": 600
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "744e4e8",
+                                                "containerVerticalAlign": "center",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "columnSpacingMobile": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "2b7528e",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 4,
+                                                            "left": ""
+                                                        },
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "Team Member 3",
+                                                        "textTag": "h3",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "14be34d",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "text": "Position",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "4b05247",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. ",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/button-group",
+                                                    {
+                                                        "uniqueId": "63b81be",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "b4bd0c6",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"facebook-square\" class=\"svg-inline--fa fa-facebook-square fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z\"></path></svg>",
+                                                                "iconColor1": "#3b5998",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "d4c365c",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"twitter\" class=\"svg-inline--fa fa-twitter fa-w-16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z\"></path></svg>",
+                                                                "iconColor1": "#00acee",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "d65e551",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"linkedin-in\" class=\"svg-inline--fa fa-linkedin-in fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z\"></path></svg>",
+                                                                "iconColor1": "#0e76a8",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ec2b7d3",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "74ba7fd",
+                                        "columnGap": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "26040b0",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "eb5efa1",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-3/71e0c4bfb3a1.png",
+                                                        "imageId": 1306,
+                                                        "imageWidthAttribute": 500,
+                                                        "imageHeightAttribute": 600
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "ee999f9",
+                                                "containerVerticalAlign": "center",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "columnSpacingMobile": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "0b19c9f",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 4,
+                                                            "left": ""
+                                                        },
+                                                        "textRemoveTextMargins": true,
+                                                        "text": "Team Member 4",
+                                                        "textTag": "h3",
+                                                        "contentAlignMobile": "center",
+                                                        "blockMarginMobile": {
+                                                            "bottom": 4
+                                                        }
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "5fa5115",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": ""
+                                                        },
+                                                        "text": "Position",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "c817c59",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. ",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/button-group",
+                                                    {
+                                                        "uniqueId": "41958b2",
+                                                        "contentAlignMobile": "center"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "bf75ca3",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"facebook-square\" class=\"svg-inline--fa fa-facebook-square fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z\"></path></svg>",
+                                                                "iconColor1": "#3b5998",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "599ff89",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"twitter\" class=\"svg-inline--fa fa-twitter fa-w-16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z\"></path></svg>",
+                                                                "iconColor1": "#00acee",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon-button",
+                                                            {
+                                                                "uniqueId": "dc22fde",
+                                                                "buttonBackgroundColor": "transparent",
+                                                                "icon": "<svg data-prefix=\"fab\" data-icon=\"linkedin-in\" class=\"svg-inline--fa fa-linkedin-in fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z\"></path></svg>",
+                                                                "iconColor1": "#0e76a8",
+                                                                "buttonBackgroundColorHover": "transparent",
+                                                                "buttonBackgroundColorParentHover": "transparent",
+                                                                "className": "is-style-plain"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

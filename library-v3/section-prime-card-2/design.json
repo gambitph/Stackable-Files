@@ -1,0 +1,317 @@
+{
+    "id": "section-prime-card-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c70a8d4",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "43f97bc",
+                "blockBackgroundColor": "#000000"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "8b7ceae",
+                        "fontFamily": "Inter",
+                        "fontWeight": "200",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Card Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b9c2abb",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f19dab5"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "38abcfb"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "46e326b",
+                                        "containerBackgroundColor": "#1e1e1e",
+                                        "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-card-2/34a2a90fbbc6.jpg",
+                                        "imageId": 1796,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1278,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4859ca9",
+                                                "fontSize": 32,
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "300",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Title for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "3afa84b",
+                                                "fontSize": 14,
+                                                "fontFamily": "Inter",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "e1ba1dd",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "edff0f3"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "f7acd1b",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#0693e3",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Button",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c26748c"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "7ea5634",
+                                        "containerBackgroundColor": "#1e1e1e",
+                                        "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-card-2/82eb1082282d.jpg",
+                                        "imageId": 1797,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1285,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "405fbec",
+                                                "fontSize": 32,
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "300",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Title for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "66c2d85",
+                                                "fontSize": 14,
+                                                "fontFamily": "Inter",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "bf32454",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "929a792"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "6393fd0",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#0693e3",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Button",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c8c73eb"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "cc77748",
+                                        "containerBackgroundColor": "#1e1e1e",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-card-2/fe6bcf5c3e94.jpg",
+                                        "imageId": 1798,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "ad4ee3b",
+                                                "fontSize": 32,
+                                                "fontFamily": "Inter",
+                                                "fontWeight": "300",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Title for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "51ad946",
+                                                "fontSize": 14,
+                                                "fontFamily": "Inter",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d52d6bf",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "279ff2b"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "e441550",
+                                                        "customAttributes": [],
+                                                        "buttonPadding": {
+                                                            "top": "",
+                                                            "right": 24,
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "buttonBackgroundColor": "#0693e3",
+                                                        "buttonBorderRadius": 50,
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Inter",
+                                                        "text": "Button",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

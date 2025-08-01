@@ -1,0 +1,209 @@
+{
+    "id": "section-wireframes-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6a9dc33",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5c2bf04"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "bc60713",
+                        "contentAlign": "center",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "8b26dbb",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "882065f"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1500680",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-1/71e0c4bfb3a1.png",
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "4cc8daf",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5a5bd1e",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e0bccac",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-1/71e0c4bfb3a1.png",
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "columnWidth": 25,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "d704ae4",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "a6abfa9",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "55457a3",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-1/71e0c4bfb3a1.png",
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "columnWidth": 25,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "ece5ec5",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "0cd02bb",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2a1f219",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-1/71e0c4bfb3a1.png",
+                                "containerShadow": "none",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "flex-end",
+                                "columnWidth": 25,
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "e299c0d",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 4",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "8c1095a",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

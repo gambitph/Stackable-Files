@@ -1,0 +1,68 @@
+{
+    "id": "section-dim-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "443ba36",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-hero-1/6c61e4df6732.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "009486d",
+                "blockWidth": 975,
+                "fontSize": 64,
+                "fontFamily": "Roboto",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Our Commitment to Excellence Ensures your Peace of Mind ",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "ec6af68",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "e7e0ccd"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "ed85203",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontSize": 18,
+                        "fontFamily": "Sans-Serif",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Get Started"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

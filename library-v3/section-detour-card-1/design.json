@@ -1,0 +1,165 @@
+{
+    "id": "section-detour-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "2d8149d",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6cf1c41"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "c048214",
+                        "containerBackgroundColor": "#313131",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-card-1/391318d30d82.jpg",
+                        "imageId": 2005,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 667,
+                        "customAttributes": [],
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "32fbf22",
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Card 1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "9abbf5b",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "textColor1": "#eb5757",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "ebdb34c",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "8f5e042"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "1de3276",
+                                        "customAttributes": [],
+                                        "buttonBackgroundColor": "#eb5757",
+                                        "fontSize": 16,
+                                        "fontFamily": "Montserrat",
+                                        "text": "Read More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "78384b5"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "d4e1a42",
+                        "containerBackgroundColor": "#313131",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-card-1/0379a3232304.jpg",
+                        "imageId": 2006,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 667,
+                        "customAttributes": [],
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "02a1ae1",
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Card 2"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "b10767a",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "textColor1": "#eb5757",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "d899ac6",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "0710019"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "9325157",
+                                        "customAttributes": [],
+                                        "buttonBackgroundColor": "#eb5757",
+                                        "fontSize": 16,
+                                        "fontFamily": "Montserrat",
+                                        "text": "Read More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

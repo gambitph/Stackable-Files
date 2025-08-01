@@ -1,0 +1,24 @@
+{
+    "id": "block-number-box-speck-number-box",
+    "name": "ugb/number-box",
+    "attributes": {
+        "num3": "",
+        "title1": "Number Box 1",
+        "title2": "Number Box 2",
+        "title3": "",
+        "description3": "",
+        "numberColor": "var(--stk-global-color-13433, #25e0f4)",
+        "titleColor": "var(--stk-global-color-30181, #ffffff)",
+        "descriptionColor": "var(--stk-global-color-30181, #ffffff)",
+        "design": "faded",
+        "numberFontFamily": "DM Sans",
+        "blockWidth": 70,
+        "blockWidthUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-84839, #1b36d1)",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

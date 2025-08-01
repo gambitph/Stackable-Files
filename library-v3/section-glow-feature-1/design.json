@@ -1,0 +1,256 @@
+{
+    "id": "section-glow-feature-1",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "becc659",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "rowAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-large-mid"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4ee0e3b",
+                "columnWidth": 30
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "324aa67",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-1/410b00f9ee09.jpg",
+                        "imageId": 2244,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 667,
+                        "imageHeight": 200,
+                        "imageWidth": 200,
+                        "imageShape": "circle",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9afd42b",
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 1",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e2f3c50",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "c32a93a"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "02d9854",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColorType": "gradient",
+                                "buttonBackgroundColor": "#732fb7",
+                                "buttonBackgroundColor2": "#d03dc6",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 18,
+                                "fontFamily": "Open Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "078781a",
+                "hasContainer": true,
+                "containerBorderRadius": 20,
+                "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                "containerPadding": {
+                    "top": 80,
+                    "right": "",
+                    "bottom": 80,
+                    "left": ""
+                },
+                "columnWidth": 40
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "99c1a0a",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-1/6285bf5c36c7.jpg",
+                        "imageId": 2245,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 563,
+                        "imageHeight": 200,
+                        "imageWidth": 200,
+                        "imageShape": "circle",
+                        "customAttributes": [],
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9274eec",
+                        "customAttributes": [],
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 2",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "6d1cad7",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "2c4b693"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "85e37c8",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColorType": "gradient",
+                                "buttonBackgroundColor": "#732fb7",
+                                "buttonBackgroundColor2": "#d03dc6",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 18,
+                                "fontFamily": "Open Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bb2bd47",
+                "columnWidth": 30
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "ee396bd",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-feature-1/2c6b43e68778.jpg",
+                        "imageId": 2246,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 667,
+                        "imageHeight": 200,
+                        "imageWidth": 200,
+                        "imageShape": "circle",
+                        "customAttributes": [],
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3c34ee2",
+                        "customAttributes": [],
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 3",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "651eeca",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "93bcd4f"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7acf995",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColorType": "gradient",
+                                "buttonBackgroundColor": "#732fb7",
+                                "buttonBackgroundColor2": "#d03dc6",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 18,
+                                "fontFamily": "Open Sans",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Button",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

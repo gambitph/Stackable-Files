@@ -1,0 +1,76 @@
+{
+    "id": "section-glow-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "02384c8",
+        "containerBackgroundColorType": "gradient",
+        "containerBackgroundColor": "#100048",
+        "containerBackgroundColor2": "#000000",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-glow-call-to-action-1/bf7f0b2b396d.jpg",
+        "containerBackgroundTintStrength": 7,
+        "containerFixedBackground": true,
+        "containerBorderRadius": 20,
+        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+        "containerHeight": 500,
+        "containerVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "22f6079",
+                "fontSize": 64,
+                "fontFamily": "Ubuntu",
+                "fontWeight": "bold",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Call to Action Block",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "ebcb278",
+                "blockWidth": 700,
+                "blockHorizontalAlign": "center",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "3af5a2e"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b8e0a85",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColorType": "gradient",
+                        "buttonBackgroundColor": "#732fb7",
+                        "buttonBackgroundColor2": "#d03dc6",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Open Sans",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

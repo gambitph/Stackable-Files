@@ -1,0 +1,113 @@
+{
+    "id": "section-munch-call-to-action-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8c872a0",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ffedca",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-call-to-action-1/27930df01410.jpg",
+        "blockBackgroundImageBlendMode": "soft-light",
+        "blockPadding": {
+            "top": 48,
+            "right": "",
+            "bottom": 48,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "386c7f5",
+                "hasContainer": true,
+                "containerBackgroundColor": "#ffca0e",
+                "containerBorderRadius": 12,
+                "containerShadow": "none",
+                "containerHeight": 500,
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "c0e3a71",
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"shopping-basket\" class=\"svg-inline--fa fa-shopping-basket fa-w-18\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\"><path fill=\"currentColor\" d=\"M576 216v16c0 13.255-10.745 24-24 24h-8l-26.113 182.788C514.509 462.435 494.257 480 470.37 480H105.63c-23.887 0-44.139-17.565-47.518-41.212L32 256h-8c-13.255 0-24-10.745-24-24v-16c0-13.255 10.745-24 24-24h67.341l106.78-146.821c10.395-14.292 30.407-17.453 44.701-7.058 14.293 10.395 17.453 30.408 7.058 44.701L170.477 192h235.046L326.12 82.821c-10.395-14.292-7.234-34.306 7.059-44.701 14.291-10.395 34.306-7.235 44.701 7.058L484.659 192H552c13.255 0 24 10.745 24 24zM312 392V280c0-13.255-10.745-24-24-24s-24 10.745-24 24v112c0 13.255 10.745 24 24 24s24-10.745 24-24zm112 0V280c0-13.255-10.745-24-24-24s-24 10.745-24 24v112c0 13.255 10.745 24 24 24s24-10.745 24-24zm-224 0V280c0-13.255-10.745-24-24-24s-24 10.745-24 24v112c0 13.255 10.745 24 24 24s24-10.745 24-24z\"></path></svg>",
+                        "iconColor1": "#000000"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "eb31174",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "fontSize": 64,
+                        "fontFamily": "Lilita One",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "Book Your Delivery Now"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e615aba",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus nisl augue, et sagittis quam accumsan non."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "bef8bc4"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "4cb2794",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "buttonHoverEffect": "scale",
+                                "buttonBorderType": "solid",
+                                "buttonBorderWidth": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "buttonShadow": "6px 6px 0px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 1)",
+                                "fontSize": 16,
+                                "fontFamily": "Chivo",
+                                "textColor1": "#000000",
+                                "text": "Book a Delivery",
+                                "buttonShadowHover": "6px 6px 0px 0px rgba(0,0,0, 1)"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "033bc47",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-call-to-action-1/27930df01410.jpg",
+                "containerBorderRadius": 12,
+                "containerShadow": "none",
+                "containerHeight": 500
+            },
+            []
+        ]
+    ]
+}

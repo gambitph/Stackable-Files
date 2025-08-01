@@ -1,0 +1,237 @@
+{
+    "id": "section-upland-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f67382f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#FFFFFF",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "40ab568"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "bd1e97c",
+                        "fontFamily": "Lato",
+                        "fontWeight": "500",
+                        "text": "Hear From Our Customers"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9158a0b",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "be382bc"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "237a8fb"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "0c42808",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4c97aed",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "a2d691d",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "b09250f"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "df23cbd",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-testimonial-1/00e7eb7c7368.jpg",
+                                                                "imageId": 1404,
+                                                                "imageWidthAttribute": 800,
+                                                                "imageHeightAttribute": 800,
+                                                                "imageBorderRadius": 0,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "ba9bd69",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "9e96732",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "fontFamily": "Lato",
+                                                                "fontWeight": "500",
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Bonnie Pines",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "3289c33",
+                                                                "fontSize": 14,
+                                                                "fontFamily": "Lato",
+                                                                "textTransform": "uppercase",
+                                                                "textColorClass": "has-white-color",
+                                                                "textColor1": "#FFFFFF",
+                                                                "text": "<span style=\"color: #FFFFFF;background-color: #313131\" class=\"ugb-highlight\">Position</span>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6ac0a5a"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "e3073e6",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "6e2a9e1",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "1ac65e6",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "babe385"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "31ca0b3",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-testimonial-1/af158f052b2b.jpg",
+                                                                "imageId": 1405,
+                                                                "imageWidthAttribute": 800,
+                                                                "imageHeightAttribute": 800,
+                                                                "imageBorderRadius": 0,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "cc6e104",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "8cfb8c8",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "fontFamily": "Lato",
+                                                                "fontWeight": "500",
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Danielle Gray",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "30fa063",
+                                                                "fontSize": 14,
+                                                                "fontFamily": "Lato",
+                                                                "textTransform": "uppercase",
+                                                                "textColorClass": "has-white-color",
+                                                                "textColor1": "#FFFFFF",
+                                                                "text": "<span style=\"color: #FFFFFF;background-color: #313131\" class=\"ugb-highlight\">Position</span>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

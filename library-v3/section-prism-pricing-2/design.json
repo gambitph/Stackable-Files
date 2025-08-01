@@ -1,0 +1,541 @@
+{
+    "id": "section-prism-pricing-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "dea8097",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-pricing-2/10406c0156d7.png",
+        "blockBackgroundTintStrength": 0,
+        "blockMargin": {
+            "bottom": 40
+        },
+        "hasContainer": false,
+        "containerPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "blockMarginMobile": {
+            "bottom": 40
+        },
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "cdd972b",
+                "blockWidth": 594,
+                "blockHorizontalAlign": "center",
+                "customAttributes": [],
+                "text": "<span class=\"stk-highlight\">Great Pricing All Around</span>",
+                "fontSizeMobile": 24,
+                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-great-pricing-all-around-span"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "e398fba",
+                "blockWidth": 594,
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+            },
+            []
+        ],
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "7d97f61",
+                "columnFit": true,
+                "columnFitAlign": "center",
+                "columnFitAlignMobile": "center",
+                "align": "full"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "bdc642e",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "containerPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPaddingMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "containerPaddingTablet": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/pricing-box",
+                            {
+                                "uniqueId": "35ab930",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerBackgroundColor": "var(--stk-global-color-41660, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.4,
+                                "containerBorderType": "solid",
+                                "containerBorderRadius": 20,
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": 70,
+                                    "bottom": "",
+                                    "left": 70
+                                },
+                                "blockMarginMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPaddingMobile": {
+                                    "top": 20,
+                                    "right": 52,
+                                    "bottom": 20,
+                                    "left": 52
+                                },
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "cdec979",
+                                        "textRemoveTextMargins": false,
+                                        "text": "Basic Plan ",
+                                        "textTag": "h3",
+                                        "blockHorizontalAlignTablet": "center",
+                                        "blockMarginTablet": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPaddingTablet": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "blockPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "lineHeightMobile": 1.4,
+                                        "anchor": "basic-plan"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "2b68d63"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "59a6d6b",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "55d5587",
+                                                "htmlTag": "span",
+                                                "text": "9.99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "779746c",
+                                                "htmlTag": "span",
+                                                "text": "/year",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "fb3f8d8",
+                                        "text": "Basic Features"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "cd9aaf6",
+                                        "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "f823edb"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "607ce9b",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "buttonFullWidth": true,
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "transparent",
+                                                "buttonBorderWidth": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "buttonBorderRadius": 50,
+                                                "text": "Try for free"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "ec9b4d2",
+                        "blockPaddingMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/pricing-box",
+                            {
+                                "uniqueId": "896793e",
+                                "containerBackgroundColor": "var(--stk-global-color-41660, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.4,
+                                "containerBorderType": "solid",
+                                "containerBorderRadius": 20,
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": 48,
+                                    "bottom": "",
+                                    "left": 48
+                                },
+                                "containerPaddingMobile": {
+                                    "top": 20,
+                                    "right": 52,
+                                    "bottom": 20,
+                                    "left": 52
+                                },
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "dd76a86",
+                                        "textRemoveTextMargins": true,
+                                        "text": " Advanced Plan",
+                                        "textTag": "h3",
+                                        "lineHeightMobile": 1.4,
+                                        "anchor": "advanced-plan"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "0079514"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "115cf5a",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "8961512",
+                                                "htmlTag": "span",
+                                                "text": "19.99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "6e5aaac",
+                                                "htmlTag": "span",
+                                                "text": "/year",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "6056bc4",
+                                        "text": "Advanced Features"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "0e1670e",
+                                        "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "9779faf"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "88cd68d",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "buttonFullWidth": true,
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "transparent",
+                                                "buttonBorderWidth": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "buttonBorderRadius": 50,
+                                                "text": "Try for free"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "0b8a7ed"
+                    },
+                    [
+                        [
+                            "stackable/pricing-box",
+                            {
+                                "uniqueId": "d1a9324",
+                                "containerBackgroundColor": "var(--stk-global-color-41660, #ffffff)",
+                                "containerBackgroundColorOpacity": 0.6,
+                                "containerBorderType": "solid",
+                                "containerBorderColor": "var(--stk-global-color-70676, #bc4eff)",
+                                "containerBorderRadius": 20,
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "19c1b87",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Professional Plan",
+                                        "textTag": "h3",
+                                        "lineHeightMobile": 1.4,
+                                        "anchor": "professional-plan"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "140117b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "42fafe0",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "f9c4de2",
+                                                "htmlTag": "span",
+                                                "text": "39.99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "6fe8431",
+                                                "htmlTag": "span",
+                                                "text": "/year",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "a53f68d",
+                                        "text": "Basic Features"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "47e3c8a",
+                                        "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "59df7f2"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "044179a",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColorType": "gradient",
+                                                "buttonBackgroundColor": "#f3dfff",
+                                                "buttonBackgroundColor2": "#b3ffff",
+                                                "buttonBackgroundGradientDirection": 30,
+                                                "buttonFullWidth": true,
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "var(--stk-global-color-70676, #bc4eff)",
+                                                "buttonBorderWidth": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "buttonBorderRadius": 50,
+                                                "textColorClass": "has-stk-global-color-60579-color",
+                                                "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "text": "<strong>Try for free</strong>",
+                                                "blockPaddingMobile": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                }
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

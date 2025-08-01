@@ -1,0 +1,24 @@
+{
+    "id": "block-blockquote-lume-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "design": "basic",
+        "borderRadius": 0,
+        "containerBackgroundColor": "#313131",
+        "quoteOpacity": 0.3,
+        "quoteColor": "var(--stk-global-color-36389, #37cdc0)",
+        "quoteSize": 150,
+        "quoteY": 19,
+        "text": "<em>This is a Blockquote Block. You can use this unique block to feature great lines from great people. You can also use this great block to highlight notable parts of your post or page. Go on, feature the best here.</em>",
+        "textFontFamily": "Merriweather",
+        "textColor": "#ffffff",
+        "textAlign": "center",
+        "paddingTop": 80,
+        "paddingBottom": 80,
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-52097, #111111)",
+        "showBottomSeparator": false
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "id": "section-chic-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "06a73ab",
+        "customAttributes": [],
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5b7ffc5",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "9c7e311",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-feature-2/b717626a832d.jpg",
+                        "imageId": 1605,
+                        "imageWidthAttribute": 2000,
+                        "imageHeightAttribute": 2000,
+                        "imageHeight": 500,
+                        "imageWidth": 500,
+                        "imageShape": "circle",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2b2de41",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ca2bfcf",
+                        "fontSize": 56,
+                        "fontFamily": "DM Serif Display",
+                        "text": "Title for This Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "6574303",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "55a7943"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "347eff4",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#f28e18",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Roboto",
+                                "textTransform": "uppercase",
+                                "text": "See More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

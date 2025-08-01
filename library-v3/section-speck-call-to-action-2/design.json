@@ -1,0 +1,67 @@
+{
+    "id": "section-speck-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "821172e",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-call-to-action-2/22ea8c5b1d2e.jpg",
+        "blockHeight": 450,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "c54904d",
+                "fontSize": 64,
+                "fontFamily": "Work Sans",
+                "fontWeight": "900",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "fd398df",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "492caa2"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "cf2577e",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#ffe923",
+                        "fontSize": 18,
+                        "fontFamily": "DM Sans",
+                        "textColor1": "#1b36d1",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

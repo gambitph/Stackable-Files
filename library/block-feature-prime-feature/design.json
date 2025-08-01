@@ -1,0 +1,33 @@
+{
+    "id": "block-feature-prime-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-prime-feature/image-url.jpg",
+        "imageShape": "square",
+        "imageId": 70,
+        "imageWidth": 580,
+        "imageHeight": 506,
+        "title": "Experience Excellence",
+        "titleTag": "h2",
+        "titleColor": "#ffffff",
+        "description": "Description for this block. Use this space for describing your block. ",
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Inter",
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonDesign": "basic",
+        "buttonSize": "small",
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "var(--stk-global-color-9498, #0693e3)",
+        "buttonHoverEffect": "lift",
+        "buttonBorderRadius": 100,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-91308, #000000)",
+        "blockBackgroundFixedBackground": true,
+        "showTopSeparator": false,
+        "showBottomSeparator": false,
+        "contentAlign": "center"
+    }
+}

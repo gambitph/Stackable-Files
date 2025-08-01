@@ -1,0 +1,30 @@
+{
+    "id": "block-button-decora-button",
+    "name": "ugb/button",
+    "attributes": {
+        "design": "grouped-1",
+        "showButton2": true,
+        "showButton3": true,
+        "button1FontFamily": "Poppins",
+        "button1Text": "Sign Up",
+        "button1NewTab": false,
+        "button1TextColor": "var(--stk-global-color-10299, #ffffff)",
+        "button1BackgroundColor": "var(--stk-global-color-15876, #fda939)",
+        "button1BorderRadius": 0,
+        "button2FontFamily": "Poppins",
+        "button2Text": "Log In",
+        "button2NewTab": false,
+        "button2Design": "ghost",
+        "button2BackgroundColor": "var(--stk-global-color-15876, #fda939)",
+        "button2BorderRadius": 0,
+        "button3FontFamily": "Poppins",
+        "button3Text": "Subscribe",
+        "button3NewTab": false,
+        "button3Design": "plain",
+        "button3BackgroundColor": "#fcb900",
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "mobileContentAlign": "center"
+    }
+}

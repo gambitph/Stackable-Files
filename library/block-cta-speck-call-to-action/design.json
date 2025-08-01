@@ -1,0 +1,25 @@
+{
+    "id": "block-cta-speck-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "horizontal-2",
+        "shadow": 0,
+        "title": "Your Adventure Begins Here",
+        "titleColor": "var(--stk-global-color-30181, #ffffff)",
+        "descriptionColor": "var(--stk-global-color-30181, #ffffff)",
+        "buttonFontFamily": "DM Sans",
+        "buttonFontSize": 18,
+        "buttonText": "Start Now",
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-84839, #1b36d1)",
+        "buttonBackgroundColor": "var(--stk-global-color-49022, #ffe923)",
+        "buttonBorderRadius": 0,
+        "columnBackgroundColorOpacity": 0,
+        "blockHeight": 392,
+        "blockVerticalAlign": "center",
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-speck-call-to-action/block-background-background-media-url.jpg"
+    }
+}

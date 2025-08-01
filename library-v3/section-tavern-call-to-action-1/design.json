@@ -1,0 +1,140 @@
+{
+    "id": "section-tavern-call-to-action-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1a82ccd",
+        "hasBackground": true,
+        "blockBackgroundColor": "#cbae95",
+        "blockPadding": {
+            "top": 48,
+            "right": "",
+            "bottom": 48,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f744aad"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f02df70",
+                        "blockShadow": "12px 12px 0px 0px rgba(163, 133, 108, 1)"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "44dbc61",
+                                "hasBackground": true,
+                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-call-to-action-1/58408da65a65.jpg",
+                                "containerHeight": 300,
+                                "columnSpacing": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1f0a453",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#1c1a1b",
+                                "columnSpacing": {
+                                    "top": 32,
+                                    "right": 32,
+                                    "bottom": 32,
+                                    "left": 32
+                                },
+                                "containerPaddingMobile": {
+                                    "top": 8,
+                                    "right": 8,
+                                    "bottom": 8,
+                                    "left": 8
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "be2af84",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"chalkboard-teacher\" class=\"svg-inline--fa fa-chalkboard-teacher fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M208 352c-2.39 0-4.78.35-7.06 1.09C187.98 357.3 174.35 360 160 360c-14.35 0-27.98-2.7-40.95-6.91-2.28-.74-4.66-1.09-7.05-1.09C49.94 352-.33 402.48 0 464.62.14 490.88 21.73 512 48 512h224c26.27 0 47.86-21.12 48-47.38.33-62.14-49.94-112.62-112-112.62zm-48-32c53.02 0 96-42.98 96-96s-42.98-96-96-96-96 42.98-96 96 42.98 96 96 96zM592 0H208c-26.47 0-48 22.25-48 49.59V96c23.42 0 45.1 6.78 64 17.8V64h352v288h-64v-64H384v64h-76.24c19.1 16.69 33.12 38.73 39.69 64H592c26.47 0 48-22.25 48-49.59V49.59C640 22.25 618.47 0 592 0z\"></path></svg>",
+                                        "iconColor1": "#cbae95",
+                                        "iconSize": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b87fabc",
+                                        "fontSize": 48,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Join a class today.",
+                                        "anchor": "join-a-class-today"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "71ec9bc",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "bdd4461"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "f581b90",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#9b5e32",
+                                                "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Serif Pro",
+                                                "textTransform": "capitalize",
+                                                "text": "Send an Inquiry"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

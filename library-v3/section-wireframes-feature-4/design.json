@@ -1,0 +1,373 @@
+{
+    "id": "section-wireframes-feature-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a795a0f",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1da4f3c"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6b3729b",
+                        "contentAlign": "center",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "de21973",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c3f6931"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "06bfcdb"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "6097da0"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "14d6686"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "f3746c0",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "58eaa8b",
+                                                        "hasP": true,
+                                                        "text": "Icon Box",
+                                                        "textTag": "h4",
+                                                        "anchor": "icon-box"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "973fa64",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "48e10fb"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "459fbe4"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "589ddb0"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "b16e19c",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "2e0a746",
+                                                        "hasP": true,
+                                                        "text": "Icon Box",
+                                                        "textTag": "h4",
+                                                        "anchor": "icon-box"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "97d6115",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d1a72a3"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "bd54610"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "b4a5e4c"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "a530a38",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "3537a71",
+                                                        "hasP": true,
+                                                        "text": "Icon Box",
+                                                        "textTag": "h4",
+                                                        "anchor": "icon-box"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "37afed2",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "35ccce9"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4aead58"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "67c981c"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "0910f68"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "b4a2541",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "1946b5a",
+                                                        "hasP": true,
+                                                        "text": "Icon Box",
+                                                        "textTag": "h4",
+                                                        "anchor": "icon-box"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "8c87079",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7976855"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "2fd4e42"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "4a6b2cd"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "b63e316",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "568b7fa",
+                                                        "hasP": true,
+                                                        "text": "Icon Box",
+                                                        "textTag": "h4",
+                                                        "anchor": "icon-box"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "e1a7ab1",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fbfd49e"
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "019c15d"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "b041ec5"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "60b4a0d",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "749439f",
+                                                        "hasP": true,
+                                                        "text": "Icon Box",
+                                                        "textTag": "h4",
+                                                        "anchor": "icon-box"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "c91dbcc",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

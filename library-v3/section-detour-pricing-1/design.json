@@ -1,0 +1,307 @@
+{
+    "id": "section-detour-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8bcd033",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "018f01f"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "aeee1c4",
+                        "className": "is-style-compact"
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "fc38c65",
+                                "blockVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2a356aa"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "090cf71",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-pricing-1/7fdacb9f020d.jpg",
+                                                "imageId": 1998,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 600
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "301ff8e",
+                                        "contentAlign": "left",
+                                        "columnAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "f9adde3",
+                                                "fontFamily": "Oswald",
+                                                "fontWeight": "bold",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Package 1",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "459cfff"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "263e3f9",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Oswald",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "276482c",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Oswald",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "154d58a",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Oswald",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "b385542",
+                                                "fontSize": 16,
+                                                "fontFamily": "Montserrat",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "9a5a678"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "888afdf",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#eb5757",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Montserrat",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/icon-list",
+                            {
+                                "uniqueId": "79b055d",
+                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9d4def6"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "db437d2",
+                        "className": "is-style-compact"
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "75f87c4",
+                                "blockVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "11efbfc"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "8d997bc",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-pricing-1/b4309cac3b8d.jpg",
+                                                "imageId": 1999,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 600
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "6e72567",
+                                        "contentAlign": "left",
+                                        "columnAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4deebfc",
+                                                "fontFamily": "Oswald",
+                                                "fontWeight": "bold",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Package 2",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "4cb35c1"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "dcfc49a",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Oswald",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "c4555aa",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Oswald",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "0c14860",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Oswald",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "2fc11fc",
+                                                "fontSize": 16,
+                                                "fontFamily": "Montserrat",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "5aae330"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "9879874",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#eb5757",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Montserrat",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/icon-list",
+                            {
+                                "uniqueId": "5a6eca3",
+                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

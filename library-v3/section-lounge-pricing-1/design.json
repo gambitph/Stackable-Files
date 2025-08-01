@@ -1,0 +1,568 @@
+{
+    "id": "section-lounge-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "269304a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "927239c"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "e2e21d6",
+                        "fontFamily": "Playfair Display",
+                        "fontWeight": "bold",
+                        "textColor1": "#393f59",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0abfcf6",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "47bc94a"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2ef0354"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "08b192c",
+                                        "containerPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-sectioned"
+                                    },
+                                    [
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "3122bc9",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#393f59",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "align": "full"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "c1e57b3"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "2ff3983",
+                                                                "fontFamily": "Playfair Display",
+                                                                "fontWeight": "bold",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColorClass": "has-white-color",
+                                                                "textColor1": "#FFFFFF",
+                                                                "text": "Plan A",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "0226073",
+                                                "height": 32
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "8dfa445"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "1a0a642",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ffb599b",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 64,
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "a64b41b",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "5eec2d7",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "c248fb3",
+                                                "blockBorderType": "solid",
+                                                "blockBorderColor": "#D1E4DD",
+                                                "blockBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 0,
+                                                    "bottom": 1,
+                                                    "left": 0
+                                                },
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "blockPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                },
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "c1d3c78",
+                                                "blockPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "a1fec50",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#d2b18e",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Serif",
+                                                        "text": "Buy Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7f47c97"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "54dd9e4",
+                                        "containerPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-sectioned"
+                                    },
+                                    [
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "947f2b5",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#393f59",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "align": "full"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "a680788"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "b191d0b",
+                                                                "fontFamily": "Playfair Display",
+                                                                "fontWeight": "bold",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColorClass": "has-white-color",
+                                                                "textColor1": "#FFFFFF",
+                                                                "text": "Plan B",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "4ea7c15",
+                                                "height": 32
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "36ab6de"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "125c7f2",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "d005d50",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 64,
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "2f26f60",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "5f2e783",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "542e07c",
+                                                "blockBorderType": "solid",
+                                                "blockBorderColor": "#D1E4DD",
+                                                "blockBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 0,
+                                                    "bottom": 1,
+                                                    "left": 0
+                                                },
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "blockPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                },
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "c682e26",
+                                                "blockPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "750ccd5",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#d2b18e",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Serif",
+                                                        "text": "Buy Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "947dbb3"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "fb90335",
+                                        "containerPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "className": "is-style-sectioned"
+                                    },
+                                    [
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "b5e6528",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#393f59",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "align": "full"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "7318f48"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "c424aa7",
+                                                                "fontFamily": "Playfair Display",
+                                                                "fontWeight": "bold",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColorClass": "has-white-color",
+                                                                "textColor1": "#FFFFFF",
+                                                                "text": "Plan C",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "1f3dadc",
+                                                "height": 32
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "5f410cb"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "52c8f35",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "321689a",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 64,
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": "99",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "bbc66c7",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Playfair Display",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "5f2978a",
+                                                "fontSize": 16,
+                                                "fontFamily": "Serif",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon-list",
+                                            {
+                                                "uniqueId": "496a18d",
+                                                "blockBorderType": "solid",
+                                                "blockBorderColor": "#D1E4DD",
+                                                "blockBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 0,
+                                                    "bottom": 1,
+                                                    "left": 0
+                                                },
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "blockPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                },
+                                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "e9f66b4",
+                                                "blockPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "9206847",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#d2b18e",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Serif",
+                                                        "text": "Buy Now"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

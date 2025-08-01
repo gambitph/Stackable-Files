@@ -1,0 +1,30 @@
+{
+    "id": "block-text-aspire-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "design": "side-title-2",
+        "showTitle": true,
+        "title": "Advanced <br>Text",
+        "titleFontWeight": "400",
+        "titleFontSize": 60,
+        "titleColor": "#d3fc32",
+        "subtitle": "",
+        "subtitleColor": "#ffffff",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.<br><br>exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum. <br><br>dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "textFontSize": 18,
+        "textColor": "#ffffff",
+        "blockHeight": 70,
+        "blockHeightUnit": "vh",
+        "blockWidth": 90,
+        "blockWidthUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-5332, #071731)",
+        "blockBackgroundBackgroundTintStrength": 9,
+        "contentAlign": "left"
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "id": "section-devour-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3124827",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1023720"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "bc8a7b6",
+                        "fontFamily": "Cherry Swash",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#3d9457",
+                        "text": "Hear From Our Customers"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7d53334",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "e0b1a92"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0444e5c"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "6e34440",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "54c0845",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "12bb327",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-testimonial-1/70e1a781347f.jpg",
+                                                "imageId": 2025,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "a61c352",
+                                                "fontFamily": "Karla",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "d17b34b",
+                                                "fontSize": 16,
+                                                "fontFamily": "Karla",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c07c514"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "1d8a8df",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "420a87a",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "f071ad3",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-testimonial-1/c577d23dc51e.jpg",
+                                                "imageId": 2026,
+                                                "imageWidthAttribute": 1920,
+                                                "imageHeightAttribute": 1280,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "6ddf942",
+                                                "fontFamily": "Karla",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "01f9857",
+                                                "fontSize": 16,
+                                                "fontFamily": "Karla",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "62e77b0"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "82fc259",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "391161a",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "dcb6ae3",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-testimonial-1/bd3be2582eb2.jpg",
+                                                "imageId": 2027,
+                                                "imageWidthAttribute": 1441,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "daf25d6",
+                                                "fontFamily": "Karla",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "a1694e8",
+                                                "fontSize": 16,
+                                                "fontFamily": "Karla",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

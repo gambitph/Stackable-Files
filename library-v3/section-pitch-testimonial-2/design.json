@@ -1,0 +1,298 @@
+{
+    "id": "section-pitch-testimonial-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "99247bf",
+        "hasBackground": true,
+        "blockBackgroundColor": "#101828",
+        "blockMargin": {
+            "bottom": 27
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3037574",
+                "containerPadding": {
+                    "top": 32,
+                    "right": 32,
+                    "bottom": 32,
+                    "left": 32
+                },
+                "customAttributes": [],
+                "blockMarginMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockPaddingMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "containerPaddingMobile": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "fe02166",
+                        "blockBackgroundColor": "var(--stk-global-color-51431, #1570ef)",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-51431, #1570ef)",
+                        "blockBorderRadius": 16,
+                        "blockHeight": 320,
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockVerticalAlignMobile": "center"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "463df0d",
+                                "containerVerticalAlign": "center",
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "columnWidth": 70,
+                                "columnAdjacentCount": 2,
+                                "customAttributes": [],
+                                "containerPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 66.7,
+                                "columnWidthMobile": 100,
+                                "columnAdjacentCountTablet": 2,
+                                "columnAdjacentCountMobile": 1,
+                                "columnSpacingMobile": {
+                                    "top": 20,
+                                    "right": 20,
+                                    "bottom": 20,
+                                    "left": 20
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "52e3a50",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-51431-color",
+                                        "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                        "text": "\"",
+                                        "textTag": "h1",
+                                        "blockMarginMobile": {
+                                            "bottom": 0
+                                        },
+                                        "anchor": ""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "33793c6",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-background-color",
+                                        "textColor1": "#ffffff",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Arcu est risus eu arcu mattis in. At quis diam odio quis facilisis facilisi in nec.\"",
+                                        "textTag": "h3",
+                                        "fontSizeTablet": 25,
+                                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-arcu-est-risus-eu-arcu-mattis-in-at-quis-diam-odio-quis-facilisis-facilisi-in-nec"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "57e9259"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "b03f165",
+                                                "columnWidth": 10,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "columnWidthTablet": 25,
+                                                "columnWidthMobile": 100,
+                                                "columnAdjacentCountTablet": 2,
+                                                "columnAdjacentCountMobile": 1,
+                                                "contentAlignMobile": "left"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "ce81fb9",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-testimonial-2/91beb23dddde.png",
+                                                        "imageId": 1117,
+                                                        "imageWidthAttribute": 45,
+                                                        "imageHeightAttribute": 45,
+                                                        "imageWidth": 64,
+                                                        "contentAlign": "left",
+                                                        "imageWidthMobile": 40,
+                                                        "imageWidthUnit": "px",
+                                                        "imageWidthUnitMobile": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fb67375",
+                                                "columnWidth": 90,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                },
+                                                "columnWidthTablet": 66.6,
+                                                "columnWidthMobile": 100,
+                                                "columnAdjacentCountTablet": 2,
+                                                "columnAdjacentCountMobile": 1,
+                                                "contentAlignMobile": "left"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "d947c91",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "textColorClass": "has-stk-global-color-51431-color",
+                                                        "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                                        "text": "John Doe",
+                                                        "textTag": "h5",
+                                                        "anchor": "john-doe"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "62b5090",
+                                                        "textColorClass": "has-background-color",
+                                                        "textColor1": "#ffffff",
+                                                        "text": "Title &amp; Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "88b66c1",
+                                "columnWidth": 30,
+                                "columnAdjacentCount": 2,
+                                "contentAlign": "center",
+                                "columnAlign": "center",
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerPaddingMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 30,
+                                "columnWidthMobile": 100,
+                                "columnAdjacentCountTablet": 2,
+                                "columnAdjacentCountMobile": 1,
+                                "columnAlignMobile": "flex-start",
+                                "positionNumMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5be2dc8",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-testimonial-2/f2e3f37dc48a.png",
+                                        "imageId": 1145,
+                                        "imageWidthAttribute": 281,
+                                        "imageHeightAttribute": 292,
+                                        "imageHeight": 100,
+                                        "imageWidth": 240,
+                                        "contentAlign": "center",
+                                        "positionNum": {
+                                            "top": 24,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "imageHeightUnit": "%",
+                                        "imageWidthTablet": 120,
+                                        "imageWidthMobile": 120,
+                                        "imageWidthUnit": "px",
+                                        "imageWidthUnitTablet": "px",
+                                        "imageWidthUnitMobile": "px",
+                                        "contentAlignMobile": "right",
+                                        "positionNumMobile": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        }
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

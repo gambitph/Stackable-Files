@@ -1,0 +1,152 @@
+{
+    "id": "section-tavern-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "45b93a5",
+        "hasBackground": true,
+        "blockBackgroundColor": "#cbae95",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-hero-1/49c577b62dab.jpg",
+        "blockBackgroundImageBlendMode": "hard-light",
+        "blockBackgroundTintStrength": 8,
+        "blockFixedBackground": true,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "containerBackgroundColor": "#1c1a1b",
+        "containerShadow": "16px 16px 0px 0px rgba(163, 133, 108, 1)",
+        "containerHeight": 700,
+        "containerPadding": {
+            "top": 120,
+            "right": 120,
+            "bottom": 120,
+            "left": 120
+        },
+        "innerBlockContentAlign": "alignwide",
+        "containerPaddingMobile": {
+            "top": 32,
+            "right": 32,
+            "bottom": 32,
+            "left": 32
+        },
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/icon",
+            {
+                "uniqueId": "b6ac40c",
+                "blockMargin": {
+                    "top": "",
+                    "right": "",
+                    "bottom": 32,
+                    "left": ""
+                },
+                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"utensils\" class=\"svg-inline--fa fa-utensils fa-w-13\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 416 512\"><path fill=\"currentColor\" d=\"M207.9 15.2c.8 4.7 16.1 94.5 16.1 128.8 0 52.3-27.8 89.6-68.9 104.6L168 486.7c.7 13.7-10.2 25.3-24 25.3H80c-13.7 0-24.7-11.5-24-25.3l12.9-238.1C27.7 233.6 0 196.2 0 144 0 109.6 15.3 19.9 16.1 15.2 19.3-5.1 61.4-5.4 64 16.3v141.2c1.3 3.4 15.1 3.2 16 0 1.4-25.3 7.9-139.2 8-141.8 3.3-20.8 44.7-20.8 47.9 0 .2 2.7 6.6 116.5 8 141.8.9 3.2 14.8 3.4 16 0V16.3c2.6-21.6 44.8-21.4 48-1.1zm119.2 285.7l-15 185.1c-1.2 14 9.9 26 23.9 26h56c13.3 0 24-10.7 24-24V24c0-13.2-10.7-24-24-24-82.5 0-221.4 178.5-64.9 300.9z\"></path></svg>",
+                "iconColor1": "#cbae95",
+                "iconSize": 64
+            },
+            []
+        ],
+        [
+            "stackable/subtitle",
+            {
+                "uniqueId": "ffcce5a",
+                "fontSize": 24,
+                "fontFamily": "Stint Ultra Condensed",
+                "textTransform": "uppercase",
+                "letterSpacing": 2,
+                "textColor1": "#a2856c",
+                "text": "Subtitle for this block"
+            },
+            []
+        ],
+        [
+            "stackable/divider",
+            {
+                "uniqueId": "e2715b8",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "color": "#a3856c",
+                "className": "is-style-asterisks"
+            },
+            []
+        ],
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "49b3e71",
+                "fontSize": 72,
+                "fontFamily": "Milonga",
+                "textRemoveTextMargins": true,
+                "textColorClass": "has-stk-global-color-58834-color",
+                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                "text": "The Art of Bread Making",
+                "textTag": "h1",
+                "anchor": "the-art-of-bread-making"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "bf9b765",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "textColorClass": "has-stk-global-color-58834-color",
+                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2dd8e18"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "d57b7d9",
+                        "buttonBackgroundColor": "#9b5e32",
+                        "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                        "fontSize": 18,
+                        "fontFamily": "Source Serif Pro",
+                        "textTransform": "capitalize",
+                        "text": "Book a class"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "93e321b",
+                        "buttonBackgroundColor": "transparent",
+                        "buttonBorderType": "solid",
+                        "buttonBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                        "iconColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "iconPosition": "right",
+                        "fontSize": 18,
+                        "fontFamily": "Source Serif Pro",
+                        "textTransform": "capitalize",
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Learn More",
+                        "buttonBackgroundColorHover": "var(--stk-global-color-58834, #ffffff)",
+                        "buttonBackgroundColorParentHover": "transparent",
+                        "iconColor1Hover": "#9b5e32",
+                        "textColor1Hover": "#9b5e32",
+                        "className": "is-style-ghost"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

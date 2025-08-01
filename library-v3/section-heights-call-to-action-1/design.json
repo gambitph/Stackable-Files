@@ -1,0 +1,60 @@
+{
+    "id": "section-heights-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "810290f",
+        "containerBorderRadius": 20,
+        "containerShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "4abe708",
+                "fontSize": 64,
+                "fontFamily": "Inter",
+                "fontWeight": "bold",
+                "textColor1": "#313131",
+                "text": "Join the Revolution",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "dedc1e5",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "802e178"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "e140deb",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "fontSize": 18,
+                        "fontFamily": "Inter",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

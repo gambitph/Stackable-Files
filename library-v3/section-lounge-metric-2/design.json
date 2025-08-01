@@ -1,0 +1,135 @@
+{
+    "id": "section-lounge-metric-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3093c59",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e46f1a8"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "a648d1d",
+                        "fontFamily": "Playfair Display",
+                        "fontWeight": "bold",
+                        "textColor1": "#393f59",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5bf8442",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c3e9326"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ea1c166",
+                                "hasContainer": true
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "add483a",
+                                        "fontSize": 32,
+                                        "fontFamily": "Playfair Display",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#393f59",
+                                        "text": "Count Up 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "edae231",
+                                        "fontSize": 64,
+                                        "fontFamily": "Playfair Display",
+                                        "textColor1": "#be9d7a",
+                                        "text": "$99.99"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0c5777c",
+                                        "text": "Description for this block. Use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "590f62a",
+                                "hasContainer": true
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "58e9b30",
+                                        "fontSize": 32,
+                                        "fontFamily": "Playfair Display",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#393f59",
+                                        "text": "Count Up 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "4711829",
+                                        "fontSize": 64,
+                                        "fontFamily": "Playfair Display",
+                                        "textColor1": "#be9d7a",
+                                        "text": "1,234.56"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "adadd9e",
+                                        "text": "Description for this block. Use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "section-lush-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "7655f00",
+        "containerBackgroundColor": "#e4e4d3",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-call-to-action-2/671059f69629.jpg",
+        "containerBackgroundTintStrength": 9,
+        "containerHeight": 400,
+        "containerVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "32613c1"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "7f6385f",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "bc222dc",
+                                "fontSize": 64,
+                                "fontFamily": "Playfair Display",
+                                "fontWeight": "bold",
+                                "textColor1": "#66826b",
+                                "text": "Call to Action",
+                                "textTag": "h3"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "7f5626d",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "f2a29c2",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "494311c"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "3c2790e",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#be9743",
+                                        "fontSize": 18,
+                                        "fontFamily": "Alice",
+                                        "text": "Button"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

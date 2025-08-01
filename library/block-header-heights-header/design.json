@@ -1,0 +1,27 @@
+{
+    "id": "block-header-heights-header",
+    "name": "ugb/header",
+    "attributes": {
+        "design": "plain",
+        "title": "Commitment to Excellence",
+        "titleColor": "var(--stk-global-color-87301, #ffffff)",
+        "subtitleFontSize": 18,
+        "subtitleColor": "var(--stk-global-color-87301, #ffffff)",
+        "buttonFontFamily": "Sans-Serif",
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-55447, #111111)",
+        "buttonBackgroundColor": "var(--stk-global-color-87301, #ffffff)",
+        "buttonBorderRadius": 0,
+        "button2Text": "",
+        "button2NewTab": false,
+        "blockHeight": 780,
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#327ac1",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-heights-header/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 5,
+        "contentAlign": "left"
+    }
+}

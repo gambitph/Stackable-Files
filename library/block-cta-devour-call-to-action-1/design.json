@@ -1,0 +1,30 @@
+{
+    "id": "block-cta-devour-call-to-action-1",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "shadow": 0,
+        "title": "Call to Action Block",
+        "titleTag": "h3",
+        "titleFontFamily": "Cherry Swash",
+        "titleColor": "var(--stk-global-color-86077, #ffce46)",
+        "descriptionColor": "var(--stk-global-color-5230, #ffffff)",
+        "buttonFontFamily": "Karla",
+        "buttonFontSize": 18,
+        "buttonTabletFontSize": 15,
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-5230, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-71717, #3d9457)",
+        "buttonBorderRadius": 100,
+        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-1/column-background-media-url.jpg",
+        "mobileBlockHeight": 500,
+        "columnPaddingTop": 120,
+        "columnPaddingBottom": 120,
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundMediaId": 40,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-1/block-background-background-media-url.jpg",
+        "contentAlign": "right"
+    }
+}

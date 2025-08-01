@@ -1,0 +1,81 @@
+{
+    "id": "section-cary-hero-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4c47bc6",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-hero-1/e52053be7acd.jpeg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bd20b37",
+                "columnWidth": 66
+            },
+            []
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "de794c9",
+                "columnWidth": 34
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "34e9523",
+                        "fontSize": 56,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "text": "Header Block",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "63733cc",
+                        "blockWidth": 987,
+                        "blockHorizontalAlign": "flex-end",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "c22334a"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f8cbb04",
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#000000",
+                                "fontSize": 18,
+                                "fontFamily": "Sans-Serif",
+                                "text": "Buy Now",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

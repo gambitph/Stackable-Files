@@ -1,0 +1,29 @@
+{
+    "id": "block-video-popup-devour-video-popup",
+    "name": "ugb/video-popup",
+    "attributes": {
+        "videoID": "",
+        "height": 600,
+        "shadow": 0,
+        "playButtonType": "circle",
+        "playButtonColor": "#ffffff",
+        "playButtonSize": 100,
+        "previewBackgroundMediaId": 37,
+        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-devour-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundTintStrength": 2,
+        "paddingRight": 35,
+        "paddingLeft": 35,
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundBackgroundColorOpacity": 1,
+        "showBottomSeparator": false,
+        "showBlockTitle": true,
+        "blockTitleFontSize": 53,
+        "blockTitleAlign": "center",
+        "blockTitleColor": "var(--stk-global-color-86077, #ffce46)",
+        "showBlockDescription": true,
+        "blockDescriptionAlign": "center"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "section-peplum-heading-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7657b41",
+        "blockWidth": 700,
+        "blockHorizontalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1d796e4"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "046cb87",
+                        "fontSize": 64,
+                        "fontFamily": "Yeseva One",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#b27197",
+                        "text": "Advanced Heading",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5a37ace",
+                        "contentAlign": "right",
+                        "fontSize": 16,
+                        "fontFamily": "Josefin Sans",
+                        "textTransform": "uppercase",
+                        "text": "Subtitle for this Heading"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

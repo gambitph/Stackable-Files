@@ -1,0 +1,69 @@
+{
+    "id": "section-propel-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "11efeb5",
+        "hasBackground": true,
+        "blockBackgroundColor": "#2c2c2c",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-hero-1/108bc3ebee44.jpg",
+        "blockBackgroundTintStrength": 6,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "3e7b013",
+                "fontSize": 64,
+                "fontFamily": "Open Sans",
+                "fontStyle": "italic",
+                "fontWeight": "600",
+                "textColor1": "#FFFFFF",
+                "text": "<span style=\"color: #fcb900\" class=\"stk-highlight\">The Way</span> to Achieve Your Dreams",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "84a56a7",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "3c48882"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "434595c",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#fcb900",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Nunito",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "id": "section-flow-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "87d55c6",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/8cb529ec9186.png",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 64,
+        "rowGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "rowGapMobile": 48,
+        "columnArrangementMobile": "2,1",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ae80b5a",
+                "containerVerticalAlign": "center",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "145b00d",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b653f51",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5c0ce7b",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/a2e0e032da3b.png",
+                                        "imageId": 2410,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4093e2b",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "75bcd03",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/f0515e7e0e01.png",
+                                        "imageId": 2411,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "563ad35",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "6cbd66e",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/4b496ada96c6.png",
+                                        "imageId": 2451,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c228661",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d128747",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "a9e6cb6",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/b475ef34d0b5.png",
+                                        "imageId": 2449,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d5efb52",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "aadeb75",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/3b5f5044eeee.png",
+                                        "imageId": 2452,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "08c7f48",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "dad2306",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-feature-1/308f55c0cacc.png",
+                                        "imageId": 2450,
+                                        "imageWidthAttribute": 184,
+                                        "imageHeightAttribute": 184,
+                                        "imageHeight": 48,
+                                        "imageWidth": 48,
+                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                        "contentAlign": "left",
+                                        "customAttributes": [],
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4b5e8ad",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "text": "This is a description for this app's feature."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ded5684",
+                "containerVerticalAlign": "center",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "6a4c6a2",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "fontWeight": "bold",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9cfb214",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Our App's Features",
+                        "anchor": "no-need-to-take-our-word-for-it"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ccefc2d",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis. Aliquam venenatis volutpat scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod sodales lacus ac molestie. Sed a sem ut eros semper dignissim. Morbi sollicitudin auctor lacus, sit amet efficitur leo vehicula et."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "7263340"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "a9d7c81",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "var(--stk-global-color-9296, #000000)",
+                                "buttonHoverEffect": "scale",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Space Grotesk",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "section-speck-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "6d9c47a",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9dc4c60",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "49a8e73",
+                        "fontSize": 72,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "800",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for This Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "accc71a",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "0134979"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "5d53719",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ffe923",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#1b36d1",
+                                "text": "Contact Us"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2b6c3a7",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "0753935",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-feature-2/7d65d3b0873c.png",
+                        "imageId": 2042,
+                        "imageWidthAttribute": 1280,
+                        "imageHeightAttribute": 960
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

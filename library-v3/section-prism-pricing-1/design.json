@@ -1,0 +1,600 @@
+{
+    "id": "section-prism-pricing-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "34b05f5",
+        "blockMargin": {
+            "bottom": 40
+        },
+        "containerPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "blockMarginMobile": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "e041c79",
+                "blockWidth": 594,
+                "blockHorizontalAlign": "center",
+                "customAttributes": [],
+                "text": "Great Pricing All Around",
+                "textTag": "h3",
+                "fontSizeMobile": 24,
+                "anchor": "great-pricing-all-around"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "a9f6032",
+                "blockWidth": 594,
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+            },
+            []
+        ],
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "21af1fa",
+                "columnFit": true,
+                "columnFitAlign": "center",
+                "columnGapMobile": 0,
+                "rowGapMobile": 20
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "893ad2a",
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPaddingMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "containerPaddingMobile": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "columnSpacingMobile": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/pricing-box",
+                            {
+                                "uniqueId": "fdda51a",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerBackgroundColor": "#f2f4f7",
+                                "containerBorderColor": "var(--stk-global-color-41660, #ffffff)",
+                                "containerBorderRadius": 20,
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": 48,
+                                    "bottom": "",
+                                    "left": 48
+                                },
+                                "blockMarginMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "9739416",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Plan 1",
+                                        "textTag": "h4",
+                                        "anchor": "plan-1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "3d8a035",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "af8e8ba",
+                                                "htmlTag": "span",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "0f37e4c",
+                                                "htmlTag": "span",
+                                                "text": "<strong>FREE</strong>",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "0b828e1",
+                                                "htmlTag": "span",
+                                                "contentAlign": "left",
+                                                "text": "Lifetime",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "bf681c5",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "left",
+                                        "text": "Billed annually"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "0814744"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "a32a190",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "buttonBackgroundColor": "var(--stk-global-color-70676, #bc4eff)",
+                                                "buttonFullWidth": true,
+                                                "buttonBorderRadius": 50,
+                                                "text": "Free Forever"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "a47527c",
+                                        "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                        "icons": {
+                                            "ul li:nth-child(1)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                            "ul li:nth-child(2)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                            "ul li:nth-child(3)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>"
+                                        },
+                                        "iconSize": 2.4,
+                                        "iconSizeTablet": 1.5,
+                                        "iconSizeMobile": 1.2
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "66d5286",
+                        "blockPaddingMobile": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "containerPaddingMobile": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "columnSpacingMobile": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/pricing-box",
+                            {
+                                "uniqueId": "1e4bfc5",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerBackgroundColor": "#f2f4f7",
+                                "containerBorderColor": "var(--stk-global-color-41660, #ffffff)",
+                                "containerBorderRadius": 20,
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": 48,
+                                    "bottom": "",
+                                    "left": 48
+                                },
+                                "blockPaddingMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerPaddingMobile": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "42a5b4b",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Plan 2",
+                                        "textTag": "h4",
+                                        "anchor": "plan-2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "d4fbd0d",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "contentAlign": "left",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "3c63529",
+                                                "htmlTag": "span",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "23f0200",
+                                                "htmlTag": "span",
+                                                "text": "<strong>29.99</strong>",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "b653334",
+                                                "htmlTag": "span",
+                                                "contentAlign": "left",
+                                                "text": "/year",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "07e66b9",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "left",
+                                        "text": "Billed annually"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "49a55ba"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "b550ee1",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "buttonBackgroundColor": "var(--stk-global-color-70676, #bc4eff)",
+                                                "buttonFullWidth": true,
+                                                "buttonBorderRadius": 50,
+                                                "text": "Try for Free"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "6bd9c35",
+                                        "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                        "icons": {
+                                            "ul li:nth-child(1)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                            "ul li:nth-child(2)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                            "ul li:nth-child(3)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>"
+                                        },
+                                        "iconSize": 2.4,
+                                        "iconSizeTablet": 1.5,
+                                        "iconSizeMobile": 1.2
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "2dccda9",
+                        "columnSpacingMobile": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/pricing-box",
+                            {
+                                "uniqueId": "1452eca",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "#cdffff",
+                                "containerBackgroundColor2": "#e5bcff",
+                                "containerBackgroundGradientDirection": 130,
+                                "containerBorderColor": "var(--stk-global-color-41660, #ffffff)",
+                                "containerBorderRadius": 20,
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": 48,
+                                    "bottom": "",
+                                    "left": 48
+                                },
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "a3e55e8",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Plan 3",
+                                        "textTag": "h4",
+                                        "anchor": "plan-3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "32096a8",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "c517a3a",
+                                                "htmlTag": "span",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "5507edb",
+                                                "htmlTag": "span",
+                                                "text": "<strong>49.99</strong>",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d90e636",
+                                                "htmlTag": "span",
+                                                "contentAlign": "left",
+                                                "text": "/year",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "dd342bc",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "contentAlign": "left",
+                                        "text": "Billed annually"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "485397b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "287e7db",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "buttonFullWidth": true,
+                                                "buttonBorderRadius": 50,
+                                                "text": "Try for Free"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "9fc51e2",
+                                        "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>",
+                                        "icons": {
+                                            "ul li:nth-child(1)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                            "ul li:nth-child(2)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                            "ul li:nth-child(3)": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>"
+                                        },
+                                        "iconSize": 2.4,
+                                        "iconSizeTablet": 1.5,
+                                        "iconSizeMobile": 1.2
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

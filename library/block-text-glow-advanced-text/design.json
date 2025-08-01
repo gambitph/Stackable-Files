@@ -1,0 +1,30 @@
+{
+    "id": "block-text-glow-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "columns": 2,
+        "showColumnRule": true,
+        "columnRuleColor": "#d12dcf",
+        "columnRuleWidth": 2,
+        "showTitle": true,
+        "titleTag": "h1",
+        "title": "Be the Best",
+        "titleFontFamily": "Poppins",
+        "titleColor": "var(--stk-global-color-24372, #ffffff)",
+        "showSubtitle": true,
+        "subtitle": "Subtitle for this block ",
+        "subtitleColor": "var(--stk-global-color-24372, #ffffff)",
+        "subtitleOnTop": true,
+        "text3": "",
+        "text4": "",
+        "textColor": "#ffffff",
+        "titleAlign": "center",
+        "subtitleAlign": "center",
+        "titleBottomMargin": 55,
+        "columnGap": 40,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-64736, #000000)"
+    }
+}

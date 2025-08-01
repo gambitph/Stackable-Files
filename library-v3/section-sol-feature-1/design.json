@@ -1,0 +1,185 @@
+{
+    "id": "section-sol-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5850025",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "94d2b5b",
+                "containerVerticalAlign": "center",
+                "effectAnimationSmooth": true,
+                "effectAnimationIn": {
+                    "translatex": -300
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "f67a4cf",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-feature-1/f5b2d9d01434.jpg",
+                        "imageId": 1046,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 2401,
+                        "imageHeight": 750,
+                        "imageShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f6464ad",
+                "containerVerticalAlign": "center",
+                "effectAnimationSmooth": true,
+                "effectAnimationIn": {
+                    "translatex": 300
+                }
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "7a2395c",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColor1": "#ed5521",
+                        "text": "SUbtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "394e8ab",
+                        "fontSize": 56,
+                        "fontFamily": "Raleway",
+                        "fontWeight": "800",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1a1a1a",
+                        "text": "Only the Best for your Eyes"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "8c3529e",
+                        "customAttributes": [],
+                        "textColorClass": "has-stk-global-color-78455-color",
+                        "textColor1": "#111111",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis feugiat pharetra quis imperdiet cursus tristique tincidunt non vitae. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "e9c6c58",
+                        "blockMargin": {
+                            "top": 24,
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "color": "#b9b9b9",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "c6464f5",
+                        "hasContainer": false,
+                        "contentAlign": "left",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "11d4d60",
+                                "customAttributes": [],
+                                "fontStyle": "italic",
+                                "textColorClass": "has-stk-global-color-78455-color",
+                                "textColor1": "#111111",
+                                "text": "\"Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.\""
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "179b24d",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-feature-1/f0f7db099f1a.jpg",
+                                "imageId": 1047,
+                                "imageWidthAttribute": 1920,
+                                "imageHeightAttribute": 2560,
+                                "imageHeight": 48,
+                                "imageWidth": 48,
+                                "imageShape": "circle",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "5315438",
+                                "blockMargin": {
+                                    "bottom": 8
+                                },
+                                "fontSize": 24,
+                                "fontFamily": "Raleway",
+                                "fontWeight": "800",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1a1a1a",
+                                "text": "Charles Stevens",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "cd267ca",
+                                "blockMargin": {
+                                    "bottom": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 16,
+                                "fontFamily": "Inter",
+                                "textColor1": "#919191",
+                                "text": "Customer"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

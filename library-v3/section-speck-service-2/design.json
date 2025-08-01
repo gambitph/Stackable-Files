@@ -1,0 +1,467 @@
+{
+    "id": "section-speck-service-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "2866b11",
+        "hasBackground": true,
+        "blockBackgroundColor": "#1b36d1",
+        "blockPadding": {
+            "top": 40,
+            "right": "",
+            "bottom": 40,
+            "left": ""
+        },
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "934b03d",
+                "containerVerticalAlign": "center",
+                "columnWidth": 33.3
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "c912db4",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "contentAlign": "left",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "textTransform": "uppercase",
+                        "textColor1": "#25e0f4",
+                        "text": "What we offer"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "fa7d777",
+                        "blockMargin": {
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Work Sans",
+                        "fontWeight": "900",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "textShadow": "6px 6px 4px rgba(120, 120, 120, 0.2)",
+                        "text": "Our Services",
+                        "textTag": "h1",
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": 8,
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "1b09009",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "3fc6d46"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "eea3d4f",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#ffe923",
+                                "fontSize": 18,
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#1b36d1",
+                                "text": "Book an Appointment"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "71f8091",
+                "columnWidth": 66.7
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a5d2758",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c9f3237",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "#1b36d1",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-service-2/89a5f3ba80e4.jpg",
+                                "containerBackgroundGradientDirection": 180,
+                                "containerVerticalAlign": "flex-end"
+                            },
+                            [
+                                [
+                                    "stackable/spacer",
+                                    {
+                                        "uniqueId": "41fcb3b",
+                                        "height": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "93460d6",
+                                        "blockMargin": {
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "700",
+                                        "textRemoveTextMargins": false,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "textShadow": "6px 6px 4px rgba(120, 120, 120, 0.2)",
+                                        "text": "App Development",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": 8,
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "0f3b726",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontSize": 16,
+                                        "fontFamily": "DM Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7c977d4",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "#1b36d1",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-service-2/72d0cfd50aff.jpg",
+                                "containerBackgroundGradientDirection": 180,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/spacer",
+                                    {
+                                        "uniqueId": "ba515c4",
+                                        "height": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "d479fac",
+                                        "blockMargin": {
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "700",
+                                        "textRemoveTextMargins": false,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "textShadow": "6px 6px 4px rgba(120, 120, 120, 0.2)",
+                                        "text": "UI/UX Design",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": 8,
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "43467ae",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontSize": 16,
+                                        "fontFamily": "DM Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0ae3439"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0c7cbe4",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "#1b36d1",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-service-2/a30b895e1e9b.jpg",
+                                "containerBackgroundGradientDirection": 180,
+                                "containerVerticalAlign": "flex-end"
+                            },
+                            [
+                                [
+                                    "stackable/spacer",
+                                    {
+                                        "uniqueId": "faefda4",
+                                        "height": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "d1c330f",
+                                        "blockMargin": {
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "700",
+                                        "textRemoveTextMargins": false,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "textShadow": "6px 6px 4px rgba(120, 120, 120, 0.2)",
+                                        "text": "SEO Analysis",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": 8,
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5286de6",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontSize": 16,
+                                        "fontFamily": "DM Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6ae7ae5",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "#1b36d1",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-service-2/36ca44f4a26b.jpg",
+                                "containerBackgroundGradientDirection": 180,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/spacer",
+                                    {
+                                        "uniqueId": "17d7ce9",
+                                        "height": 80
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "505388b",
+                                        "blockMargin": {
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "Work Sans",
+                                        "fontWeight": "700",
+                                        "textRemoveTextMargins": false,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "textShadow": "6px 6px 4px rgba(120, 120, 120, 0.2)",
+                                        "text": "Marketing",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": 8,
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "4db2594",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "contentAlign": "center",
+                                        "fontSize": 16,
+                                        "fontFamily": "DM Sans",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "id": "section-capital-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ef1b4f4",
+        "blockWidth": 700,
+        "blockHorizontalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "444cda6",
+                "hasContainer": true,
+                "containerBackgroundColor": "#313131"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "acf76f2",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 72,
+                        "fontFamily": "IBM Plex Sans",
+                        "fontWeight": "400",
+                        "textColor1": "#9b51e0",
+                        "text": "01",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "cc33237",
+                        "fontSize": 24,
+                        "fontFamily": "IBM Plex Sans",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Number Box 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "06e106c",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c74cab8",
+                "hasContainer": true,
+                "containerBackgroundColor": "#313131"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "8f90ebf",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 72,
+                        "fontFamily": "IBM Plex Sans",
+                        "fontWeight": "400",
+                        "textColor1": "#9b51e0",
+                        "text": "02",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "e98d592",
+                        "fontSize": 24,
+                        "fontFamily": "IBM Plex Sans",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Number Box 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "42b286a",
+                        "contentAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": " Description for this block. Use this space for describing your block. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

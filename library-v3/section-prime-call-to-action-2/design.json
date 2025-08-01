@@ -1,0 +1,97 @@
+{
+    "id": "section-prime-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "e8bab74",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-call-to-action-2/0378e842df8d.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "6bd8587"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "12641c3",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "22ca41f",
+                                "fontSize": 64,
+                                "fontFamily": "Inter",
+                                "fontWeight": "200",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "We are Committed to Excellence",
+                                "textTag": "h1"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "99eb312",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "9d9dce1",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "6ffc4c4"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "a12aaa8",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#0693e3",
+                                        "buttonBorderRadius": 50,
+                                        "fontSize": 16,
+                                        "fontFamily": "Inter",
+                                        "text": "Book Appointment",
+                                        "opacityHover": 0.8
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

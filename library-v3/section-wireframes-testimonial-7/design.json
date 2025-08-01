@@ -1,0 +1,96 @@
+{
+    "id": "section-wireframes-testimonial-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e835cbb",
+        "blockMargin": {
+            "bottom": 23
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b8ec7eb",
+                "columnWidth": 40,
+                "columnAdjacentCount": 2,
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "e20ccb3",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-7/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6b0874f",
+                "columnWidth": 60,
+                "columnAdjacentCount": 2,
+                "columnAlign": "center",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "543d6ba",
+                        "blockWidth": 480,
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\"",
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-pellentesque-volutpat-a-lacus-nec-porttitor"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "cc4532e"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0385a92",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4260ca0",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "Name"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "6b1f354",
+                                        "customAttributes": [],
+                                        "text": "Position"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

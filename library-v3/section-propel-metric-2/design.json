@@ -1,0 +1,142 @@
+{
+    "id": "section-propel-metric-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3820455",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9898e67",
+                "columnWidth": 25
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "4b7df89",
+                        "contentAlign": "center",
+                        "fontFamily": "Nunito",
+                        "fontWeight": "bold",
+                        "textColor1": "#fcb900",
+                        "text": "Dollar"
+                    },
+                    []
+                ],
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "ebca538",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": "$1,234.00"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "48d2f94",
+                "columnWidth": 25
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "cc25f79",
+                        "contentAlign": "center",
+                        "fontFamily": "Nunito",
+                        "fontWeight": "bold",
+                        "textColor1": "#fcb900",
+                        "text": "Euro"
+                    },
+                    []
+                ],
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "9291b06",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": "€1,097.82"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9914c40",
+                "columnWidth": 25
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "c91c934",
+                        "contentAlign": "center",
+                        "fontFamily": "Nunito",
+                        "fontWeight": "bold",
+                        "textColor1": "#fcb900",
+                        "text": "Peso"
+                    },
+                    []
+                ],
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "5a8d907",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": " ₱64,275.85 "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1b45f07",
+                "columnWidth": 25
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "05ebe75",
+                        "contentAlign": "center",
+                        "fontFamily": "Nunito",
+                        "fontWeight": "bold",
+                        "textColor1": "#fcb900",
+                        "text": "Pound"
+                    },
+                    []
+                ],
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "b5b739f",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": " £935.71 "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

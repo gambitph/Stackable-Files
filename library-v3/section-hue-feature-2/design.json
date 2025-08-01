@@ -1,0 +1,99 @@
+{
+    "id": "section-hue-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "a5a1843",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "alignVertical": true,
+        "align": "wide",
+        "className": "is-style-overlap-background-1"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "175bbd8",
+                "blockMargin": {
+                    "bottom": -450
+                },
+                "hasContainer": true,
+                "containerWidth": 500,
+                "zIndex": 2,
+                "blockMarginMobile": {
+                    "bottom": -225
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "79f6c77",
+                        "fontFamily": "Karla",
+                        "fontWeight": "bold",
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "33899a4",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "c952dbb"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "d150373",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#00e0ff",
+                                "fontSize": 18,
+                                "fontFamily": "Inconsolata",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2385315",
+                "zIndex": 1,
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "38d13ad",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-feature-2/6e94ee1d26bb.jpg",
+                        "imageId": 2174,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 569
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

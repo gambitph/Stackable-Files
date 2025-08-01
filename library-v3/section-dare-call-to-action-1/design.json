@@ -1,0 +1,93 @@
+{
+    "id": "section-dare-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "6f26bf1",
+        "blockVerticalAlign": "center",
+        "containerBackgroundColor": "#313131",
+        "containerHeight": 500,
+        "containerVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "460a89d"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "cb4ad91",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "c063505",
+                                "fontSize": 80,
+                                "fontFamily": "Poppins",
+                                "fontWeight": "900",
+                                "textTransform": "uppercase",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "The Great Experience Awaits",
+                                "textTag": "h3"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "d165e76",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "aa00e2b",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "0373956"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "231eec2",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#f8bd01",
+                                        "fontFamily": "Poppins",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Reserve a Slot"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

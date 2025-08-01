@@ -1,0 +1,125 @@
+{
+    "id": "section-wireframes-call-to-action-9",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "20732e5",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "rowAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4c13127",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {},
+                "columnWidthTablet": 50,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "14ecbc5",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-call-to-action-9/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "39af67c",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {},
+                "columnWidthTablet": 50,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "912e235",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-call-to-action-9/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a02f847",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {},
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "1035b9e",
+                        "text": "Title for this Call to Action Block",
+                        "anchor": "title-for-this-call-to-action-block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "3e83753",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor. Aliquam tempus ligula ac mattis sagittis. Curabitur nisl ipsum, euismod sed sodales nec, pulvinar eu magna."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "ec9722e"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "859a325",
+                                "text": "Button Text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "31e489a",
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "text": "Button Text",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

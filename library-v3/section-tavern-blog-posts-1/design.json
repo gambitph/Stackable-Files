@@ -1,0 +1,290 @@
+{
+    "id": "section-tavern-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e893eab",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 32,
+        "rowGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5ac1c4b"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "27af9fb",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#a2856c",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "19d658c",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Milonga",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1c1a1b",
+                        "text": "Featured In the Media",
+                        "anchor": "the-art-of-bread-making"
+                    },
+                    []
+                ],
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "6328bd2",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-blog-posts-1/6101b82aa019.jpg",
+                        "imageId": 2310,
+                        "imageWidthAttribute": 1557,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 500,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "05bcb57",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 16,
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Milonga",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1c1a1b",
+                                "text": "Blog Post 1",
+                                "anchor": "the-art-of-bread-making"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "978a187",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "badb451",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-blog-posts-1/832a4fa22450.jpg",
+                        "imageId": 2309,
+                        "imageWidthAttribute": 1695,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 500,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "0bc56a0",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 16,
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Milonga",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1c1a1b",
+                                "text": "Blog Post 2",
+                                "anchor": "the-art-of-bread-making"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "44f0bf7",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4ac0601"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "c056098",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-blog-posts-1/36f205fd26ec.jpg",
+                        "imageId": 2311,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1920,
+                        "imageHeight": 300,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "20eaee8",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 16,
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Milonga",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1c1a1b",
+                                "text": "Blog Post 3",
+                                "anchor": "the-art-of-bread-making"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "92561c5",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "a2ae5c9",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-blog-posts-1/49c577b62dab.jpg",
+                        "imageId": 2279,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1280,
+                        "imageHeight": 300,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "f242fd1",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 16,
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Milonga",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1c1a1b",
+                                "text": "Blog Post 4",
+                                "anchor": "the-art-of-bread-making"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "f82769f",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "727daef",
+                        "hasContainer": false,
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-blog-posts-1/4acf0cbd0aa7.jpg",
+                        "imageId": 2312,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 300,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "d8ccf7a",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 16,
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Milonga",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1c1a1b",
+                                "text": "Blog Post 5",
+                                "anchor": "the-art-of-bread-making"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "6828159",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "id": "section-yule-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d164514",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f6f6f6",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e15ec4a"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "bc12130",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "DM Serif Display",
+                        "textColor1": "#00473d",
+                        "text": "Title for This Block",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "646a182",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/feature-grid",
+                    {
+                        "uniqueId": "29705df",
+                        "columnGap": 24,
+                        "innerBlockContentAlign": "alignwide",
+                        "align": "full",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ee6dc53",
+                                "hasContainer": true
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "3477470",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-feature-2/91ccd2bcf330.png",
+                                        "imageId": 1268,
+                                        "imageWidthAttribute": 512,
+                                        "imageHeightAttribute": 512,
+                                        "imageWidth": 20
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "e6cad16",
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "DM Serif Display",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Title for This Block",
+                                        "textTag": "h1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "188c63d",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "84f43c9",
+                                "hasContainer": true
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "860413c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-feature-2/cb2eac044e0d.png",
+                                        "imageId": 1269,
+                                        "imageWidthAttribute": 512,
+                                        "imageHeightAttribute": 512,
+                                        "imageWidth": 20
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "ec8da57",
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "DM Serif Display",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Title for This Block",
+                                        "textTag": "h1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "867dbf5",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c5d4ba9",
+                                "hasContainer": true
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "3074d0d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-feature-2/b9bc2156b066.png",
+                                        "imageId": 1270,
+                                        "imageWidthAttribute": 512,
+                                        "imageHeightAttribute": 512,
+                                        "imageWidth": 20
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "caa4652",
+                                        "customAttributes": [],
+                                        "fontSize": 24,
+                                        "fontFamily": "DM Serif Display",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Title for This Block",
+                                        "textTag": "h1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "aabdaf5",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

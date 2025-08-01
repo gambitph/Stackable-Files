@@ -1,0 +1,23 @@
+{
+    "id": "block-icon-list-heights-icon-list-2",
+    "name": "ugb/icon-list",
+    "attributes": {
+        "iconShape": "",
+        "iconColor": "#313131",
+        "iconSize": 30,
+        "columns": 3,
+        "text": "<li>List Item 1</li><li>List Item 2</li><li>List Item 3</li><li>List Item 4</li><li>List Item 5</li><li>List Item 6</li><li>List Item 7</li><li>List Item 8</li>",
+        "gap": 0,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "showTopSeparator": false,
+        "showBottomSeparator": false,
+        "showBlockTitle": true,
+        "blockTitle": "Icon List Block",
+        "blockTitleBottomMargin": 20,
+        "blockTitleFontFamily": "Sans-Serif",
+        "blockDescription": "",
+        "contentAlign": "left"
+    }
+}

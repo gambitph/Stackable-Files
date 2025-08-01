@@ -1,0 +1,65 @@
+{
+    "id": "section-elevate-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "fff384b",
+        "hasBackground": true,
+        "blockBackgroundColor": "#FFFFFF",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-call-to-action-3/bab17bfb8852.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "069361a",
+                "customAttributes": [],
+                "fontFamily": "Lato",
+                "fontWeight": "bold",
+                "text": "Make Sure You Are Ahead of the Curve"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "24d77cd",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "314f240"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "39ff1d3",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Lato",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

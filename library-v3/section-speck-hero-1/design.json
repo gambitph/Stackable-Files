@@ -1,0 +1,72 @@
+{
+    "id": "section-speck-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "5f1dab1",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-speck-hero-1/e7e42968b0dc.png",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": false,
+        "bottomSeparatorDesign": "rounded-3",
+        "bottomSeparatorShadow": "2px 4px 6px #000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "ea47c49",
+                "blockWidth": 600,
+                "fontSize": 80,
+                "fontFamily": "Work Sans",
+                "fontWeight": "900",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Committed to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "bcfb640",
+                "blockWidth": 500,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "75f76d2"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "9c73c02",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#ffe923",
+                        "fontSize": 18,
+                        "fontFamily": "DM Sans",
+                        "textColor1": "#1b36d1",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

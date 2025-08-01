@@ -1,0 +1,906 @@
+{
+    "id": "section-tavern-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "14ea3c2",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6f7a217"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "1d813df",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2b04577",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "d93661e",
+                                        "className": "is-style-box"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "bbe9c62",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-image-gallery-1/dc762029c37e.jpg",
+                                                "imageId": 2300,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 350,
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "6d838fa",
+                                                "blockPadding": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                },
+                                                "containerBorderType": "solid",
+                                                "containerBorderColor": "transparent",
+                                                "containerBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                },
+                                                "containerVerticalAlign": "center",
+                                                "containerBorderColorParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                                "containerBorderWidthParentHover": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "af5c002",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": 24
+                                                        },
+                                                        "blockPadding": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "contentAlign": "left",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Stint Ultra Condensed",
+                                                        "textTransform": "uppercase",
+                                                        "letterSpacing": 2,
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Subtitle for This Block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "left",
+                                                        "uniqueId": "dd15929",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Milonga",
+                                                        "fontWeight": "400",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 1",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "image-gallery-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "0b42554",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-24px)",
+                                                        "contentAlign": "left",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "90b8c0b",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "625dde8",
+                                        "customAttributes": [],
+                                        "className": "is-style-box"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "c456723",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-image-gallery-1/ab046f2b8c9c.jpg",
+                                                "imageId": 2318,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 350,
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "b979df7",
+                                                "blockPadding": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                },
+                                                "containerBorderType": "solid",
+                                                "containerBorderColor": "transparent",
+                                                "containerBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                },
+                                                "containerVerticalAlign": "center",
+                                                "customAttributes": [],
+                                                "containerBorderColorParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                                "containerBorderWidthParentHover": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "8f5316d",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": 24
+                                                        },
+                                                        "blockPadding": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "contentAlign": "left",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Stint Ultra Condensed",
+                                                        "textTransform": "uppercase",
+                                                        "letterSpacing": 2,
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Subtitle for This Block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "left",
+                                                        "uniqueId": "37f1a2d",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Milonga",
+                                                        "fontWeight": "400",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 2",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "image-gallery-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ed2eb4a",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-24px)",
+                                                        "contentAlign": "left",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ee2787e",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "015c054",
+                                        "customAttributes": [],
+                                        "className": "is-style-box"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "1063cbc",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-image-gallery-1/c1eb61d36dd8.jpg",
+                                                "imageId": 2319,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 350,
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "893f054",
+                                                "blockPadding": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                },
+                                                "containerBorderType": "solid",
+                                                "containerBorderColor": "transparent",
+                                                "containerBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                },
+                                                "containerVerticalAlign": "center",
+                                                "customAttributes": [],
+                                                "containerBorderColorParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                                "containerBorderWidthParentHover": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "5a6fe6b",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": 24
+                                                        },
+                                                        "blockPadding": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "contentAlign": "left",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Stint Ultra Condensed",
+                                                        "textTransform": "uppercase",
+                                                        "letterSpacing": 2,
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Subtitle for This Block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "left",
+                                                        "uniqueId": "5ef94a6",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Milonga",
+                                                        "fontWeight": "400",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 3",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "image-gallery-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "dbbc04f",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-24px)",
+                                                        "contentAlign": "left",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7dc50e0",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "53a1124",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "c9b940b",
+                                        "customAttributes": [],
+                                        "className": "is-style-box"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "5a4b8ad",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-image-gallery-1/d344f9ca9ecf.jpg",
+                                                "imageId": 2320,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 350,
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "c8fcdca",
+                                                "blockPadding": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                },
+                                                "containerBorderType": "solid",
+                                                "containerBorderColor": "transparent",
+                                                "containerBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                },
+                                                "containerVerticalAlign": "center",
+                                                "customAttributes": [],
+                                                "containerBorderColorParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                                "containerBorderWidthParentHover": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "946a60d",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": 24
+                                                        },
+                                                        "blockPadding": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "contentAlign": "left",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Stint Ultra Condensed",
+                                                        "textTransform": "uppercase",
+                                                        "letterSpacing": 2,
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Subtitle for This Block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "left",
+                                                        "uniqueId": "e47343c",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Milonga",
+                                                        "fontWeight": "400",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 4",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "image-gallery-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "7b3ec0f",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-24px)",
+                                                        "contentAlign": "left",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2ec86bf",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "7cb7777",
+                                        "customAttributes": [],
+                                        "className": "is-style-box"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "91195b6",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-image-gallery-1/db5b4b0c5de8.jpg",
+                                                "imageId": 2321,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 350,
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fe88948",
+                                                "blockPadding": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                },
+                                                "containerBorderType": "solid",
+                                                "containerBorderColor": "transparent",
+                                                "containerBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                },
+                                                "containerVerticalAlign": "center",
+                                                "customAttributes": [],
+                                                "containerBorderColorParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                                "containerBorderWidthParentHover": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "d09c6e7",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": 24
+                                                        },
+                                                        "blockPadding": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "contentAlign": "left",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Stint Ultra Condensed",
+                                                        "textTransform": "uppercase",
+                                                        "letterSpacing": 2,
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Subtitle for This Block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "left",
+                                                        "uniqueId": "47e4978",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Milonga",
+                                                        "fontWeight": "400",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 5",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "image-gallery-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "2756e4a",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-24px)",
+                                                        "contentAlign": "left",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "93cc108",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "fbc8754",
+                                        "customAttributes": [],
+                                        "className": "is-style-box"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "3815066",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-image-gallery-1/88769a811a8a.jpg",
+                                                "imageId": 2322,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 350,
+                                                "customAttributes": [],
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "1e44ea5",
+                                                "blockPadding": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                },
+                                                "containerBorderType": "solid",
+                                                "containerBorderColor": "transparent",
+                                                "containerBorderWidth": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                },
+                                                "containerVerticalAlign": "center",
+                                                "customAttributes": [],
+                                                "containerBorderColorParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                                "containerBorderWidthParentHover": {
+                                                    "top": 1,
+                                                    "right": 1,
+                                                    "bottom": 1,
+                                                    "left": 1
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "4c73bbb",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": 8,
+                                                            "left": 24
+                                                        },
+                                                        "blockPadding": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "customAttributes": [],
+                                                        "contentAlign": "left",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Stint Ultra Condensed",
+                                                        "textTransform": "uppercase",
+                                                        "letterSpacing": 2,
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Subtitle for This Block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "contentAlign": "left",
+                                                        "uniqueId": "b05d8ac",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Milonga",
+                                                        "fontWeight": "400",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 6",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "image-gallery-1"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "fad4021",
+                                                        "blockMargin": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": 24
+                                                        },
+                                                        "customAttributes": [],
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-24px)",
+                                                        "contentAlign": "left",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

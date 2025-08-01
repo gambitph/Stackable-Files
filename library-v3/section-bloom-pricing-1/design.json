@@ -1,0 +1,333 @@
+{
+    "id": "section-bloom-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f77fa5c",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "blockBackgroundMediaUrlTablet": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-pricing-1/d857bf01a0c7.png",
+        "blockBackgroundPositionTablet": "top center",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fa04722",
+                "containerVerticalAlign": "center",
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "d7108ad",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-pricing-1/125d0753c895.png",
+                        "imageId": 1689,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 504
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fc9cebd",
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "2bb2734",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontFamily": "Mulish",
+                        "fontWeight": "600",
+                        "letterSpacing": 1,
+                        "textColor1": "#e986a3",
+                        "text": "Featured Product",
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "06fd6b4",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "fontSize": 64,
+                        "fontFamily": "Courgette",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-96899-color",
+                        "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                        "text": "Product Listing #1",
+                        "contentAlignTablet": "center",
+                        "fontSizeMobile": 32
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "9aa974e",
+                        "contentAlignTablet": "center"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "3a38f1a",
+                                "htmlTag": "span",
+                                "fontFamily": "Mulish",
+                                "text": "$",
+                                "innerTextTag": "span",
+                                "fontSizeMobile": 16
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "6da9fea",
+                                "htmlTag": "span",
+                                "fontFamily": "Mulish",
+                                "textColorClass": "has-stk-global-color-96899-color",
+                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                "text": "99",
+                                "innerTextTag": "span",
+                                "fontSizeMobile": 40,
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "1941873",
+                                "htmlTag": "span",
+                                "fontFamily": "Mulish",
+                                "text": ".00",
+                                "innerTextTag": "span",
+                                "fontSizeMobile": 18
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9b687c9",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis arcu et nisl vehicula, vitae congue quam euismod. ",
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "dba5622",
+                        "columnGap": 8,
+                        "contentAlignTablet": "center"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "0adbbba",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#b9d55f",
+                                "fontSize": 18,
+                                "fontFamily": "Mulish",
+                                "fontWeight": "500",
+                                "textColor1": "#14504c",
+                                "text": "Add to Cart"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f66f3b7",
+                                "buttonBackgroundColor": "transparent",
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"far\" data-icon=\"heart\" class=\"svg-inline--fa fa-heart fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z\"></path></svg>",
+                                "iconColor1": "var(--stk-global-color-34722, #b9d55f)",
+                                "fontSize": 18,
+                                "fontFamily": "Mulish",
+                                "fontWeight": "500",
+                                "textColorClass": "has-stk-global-color-96899-color",
+                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                "text": "Add to Favorites",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "fd8aaa9",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "color": "var(--stk-global-color-96899, #1a1a1a)",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "0e67695",
+                        "fontFamily": "Mulish",
+                        "textRemoveTextMargins": true,
+                        "text": "Product Inclusions:",
+                        "textTag": "h6",
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3894f4a",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "72312fa",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "7e845d9",
+                                        "contentAlign": "center",
+                                        "customAttributes": [],
+                                        "contentAlignTablet": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "1a69607",
+                                                "contentAlign": "left",
+                                                "customAttributes": [],
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"money-bill-wave\" class=\"svg-inline--fa fa-money-bill-wave fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M621.16 54.46C582.37 38.19 543.55 32 504.75 32c-123.17-.01-246.33 62.34-369.5 62.34-30.89 0-61.76-3.92-92.65-13.72-3.47-1.1-6.95-1.62-10.35-1.62C15.04 79 0 92.32 0 110.81v317.26c0 12.63 7.23 24.6 18.84 29.46C57.63 473.81 96.45 480 135.25 480c123.17 0 246.34-62.35 369.51-62.35 30.89 0 61.76 3.92 92.65 13.72 3.47 1.1 6.95 1.62 10.35 1.62 17.21 0 32.25-13.32 32.25-31.81V83.93c-.01-12.64-7.24-24.6-18.85-29.47zM48 132.22c20.12 5.04 41.12 7.57 62.72 8.93C104.84 170.54 79 192.69 48 192.69v-60.47zm0 285v-47.78c34.37 0 62.18 27.27 63.71 61.4-22.53-1.81-43.59-6.31-63.71-13.62zM320 352c-44.19 0-80-42.99-80-96 0-53.02 35.82-96 80-96s80 42.98 80 96c0 53.03-35.83 96-80 96zm272 27.78c-17.52-4.39-35.71-6.85-54.32-8.44 5.87-26.08 27.5-45.88 54.32-49.28v57.72zm0-236.11c-30.89-3.91-54.86-29.7-55.81-61.55 19.54 2.17 38.09 6.23 55.81 12.66v48.89z\"></path></svg>",
+                                                "iconColor1": "#e986a3",
+                                                "iconSize": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "b726a48",
+                                                "customAttributes": [],
+                                                "fontSize": 18,
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-96899-color",
+                                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                                "hasP": true,
+                                                "text": "Free Shipping",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a991fa3",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "d8d3a21",
+                                        "contentAlign": "center",
+                                        "customAttributes": [],
+                                        "contentAlignTablet": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "46ae667",
+                                                "contentAlign": "left",
+                                                "customAttributes": [],
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"truck\" class=\"svg-inline--fa fa-truck fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M624 352h-16V243.9c0-12.7-5.1-24.9-14.1-33.9L494 110.1c-9-9-21.2-14.1-33.9-14.1H416V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v320c0 26.5 21.5 48 48 48h16c0 53 43 96 96 96s96-43 96-96h128c0 53 43 96 96 96s96-43 96-96h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM160 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm320 0c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-208H416V144h44.1l99.9 99.9V256z\"></path></svg>",
+                                                "iconColor1": "#e986a3",
+                                                "iconSize": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "cc09883",
+                                                "customAttributes": [],
+                                                "fontSize": 18,
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-96899-color",
+                                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                                "hasP": true,
+                                                "text": "Same Day Delivery",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

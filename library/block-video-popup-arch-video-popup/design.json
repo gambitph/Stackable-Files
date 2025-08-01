@@ -1,0 +1,27 @@
+{
+    "id": "block-video-popup-arch-video-popup",
+    "name": "ugb/video-popup",
+    "attributes": {
+        "videoID": "",
+        "height": 700,
+        "borderRadius": 0,
+        "playButtonType": "circle",
+        "playButtonColor": "#ffffff",
+        "playButtonOpacity": 1,
+        "previewBackgroundColor": "#3a6761",
+        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-arch-video-popup/preview-background-media-url.jpg",
+        "blockWidth": 700,
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundColor2": "#6a91eb",
+        "showBlockTitle": true,
+        "blockTitle": "What We Do",
+        "blockTitleAlign": "center",
+        "blockTitleColor": "#000000",
+        "showBlockDescription": true,
+        "blockDescriptionBottomMargin": 55,
+        "blockDescriptionAlign": "center",
+        "blockDescriptionColor": "#000000"
+    }
+}

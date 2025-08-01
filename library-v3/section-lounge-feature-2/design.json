@@ -1,0 +1,91 @@
+{
+    "id": "section-lounge-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "74f8789",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "hasContainer": true,
+        "align": "full",
+        "className": "is-style-default",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "033c42c",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8fce83e",
+                        "fontSize": 64,
+                        "fontFamily": "Playfair Display",
+                        "fontWeight": "bold",
+                        "textColor1": "#393f59",
+                        "text": "Amazing Feature Block Title"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9164a91",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "921d5c1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "fd342b9",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#d2b18e",
+                                "fontSize": 18,
+                                "fontFamily": "Serif",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b67cfb2",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "1168b06",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-feature-2/9bee685c5403.jpg",
+                        "imageId": 2157,
+                        "imageWidthAttribute": 742,
+                        "imageHeightAttribute": 1024,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

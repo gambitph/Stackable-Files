@@ -1,0 +1,60 @@
+{
+    "id": "section-decora-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "884f9ef",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-call-to-action-1/fa5d007a0bc6.jpg",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "1155abd",
+                "fontSize": 56,
+                "fontFamily": "Nixie One",
+                "textRemoveTextMargins": false,
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "028ae3a",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "95d6619"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "cb42b30",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#fda939",
+                        "fontSize": 18,
+                        "fontFamily": "Ledger",
+                        "text": "Sign Up Now"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

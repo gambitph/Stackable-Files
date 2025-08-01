@@ -1,0 +1,60 @@
+{
+    "id": "section-lume-lists-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5e92f76",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "91d8fa2"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7cdb4ef",
+                        "fontFamily": "Unica One",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Discover New Things"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9a66df1",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "a3e9c64",
+                        "blockWidth": 490,
+                        "blockHorizontalAlign": "center",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "<li>List Item 1</li><li>List Item 2</li><li>List Item 3</li><li>List Item 4</li><li>List Item 5</li><li>List Item 6</li><li>List Item 7</li><li>List Item 8</li><li>List Item 9</li>",
+                        "columns": 3,
+                        "icon": "<svg data-prefix=\"fas\" data-icon=\"plus-circle\" class=\"svg-inline--fa fa-plus-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z\"></path></svg>",
+                        "markerColor": "#37cdc0"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

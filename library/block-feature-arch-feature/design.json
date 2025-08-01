@@ -1,0 +1,21 @@
+{
+    "id": "block-feature-arch-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-arch-feature/image-url.jpg",
+        "imageId": 35,
+        "imageWidth": 580,
+        "imageHeight": 725,
+        "imageShadow": 3,
+        "imageShapeStretch": false,
+        "title": "Modernity at its Finest",
+        "buttonFontFamily": "Lato",
+        "buttonText": "LEARN MORE",
+        "buttonNewTab": false,
+        "buttonSize": "small",
+        "buttonBackgroundColor": "#7bdcb5",
+        "buttonBorderRadius": 100,
+        "align": "wide",
+        "contentAlign": "center"
+    }
+}

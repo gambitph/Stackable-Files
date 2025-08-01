@@ -1,0 +1,136 @@
+{
+    "id": "section-elevate-service-2",
+    "name": "stackable/feature-grid",
+    "attributes": {
+        "uniqueId": "74a6e69",
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "31e4567",
+                "hasContainer": true,
+                "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c7a9663",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-service-2/b0e4a529dd7a.jpg",
+                        "imageId": 2334,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 795
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3c6188c",
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "Feature 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "bbb8bc9",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "16a9b86",
+                "hasContainer": true,
+                "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "61cb2ff",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-service-2/4c7ea7742ded.jpg",
+                        "imageId": 2335,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 795
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d5504e0",
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "Feature 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c93c0fc",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "876d865",
+                "hasContainer": true,
+                "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "6eea858",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-service-2/c004a588c73d.jpg",
+                        "imageId": 2336,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 795
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9e73264",
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "Feature 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c528379",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "id": "section-yule-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7f91c46",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f6f6f6",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c6c4c74"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "1e09300",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "DM Serif Display",
+                        "textColor1": "#00473d",
+                        "text": "Hear From Our Customers",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "49f0554",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6cbc628"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c1f17ea"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "69a17be",
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "f399ea3",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "17aae33",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-testimonial-1/63a3af693421.jpg",
+                                                "imageId": 1283,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageBorderRadius": 90,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "10867ea",
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Andy Smith",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "d68615c",
+                                                "fontSize": 16,
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "80369dc"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "7da1ed8",
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "050a5ab",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "ddf0ed9",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-testimonial-1/85dd39e17e1c.jpg",
+                                                "imageId": 1285,
+                                                "imageWidthAttribute": 1709,
+                                                "imageHeightAttribute": 2560,
+                                                "imageBorderRadius": 90,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "366a645",
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Florence Pines",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "721c799",
+                                                "fontSize": 16,
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5d85c2d"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "daa5bf3",
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "b2ff146",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "05dbbca",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-testimonial-1/5c64ea5eb7c3.jpg",
+                                                "imageId": 1286,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageBorderRadius": 90,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "94c24f9",
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Mary Taber",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "b061728",
+                                                "fontSize": 16,
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

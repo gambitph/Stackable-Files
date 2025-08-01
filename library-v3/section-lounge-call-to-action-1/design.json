@@ -1,0 +1,61 @@
+{
+    "id": "section-lounge-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "7134406",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-call-to-action-1/113b0b8e99a7.jpg",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "b1aa76c",
+                "fontSize": 64,
+                "fontFamily": "Playfair Display",
+                "fontWeight": "bold",
+                "textColor1": "#393f59",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "d0f58c7",
+                "blockWidth": 800,
+                "blockHorizontalAlign": "center",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "16dee4d"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "77213ef",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#d2b18e",
+                        "fontSize": 18,
+                        "fontFamily": "Serif",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

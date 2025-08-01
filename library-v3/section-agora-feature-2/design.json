@@ -1,0 +1,233 @@
+{
+    "id": "section-agora-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "65e06b5",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e3a4a9c"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "0ce0360",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "effectType": "entrance",
+                        "effectEntrance": "translateY(48px)",
+                        "customAttributes": [],
+                        "fontSize": 80,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "About us",
+                        "showTopLine": true,
+                        "topLineHeight": 1,
+                        "topLineMargin": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e35a85c",
+                        "blockWidth": 775,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "effectType": "entrance",
+                        "effectEntrance": "translateY(48px)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "b4b5586",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-feature-2/0b8841e8fc08.jpg",
+                        "imageId": 1514,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1080,
+                        "effectType": "entrance",
+                        "effectEntrance": "translateX(48px)"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0b6039d"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "12ab4e0",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "3a314d3",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Prata",
+                                        "text": "55+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5905b94",
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "Locations"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "de59e4e",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "a0dec6c",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Prata",
+                                        "text": "800+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "1acfbae",
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d44add3",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "9f591e7",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Prata",
+                                        "text": "75+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "6e1cc94",
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "Partners"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "59c02f0",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "b0fcbc5",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Prata",
+                                        "text": "1000+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "6275c55",
+                                        "contentAlign": "center",
+                                        "fontFamily": "Space Mono",
+                                        "textColor1": "#c88445",
+                                        "text": "Clients"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

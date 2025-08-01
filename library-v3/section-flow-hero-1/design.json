@@ -1,0 +1,395 @@
+{
+    "id": "section-flow-hero-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c09ea25",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/9105761b0e19.png",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "blockBackgroundPositionTablet": "center center",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6d48c0d"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c82d607",
+                        "blockMargin": {
+                            "bottom": 48
+                        },
+                        "columnGap": 48,
+                        "rowGap": 24,
+                        "blockMarginMobile": {
+                            "bottom": 48
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "69ad975",
+                                "containerVerticalAlign": "center",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "050a3ec",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "fontSize": 64,
+                                        "fontFamily": "Space Grotesk",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Jumpstart Your Investing Journey With Us.",
+                                        "textTag": "h1",
+                                        "anchor": "jumpstart-your-investing-journey-with-us"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1023200",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies massa eget felis placerat, sit amet pulvinar massa semper. Ut nisi velit, tempor vitae ex sit amet, ultricies efficitur metus. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "1565042",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 40,
+                                            "left": ""
+                                        },
+                                        "columnGap": 16,
+                                        "rowGap": 16
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "9ea5a45",
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "var(--stk-global-color-9296, #000000)",
+                                                "buttonHoverEffect": "scale",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 16,
+                                                "fontFamily": "Space Grotesk",
+                                                "text": "Download Now"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "78c1e86",
+                                                "buttonHoverEffect": "scale",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-9296, #000000)",
+                                                "iconPosition": "right",
+                                                "iconGap": 16,
+                                                "iconSize": 16,
+                                                "fontSize": 16,
+                                                "fontFamily": "Space Grotesk",
+                                                "textColorClass": "has-stk-global-color-9296-color",
+                                                "text": "Learn More",
+                                                "className": "is-style-link"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "5682455",
+                                        "columnGap": 32,
+                                        "rowGap": 32
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "6838f2b",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "3ffa484",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/a2e0e032da3b.png",
+                                                        "imageId": 2410,
+                                                        "imageWidthAttribute": 184,
+                                                        "imageHeightAttribute": 184,
+                                                        "imageHeight": 48,
+                                                        "imageWidth": 48,
+                                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                                        "contentAlign": "left",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "90619b2",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "84575f6",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "584949e",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/f0515e7e0e01.png",
+                                                        "imageId": 2411,
+                                                        "imageWidthAttribute": 185,
+                                                        "imageHeightAttribute": 184,
+                                                        "imageHeight": 48,
+                                                        "imageWidth": 48,
+                                                        "imageShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+                                                        "contentAlign": "left",
+                                                        "customAttributes": [],
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "3095850",
+                                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing "
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f3888a1",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "a4a4f61",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/2973d6e8a040.png",
+                                        "imageId": 2420,
+                                        "imageWidthAttribute": 717,
+                                        "imageHeightAttribute": 785,
+                                        "imageHeight": 750,
+                                        "imageHeightMobile": 500
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "8fb1d0b",
+                        "columnGap": 32,
+                        "rowGap": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2f0984f",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "573889a",
+                                        "fontFamily": "Space Grotesk",
+                                        "textColorClass": "has-stk-global-color-9296-color",
+                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                        "text": "Organizations that trust us:",
+                                        "textTag": "h4",
+                                        "contentAlignTablet": "center",
+                                        "anchor": "organizations-that-trust-us"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "bfeee0d",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 33.3,
+                                "columnAdjacentCountTablet": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "aaf595d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/ae48a403f117.png",
+                                        "imageId": 2413,
+                                        "imageWidthAttribute": 240,
+                                        "imageHeightAttribute": 100,
+                                        "imageHeight": 100,
+                                        "imageHeightTablet": 80,
+                                        "imageHeightUnitTablet": "%"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d3e6370",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 33.3,
+                                "columnAdjacentCountTablet": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "2f5398c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/8578867fb20b.png",
+                                        "imageId": 2415,
+                                        "imageWidthAttribute": 240,
+                                        "imageHeightAttribute": 100,
+                                        "imageHeight": 100,
+                                        "imageHeightTablet": 80,
+                                        "imageHeightUnitTablet": "%"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1569e9e",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 33.3,
+                                "columnAdjacentCountTablet": 3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "b25b003",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/59884de0ef8c.png",
+                                        "imageId": 2414,
+                                        "imageWidthAttribute": 240,
+                                        "imageHeightAttribute": 100,
+                                        "imageHeight": 100,
+                                        "imageHeightTablet": 80,
+                                        "imageHeightUnitTablet": "%"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

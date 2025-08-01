@@ -1,0 +1,80 @@
+{
+    "id": "section-wireframes-call-to-action-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "378a2d0",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "433bb1a",
+                "hasBackground": true,
+                "blockPadding": {
+                    "top": 64,
+                    "right": "",
+                    "bottom": 64,
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7180164",
+                        "text": "Call to Action"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b22eb4c",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. Nulla facilisi."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "07ee3e9"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "1196cdf",
+                                "text": "Button Text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "aadeee9",
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "text": "Button Text",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b461ff9",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-call-to-action-3/d7a363e397fc.png"
+            },
+            []
+        ]
+    ]
+}

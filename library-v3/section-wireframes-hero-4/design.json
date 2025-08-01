@@ -1,0 +1,119 @@
+{
+    "id": "section-wireframes-hero-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "9e0eb28",
+        "hasBackground": true,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 120,
+            "right": "",
+            "bottom": 0,
+            "left": ""
+        },
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "straight-1",
+        "bottomSeparatorHeight": 400,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ae2da3d"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "71269f0",
+                        "text": "Title for This Section",
+                        "textTag": "h1",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ba13cf1",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "e22598e",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "c654d68",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/video-popup",
+                    {
+                        "uniqueId": "216518c",
+                        "ariaLabel": "Play Video"
+                    },
+                    [
+                        [
+                            "stackable/icon",
+                            {
+                                "uniqueId": "ec03438",
+                                "contentAlign": "center",
+                                "icon": "<svg data-prefix=\"fas\" data-icon=\"play\" class=\"svg-inline--fa fa-play fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z\"></path></svg>",
+                                "iconColor1": "var(--stk-global-color-58834, #ffffff)",
+                                "shapeBorderRadius": 100,
+                                "shapePadding": 24,
+                                "shapeOutlineColor": "var(--stk-global-color-58834, #ffffff)",
+                                "shapeOutlineWidth": {
+                                    "top": 5,
+                                    "right": 5,
+                                    "bottom": 5,
+                                    "left": 5
+                                }
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "e42cbd7",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-4/8fa58c128398.png",
+                                "imageId": 1307,
+                                "imageWidthAttribute": 500,
+                                "imageHeightAttribute": 400,
+                                "imageHeight": 600,
+                                "imageOverlayColorHover": "var(--stk-global-color-9296, #000000)",
+                                "imageHeightMobile": 400
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

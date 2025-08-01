@@ -1,0 +1,56 @@
+{
+    "id": "section-capital-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "fa1d540",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-capital-call-to-action-1/ea6c7f53322f.jpg",
+        "blockBackgroundColorOpacity": 1,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "8ffd69c",
+                "fontSize": 64,
+                "fontFamily": "IBM Plex Sans",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Get the Most Out of This",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2ebeb44"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "731c4c2",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#9b51e0",
+                        "fontFamily": "IBM Plex Sans",
+                        "text": "Get a Tour"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

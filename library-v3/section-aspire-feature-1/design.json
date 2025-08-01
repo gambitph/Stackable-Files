@@ -1,0 +1,106 @@
+{
+    "id": "section-aspire-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "407b245",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#071731",
+        "blockBackgroundColor2": "#3c5070",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "slant-1",
+        "topSeparatorColor": "#091830",
+        "topSeparatorHeight": 400,
+        "topSeparatorShadow": "2px 4px 6px #000",
+        "topSeparatorInverted": true,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f60bc70",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "384cfbb",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-feature-1/98c27ff446fe.jpeg",
+                        "imageId": 1835,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 1800,
+                        "imageHeight": 800
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b4fcecc",
+                "contentAlign": "center",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "4542fab",
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Archivo Black",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f868719",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "7e77fc8"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "9722c3f",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#d3fc32",
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#091830",
+                                "text": "View More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

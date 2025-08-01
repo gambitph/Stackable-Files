@@ -1,0 +1,61 @@
+{
+    "id": "section-detour-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "f0209e0",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-hero-1/03a6c09ea2a2.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "containerBackgroundColor": "#000000",
+        "containerBackgroundColorOpacity": 0.6,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "ecdf9e5",
+                "fontSize": 64,
+                "fontFamily": "Oswald",
+                "fontWeight": "bold",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Title for This Block",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "4e43556",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "934a2ad"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "8ee35f0",
+                        "buttonBackgroundColor": "#eb5757",
+                        "fontSize": 16,
+                        "fontFamily": "Montserrat",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

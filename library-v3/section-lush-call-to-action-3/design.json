@@ -1,0 +1,63 @@
+{
+    "id": "section-lush-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "769a180",
+        "containerBackgroundColor": "#66826b",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-call-to-action-3/ee8e0a9b8ca5.jpg",
+        "containerBackgroundTintStrength": 8,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "bd96f96",
+                "fontSize": 64,
+                "fontFamily": "Lora",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "62084b8",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "5ed31e9"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b22dfa3",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#be9743",
+                        "fontSize": 18,
+                        "fontFamily": "Alice",
+                        "text": "Button Text"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

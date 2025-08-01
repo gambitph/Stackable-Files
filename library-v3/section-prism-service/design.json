@@ -1,0 +1,367 @@
+{
+    "id": "section-prism-service",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "5e0ca17",
+        "containerPaddingTablet": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "32966b8",
+                "text": "How it works",
+                "blockMarginTablet": {
+                    "bottom": 12
+                },
+                "fontSizeMobile": 24,
+                "anchor": "how-it-works"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "282ca46",
+                "blockWidth": 493,
+                "blockHorizontalAlign": "center",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc./",
+                "blockMarginTablet": {
+                    "bottom": 0
+                }
+            },
+            []
+        ],
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "f9f2926",
+                "blockMargin": {
+                    "bottom": 62
+                },
+                "columnFit": true,
+                "columnFitAlign": "center",
+                "columnGap": 40,
+                "blockMarginTablet": {
+                    "bottom": 62
+                },
+                "columnFitAlignTablet": "center",
+                "columnGapTablet": 56
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "b85fdff",
+                        "blockHorizontalAlign": "center",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 40,
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        },
+                        "hasContainer": true,
+                        "containerBackgroundColorType": "gradient",
+                        "containerBackgroundColor": "#d2f1ff",
+                        "containerBackgroundColor2": "#eaf8ff",
+                        "containerBackgroundGradientDirection": 160,
+                        "containerBackgroundGradientLocation2": 53,
+                        "containerBorderType": "solid",
+                        "containerBorderColor": "#ffffff",
+                        "containerBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "containerBorderRadius": 24,
+                        "containerShadow": "0px 56px 40px 0px rgba(var(--stk-global-color-1163-rgba, 108, 234, 234), 0.5)",
+                        "containerWidth": 280,
+                        "containerHorizontalAlign": "center",
+                        "columnAdjacentCount": 3,
+                        "columnSpacing": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPaddingTablet": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "ead80e5",
+                                "blockMargin": {
+                                    "bottom": 16
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "32c027b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "0d5bf2b",
+                                                "contentAlign": "center",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"42\" height=\"35\" viewBox=\"0 0 42 35\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20.9998 0.499512L35.5471 0.910818C38.1175 0.983494 40.2436 2.9348 40.5359 5.4896C41.1829 11.1448 41.1829 16.8554 40.5359 22.5106C40.2436 25.0654 38.1175 27.0167 35.5471 27.0894L24.4999 27.4018V31.5001H30.9999C31.8283 31.5001 32.4999 32.1717 32.4999 33.0001C32.4999 33.8285 31.8283 34.5001 30.9999 34.5001H10.9999C10.1715 34.5001 9.49988 33.8285 9.49988 33.0001C9.49988 32.1717 10.1715 31.5001 10.9999 31.5001H17.4999V27.4018L6.45259 27.0894C3.88215 27.0167 1.75612 25.0654 1.4638 22.5106C0.816753 16.8554 0.816753 11.1448 1.4638 5.4896C1.75612 2.9348 3.88215 0.983494 6.45259 0.910818L20.9998 0.499512ZM20.9998 3.50071L6.53738 3.90962C5.45896 3.94011 4.567 4.75877 4.44436 5.83062C3.82323 11.2592 3.82323 16.741 4.44436 22.1696C4.567 23.2415 5.45896 24.0601 6.53738 24.0906L20.9998 24.4995L35.4623 24.0906C36.5407 24.0601 37.4327 23.2414 37.5553 22.1696C38.1765 16.741 38.1765 11.2592 37.5553 5.83063C37.4327 4.75877 36.5407 3.94011 35.4623 3.90962L20.9998 3.50071Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "center",
+                                "uniqueId": "e870a38",
+                                "blockMargin": {
+                                    "bottom": 16
+                                },
+                                "textRemoveTextMargins": true,
+                                "text": "Lorem Ipsum",
+                                "textTag": "h4",
+                                "fontSizeMobile": 20,
+                                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-lorem-ipsum-span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "e5491f5",
+                                "contentAlign": "center",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "6d3f90e",
+                        "blockHorizontalAlign": "center",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 40,
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        },
+                        "hasContainer": true,
+                        "containerBackgroundColorType": "gradient",
+                        "containerBackgroundColor": "#ffd7f1",
+                        "containerBackgroundColor2": "#fbf2ff",
+                        "containerBackgroundGradientDirection": 160,
+                        "containerBackgroundGradientLocation2": 53,
+                        "containerBorderType": "solid",
+                        "containerBorderColor": "#ffffff",
+                        "containerBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "containerBorderRadius": 24,
+                        "containerShadow": "0px 56px 60px 0px rgba(242, 167, 235, 0.5)",
+                        "containerWidth": 280,
+                        "containerHorizontalAlign": "center",
+                        "columnAdjacentCount": 3,
+                        "columnSpacing": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "64e8b05",
+                                "blockMargin": {
+                                    "bottom": 16
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "eb140c3"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "c0f633b",
+                                                "contentAlign": "center",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"28\" height=\"44\" viewBox=\"0 0 28 44\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M27.5006 19.0003L27.4875 19.486L27.5006 20.0003L27.4882 20.4868L27.5006 21.0003L27.4888 21.4901L27.5005 22.0003L27.1757 36.2063C27.0987 39.5769 24.5351 42.3682 21.1833 42.7312C16.4084 43.2483 11.5917 43.2483 6.81687 42.7312C3.46504 42.3682 0.901509 39.5769 0.824454 36.2063L0.49969 22.0003L0.511431 21.4867L0.499726 21.0003L0.512035 20.4888L0.499627 20.0003L0.512635 19.4882L0.499512 19.0003L0.827522 6.80446C0.832099 6.6343 0.844058 6.46591 0.8631 6.29961L0.870559 6.22929L0.876477 6.17261C1.0377 4.52441 1.95106 3.08689 3.28211 2.22422C3.38141 2.15818 3.48305 2.09529 3.58687 2.03569C3.68844 1.97559 3.7921 1.91858 3.89775 1.86481C4.55094 1.52008 5.27993 1.29664 6.05592 1.22521C11.3408 0.738731 16.6593 0.738731 21.9442 1.22521C22.7189 1.29653 23.4468 1.51937 24.0992 1.86316C24.2049 1.91685 24.3086 1.97378 24.4102 2.03381C24.5173 2.09519 24.622 2.16008 24.7243 2.22831C26.0483 3.08904 26.9577 4.5191 27.1223 6.159L27.1379 6.30761C27.1564 6.47131 27.1681 6.63703 27.1726 6.80447L27.5006 19.0003ZM24.1486 6.6417L24.4625 20.3751L24.2081 29.8355C24.1509 31.9622 22.5127 33.7104 20.3941 33.9054C16.1404 34.2969 11.8597 34.2969 7.60596 33.9054C5.48742 33.7103 3.84921 31.9622 3.79201 29.8355L3.5376 20.3762L3.85159 6.6417C3.85226 6.61215 3.85349 6.58273 3.85526 6.55345C3.97423 5.74889 4.44049 5.0544 5.10158 4.63267C5.35203 4.50211 5.62991 4.41553 5.9255 4.38352C11.2929 3.80226 16.7073 3.80226 22.0747 4.38352C22.3701 4.41552 22.6479 4.50204 22.8983 4.63251C23.5597 5.05434 24.0261 5.74917 24.1449 6.55411C24.1467 6.58317 24.1479 6.61237 24.1486 6.6417ZM14.0001 41.4003C15.657 41.4003 17.0001 40.0572 17.0001 38.4003C17.0001 36.7435 15.657 35.4003 14.0001 35.4003C12.3433 35.4003 11.0001 36.7435 11.0001 38.4003C11.0001 40.0572 12.3433 41.4003 14.0001 41.4003Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "center",
+                                "uniqueId": "07bf8c5",
+                                "blockMargin": {
+                                    "bottom": 16
+                                },
+                                "textRemoveTextMargins": true,
+                                "text": "Lorem Ipsum",
+                                "textTag": "h4",
+                                "fontSizeMobile": 20,
+                                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-lorem-ipsum-span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "6652d0a",
+                                "contentAlign": "center",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "0a7c470",
+                        "blockHorizontalAlign": "center",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 40,
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        },
+                        "hasContainer": true,
+                        "containerBackgroundColorType": "gradient",
+                        "containerBackgroundColor": "#d1ffe4",
+                        "containerBackgroundColor2": "#ebfff5",
+                        "containerBackgroundGradientDirection": 160,
+                        "containerBackgroundGradientLocation2": 53,
+                        "containerBorderType": "solid",
+                        "containerBorderColor": "#ffffff",
+                        "containerBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "containerBorderRadius": 24,
+                        "containerShadow": "0px 56px 74px 0px rgba(159, 245, 183, 0.5)",
+                        "containerWidth": 280,
+                        "containerHorizontalAlign": "center",
+                        "columnAdjacentCount": 3,
+                        "columnSpacing": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "5f7efa6",
+                                "blockMargin": {
+                                    "bottom": 16
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "646336f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "3cd54c0",
+                                                "contentAlign": "center",
+                                                "icon": "<svg class=\"ugb-custom-icon\" width=\"40\" height=\"38\" viewBox=\"0 0 40 38\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0003 10.5C12.8287 10.5 13.5003 11.1716 13.5003 12V14.5H16.0003C16.8287 14.5 17.5003 15.1716 17.5003 16C17.5003 16.8284 16.8287 17.5 16.0003 17.5H13.5003V20C13.5003 20.8284 12.8287 21.5 12.0003 21.5C11.1718 21.5 10.5003 20.8284 10.5003 20V17.5H8.00027C7.17185 17.5 6.50027 16.8284 6.50027 16C6.50027 15.1716 7.17185 14.5 8.00028 14.5H10.5003V12C10.5003 11.1716 11.1718 10.5 12.0003 10.5Z\" fill=\"black\" />\n<path d=\"M30.0003 19.5C30.0003 18.3954 29.1048 17.5 28.0003 17.5C26.8957 17.5 26.0003 18.3954 26.0003 19.5V20C26.0003 21.1046 26.8957 22 28.0003 22C29.1048 22 30.0003 21.1046 30.0003 20V19.5Z\" fill=\"black\" />\n<path d=\"M28.0003 10C29.1048 10 30.0003 10.8954 30.0003 12V12.5C30.0003 13.6046 29.1048 14.5 28.0003 14.5C26.8957 14.5 26.0003 13.6046 26.0003 12.5V12C26.0003 10.8954 26.8957 10 28.0003 10Z\" fill=\"black\" />\n<path d=\"M34.0003 16C34.0003 17.1046 33.1048 18 32.0003 18H31.5003C30.3957 18 29.5003 17.1046 29.5003 16C29.5003 14.8954 30.3957 14 31.5003 14H32.0003C33.1048 14 34.0003 14.8954 34.0003 16Z\" fill=\"black\" />\n<path d=\"M24.5003 18C25.6048 18 26.5003 17.1046 26.5003 16C26.5003 14.8954 25.6048 14 24.5003 14H24.0003C22.8957 14 22.0003 14.8954 22.0003 16C22.0003 17.1046 22.8957 18 24.0003 18H24.5003Z\" fill=\"black\" />\n<path d=\"M21.5003 2C21.5003 1.17157 20.8287 0.5 20.0003 0.5C19.1718 0.5 18.5003 1.17157 18.5003 2V4.97375C15.6221 5.01309 12.745 5.16564 9.87582 5.43142L9.21262 5.49285C4.42922 5.93594 0.745851 9.90813 0.664445 14.7113L0.640261 16.1382C0.545653 21.7204 0.995615 27.2985 1.98376 32.7933C2.47368 35.5176 4.84436 37.5 7.61237 37.5H8.05447C10.5252 37.5 12.7638 36.044 13.7655 33.7854L15.8867 29.0028C17.469 25.4355 22.5316 25.4355 24.1138 29.0028L26.235 33.7854C27.2368 36.044 29.4754 37.5 31.9461 37.5H32.3882C35.1562 37.5 37.5269 35.5176 38.0168 32.7933C39.0049 27.2985 39.4549 21.7204 39.3603 16.1382L39.3361 14.7113C39.2547 9.90813 35.5713 5.93594 30.7879 5.49285L30.1247 5.43142C27.2555 5.16564 24.3785 5.01309 21.5003 4.97375V2ZM10.1525 8.41863C16.7037 7.81179 23.2969 7.81179 29.848 8.41863L30.5112 8.48006C33.771 8.78201 36.2811 11.4889 36.3365 14.7622L36.3607 16.1891C36.452 21.5762 36.0178 26.9595 35.0642 32.2623C34.8312 33.5575 33.7042 34.5 32.3882 34.5H31.9461C30.6618 34.5 29.4981 33.7431 28.9774 32.5691L26.8562 27.7865C24.2192 21.8409 15.7814 21.8409 13.1444 27.7865L11.0232 32.5691C10.5025 33.7431 9.33878 34.5 8.05447 34.5H7.61237C6.29639 34.5 5.16932 33.5575 4.9364 32.2623C3.98277 26.9595 3.54853 21.5762 3.63983 16.1891L3.66401 14.7622C3.71949 11.4889 6.22959 8.78201 9.48933 8.48006L10.1525 8.41863Z\" fill=\"black\" />\n</svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "center",
+                                "uniqueId": "3cc15c8",
+                                "blockMargin": {
+                                    "bottom": 16
+                                },
+                                "textRemoveTextMargins": true,
+                                "text": "Lorem Ipsum",
+                                "textTag": "h4",
+                                "fontSizeMobile": 20,
+                                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-lorem-ipsum-span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "ae37a53",
+                                "contentAlign": "center",
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

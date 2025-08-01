@@ -1,0 +1,91 @@
+{
+    "id": "section-wireframes-call-to-action-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5499f3e",
+        "blockHeight": 640,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b9dc628",
+                "effectAnimationOut": {},
+                "effectAnimationIn": {},
+                "customAttributes": [],
+                "displayCondition": {}
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "132c5f3",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-call-to-action-7/71875029cdeb.png",
+                        "imageId": 900,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 632,
+                        "imageHeight": 280
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "d42def7",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Call to Action Block",
+                        "anchor": "title-for-this-call-to-action-block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5bd6b11",
+                        "blockWidth": 640,
+                        "blockHorizontalAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor. Aliquam tempus ligula ac mattis sagittis. Curabitur nisl ipsum, euismod sed sodales nec, pulvinar eu magna."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "8994429"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "50dcb5d",
+                                "text": "Button Text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "00368cc",
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "text": "Button Text",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "className": "is-style-ghost"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "id": "section-lume-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6e1391f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "995c02a",
+                "contentAlign": "left"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "4a99709",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-blog-posts-1/c18bb03f0f09.jpg",
+                        "imageId": 2136,
+                        "imageWidthAttribute": 791,
+                        "imageHeightAttribute": 1000,
+                        "imageWidth": 80
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5c83240",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Blog Post 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4eb0162",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Ut diam quam nulla porttitor massa id neque aliquam."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4c996d1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e5dfb36",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#37cdc0",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Read More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e70eb01"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "aed3613",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-blog-posts-1/7cc36efa095b.jpg",
+                        "imageId": 2137,
+                        "imageWidthAttribute": 791,
+                        "imageHeightAttribute": 1000,
+                        "imageWidth": 80
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "bbf67a8",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Blog Post 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5841b74",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Ut diam quam nulla porttitor massa id neque aliquam."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "83ea1ec"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "8b2bdae",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#37cdc0",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Read More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

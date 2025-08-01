@@ -1,0 +1,68 @@
+{
+    "id": "section-capital-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "08a909b",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-capital-hero-1/c1a5c63b0687.jpg",
+        "blockBackgroundTintStrength": 6,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "slant-2",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "c15fb3c",
+                "fontSize": 64,
+                "fontFamily": "IBM Plex Sans",
+                "fontWeight": "300",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "We Will Help You Reach Your Potential",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "cb47353",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "89d9702"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "1a15986",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#9b51e0",
+                        "fontFamily": "IBM Plex Sans",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

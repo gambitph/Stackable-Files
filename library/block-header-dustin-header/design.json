@@ -1,0 +1,32 @@
+{
+    "id": "block-header-dustin-header",
+    "name": "ugb/header",
+    "attributes": {
+        "design": "half-overlay",
+        "shadow": 0,
+        "columnBackgroundColor": "#ffffff",
+        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-dustin-header/column-background-media-url.jpg",
+        "columnBackgroundColorOpacity": 0.9,
+        "columnBackgroundTintStrength": 2,
+        "title": "The Great Experience Begins",
+        "titleTag": "h2",
+        "titleColor": "#000000",
+        "titleMobileFontSize": 32,
+        "subtitleColor": "#000000",
+        "buttonFontFamily": "Lato",
+        "buttonText": "Explore",
+        "buttonNewTab": false,
+        "buttonDesign": "ghost",
+        "buttonBackgroundColor": "#000000",
+        "buttonBorderRadius": 100,
+        "buttonHoverGhostToNormal": true,
+        "button2Text": "",
+        "button2NewTab": false,
+        "overlayColor": "#ffbe75",
+        "overlayOpacity": 0.8,
+        "blockHeight": 0,
+        "columnHeight": 743,
+        "align": "full",
+        "mobileContentAlign": "left"
+    }
+}

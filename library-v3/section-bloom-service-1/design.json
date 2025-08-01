@@ -1,0 +1,358 @@
+{
+    "id": "section-bloom-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f6aced4",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-91842, #b3b1e2)",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-service-1/5f594baaebbd.png",
+        "blockBackgroundTintStrength": 6,
+        "blockFixedBackground": false,
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "rowGapMobile": 40,
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5774dcf",
+                "containerVerticalAlign": "center",
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "3583773",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "fontFamily": "Mulish",
+                        "fontWeight": "600",
+                        "letterSpacing": 1,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Subtitle for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d430e3f",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "fontSize": 64,
+                        "fontFamily": "Courgette",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-46782-color",
+                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                        "text": "Our Services",
+                        "fontSizeMobile": 40
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b008683",
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis arcu et nisl vehicula, vitae congue quam euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum sollicitudin erat tempus, porta tellus id, egestas massa. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "6572c5d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "2443ef2",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#b9d55f",
+                                "fontSize": 18,
+                                "fontFamily": "Mulish",
+                                "fontWeight": "500",
+                                "textColor1": "#14504c",
+                                "text": "Book a Service"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "36b242f",
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "15f6627",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6ad1b29",
+                                "hasContainer": true,
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 50.2,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "7195c16",
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"spa\" class=\"svg-inline--fa fa-spa fa-w-18\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\"><path fill=\"currentColor\" d=\"M568.25 192c-29.04.13-135.01 6.16-213.84 83-33.12 29.63-53.36 63.3-66.41 94.86-13.05-31.56-33.29-65.23-66.41-94.86-78.83-76.84-184.8-82.87-213.84-83-4.41-.02-7.79 3.4-7.75 7.82.23 27.92 7.14 126.14 88.77 199.3C172.79 480.94 256 480 288 480s115.19.95 199.23-80.88c81.64-73.17 88.54-171.38 88.77-199.3.04-4.42-3.34-7.84-7.75-7.82zM287.98 302.6c12.82-18.85 27.6-35.78 44.09-50.52 19.09-18.61 39.58-33.3 60.26-45.18-16.44-70.5-51.72-133.05-96.73-172.22-4.11-3.58-11.02-3.58-15.14 0-44.99 39.14-80.27 101.63-96.74 172.07 20.37 11.7 40.5 26.14 59.22 44.39a282.768 282.768 0 0 1 45.04 51.46z\"></path></svg>",
+                                        "iconColor1": "var(--stk-global-color-91842, #b3b1e2)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "8252511",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Mulish",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Service 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e78196b",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "55290e5",
+                                "hasContainer": true,
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnWidth": 49.8,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "58e588d",
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"seedling\" class=\"svg-inline--fa fa-seedling fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M64 96H0c0 123.7 100.3 224 224 224v144c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V320C288 196.3 187.7 96 64 96zm384-64c-84.2 0-157.4 46.5-195.7 115.2 27.7 30.2 48.2 66.9 59 107.6C424 243.1 512 147.9 512 32h-64z\"></path></svg>",
+                                        "iconColor1": "var(--stk-global-color-91842, #b3b1e2)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "633ff1e",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Mulish",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Service 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d5d7923",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f519410",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "07e7bad",
+                                "hasContainer": true,
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "f0d313e",
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"tree\" class=\"svg-inline--fa fa-tree fa-w-12\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path fill=\"currentColor\" d=\"M378.31 378.49L298.42 288h30.63c9.01 0 16.98-5 20.78-13.06 3.8-8.04 2.55-17.26-3.28-24.05L268.42 160h28.89c9.1 0 17.3-5.35 20.86-13.61 3.52-8.13 1.86-17.59-4.24-24.08L203.66 4.83c-6.03-6.45-17.28-6.45-23.32 0L70.06 122.31c-6.1 6.49-7.75 15.95-4.24 24.08C69.38 154.65 77.59 160 86.69 160h28.89l-78.14 90.91c-5.81 6.78-7.06 15.99-3.27 24.04C37.97 283 45.93 288 54.95 288h30.63L5.69 378.49c-6 6.79-7.36 16.09-3.56 24.26 3.75 8.05 12 13.25 21.01 13.25H160v24.45l-30.29 48.4c-5.32 10.64 2.42 23.16 14.31 23.16h95.96c11.89 0 19.63-12.52 14.31-23.16L224 440.45V416h136.86c9.01 0 17.26-5.2 21.01-13.25 3.8-8.17 2.44-17.47-3.56-24.26z\"></path></svg>",
+                                        "iconColor1": "var(--stk-global-color-91842, #b3b1e2)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b343b9a",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Mulish",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Service 3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ea93b72",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "79289de",
+                                "hasContainer": true,
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "1c0d7aa",
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fab\" data-icon=\"envira\" class=\"svg-inline--fa fa-envira fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M0 32c477.6 0 366.6 317.3 367.1 366.3L448 480h-26l-70.4-71.2c-39 4.2-124.4 34.5-214.4-37C47 300.3 52 214.7 0 32zm79.7 46c-49.7-23.5-5.2 9.2-5.2 9.2 45.2 31.2 66 73.7 90.2 119.9 31.5 60.2 79 139.7 144.2 167.7 65 28 34.2 12.5 6-8.5-28.2-21.2-68.2-87-91-130.2-31.7-60-61-118.6-144.2-158.1z\"></path></svg>",
+                                        "iconColor1": "var(--stk-global-color-91842, #b3b1e2)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b3e4a94",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Mulish",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Service 4"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1280ffd",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,669 @@
+{
+    "id": "section-munch-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "226e226",
+        "hasBackground": true,
+        "blockBackgroundColor": "#037edf",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "399833f"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "a1bfe6a",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "Chivo",
+                        "fontWeight": "600",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Our Gallery"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "b29244d",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Lilita One",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Us on Social Media"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "a8d4cca",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus nisl augue, et sagittis quam accumsan non."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9c51aa0",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "46539d1",
+                                "columnWidth": 33.3,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "d581cfa",
+                                        "blockBorderRadius": 12,
+                                        "contentAlign": "left",
+                                        "blockShadowHover": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "className": "is-style-plain"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "75395c3",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-image-gallery-1/5adcf749da9c.jpg",
+                                                "imageId": 2179,
+                                                "imageWidthAttribute": 1859,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 730,
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "b17e3c3",
+                                                "containerVerticalAlign": "flex-end",
+                                                "containerPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "f6f5ab3",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Chivo",
+                                                        "fontWeight": "600",
+                                                        "letterSpacing": 1,
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Subtitle",
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "edd4f5a",
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "fontFamily": "Lilita One",
+                                                        "textTransform": "uppercase",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Image Gallery 1",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "faeee11",
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-32px)",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"external-link-alt\" class=\"svg-inline--fa fa-external-link-alt fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z\"></path></svg>",
+                                                        "iconColor1": "#FFFFFF",
+                                                        "iconSize": 24,
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "73a7448",
+                                "columnWidth": 66.7,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "b418c3a",
+                                        "columnGap": 24,
+                                        "rowGap": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "2420432",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image-box",
+                                                    {
+                                                        "uniqueId": "a3ac6ce",
+                                                        "blockBorderRadius": 12,
+                                                        "contentAlign": "left",
+                                                        "blockShadowHover": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                        "className": "is-style-plain"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "5d8c29b",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-image-gallery-1/714a9becd15e.jpg",
+                                                                "imageId": 2180,
+                                                                "imageWidthAttribute": 1707,
+                                                                "imageHeightAttribute": 2560,
+                                                                "imageHeight": 300,
+                                                                "imageOverlayColorParentHover": "#000000",
+                                                                "imageOverlayOpacityParentHover": 0.7
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "ebef3ae",
+                                                                "containerVerticalAlign": "flex-end",
+                                                                "containerPadding": {
+                                                                    "top": 32,
+                                                                    "right": 32,
+                                                                    "bottom": 32,
+                                                                    "left": 32
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "b1a46c2",
+                                                                        "blockMargin": {
+                                                                            "bottom": 8
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "fontWeight": "600",
+                                                                        "letterSpacing": 1,
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Subtitle",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "87496dc",
+                                                                        "blockMargin": {
+                                                                            "bottom": 23
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textTransform": "uppercase",
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Image Gallery 2",
+                                                                        "textTag": "h4",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/icon",
+                                                                    {
+                                                                        "uniqueId": "00df25a",
+                                                                        "opacity": 0,
+                                                                        "transform": "translateY(-32px)",
+                                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"external-link-alt\" class=\"svg-inline--fa fa-external-link-alt fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z\"></path></svg>",
+                                                                        "iconColor1": "#FFFFFF",
+                                                                        "iconSize": 24,
+                                                                        "opacityParentHover": 1,
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "adf29ed",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image-box",
+                                                    {
+                                                        "uniqueId": "4cf7fb8",
+                                                        "blockBorderRadius": 12,
+                                                        "contentAlign": "left",
+                                                        "blockShadowHover": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                        "className": "is-style-plain"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "52405a5",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-image-gallery-1/7e297ec0d8fe.jpg",
+                                                                "imageId": 2181,
+                                                                "imageWidthAttribute": 1707,
+                                                                "imageHeightAttribute": 2560,
+                                                                "imageHeight": 300,
+                                                                "imageOverlayColorParentHover": "#000000",
+                                                                "imageOverlayOpacityParentHover": 0.7
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "84e5850",
+                                                                "containerVerticalAlign": "flex-end",
+                                                                "containerPadding": {
+                                                                    "top": 32,
+                                                                    "right": 32,
+                                                                    "bottom": 32,
+                                                                    "left": 32
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "87f8af3",
+                                                                        "blockMargin": {
+                                                                            "bottom": 8
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "fontWeight": "600",
+                                                                        "letterSpacing": 1,
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Subtitle",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "e0adc21",
+                                                                        "blockMargin": {
+                                                                            "bottom": ""
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textTransform": "uppercase",
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Image Gallery 3",
+                                                                        "textTag": "h4",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/icon",
+                                                                    {
+                                                                        "uniqueId": "4fb4c32",
+                                                                        "opacity": 0,
+                                                                        "transform": "translateY(-32px)",
+                                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"external-link-alt\" class=\"svg-inline--fa fa-external-link-alt fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z\"></path></svg>",
+                                                                        "iconColor1": "#FFFFFF",
+                                                                        "iconSize": 24,
+                                                                        "opacityParentHover": 1,
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "e6cb9d1",
+                                        "columnGap": 24,
+                                        "rowGap": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "0303aa5",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image-box",
+                                                    {
+                                                        "uniqueId": "5017951",
+                                                        "blockBorderRadius": 12,
+                                                        "contentAlign": "left",
+                                                        "blockShadowHover": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                        "className": "is-style-plain"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "d4d69d5",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-image-gallery-1/9920a0b067d3.jpg",
+                                                                "imageId": 2182,
+                                                                "imageWidthAttribute": 1920,
+                                                                "imageHeightAttribute": 1671,
+                                                                "imageHeight": 400,
+                                                                "imageOverlayColorParentHover": "#000000",
+                                                                "imageOverlayOpacityParentHover": 0.7
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "2ef916f",
+                                                                "containerVerticalAlign": "flex-end",
+                                                                "containerPadding": {
+                                                                    "top": 32,
+                                                                    "right": 32,
+                                                                    "bottom": 32,
+                                                                    "left": 32
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "30411a6",
+                                                                        "blockMargin": {
+                                                                            "bottom": 8
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "fontWeight": "600",
+                                                                        "letterSpacing": 1,
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Subtitle",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "2ee1ab4",
+                                                                        "blockMargin": {
+                                                                            "bottom": ""
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textTransform": "uppercase",
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Image Gallery 4",
+                                                                        "textTag": "h4",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/icon",
+                                                                    {
+                                                                        "uniqueId": "2f53276",
+                                                                        "opacity": 0,
+                                                                        "transform": "translateY(-32px)",
+                                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"external-link-alt\" class=\"svg-inline--fa fa-external-link-alt fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z\"></path></svg>",
+                                                                        "iconColor1": "#FFFFFF",
+                                                                        "iconSize": 24,
+                                                                        "opacityParentHover": 1,
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "ff426d7",
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image-box",
+                                                    {
+                                                        "uniqueId": "13949fc",
+                                                        "blockBorderRadius": 12,
+                                                        "contentAlign": "left",
+                                                        "blockShadowHover": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                                        "className": "is-style-plain"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "ab39803",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-image-gallery-1/bdab3228d1b4.jpg",
+                                                                "imageId": 2183,
+                                                                "imageWidthAttribute": 1920,
+                                                                "imageHeightAttribute": 1282,
+                                                                "imageHeight": 400,
+                                                                "imageOverlayColorParentHover": "#000000",
+                                                                "imageOverlayOpacityParentHover": 0.7
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "f31c92c",
+                                                                "containerVerticalAlign": "flex-end",
+                                                                "containerPadding": {
+                                                                    "top": 32,
+                                                                    "right": 32,
+                                                                    "bottom": 32,
+                                                                    "left": 32
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "7982840",
+                                                                        "blockMargin": {
+                                                                            "bottom": 8
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontSize": 16,
+                                                                        "fontFamily": "Chivo",
+                                                                        "fontWeight": "600",
+                                                                        "letterSpacing": 1,
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Subtitle",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "7b1a328",
+                                                                        "blockMargin": {
+                                                                            "bottom": ""
+                                                                        },
+                                                                        "transform": "translateY(32px)",
+                                                                        "fontFamily": "Lilita One",
+                                                                        "textTransform": "uppercase",
+                                                                        "textColorClass": "has-white-color",
+                                                                        "textColor1": "#FFFFFF",
+                                                                        "text": "Image Gallery 5",
+                                                                        "textTag": "h4",
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/icon",
+                                                                    {
+                                                                        "uniqueId": "cb38c2d",
+                                                                        "opacity": 0,
+                                                                        "transform": "translateY(-32px)",
+                                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"external-link-alt\" class=\"svg-inline--fa fa-external-link-alt fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z\"></path></svg>",
+                                                                        "iconColor1": "#FFFFFF",
+                                                                        "iconSize": 24,
+                                                                        "opacityParentHover": 1,
+                                                                        "transformParentHover": "translateY(0px)"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

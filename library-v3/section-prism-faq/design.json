@@ -1,0 +1,404 @@
+{
+    "id": "section-prism-faq",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1730853"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cf60c13"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "330ae63",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "textRemoveTextMargins": false,
+                        "text": "Frequently Asked Questions",
+                        "textTag": "h3",
+                        "anchor": "frequently-asked-questions"
+                    },
+                    []
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "0e4b1fb",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#fbf6ff",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-70676, #bc4eff)",
+                        "blockBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "blockBorderRadius": 8,
+                        "blockPadding": {
+                            "top": 12,
+                            "right": 8,
+                            "bottom": 12,
+                            "left": 8
+                        },
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a151766",
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "bc22efa"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "990acd9",
+                                                "textColorClass": "has-stk-global-color-60579-color",
+                                                "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "textColor2": "var(--stk-global-color-1163, #6ceaea)",
+                                                "textGradientDirection": 100,
+                                                "hasP": true,
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+                                                "textTag": "h5",
+                                                "lineHeightMobile": 1.4,
+                                                "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "ab9d71e",
+                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a6e0d0f",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "59d7897",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus purus dolor, in ante condimentum sagittis. Id dictumst turpis elementum, phasellus et risus imperdiet."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "6bb9232",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#fbf6ff",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-70676, #bc4eff)",
+                        "blockBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "blockBorderRadius": 8,
+                        "blockPadding": {
+                            "top": 12,
+                            "right": 8,
+                            "bottom": 12,
+                            "left": 8
+                        },
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "302d81a",
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "20881e0"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "cc3d56c",
+                                                "textColorClass": "has-stk-global-color-60579-color",
+                                                "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "textColor2": "var(--stk-global-color-1163, #6ceaea)",
+                                                "textGradientDirection": 100,
+                                                "hasP": true,
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+                                                "textTag": "h5",
+                                                "lineHeightMobile": 1.4,
+                                                "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "e4ba1c5",
+                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b03f1cd",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "9d0947d",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus purus dolor, in ante condimentum sagittis. Id dictumst turpis elementum, phasellus et risus imperdiet."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "c14694a",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#fbf6ff",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-70676, #bc4eff)",
+                        "blockBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "blockBorderRadius": 8,
+                        "blockPadding": {
+                            "top": 12,
+                            "right": 8,
+                            "bottom": 12,
+                            "left": 8
+                        },
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6c7ddd1",
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "1a9a58a"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "9619d96",
+                                                "textColorClass": "has-stk-global-color-60579-color",
+                                                "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "textColor2": "var(--stk-global-color-1163, #6ceaea)",
+                                                "textGradientDirection": 100,
+                                                "hasP": true,
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+                                                "textTag": "h5",
+                                                "lineHeightMobile": 1.4,
+                                                "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "85f7ce6",
+                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d5bbcd6",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a5d11ca",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus purus dolor, in ante condimentum sagittis. Id dictumst turpis elementum, phasellus et risus imperdiet."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "8ded0d6",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#fbf6ff",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-70676, #bc4eff)",
+                        "blockBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "blockBorderRadius": 8,
+                        "blockPadding": {
+                            "top": 12,
+                            "right": 8,
+                            "bottom": 12,
+                            "left": 8
+                        },
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c21d335",
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "0f625cb"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "55d8d01",
+                                                "textColorClass": "has-stk-global-color-60579-color",
+                                                "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                                                "textColor2": "var(--stk-global-color-1163, #6ceaea)",
+                                                "textGradientDirection": 100,
+                                                "hasP": true,
+                                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+                                                "textTag": "h5",
+                                                "lineHeightMobile": 1.4,
+                                                "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "7b6860a",
+                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-60579, #1c1c1c)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a382343",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4842810",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus purus dolor, in ante condimentum sagittis. Id dictumst turpis elementum, phasellus et risus imperdiet."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

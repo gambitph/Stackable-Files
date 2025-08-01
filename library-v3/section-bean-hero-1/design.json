@@ -1,0 +1,70 @@
+{
+    "id": "section-bean-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "2302dd1",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-hero-1/6ced2ddbead9.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "wave-4",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "c1bfd1d",
+                "blockHorizontalAlign": "flex-start",
+                "fontSize": 64,
+                "fontFamily": "Cardo",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Home of Good Coffee",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "826645f",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "435688b"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b328bfa",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#b79066",
+                        "fontSize": 18,
+                        "fontFamily": "Source Sans Pro",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

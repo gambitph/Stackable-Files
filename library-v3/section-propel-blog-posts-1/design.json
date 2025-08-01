@@ -1,0 +1,219 @@
+{
+    "id": "section-propel-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d8d4e28",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e4ccb69"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "fe696ed"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "49d4f4e",
+                                "columnWidth": 33.3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "317a05c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-blog-posts-1/05b6b7086b69.jpg",
+                                        "imageId": 2064,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 1007,
+                                        "imageHeight": 300
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "988afae",
+                                "columnWidth": 66.7
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "469ab0d",
+                                        "fontSize": 16,
+                                        "fontFamily": "Nunito",
+                                        "textTransform": "uppercase",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "061b7d6",
+                                        "fontSize": 32,
+                                        "fontFamily": "Open Sans",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Blog Post 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a14ae83",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "d3c7500"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "7d4b881",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#fcb900",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Nunito",
+                                                "text": "Continue reading"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1fa8f17"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "2a59c92"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "526d590",
+                                "columnWidth": 33.3
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "3ae60be",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-propel-blog-posts-1/1f859575a733.jpg",
+                                        "imageId": 2065,
+                                        "imageWidthAttribute": 800,
+                                        "imageHeightAttribute": 1200,
+                                        "imageHeight": 300
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2fb4469",
+                                "columnWidth": 66.7
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "f220447",
+                                        "fontSize": 16,
+                                        "fontFamily": "Nunito",
+                                        "textTransform": "uppercase",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "7c30974",
+                                        "fontSize": 32,
+                                        "fontFamily": "Open Sans",
+                                        "fontWeight": "600",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Blog Post 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1d1e635",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "59e9d3f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "d47166e",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#fcb900",
+                                                "buttonBorderRadius": 50,
+                                                "fontSize": 18,
+                                                "fontFamily": "Nunito",
+                                                "text": "Continue reading"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

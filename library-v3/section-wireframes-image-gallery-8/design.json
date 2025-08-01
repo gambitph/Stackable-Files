@@ -1,0 +1,158 @@
+{
+    "id": "section-wireframes-image-gallery-8",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ee465e2",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "62a2e14"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "e3f530e",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "edc4a3e",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "467b69f",
+                        "blockMargin": {
+                            "bottom": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "78334db",
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "bf1269b",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-8/ba4bf1b41d4f.png",
+                                        "imageId": 895,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0ca0a47",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 1",
+                                        "textTag": "h4",
+                                        "anchor": "image-1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c764b97",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "81dafa1",
+                                "contentAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "e5c6979",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-8/ba4bf1b41d4f.png",
+                                        "imageId": 895,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "09b34b8",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 2",
+                                        "textTag": "h4",
+                                        "anchor": "image-2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4e53763",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "5807fd0",
+                        "text": "Featured Image",
+                        "anchor": "featured-image"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b4b92d4",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "75e4c73",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-8/71875029cdeb.png",
+                        "imageId": 900,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 632
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

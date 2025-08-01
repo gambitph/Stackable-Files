@@ -1,0 +1,607 @@
+{
+    "id": "section-wireframes-testimonial-8",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c6e9f7b",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c88b5fb",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a4d6153",
+                        "blockPadding": {
+                            "top": 24,
+                            "right": 24,
+                            "bottom": 24,
+                            "left": 24
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2b8d603",
+                                "containerBorderRadius": 0,
+                                "containerShadow": "none",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "876633d",
+                                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "3beb249"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "127291c",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 25,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "18cf797",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-8/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578,
+                                                        "imageHeight": 64,
+                                                        "imageWidth": 64,
+                                                        "imageShape": "circle",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "e9847ac",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 75,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ac34c47",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "<strong>Name</strong>"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "e329673",
+                                                        "text": "Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "16a719b",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "968dbcc",
+                                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "22cae35"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "d7ddcca",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 25,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "cfefce1",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-8/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578,
+                                                        "imageHeight": 64,
+                                                        "imageWidth": 64,
+                                                        "imageShape": "circle",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "3a9b1fd",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 75,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "3dfc503",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "<strong>Name</strong>"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "2bbcf37",
+                                                        "text": "Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6f59ec6",
+                        "blockPadding": {
+                            "top": 24,
+                            "right": 24,
+                            "bottom": 24,
+                            "left": 24
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6b951c8",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "8d8b87b",
+                                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "a141ee1"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "b316d4f",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 25,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "9d39366",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-8/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578,
+                                                        "imageHeight": 64,
+                                                        "imageWidth": 64,
+                                                        "imageShape": "circle",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "2dcffd4",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 75,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "3e229c0",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "<strong>Name</strong>"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "57a093a",
+                                                        "text": "Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "61bd330",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c18dc6d",
+                                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "112901b"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "c7119c2",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 25,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "c20594a",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-8/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578,
+                                                        "imageHeight": 64,
+                                                        "imageWidth": 64,
+                                                        "imageShape": "circle",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "6be8b20",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 75,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "cdbe132",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "<strong>Name</strong>"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "e024787",
+                                                        "text": "Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f8a2851",
+                        "blockPadding": {
+                            "top": 24,
+                            "right": 24,
+                            "bottom": 24,
+                            "left": 24
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7538dd6",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "3b8880d",
+                                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "efa1213"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "5f0b9db",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 25,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "b06b847",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-8/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578,
+                                                        "imageHeight": 64,
+                                                        "imageWidth": 64,
+                                                        "imageShape": "circle",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "8997891",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 75,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "e356df8",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "<strong>Name</strong>"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "e71972e",
+                                                        "text": "Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f43f2b3",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "90014dd",
+                                        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\""
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "84fd243"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "cd9582d",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 25,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": [],
+                                                "columnSpacing": {
+                                                    "top": 0,
+                                                    "right": 0,
+                                                    "bottom": 0,
+                                                    "left": 0
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "6be61cb",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-8/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578,
+                                                        "imageHeight": 64,
+                                                        "imageWidth": 64,
+                                                        "imageShape": "circle",
+                                                        "imageWidthUnit": "px"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "05126f1",
+                                                "containerVerticalAlign": "center",
+                                                "columnWidth": 75,
+                                                "columnAdjacentCount": 2,
+                                                "customAttributes": []
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "30d6874",
+                                                        "blockMargin": {
+                                                            "bottom": 0
+                                                        },
+                                                        "text": "<strong>Name</strong>"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "7ef2b60",
+                                                        "text": "Position"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

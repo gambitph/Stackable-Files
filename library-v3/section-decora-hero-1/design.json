@@ -1,0 +1,57 @@
+{
+    "id": "section-decora-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "454f483",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-hero-1/01ade43bf5dd.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "85b2964",
+                "fontSize": 64,
+                "fontFamily": "Nixie One",
+                "text": "Commitment to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "d7761d4",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "bad1712"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "48041b9",
+                        "buttonBackgroundColor": "#fda939",
+                        "fontSize": 18,
+                        "fontFamily": "Ledger",
+                        "text": "Join Us"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

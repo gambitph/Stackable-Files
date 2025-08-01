@@ -1,0 +1,616 @@
+{
+    "id": "section-wireframes-image-gallery-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "93c3523",
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": 0,
+            "left": ""
+        },
+        "columnGap": 24,
+        "innerBlockContentAlign": "alignwide",
+        "rowGapTablet": 24,
+        "rowGapMobile": 24,
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b6412dd",
+                "columnWidth": 40,
+                "columnAdjacentCount": 2,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/image-box",
+                    {
+                        "uniqueId": "89eb412",
+                        "contentAlign": "left",
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "e04cff8",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-4/8277aa7452ae.png",
+                                "imageId": 2985,
+                                "imageWidthAttribute": 500,
+                                "imageHeightAttribute": 600,
+                                "imageHeight": 730,
+                                "imageOverlayColorParentHover": "#000000",
+                                "imageOverlayOpacityParentHover": 0.7
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ada88f7",
+                                "containerVerticalAlign": "flex-end",
+                                "containerPadding": {
+                                    "top": 32,
+                                    "right": 32,
+                                    "bottom": 32,
+                                    "left": 32
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5d1d4b4",
+                                        "blockMargin": {
+                                            "bottom": 8
+                                        },
+                                        "transform": "translateY(32px)",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for This Block",
+                                        "transformParentHover": "translateY(0px)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "db9b5c6",
+                                        "transform": "translateY(32px)",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Title for This Block",
+                                        "textTag": "h4",
+                                        "transformParentHover": "translateY(0px)",
+                                        "anchor": "title-for-this-block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6c0ec5a",
+                                        "opacity": 0,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Text for This Block",
+                                        "opacityParentHover": 1
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "8ceb57c",
+                                        "opacity": 0,
+                                        "transform": "translateY(-32px)",
+                                        "icon": "<svg data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                        "iconColor1": "#FFFFFF",
+                                        "opacityParentHover": 1,
+                                        "transformParentHover": "translateY(0px)"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0063907",
+                "columnWidth": 60,
+                "columnAdjacentCount": 2,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3fa383d",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c8636c5",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "a680345",
+                                        "contentAlign": "left",
+                                        "className": "is-style-plain"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "f4e4171",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-4/39e04532e764.png",
+                                                "imageId": 2986,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 500,
+                                                "imageHeight": 350,
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageHeightTablet": 450
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "02b772b",
+                                                "containerVerticalAlign": "flex-end",
+                                                "containerPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "72de691",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Subtitle for This Block",
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "bd7af63",
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Title for This Block",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "title-for-this-block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "a68a76b",
+                                                        "blockMargin": {
+                                                            "bottom": ""
+                                                        },
+                                                        "opacity": 0,
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "fa8eeb2",
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-32px)",
+                                                        "icon": "<svg data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                        "iconColor1": "#FFFFFF",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4d8f622",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "9c640e7",
+                                        "contentAlign": "left",
+                                        "className": "is-style-plain"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "7f6d15e",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-4/39e04532e764.png",
+                                                "imageId": 2986,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 500,
+                                                "imageHeight": 350,
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageHeightTablet": 450
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "0210071",
+                                                "containerVerticalAlign": "flex-end",
+                                                "containerPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "5bf43d2",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Subtitle for This Block",
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "e14b29c",
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Title for This Block",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "title-for-this-block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "155357d",
+                                                        "opacity": 0,
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "d2ec6e9",
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-32px)",
+                                                        "icon": "<svg data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                        "iconColor1": "#FFFFFF",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "7bb4eb1",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a5066ba",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "726632d",
+                                        "contentAlign": "left",
+                                        "className": "is-style-plain"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "fbd54fc",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-4/39e04532e764.png",
+                                                "imageId": 2986,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 500,
+                                                "imageHeight": 350,
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageHeightTablet": 450
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "44afa8e",
+                                                "containerVerticalAlign": "flex-end",
+                                                "containerPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "931622f",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Subtitle for This Block",
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "2a26ad3",
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Title for This Block",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "title-for-this-block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "bb7b14e",
+                                                        "opacity": 0,
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "573249d",
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-32px)",
+                                                        "icon": "<svg data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                        "iconColor1": "#FFFFFF",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "83c70d2",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image-box",
+                                    {
+                                        "uniqueId": "4feaaae",
+                                        "contentAlign": "left",
+                                        "className": "is-style-plain"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "bb1fe4f",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-4/39e04532e764.png",
+                                                "imageId": 2986,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 500,
+                                                "imageHeight": 350,
+                                                "imageOverlayColorParentHover": "#000000",
+                                                "imageOverlayOpacityParentHover": 0.7,
+                                                "imageHeightTablet": 450
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fea3de6",
+                                                "containerVerticalAlign": "flex-end",
+                                                "containerPadding": {
+                                                    "top": 32,
+                                                    "right": 32,
+                                                    "bottom": 32,
+                                                    "left": 32
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/subtitle",
+                                                    {
+                                                        "uniqueId": "e2206aa",
+                                                        "blockMargin": {
+                                                            "bottom": 8
+                                                        },
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Subtitle for This Block",
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "eabf05e",
+                                                        "transform": "translateY(32px)",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Title for This Block",
+                                                        "textTag": "h4",
+                                                        "transformParentHover": "translateY(0px)",
+                                                        "anchor": "title-for-this-block"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "b5179bb",
+                                                        "opacity": 0,
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "Text for This Block",
+                                                        "opacityParentHover": 1
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "0208977",
+                                                        "opacity": 0,
+                                                        "transform": "translateY(-32px)",
+                                                        "icon": "<svg data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                                        "iconColor1": "#FFFFFF",
+                                                        "opacityParentHover": 1,
+                                                        "transformParentHover": "translateY(0px)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

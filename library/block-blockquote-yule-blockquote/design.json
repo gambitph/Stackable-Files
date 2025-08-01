@@ -1,0 +1,20 @@
+{
+    "id": "block-blockquote-yule-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "quoteColor": "var(--stk-global-color-59238, #dab811)",
+        "text": "Christmas is most truly Christmas when we celebrate it by giving the light of love to those who need it most.<br><br>- Ruth Carter Stapleton",
+        "textFontSize": 32,
+        "textColor": "var(--stk-global-color-4615, #ffffff)",
+        "paddingTop": 120,
+        "paddingRight": 35,
+        "paddingBottom": 120,
+        "paddingLeft": 48,
+        "blockWidth": 686,
+        "blockHorizontalAlign": "flex-start",
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-yule-blockquote/block-background-background-media-url.jpg"
+    }
+}

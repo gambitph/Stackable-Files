@@ -1,0 +1,108 @@
+{
+    "id": "section-elevate-testimonial-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "91631c7",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1960082"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "3e21f5d",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-horizontal"
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "7ae0c63",
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull",
+                                "align": "full"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "e2d1cf7"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "709a74e",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-testimonial-2/057caf3f5e52.jpg",
+                                                "imageId": 2339,
+                                                "imageWidthAttribute": 599,
+                                                "imageHeightAttribute": 599,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "b879a73",
+                                        "hasContainer": true,
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "07381e8",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "acbcbb7",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 40,
+                                                "fontFamily": "Lato",
+                                                "fontWeight": "bold",
+                                                "text": "Name"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "8e7d176",
+                                                "fontSize": 16,
+                                                "fontFamily": "Lato",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

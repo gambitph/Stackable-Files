@@ -1,0 +1,144 @@
+{
+    "id": "section-cary-quote-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7325ead",
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": 23
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6dbcc35"
+            },
+            [
+                [
+                    "stackable/blockquote",
+                    {
+                        "uniqueId": "d24d619",
+                        "blockMargin": {
+                            "bottom": 13
+                        }
+                    },
+                    [
+                        [
+                            "stackable/icon",
+                            {
+                                "uniqueId": "7abe22e",
+                                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 50 50\"><path d=\"M14.7 45.9H0V31.3C0 17.6 8.6 6.6 21.6 4.1v4.7c-10 2.6-16.7 10.9-16.7 22.6h9.8v14.5zm28.1 0H28.4V31.3C28.4 17.6 37 6.6 50 4.1v4.7c-9.8 2.6-16.7 10.9-16.7 22.6h9.5v14.5z\"></path></svg>"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "b912d11",
+                                "fontFamily": "Roboto",
+                                "fontStyle": "italic",
+                                "fontWeight": "300",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "06c7f8b",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-compact"
+                    },
+                    [
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "827233a",
+                                "columnFit": true
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "c828e70"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "b20e854",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-quote-1/5b3e59c71526.jpg",
+                                                "imageId": 2230,
+                                                "imageWidthAttribute": 1707,
+                                                "imageHeightAttribute": 2560,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "b5ce103",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "c2e30db",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 0,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Roboto",
+                                                "fontWeight": "300",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Marina Peterson"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "85f9d4b",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 16,
+                                                "fontFamily": "Roboto",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-black-color",
+                                                "textColor1": "#000000",
+                                                "text": "Art Critic"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

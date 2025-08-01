@@ -1,0 +1,197 @@
+{
+    "id": "section-tavern-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "69d613f",
+        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 24,
+        "rowGap": 24,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "04a5154",
+                "containerVerticalAlign": "center",
+                "columnWidth": 33.3,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "969b2ca",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Milonga",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1c1a1b",
+                        "text": "The Best Classes for Beginners",
+                        "anchor": "the-art-of-bread-making"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "552811a",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac justo feugiat quam laoreet ultricies at sit amet quam. Integer iaculis enim posuere tristique malesuada. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "1c2fe32",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#a2856c",
+                        "text": "Class inclusions:"
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "8207dd5",
+                        "text": "<li>Lorem ipsum dolor sit amet</li><li>Consectetur adipiscing elit integer ac </li><li>Justo feugiat quam laoreet ultricies</li><li>At sit amet quam integer iaculis enim posuere </li>",
+                        "columns": 1,
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"info-circle\" class=\"svg-inline--fa fa-info-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z\"></path></svg>",
+                        "markerColor": "#9b5e32"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "cbba52e"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f90ff7b",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#9b5e32",
+                                "buttonFullWidth": true,
+                                "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"calendar-alt\" class=\"svg-inline--fa fa-calendar-alt fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z\"></path></svg>",
+                                "fontSize": 18,
+                                "fontFamily": "Source Serif Pro",
+                                "textTransform": "capitalize",
+                                "text": "Book a Class"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "53e0da3",
+                "columnWidth": 66.7,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "35171eb",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "90c4eb2",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "ac6326e",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-feature-1/639325d48142.jpg",
+                                        "imageId": 2282,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "imageHeight": 550,
+                                        "imageShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5a126fe",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "edbcc65",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-feature-1/43b1b22b29aa.jpg",
+                                        "imageId": 2283,
+                                        "imageWidthAttribute": 1704,
+                                        "imageHeightAttribute": 2560,
+                                        "imageHeight": 550,
+                                        "imageShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

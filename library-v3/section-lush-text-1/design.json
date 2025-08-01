@@ -1,0 +1,93 @@
+{
+    "id": "section-lush-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "724490f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#e4e4d3",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-text-1/040551c22925.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "wave-3",
+        "bottomSeparatorLayer2Show": true,
+        "bottomSeparatorLayer2Color": "#66826b",
+        "bottomSeparatorLayer2Opacity": 0.1,
+        "bottomSeparatorLayer3Show": true,
+        "bottomSeparatorLayer3Color": "#66826b",
+        "bottomSeparatorLayer3Opacity": 0.1,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b518be5"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d22323f",
+                        "fontFamily": "Lora",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#66826b",
+                        "text": "Advanced Text"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "52457d4",
+                        "text": "Description for this block. Use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "77c11aa",
+                        "columnGap": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8801fcb"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "01b7c40",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6d72d4f"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e85d6a5",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "id": "section-upland-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ccfcd7e",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "17da000"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "f04796b",
+                        "fontFamily": "Lato",
+                        "text": "Great Apartments at Low Prices"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4e3d021",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "8f19633"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d13f594",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "49fc831",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Lato",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Starts At"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "bcb0383",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "text": "$100"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9ea478b",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "74429ce",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Lato",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Rooms Available"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "284f891",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "text": "1000+"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "69ed5e2",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3da255a",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Lato",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Savings Starts At"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "8aec14a",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "text": "$300"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "87236cc",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f25df68",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 0,
+                                            "left": ""
+                                        },
+                                        "fontSize": 24,
+                                        "fontFamily": "Lato",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Locations"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "75a73b8",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "text": "50+"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

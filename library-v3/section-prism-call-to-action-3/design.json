@@ -1,0 +1,108 @@
+{
+    "id": "section-prism-call-to-action-3",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "7b445f1",
+        "blockBorderRadius": 32,
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "containerBackgroundColor": "#ffffff",
+        "containerBorderType": "solid",
+        "containerBorderColor": "#707d93",
+        "containerBorderWidth": {
+            "top": 1,
+            "right": 1,
+            "bottom": 1,
+            "left": 1
+        },
+        "containerBorderRadius": 32,
+        "containerPadding": {
+            "top": 56,
+            "right": "",
+            "bottom": 56,
+            "left": ""
+        },
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "705f610",
+                "blockBorderRadius": 32,
+                "blockWidth": 648,
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "textColorType": "gradient",
+                "textColorClass": "has-stk-global-color-1163-color",
+                "textColor1": "var(--stk-global-color-1163, #6ceaea)",
+                "textColor2": "var(--stk-global-color-70676, #bc4eff)",
+                "textGradientDirection": 110,
+                "text": "<span style=\"color: #ffffff\" class=\"stk-highlight\">Changes for the Better.</span>",
+                "textTag": "h1",
+                "fontSizeMobile": 24,
+                "lineHeightMobile": 1.4,
+                "anchor": "span-style-color-ffffff-class-stk-highlight-changes-for-the-better-span"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "a6d0032",
+                "blockWidth": 593,
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "contentAlign": "center",
+                "text": "<span class=\"stk-highlight\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc.</span>"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "81a20e6"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "6a6a9ac",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderType": "solid",
+                        "buttonBorderColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderWidth": {
+                            "top": 1,
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1
+                        },
+                        "buttonBorderRadius": 50,
+                        "iconColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                        "textColor1": "var(--stk-global-color-60579, #1c1c1c)",
+                        "text": "<span style=\"color: #fffdfd\" class=\"stk-highlight\">Download Now</span>",
+                        "buttonBackgroundColorHover": "transparent",
+                        "buttonBackgroundColorParentHover": "transparent",
+                        "className": "is-style-ghost"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

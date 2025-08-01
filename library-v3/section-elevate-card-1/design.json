@@ -1,0 +1,172 @@
+{
+    "id": "section-elevate-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6263df4",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "54f43ea"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "a25edd9",
+                        "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-card-1/02f5f7cf3468.jpg",
+                        "imageId": 2352,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1282,
+                        "className": "is-style-horizontal"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "9ff5f63",
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Lato",
+                                "fontWeight": "bold",
+                                "text": "Card 1"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "4bc9690",
+                                "customAttributes": [],
+                                "fontSize": 16,
+                                "fontFamily": "Lato",
+                                "textTransform": "uppercase",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "48c75fe",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "4c4bf09"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "136a6b0",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "#313131",
+                                        "buttonBorderRadius": 50,
+                                        "fontSize": 18,
+                                        "fontFamily": "Lato",
+                                        "text": "More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6a31d65"
+            },
+            [
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "9d7b6a2",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-card-1/b1be51cc3170.jpg",
+                        "imageId": 2353,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1282,
+                        "className": "is-style-horizontal"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "98d4eda",
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Lato",
+                                "fontWeight": "bold",
+                                "text": "Card 2"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "61abd2c",
+                                "customAttributes": [],
+                                "fontSize": 16,
+                                "fontFamily": "Lato",
+                                "textTransform": "uppercase",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "9db3c5d",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "667a814"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "12ed1d1",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "#313131",
+                                        "buttonBorderRadius": 50,
+                                        "fontSize": 18,
+                                        "fontFamily": "Lato",
+                                        "text": "More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

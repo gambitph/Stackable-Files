@@ -1,0 +1,69 @@
+{
+    "id": "section-aspire-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cc1efee",
+        "hasBackground": true,
+        "blockBackgroundColor": "#091830",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-text-1/3fb63469eb57.jpeg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d8fa929"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "7499012",
+                        "fontSize": 16,
+                        "fontFamily": "DM Sans",
+                        "textTransform": "uppercase",
+                        "textColor1": "#d3fc32",
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "672746a",
+                        "customAttributes": [],
+                        "fontSize": 56,
+                        "fontFamily": "Archivo Black",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for This Block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "eb91353"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "3775558",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

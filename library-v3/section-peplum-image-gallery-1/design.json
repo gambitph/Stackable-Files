@@ -1,0 +1,192 @@
+{
+    "id": "section-peplum-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1c3b877",
+        "hasBackground": true,
+        "blockBackgroundColor": "#b27197",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0346b62"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "dee7b75",
+                        "fontSize": 56,
+                        "fontFamily": "Yeseva One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Our Gallery"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d0e918b",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3148db9"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "bd17d63",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#b27197",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-image-gallery-1/42ced24248e5.jpg",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center",
+                                "containerBackgroundColorHover": "#b27197",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "387d3d6",
+                                        "fontSize": 48,
+                                        "fontFamily": "Yeseva One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Image 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "690b998"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a47eb91",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7e8fdd6",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#b27197",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-image-gallery-1/dae6b72659ef.jpg",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#b27197",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "234c20b",
+                                        "fontSize": 48,
+                                        "fontFamily": "Yeseva One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Image 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "8fa81a6"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4d07c13",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "13b8a6f",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "#b27197",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-image-gallery-1/4b69dd30d0ed.jpg",
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center",
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#b27197",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f91b58e",
+                                        "fontSize": 48,
+                                        "fontFamily": "Yeseva One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Image 3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/divider",
+                                    {
+                                        "uniqueId": "5277287"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "92e7d74",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

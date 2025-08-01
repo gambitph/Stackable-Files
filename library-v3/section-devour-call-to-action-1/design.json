@@ -1,0 +1,71 @@
+{
+    "id": "section-devour-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "a2f010c",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-call-to-action-1/bd2e9edfa245.jpg",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "edb92c8",
+                "fontSize": 48,
+                "fontFamily": "Cherry Swash",
+                "fontWeight": "bold",
+                "textColor1": "#3d9457",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "bfdcc94",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "3bb88c6"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "f8dd6fd",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ffce46",
+                        "buttonBorderRadius": 50,
+                        "fontFamily": "Karla",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

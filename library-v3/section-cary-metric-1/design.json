@@ -1,0 +1,141 @@
+{
+    "id": "section-cary-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a511729",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "fab8375"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "863c753",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 96,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "400",
+                        "textColor1": "#e4e4e4",
+                        "text": "01",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "585c71d",
+                        "blockMargin": {
+                            "top": -80,
+                            "right": "",
+                            "bottom": 0,
+                            "left": 60
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 32,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "text": "Number Box 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "a7cb3b0",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "00d1a2f"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "fa87697",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 96,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "400",
+                        "textColor1": "#e4e4e4",
+                        "text": "02",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "6455c77",
+                        "blockMargin": {
+                            "top": -80,
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 32,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "text": "Number Box 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "92c2d74",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

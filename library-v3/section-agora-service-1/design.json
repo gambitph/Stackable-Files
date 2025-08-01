@@ -1,0 +1,478 @@
+{
+    "id": "section-agora-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3661000",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "effectType": "entrance",
+        "effectEntrance": "translateY(48px)",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "65da719"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "97030f2",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 80,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "Browse by Location",
+                        "showTopLine": false,
+                        "topLineMargin": 48,
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "bd27445",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "38fd13a",
+                        "columnGap": 24,
+                        "blockMarginMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "rowGapMobile": 16
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1f7fe16",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "var(--stk-global-color-56986, #111111)",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-service-1/0f228f321219.jpg",
+                                "containerBackgroundGradientDirection": 210,
+                                "containerPadding": {
+                                    "top": 64,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "318a00e",
+                                        "blockWidth": 640,
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "France",
+                                        "textTag": "h3",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "a48c359",
+                                        "fontFamily": "Space Mono",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "24 Available Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9be26c5",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "var(--stk-global-color-56986, #111111)",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-service-1/046688612975.jpg",
+                                "containerBackgroundGradientDirection": 210,
+                                "containerPadding": {
+                                    "top": 64,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "cd51f47",
+                                        "blockWidth": 640,
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "England",
+                                        "textTag": "h3",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "6ee6774",
+                                        "fontFamily": "Space Mono",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "31 Available Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "980c7a8",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "var(--stk-global-color-56986, #111111)",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-service-1/3ac159e45334.jpg",
+                                "containerBackgroundGradientDirection": 210,
+                                "containerPadding": {
+                                    "top": 64,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "c90fde4",
+                                        "blockWidth": 640,
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Germany",
+                                        "textTag": "h3",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5d071b6",
+                                        "fontFamily": "Space Mono",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "14 Available Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d1fc176",
+                        "columnGap": 24,
+                        "rowGapMobile": 16
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "63cae3c",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "var(--stk-global-color-56986, #111111)",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-service-1/57184b9d565a.jpg",
+                                "containerBackgroundGradientDirection": 210,
+                                "containerPadding": {
+                                    "top": 64,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "1f36f5b",
+                                        "blockWidth": 640,
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Spain",
+                                        "textTag": "h3",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "bc87dfd",
+                                        "fontFamily": "Space Mono",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "32 Available Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6b9f65c",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "var(--stk-global-color-56986, #111111)",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-service-1/c45159e5734c.jpg",
+                                "containerBackgroundGradientDirection": 210,
+                                "containerPadding": {
+                                    "top": 64,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "161854b",
+                                        "blockWidth": 640,
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Russia",
+                                        "textTag": "h3",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "fa0e6bd",
+                                        "fontFamily": "Space Mono",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "15 Available Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e2d6e1f",
+                                "hasContainer": true,
+                                "containerBackgroundColorType": "gradient",
+                                "containerBackgroundColor": "transparent",
+                                "containerBackgroundColor2": "var(--stk-global-color-56986, #111111)",
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-service-1/40b4c2819ecf.jpg",
+                                "containerBackgroundGradientDirection": 210,
+                                "containerPadding": {
+                                    "top": 64,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "121f09e",
+                                        "blockWidth": 640,
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontFamily": "Prata",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Portugal",
+                                        "textTag": "h3",
+                                        "showTopLine": false,
+                                        "topLineMargin": 48
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "cacd9ef",
+                                        "fontFamily": "Space Mono",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "18 Available Properties"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

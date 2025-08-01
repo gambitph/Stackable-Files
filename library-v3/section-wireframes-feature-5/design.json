@@ -1,0 +1,366 @@
+{
+    "id": "section-wireframes-feature-5",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8c9c1af",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4d82126"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "cdbaddc",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "2c90a3d",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac suscipit risus. Curabitur egestas consequat urna a vulputate."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "cda51d0",
+                        "rowGapTablet": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fbf87d0",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 25,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "a99bbf2"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "eb02f0e"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "142f948",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "382828c",
+                                                        "hasP": true,
+                                                        "text": "Feature 1",
+                                                        "textTag": "h4",
+                                                        "anchor": "feature-1"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "260224a",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "4e0bbb3"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "6c527a3"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "4c34161",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "05eac81",
+                                                        "hasP": true,
+                                                        "text": "Feature 2",
+                                                        "textTag": "h4",
+                                                        "anchor": "feature-2"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "8b26185",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "39afeb5"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "d8ae3e7"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "6a81a2d",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "7d3ef28",
+                                                        "hasP": true,
+                                                        "text": "Feature 3",
+                                                        "textTag": "h4",
+                                                        "anchor": "feature-3"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "6ac6e88",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "00abb23",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 50,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "f2deb70",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-5/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "imageHeight": 600
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "096d90a",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 25,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "6bc40ed"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "714db5e"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "1c99f35",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "a6f3975",
+                                                        "hasP": true,
+                                                        "text": "Feature 4",
+                                                        "textTag": "h4",
+                                                        "anchor": "feature-4"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "24095ad",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "ef5dfd8"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "bac4d9e"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "9538017",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "6fc6b2a",
+                                                        "hasP": true,
+                                                        "text": "Feature 5",
+                                                        "textTag": "h4",
+                                                        "anchor": "feature-5"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "aed08b4",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/icon-box",
+                                    {
+                                        "uniqueId": "6165c43"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon-label",
+                                            {
+                                                "uniqueId": "c9a8bd6"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon",
+                                                    {
+                                                        "uniqueId": "272f3b4",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/heading",
+                                                    {
+                                                        "uniqueId": "004609d",
+                                                        "hasP": true,
+                                                        "text": "Feature 6",
+                                                        "textTag": "h4",
+                                                        "anchor": "feature-6"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "96f8366",
+                                                "text": "Description for this block. Use this space for describing your block."
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

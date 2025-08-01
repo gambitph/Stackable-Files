@@ -1,0 +1,105 @@
+{
+    "id": "section-bean-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "59894c2",
+        "hasBackground": true,
+        "blockBackgroundColor": "#e2d8c7",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "16c4686"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c6f3353",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-feature-2/a317f392270a.jpg",
+                        "imageId": 1029,
+                        "imageWidthAttribute": 2560,
+                        "imageHeightAttribute": 1440,
+                        "imageHeight": 600
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "40de25e"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d40ac8b",
+                                "blockMargin": {
+                                    "top": -200,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "hasContainer": true,
+                                "containerShadow": "0px 10px 30px rgba(0, 0, 0, 0.05)",
+                                "containerWidth": 800,
+                                "containerHorizontalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "30c9a67",
+                                        "fontSize": 56,
+                                        "fontFamily": "Cardo",
+                                        "textColor1": "#3f2816",
+                                        "text": "Title for This Block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ea542bf",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "cc72bea"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "ffa0b1f",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#b79066",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Sans Pro",
+                                                "text": "Learn More",
+                                                "opacityHover": 0.8
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "id": "section-agora-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "2ae61f2",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e4cd3d9",
+                "effectType": "entrance",
+                "effectEntrance": "translateY(48px)"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "ba7956a",
+                        "blockWidth": 640,
+                        "customAttributes": [],
+                        "fontSize": 80,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "In the Media",
+                        "showTopLine": true,
+                        "topLineHeight": 1,
+                        "topLineMargin": 48
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "28dba49",
+                "effectType": "entrance",
+                "effectEntrance": "translateY(48px)"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "d87f2b5",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "fontFamily": "Space Mono",
+                        "textColor1": "#c88445",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "e1cc491",
+                        "blockWidth": 640,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 6,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "Blog Post 1",
+                        "showTopLine": false,
+                        "topLineMargin": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "1dbe788",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "c37ee0f"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "0518d85",
+                                "customAttributes": [],
+                                "fontSize": 21,
+                                "fontFamily": "Space Mono",
+                                "text": "Read more",
+                                "textColor1Hover": "#c88445",
+                                "className": "is-style-link"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "4bf55d9",
+                        "color": "#dfdada",
+                        "width": 100,
+                        "blockMarginMobile": {
+                            "top": 16,
+                            "bottom": 16
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "7942843",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "fontFamily": "Space Mono",
+                        "textColor1": "#c88445",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "eadf142",
+                        "blockWidth": 640,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 6,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "Blog Post 2",
+                        "showTopLine": false,
+                        "topLineMargin": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fd9c6f2",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "341cf4f"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "a5b4894",
+                                "customAttributes": [],
+                                "fontSize": 21,
+                                "fontFamily": "Space Mono",
+                                "text": "Read more",
+                                "textColor1Hover": "#c88445",
+                                "className": "is-style-link"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "a6cde88",
+                        "color": "#dfdada",
+                        "width": 100,
+                        "blockMarginMobile": {
+                            "top": 16,
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "fbb53b2",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "fontFamily": "Space Mono",
+                        "textColor1": "#c88445",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "66029e0",
+                        "blockWidth": 640,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 6,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Prata",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#000000",
+                        "text": "Blog Post 3",
+                        "showTopLine": false,
+                        "topLineMargin": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "562a8f5",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie dolor ut ante facilisis tempor. Curabitur non nibh finibus, egestas odio et, lacinia urna. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "16dd0e9"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7947311",
+                                "customAttributes": [],
+                                "fontSize": 21,
+                                "fontFamily": "Space Mono",
+                                "text": "Read more",
+                                "textColor1Hover": "#c88445",
+                                "className": "is-style-link"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

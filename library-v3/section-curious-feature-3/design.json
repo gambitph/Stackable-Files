@@ -1,0 +1,130 @@
+{
+    "id": "section-curious-feature-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4d71862",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-3/f29f97571b81.png",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "columnGap": 120,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6923b3a",
+                "columnWidth": 60,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "7bacc71",
+                        "blockMargin": {
+                            "bottom": 12
+                        },
+                        "text": "PROJECT TITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "665edb6",
+                        "textRemoveTextMargins": true,
+                        "text": "<strong>Lorem ipsum dolor sit amet</strong>",
+                        "fontSizeMobile": 25,
+                        "anchor": "strong-lorem-ipsum-dolor-sit-amet-strong"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "597b967",
+                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.",
+                        "fontSizeMobile": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "636a023",
+                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.",
+                        "fontSizeMobile": 16
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "99022de",
+                "columnWidth": 40,
+                "columnAdjacentCount": 2,
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "1bc3b0a",
+                        "hasBackground": true,
+                        "blockBackgroundColor": "#fe9964",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-3/4881e0714f00.png",
+                        "imageId": 636,
+                        "imageWidthAttribute": 576,
+                        "imageHeightAttribute": 612,
+                        "positionNum": {
+                            "top": "",
+                            "right": "",
+                            "bottom": -16,
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4844d64",
+                        "zIndex": 2,
+                        "positionNum": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "eac6881",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#ffffff",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#000000",
+                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                "icon": "<svg class=\"ugb-custom-icon\" width=\"26\" height=\"21\" viewBox=\"0 0 26 21\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M25.7914 9.3778C24.0781 8.84239 21.4405 7.7251 19.1529 6.1393C16.8294 4.52866 15.0775 2.58224 14.7406 0.448669L12.7651 0.760595C13.2333 3.72565 15.5625 6.084 18.0135 7.78299C18.845 8.3594 19.7148 8.87692 20.5742 9.33228H0V9.66772V11.3323V11.6677H20.5742C19.7148 12.1231 18.845 12.6406 18.0135 13.217C15.5625 14.916 13.2333 17.2743 12.7651 20.2394L14.7406 20.5513C15.0775 18.4178 16.8294 16.4713 19.1529 14.8607C21.4405 13.2749 24.0781 12.1576 25.7914 11.6222L25.6202 10.5L25.7914 9.3778Z\" fill=\"black\" />\n</svg>",
+                                "iconColor1": "#000000",
+                                "iconPosition": "right",
+                                "textColorClass": "has-foreground-color",
+                                "textColor1": "#000000",
+                                "text": "Project Name"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

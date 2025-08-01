@@ -1,0 +1,25 @@
+{
+    "id": "block-blockquote-chic-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "quoteIcon": "round",
+        "quoteOpacity": 0.8,
+        "quoteColor": "var(--stk-global-color-78337, #f28e18)",
+        "quoteSize": 175,
+        "text": "<em>It's okay to acknowledge that life can get complicated, but we musn't forget the beauty in its simplicity, too. From the multitude of stars above, to freshly mowed grass in the morning, life is simply wonderful.</em>",
+        "textFontFamily": "Karla",
+        "textFontSize": 21,
+        "textColor": "var(--stk-global-color-90509, #111111)",
+        "paddingTop": 12,
+        "paddingBottom": 8,
+        "paddingUnit": "%",
+        "blockWidth": 585,
+        "columnPaddingUnit": "%",
+        "align": "center",
+        "noPaddings": false,
+        "blockBackgroundBackgroundColorType": "gradient",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-78337, #f28e18)",
+        "blockBackgroundBackgroundColor2": "var(--stk-global-color-89474, #ffa1df)",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-chic-blockquote/block-background-background-media-url.jpg"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "id": "section-wireframes-testimonial-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1931313",
+        "blockMargin": {
+            "bottom": 23
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "20f8928",
+                "columnWidth": 70,
+                "columnAdjacentCount": 2,
+                "columnAlign": "center",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "879f249",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor.\"",
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-pellentesque-volutpat-a-lacus-nec-porttitor"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "03fe43d"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ab222b2",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "32c1d07",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "Name"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "7fffb67",
+                                        "customAttributes": [],
+                                        "text": "Position"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "14bb05b",
+                "columnWidth": 30,
+                "columnAdjacentCount": 2,
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "605de7f",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-6/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "imageHeight": 280
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

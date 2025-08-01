@@ -1,0 +1,33 @@
+{
+    "id": "block-feature-elevate-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "design": "basic",
+        "invert": true,
+        "borderRadius": 0,
+        "shadow": 5,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-elevate-feature/image-url.jpg",
+        "imageId": 62,
+        "imageWidth": 580,
+        "imageHeight": 506,
+        "title": "Reach Your Dream",
+        "titleTag": "h3",
+        "titleFontWeight": "500",
+        "titleColor": "var(--stk-global-color-88711, #313131)",
+        "descriptionColor": "var(--stk-global-color-88711, #313131)",
+        "buttonFontFamily": "Lato",
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonDesign": "basic",
+        "buttonSize": "small",
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "#313131",
+        "buttonHoverEffect": "lift",
+        "buttonBorderRadius": 100,
+        "descriptionBottomMargin": 55,
+        "align": "wide",
+        "blockBackgroundFixedBackground": true,
+        "showTopSeparator": false,
+        "showBottomSeparator": false
+    }
+}

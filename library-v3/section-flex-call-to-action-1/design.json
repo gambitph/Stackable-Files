@@ -1,0 +1,94 @@
+{
+    "id": "section-flex-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "05e5fae",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flex-call-to-action-1/6918d7673145.jpg",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "fb885b2"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "50cdf6e",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "right",
+                                "uniqueId": "5e30c13",
+                                "fontSize": 64,
+                                "fontFamily": "Poppins",
+                                "fontStyle": "italic",
+                                "fontWeight": "900",
+                                "textTransform": "uppercase",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Achieve Greatness",
+                                "textTag": "h3"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "c7a35bf",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "99b44ad",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "33707b4"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "35ea99f",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#ff3737",
+                                        "fontFamily": "Poppins",
+                                        "text": "Get Started"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

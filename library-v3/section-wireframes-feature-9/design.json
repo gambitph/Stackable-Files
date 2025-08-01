@@ -1,0 +1,230 @@
+{
+    "id": "section-wireframes-feature-9",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e0d0700",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "127a74e"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c6f3519"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5f3e01a",
+                                "columnWidth": 33.333333333333336,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "6691306",
+                                        "text": "Title for this Section",
+                                        "textTag": "h3",
+                                        "anchor": "title-for-this-section"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e47530f",
+                                "containerWidth": 600,
+                                "columnWidth": 46.66666666666667,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "86b6162",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "73195d5",
+                                "columnWidth": 20,
+                                "columnAdjacentCount": 3
+                            },
+                            [
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "6ff8882",
+                                        "contentAlign": "right"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "c91be2a",
+                                                "text": "Primary Button"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "2445d33"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5e45997"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "601dd9c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "758c156",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor sit amet",
+                                        "textTag": "h4",
+                                        "anchor": "lorem-ipsum-dolor-sit-amet",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "98ec7c3",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0d50257"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "0ad2b8d",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "d92aa94",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor sit amet",
+                                        "textTag": "h4",
+                                        "anchor": "lorem-ipsum-dolor-sit-amet",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5ce741a",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "36f2682"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "c8ddd33",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "4612998",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Lorem ipsum dolor sit amet",
+                                        "textTag": "h4",
+                                        "anchor": "lorem-ipsum-dolor-sit-amet",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "fd6ec52",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "section-yule-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "c10c788",
+        "hasBackground": true,
+        "blockBackgroundColor": "#00473d",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-hero-1/f4421571a8c8.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "rounded-1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/subtitle",
+            {
+                "uniqueId": "1c97703",
+                "fontSize": 16,
+                "fontFamily": "Source Sans Pro",
+                "textTransform": "uppercase",
+                "textColor1": "#dab811",
+                "text": "Subtitle for this Block"
+            },
+            []
+        ],
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "48c440d",
+                "blockPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "customAttributes": [],
+                "fontSize": 64,
+                "fontFamily": "DM Serif Display",
+                "textRemoveTextMargins": true,
+                "textColor1": "#FFFFFF",
+                "text": "Give the Gift of Comfort",
+                "textTag": "h1",
+                "showTopLine": false,
+                "topLineColor": "#FFFFFF",
+                "topLineAlign": "center",
+                "showBottomLine": false,
+                "bottomLineColor": "#FFFFFF",
+                "bottomLineAlign": "center"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "df4d6d2",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "fbff668"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "e6cdc46",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#00c279",
+                        "buttonBorderRadius": 8,
+                        "fontSize": 18,
+                        "fontFamily": "Source Sans Pro",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

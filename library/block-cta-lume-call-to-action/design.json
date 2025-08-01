@@ -1,0 +1,24 @@
+{
+    "id": "block-cta-lume-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "Join The Revolution",
+        "titleTag": "h3",
+        "titleColor": "var(--stk-global-color-71449, #ffffff)",
+        "description": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do.",
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Join Now",
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-52097, #111111)",
+        "buttonBackgroundColor": "var(--stk-global-color-36389, #37cdc0)",
+        "buttonHoverEffect": "lift",
+        "buttonBorderRadius": 50,
+        "descriptionBottomMargin": 35,
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-52097, #111111)"
+    }
+}

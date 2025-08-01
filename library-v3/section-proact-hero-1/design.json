@@ -1,0 +1,73 @@
+{
+    "id": "section-proact-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "4e19430",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#4c548a",
+        "blockBackgroundColor2": "#dd3334",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-hero-1/96b485c7d48c.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "42bc548",
+                "fontSize": 72,
+                "fontFamily": "Poppins",
+                "fontWeight": "600",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Be the Best. Always.",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "6f15c5b",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "9fa969c"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "4f0bfa2",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ed5f47",
+                        "buttonBorderRadius": 8,
+                        "fontSize": 18,
+                        "fontFamily": "Rubik",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

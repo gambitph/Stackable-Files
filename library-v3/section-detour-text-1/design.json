@@ -1,0 +1,99 @@
+{
+    "id": "section-detour-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a7c8e1d",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c1f9122",
+                "columnWidth": 9.3
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "7bf0ed5",
+                        "fontFamily": "Oswald",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "01",
+                        "hasShape": false
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3c516e9",
+                "columnWidth": 90.7
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "49ece4d"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3440d4f"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "50b53e3",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4591de9"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "052a576",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "66bc6d5"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0e2c24a",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

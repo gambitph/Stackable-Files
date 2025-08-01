@@ -1,0 +1,106 @@
+{
+    "id": "section-dare-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cbae8a7",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "20032e6",
+                "hasContainer": true,
+                "containerBackgroundColor": "#313131",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-image-gallery-1/2b381e73a233.jpg",
+                "containerBackgroundTintStrength": 3,
+                "containerHeight": 500,
+                "containerVerticalAlign": "center",
+                "contentAlign": "center",
+                "containerBackgroundColorHover": "#f8bd01",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "013b196",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontFamily": "Poppins",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Glide"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9dc7f46",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Find out how it feels to soar through the sky\n\n"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "dd89a17",
+                "hasContainer": true,
+                "containerBackgroundColor": "#313131",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-image-gallery-1/2e43772c2dbb.jpg",
+                "containerBackgroundTintStrength": 3,
+                "containerHeight": 500,
+                "containerVerticalAlign": "center",
+                "contentAlign": "center",
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#f8bd01",
+                "containerBackgroundTintStrengthHover": 8
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b43a97a",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontFamily": "Poppins",
+                        "fontWeight": "900",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Climb"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d39f9f8",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Challenge yourself to reach the top\n\n\n"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "id": "section-heights-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c40a4a9",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1f78b02"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "b7ba2e4",
+                        "blockBorderRadius": 20,
+                        "blockShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                        "contentAlign": "left",
+                        "className": "is-style-basic"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "7f26a91",
+                                "fontFamily": "Inter",
+                                "fontWeight": "bold",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#313131",
+                                "text": "Basic",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/price",
+                            {
+                                "uniqueId": "a232376"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ac5e0f2",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "text": "$",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "68cba60",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#313131",
+                                        "text": "99",
+                                        "innerTextTag": "span",
+                                        "className": "stk-block-price__price"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4bf726f",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "text": ".00",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/icon-list",
+                            {
+                                "uniqueId": "2ece14d",
+                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "0d93a60"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "c95a1cb",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#313131",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inter",
+                                        "text": "Button"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "47ff638"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "de99807",
+                        "blockBorderRadius": 20,
+                        "blockShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                        "contentAlign": "left",
+                        "className": "is-style-basic"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "3d0b65d",
+                                "fontFamily": "Inter",
+                                "fontWeight": "bold",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#313131",
+                                "text": "Advanced",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/price",
+                            {
+                                "uniqueId": "3e92bc0"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1c975f8",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "text": "$",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c9dae77",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#313131",
+                                        "text": "99",
+                                        "innerTextTag": "span",
+                                        "className": "stk-block-price__price"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e1a3138",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "text": ".00",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/icon-list",
+                            {
+                                "uniqueId": "fde2619",
+                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "f9a3ffa"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "9b07ad2",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#313131",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inter",
+                                        "text": "Button"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7b6f1a3"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "ed7a026",
+                        "blockBorderRadius": 20,
+                        "blockShadow": "0 5px 5px 0 rgba(18, 63, 82, 0.035)",
+                        "contentAlign": "left",
+                        "className": "is-style-basic"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "abecf69",
+                                "fontFamily": "Inter",
+                                "fontWeight": "bold",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#313131",
+                                "text": "Pro",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/price",
+                            {
+                                "uniqueId": "696cfe3"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "43cb420",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "text": "$",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5fa94f5",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "textColor1": "#313131",
+                                        "text": "99",
+                                        "innerTextTag": "span",
+                                        "className": "stk-block-price__price"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "62012e1",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Inter",
+                                        "fontWeight": "bold",
+                                        "text": ".00",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/icon-list",
+                            {
+                                "uniqueId": "2d80b7c",
+                                "text": "<li>Package inclusion one</li><li>Package inclusion two</li><li>Package inclusion three</li>"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "d6b0e71"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "b378e90",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#313131",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inter",
+                                        "text": "Button"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

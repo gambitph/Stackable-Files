@@ -1,0 +1,237 @@
+{
+    "id": "section-flow-call-to-action-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a3b3ebd",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2b85cc6",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-call-to-action-1/7a6698393561.jpg",
+                "containerBackgroundPosition": "top center",
+                "containerBorderType": "solid",
+                "containerBorderColor": "var(--stk-global-color-58834, #ffffff)",
+                "containerPadding": {
+                    "top": 64,
+                    "right": 64,
+                    "bottom": 64,
+                    "left": 64
+                },
+                "blockPaddingMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "containerBackgroundPositionTablet": "top left",
+                "containerPaddingMobile": {
+                    "top": 48,
+                    "right": 48,
+                    "bottom": 48,
+                    "left": 48
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "419981d",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Try Out the App Today.",
+                        "anchor": "no-need-to-take-our-word-for-it"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7770a11",
+                        "blockWidth": 620,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a congue felis. Nullam justo mauris, blandit varius pulvinar sed, molestie convallis turpis. Aliquam venenatis volutpat scelerisque."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "6589eac",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e47a493",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                "buttonFullWidth": false,
+                                "buttonHoverEffect": "scale",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Space Grotesk",
+                                "textColorClass": "has-stk-global-color-9296-color",
+                                "textColor1": "var(--stk-global-color-9296, #000000)",
+                                "text": "Download Now"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f2fd0ca",
+                        "blockWidth": 500,
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f72c3fb",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "358baaf",
+                                        "iconGap": 32
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "a84031d",
+                                                "contentAlign": "left",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "iconSize": 18
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "f753538",
+                                                "fontFamily": "Space Grotesk",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "hasP": true,
+                                                "text": "30-day free trial for new users",
+                                                "textTag": "h6",
+                                                "anchor": "30-day-free-trial-for-new-users"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "df1a311",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "6ec7697",
+                                        "iconGap": 32
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "bce9c2e",
+                                                "contentAlign": "left",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"check-circle\" class=\"svg-inline--fa fa-check-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "iconSize": 18
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "dcd2f59",
+                                                "fontFamily": "Space Grotesk",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "hasP": true,
+                                                "text": "14-day money back guarantee",
+                                                "textTag": "h6",
+                                                "anchor": "14-day-money-back-guarantee"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

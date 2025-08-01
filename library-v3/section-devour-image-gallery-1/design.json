@@ -1,0 +1,164 @@
+{
+    "id": "section-devour-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d7fdc3e",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6852edd"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "40f9b1b",
+                        "fontFamily": "Cherry Swash",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#3d9457",
+                        "text": "Gallery"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "98996c4",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6f7b52a"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "afa373a",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-image-gallery-1/db75fcad209d.jpg",
+                                "containerBorderRadius": 30,
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center",
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "c945204",
+                                        "fontSize": 32,
+                                        "fontFamily": "Cherry Swash",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#ffce46",
+                                        "text": "Image 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1b4deea",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "213bbde",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-image-gallery-1/5e3256fbe6f1.jpg",
+                                "containerBorderRadius": 30,
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center",
+                                "customAttributes": [],
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a7e3aa2",
+                                        "fontSize": 32,
+                                        "fontFamily": "Cherry Swash",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#ffce46",
+                                        "text": "Image 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "67f2d75",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "03f3b7a",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-image-gallery-1/b261d673ac26.jpg",
+                                "containerBorderRadius": 30,
+                                "containerHeight": 400,
+                                "containerVerticalAlign": "center",
+                                "customAttributes": [],
+                                "containerBackgroundTintStrengthHover": 7
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b9efef2",
+                                        "fontSize": 32,
+                                        "fontFamily": "Cherry Swash",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#ffce46",
+                                        "text": "Image 3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1cff2c1",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

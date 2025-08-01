@@ -1,0 +1,23 @@
+{
+    "id": "block-count-up-speck-count-up",
+    "name": "ugb/count-up",
+    "attributes": {
+        "columns": 4,
+        "icon1": "",
+        "icon2": "",
+        "icon3": "",
+        "icon4": "",
+        "iconIcon": "",
+        "numberFontFamily": "DM Sans",
+        "numberFontWeight": "900",
+        "numberColor": "var(--stk-global-color-49022, #ffe923)",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-84839, #1b36d1)",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-count-up-speck-count-up/block-background-background-media-url.png",
+        "blockBackgroundFixedBackground": false,
+        "showBlockTitle": true,
+        "showBlockDescription": true
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "id": "section-wireframes-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4d8e693",
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ad605bc"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "c335dcf",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-metric-1/aa4a4df455b2.png",
+                        "imageId": 1310,
+                        "imageWidthAttribute": 600,
+                        "imageHeightAttribute": 500,
+                        "imageHeight": 500
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f097800",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "90cb486",
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f924ce2",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. Morbi a sapien ut dolor placerat consequat. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9277f83",
+                        "columnGap": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6e5fb44",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "60d98e8",
+                                        "blockMargin": {
+                                            "bottom": 8
+                                        },
+                                        "text": "1200+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "5ce00e0",
+                                        "text": "Subtitle for this Count-up"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8e6e40d",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "4cb8ec2",
+                                        "blockMargin": {
+                                            "bottom": 8
+                                        },
+                                        "text": "800+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "9928af6",
+                                        "text": "Subtitle for this Count-up"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

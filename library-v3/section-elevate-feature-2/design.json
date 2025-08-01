@@ -1,0 +1,101 @@
+{
+    "id": "section-elevate-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8e285b4",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3e69319"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "7cdffd1",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-feature-2/6bbc94ea6848.png",
+                        "imageId": 2416,
+                        "imageWidthAttribute": 96,
+                        "imageHeightAttribute": 96,
+                        "imageHeight": 96,
+                        "imageWidth": 96,
+                        "contentAlign": "left",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c4271f1",
+                        "customAttributes": [],
+                        "fontSize": 40,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4ead23b",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8bb79fe"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "3dfe2f9",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-feature-2/983e250b4045.png",
+                        "imageId": 2415,
+                        "imageWidthAttribute": 96,
+                        "imageHeightAttribute": 96,
+                        "imageHeight": 96,
+                        "imageWidth": 96,
+                        "contentAlign": "left",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3e640ad",
+                        "customAttributes": [],
+                        "fontSize": 40,
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "text": "Feature 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7c66da3",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

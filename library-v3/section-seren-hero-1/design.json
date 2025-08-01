@@ -1,0 +1,66 @@
+{
+    "id": "section-seren-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "314faf9",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-hero-1/c096a1cc00c3.png",
+        "blockBackgroundImageBlendMode": "normal",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "5a65c9d",
+                "fontSize": 96,
+                "fontFamily": "Manrope",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Reach the Top",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "9bcf005",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. "
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "bfd179a"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "187c70c",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "fontSize": 18,
+                        "fontFamily": "DM Sans",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

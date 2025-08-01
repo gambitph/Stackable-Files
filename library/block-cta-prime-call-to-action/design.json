@@ -1,0 +1,29 @@
+{
+    "id": "block-cta-prime-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "Get the Most Out of This",
+        "titleTag": "h2",
+        "titleColor": "#ffffff",
+        "description": "",
+        "showDescription": false,
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Inter",
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonSize": "small",
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "var(--stk-global-color-9498, #0693e3)",
+        "buttonHoverEffect": "lift",
+        "buttonBorderRadius": 100,
+        "blockHeight": 450,
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundBackgroundMediaId": 56,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-prime-call-to-action/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 8
+    }
+}

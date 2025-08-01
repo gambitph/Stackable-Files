@@ -1,0 +1,30 @@
+{
+    "id": "block-blog-posts-elevate-blog-post",
+    "name": "ugb/blog-posts",
+    "attributes": {
+        "design": "list",
+        "numberOfItems": 4,
+        "showImage": false,
+        "showCategory": false,
+        "titleColor": "#313131",
+        "excerptLength": 30,
+        "metaFontFamily": "Lato",
+        "metaColor": "#9d9d9d",
+        "readmoreFontFamily": "Lato",
+        "readmoreColor": "var(--stk-global-color-88711, #313131)",
+        "readmoreHoverColor": "#989898",
+        "paddingTop": 5,
+        "paddingBottom": 5,
+        "paddingUnit": "%",
+        "tabletBlockWidth": 80,
+        "mobileBlockWidth": 90,
+        "tabletBlockWidthUnit": "%",
+        "mobileBlockWidthUnit": "%",
+        "align": "wide",
+        "blockTitle": "",
+        "blockTitleAlign": "left",
+        "blockTitleColor": "var(--stk-global-color-88711, #313131)",
+        "blockTitleTag": "h3",
+        "blockDescription": ""
+    }
+}

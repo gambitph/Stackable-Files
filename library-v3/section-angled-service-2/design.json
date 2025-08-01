@@ -1,0 +1,162 @@
+{
+    "id": "section-angled-service-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "ba7e1a3",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f40f5f5",
+                "contentAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5ffb374",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "text": "The Design Process"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "628fcfd"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "04ddc5d"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "89de4e3",
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "600",
+                                        "text": "1",
+                                        "shapeBackgroundColor": "#000033",
+                                        "shapeBorderRadius": 0
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "288d74a",
+                                        "fontSize": 24,
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "700",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Programming"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b630ab8",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.\n\n"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "67d8974"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "fe3d704",
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "600",
+                                        "text": "2",
+                                        "shapeBackgroundColor": "#000033",
+                                        "shapeBorderRadius": 0
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0ac0474",
+                                        "fontSize": 24,
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "700",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Designing"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6961bc9",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.\n\n"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6b48de8"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "183e6b1",
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "600",
+                                        "text": "3",
+                                        "shapeBackgroundColor": "#000033",
+                                        "shapeBorderRadius": 0
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0d6a2cc",
+                                        "fontSize": 24,
+                                        "fontFamily": "Poppins",
+                                        "fontWeight": "700",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Development"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b22ee40",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.\n\n"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

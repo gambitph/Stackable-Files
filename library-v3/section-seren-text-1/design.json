@@ -1,0 +1,71 @@
+{
+    "id": "section-seren-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4062f14",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d5d2ee1"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "e965493",
+                        "fontFamily": "Manrope",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Our Story"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a139d51"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "bd80f0d",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "162cf91"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e22c9d2",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

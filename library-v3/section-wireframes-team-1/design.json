@@ -1,0 +1,247 @@
+{
+    "id": "section-wireframes-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "08ba77d",
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8f71acf",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "82b150a",
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5996387",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fed342e",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "d3da6c5",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "text": "Subtitle for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d830350",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tristique tincidunt. Donec dignissim metus leo, id faucibus ligula consequat eget. Maecenas a elementum lorem, ut fermentum mi. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f291416",
+                "columnSpacing": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9b3ba30",
+                        "columnGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4c41823",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "bc8e2ab",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "5a50a02",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-1/ff3702460345.png",
+                                                "imageId": 1312,
+                                                "imageWidthAttribute": 250,
+                                                "imageHeightAttribute": 300,
+                                                "imageHeight": 300,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "39bf315",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "9444819",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "0a0b9b5",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-1/ff3702460345.png",
+                                                "imageId": 1312,
+                                                "imageWidthAttribute": 250,
+                                                "imageHeightAttribute": 300,
+                                                "imageHeight": 300,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d3a5d4c",
+                        "columnGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5b7ede3",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "039fd16",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "5cb8af0",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-1/ff3702460345.png",
+                                                "imageId": 1312,
+                                                "imageWidthAttribute": 250,
+                                                "imageHeightAttribute": 300,
+                                                "imageHeight": 300,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3f8a624",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/team-member",
+                                    {
+                                        "uniqueId": "fe4adbe",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "40fd3b2",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-team-1/ff3702460345.png",
+                                                "imageId": 1312,
+                                                "imageWidthAttribute": 250,
+                                                "imageHeightAttribute": 300,
+                                                "imageHeight": 300,
+                                                "imageWidth": 100
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "section-hue-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "caf13e5",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#0522ff",
+        "blockBackgroundColor2": "#00d7ff",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-hero-1/0d9c29e0aed9.jpg",
+        "blockBackgroundGradientBlendMode": "exclusion",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "slant-1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "c602075",
+                "fontFamily": "Karla",
+                "fontWeight": "bold",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Reach the Top",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "c2b441d",
+                "blockWidth": 500,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "ef711f2"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "4876a60",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#00e0ff",
+                        "fontSize": 18,
+                        "fontFamily": "Inconsolata",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

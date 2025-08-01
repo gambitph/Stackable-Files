@@ -1,0 +1,128 @@
+{
+    "id": "section-wireframes-testimonial-5",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cd47256",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 48,
+        "rowGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bd6b58c",
+                "containerVerticalAlign": "center",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 96.9,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "f628e27",
+                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"quote-right\" class=\"svg-inline--fa fa-quote-right fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z\"></path></svg>",
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "672f052",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac suscipit risus. Curabitur egestas consequat urna a vulputate. Ut egestas sed nisi nec egestas. In non turpis mi. Cras a lorem ut libero venenatis gravida ac nec libero. Quisque vel vehicula lectus, ac vestibulum ex. Praesent a venenatis est.",
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "446cac4",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Name",
+                        "textTag": "h4",
+                        "contentAlignTablet": "center",
+                        "anchor": "name"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "dff05b3",
+                        "text": "Subtitle",
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "ebf8362",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-5/2939a3c5ed4d.png",
+                        "imageId": 1233,
+                        "imageWidthAttribute": 282,
+                        "imageHeightAttribute": 300,
+                        "imageHeight": 80,
+                        "imageWidth": 30,
+                        "contentAlign": "left",
+                        "imageWidthMobile": 70,
+                        "contentAlignTablet": "center"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a15ad8c",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 100,
+                "columnAdjacentCountTablet": 1
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "b011e5f",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-5/71e0c4bfb3a1.png",
+                        "imageId": 1306,
+                        "imageWidthAttribute": 500,
+                        "imageHeightAttribute": 600,
+                        "imageHeight": 450
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

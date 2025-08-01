@@ -1,0 +1,195 @@
+{
+    "id": "section-curious-call-to-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "60304c7",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fee6a8",
+        "blockMargin": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "blockPaddingMobile": {
+            "top": 24,
+            "right": "",
+            "bottom": 24,
+            "left": ""
+        },
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "058f387"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "b54debd",
+                        "columnGap": 120
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b6a7d9b"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "36e7662",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-feature-2/d9ce0c42dafc.png",
+                                        "imageId": 691,
+                                        "imageWidthAttribute": 976,
+                                        "imageHeightAttribute": 878
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7054946",
+                                "containerBackgroundColor": "transparent"
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "0fda98d"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "dd7dc75",
+                                                "hasContainer": true,
+                                                "containerBackgroundColor": "transparent",
+                                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-feature-2/985928861f42.png",
+                                                "containerShadow": "none"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "b822fc3",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-feature-2/6e994494c856.png",
+                                                        "imageId": 673,
+                                                        "imageWidthAttribute": 592,
+                                                        "imageHeightAttribute": 380,
+                                                        "positionNum": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": -40,
+                                                            "left": ""
+                                                        }
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "31a87cc",
+                        "columnGap": 120
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "427b62d"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "69321fd",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "ABOUT ME"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "d6852e3",
+                                        "textRemoveTextMargins": true,
+                                        "text": "<strong>About Heidi</strong>",
+                                        "textTag": "h1",
+                                        "fontSizeMobile": 28,
+                                        "anchor": "strong-about-heidi-strong"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "e1938f8"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "aa7b4e5",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#ffffff",
+                                                "buttonBorderType": "solid",
+                                                "buttonBorderColor": "#000000",
+                                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                                "iconColor1": "#000000",
+                                                "iconPosition": "right",
+                                                "textColorClass": "has-foreground-color",
+                                                "textColor1": "#000000",
+                                                "text": "Download My Resume"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5ebcdb6"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f451b51",
+                                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.",
+                                        "fontSizeMobile": 16
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

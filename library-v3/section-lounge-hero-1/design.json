@@ -1,0 +1,61 @@
+{
+    "id": "section-lounge-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "acddeb3",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-hero-1/5ef616adb83b.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "containerWidth": 800,
+        "containerHorizontalAlign": "flex-end",
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "941adfe",
+                "fontSize": 64,
+                "fontFamily": "Playfair Display",
+                "fontWeight": "bold",
+                "textColor1": "#393f59",
+                "text": "Title for This Block",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "58b43b8",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "90ffcbb"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "440a38c",
+                        "buttonBackgroundColor": "#d2b18e",
+                        "fontSize": 18,
+                        "fontFamily": "Serif",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

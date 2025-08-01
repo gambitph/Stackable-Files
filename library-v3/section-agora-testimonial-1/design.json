@@ -1,0 +1,112 @@
+{
+    "id": "section-agora-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "69ab5a8",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fff7f0",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b486185"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "fb20794",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-testimonial-1/0e5f580f1445.jpg",
+                        "imageId": 1054,
+                        "imageWidthAttribute": 1707,
+                        "imageHeightAttribute": 2560,
+                        "imageBorderRadius": 50,
+                        "imageHeight": 100,
+                        "imageWidth": 100,
+                        "effectType": "entrance",
+                        "effectEntrance": "translateX(48px)",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/blockquote",
+                    {
+                        "uniqueId": "c7d6dae",
+                        "effectType": "entrance",
+                        "effectEntrance": "translateX(48px)",
+                        "blockMarginTablet": {
+                            "top": "",
+                            "right": 0,
+                            "bottom": "",
+                            "left": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/icon",
+                            {
+                                "uniqueId": "913c95c",
+                                "position": "absolute",
+                                "positionNum": {
+                                    "top": 50,
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 50
+                                },
+                                "transform": "translateX(-50px) translateY(-50px)",
+                                "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 50 50\"><path d=\"M14.7 45.9H0V31.3C0 17.6 8.6 6.6 21.6 4.1v4.7c-10 2.6-16.7 10.9-16.7 22.6h9.8v14.5zm28.1 0H28.4V31.3C28.4 17.6 37 6.6 50 4.1v4.7c-9.8 2.6-16.7 10.9-16.7 22.6h9.5v14.5z\"></path></svg>",
+                                "iconColor1": "#c88445",
+                                "iconOpacity": 0.2,
+                                "iconSize": 80,
+                                "positionNumUnit": "%"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "c26a814",
+                                "customAttributes": [],
+                                "contentAlign": "center",
+                                "fontSize": 40,
+                                "fontFamily": "Prata",
+                                "fontWeight": "500",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "fontSizeMobile": 24
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5b393bd",
+                        "effectType": "entrance",
+                        "effectEntrance": "translateX(48px)",
+                        "contentAlign": "center",
+                        "fontFamily": "Space Mono",
+                        "text": "Marsha Hollisberg"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

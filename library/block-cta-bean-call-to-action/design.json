@@ -1,0 +1,28 @@
+{
+    "id": "block-cta-bean-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "Purchase a cup of coffee today",
+        "titleColor": "var(--stk-global-color-9213, #ffffff)",
+        "descriptionColor": "var(--stk-global-color-9213, #ffffff)",
+        "buttonFontFamily": "Source Sans Pro",
+        "buttonTextTransform": "uppercase",
+        "buttonLetterSpacing": 0.5,
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonTextColor": "var(--stk-global-color-9213, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-3843, #b79066)",
+        "buttonBorderRadius": 0,
+        "paddingTop": 100,
+        "paddingRight": 35,
+        "paddingBottom": 100,
+        "paddingLeft": 35,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundMediaId": 9,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-bean-call-to-action/block-background-background-media-url.jpg",
+        "contentAlign": "center"
+    }
+}

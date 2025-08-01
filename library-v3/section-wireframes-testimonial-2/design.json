@@ -1,0 +1,566 @@
+{
+    "id": "section-wireframes-testimonial-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "dbecfdd",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "63399bc"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6f24066",
+                        "blockMargin": {
+                            "bottom": 8
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8157f83"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "6a79b08",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "8fc4b41",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "8aa9115",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "43c218c"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "4bdee1d",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-2/10cfc8a67838.png",
+                                                                "imageId": 1309,
+                                                                "imageWidthAttribute": 75,
+                                                                "imageHeightAttribute": 75,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "92bd242",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "286b5e6",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "bc82375",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5512975"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "aafea5c",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "f199df7",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "dde7d11",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "d864a2b"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "ba32471",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-2/10cfc8a67838.png",
+                                                                "imageId": 1309,
+                                                                "imageWidthAttribute": 75,
+                                                                "imageHeightAttribute": 75,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "1393425",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "9d83f84",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "8642624",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "befee4e"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "915e631",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "e31fd43",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "f9c4187",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "ca83e18"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "9cef62e",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-2/10cfc8a67838.png",
+                                                                "imageId": 1309,
+                                                                "imageWidthAttribute": 75,
+                                                                "imageHeightAttribute": 75,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "128362c",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "3c3eb1e",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "ac2f4c5",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5fa1514"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "78ee0e2"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "bb6c371",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "7e0c91a",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "9212c0a",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "8337cb4"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "8c5f798",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-2/10cfc8a67838.png",
+                                                                "imageId": 1309,
+                                                                "imageWidthAttribute": 75,
+                                                                "imageHeightAttribute": 75,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "55e5299",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "e250848",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "17e07c3",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6b91a74"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "0e3546f",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "cf433ec",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "074c3f6",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "fbe13bb"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "67e4c48",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-2/10cfc8a67838.png",
+                                                                "imageId": 1309,
+                                                                "imageWidthAttribute": 75,
+                                                                "imageHeightAttribute": 75,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "80c6774",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "c1de173",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "d20397d",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e15e344"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "120827f",
+                                        "contentAlign": "",
+                                        "className": "is-style-compact"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "506140a",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/columns",
+                                            {
+                                                "uniqueId": "6f0e793",
+                                                "columnFit": true
+                                            },
+                                            [
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "b7f3458"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/image",
+                                                            {
+                                                                "uniqueId": "bf8f243",
+                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-testimonial-2/10cfc8a67838.png",
+                                                                "imageId": 1309,
+                                                                "imageWidthAttribute": 75,
+                                                                "imageHeightAttribute": 75,
+                                                                "imageHeight": 75,
+                                                                "imageWidth": 75,
+                                                                "imageShape": "circle",
+                                                                "imageWidthUnit": "px"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    "stackable/column",
+                                                    {
+                                                        "uniqueId": "5c142b3",
+                                                        "contentAlign": "left"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "uniqueId": "ecd01f6",
+                                                                "blockMargin": {
+                                                                    "bottom": 0
+                                                                },
+                                                                "textRemoveTextMargins": true,
+                                                                "text": "Name",
+                                                                "textTag": "h3"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/subtitle",
+                                                            {
+                                                                "uniqueId": "4f9b192",
+                                                                "text": "Position"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

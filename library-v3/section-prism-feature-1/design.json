@@ -1,0 +1,124 @@
+{
+    "id": "section-prism-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "b3ae607",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "829853b",
+                "columnAlign": "center",
+                "templateLock": "insert",
+                "columnSpacingTablet": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "dbd2c44",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-feature-1/fef51987db7c.png",
+                        "imageId": 3716,
+                        "imageWidthAttribute": 1400,
+                        "imageHeightAttribute": 1656,
+                        "imageHeightMobile": 420
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6c6bd1a",
+                "containerWidth": 594,
+                "columnAlign": "center",
+                "containerWidthTablet": 340,
+                "columnSpacingMobile": {
+                    "top": 24,
+                    "right": 24,
+                    "bottom": 24,
+                    "left": 24
+                }
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "78a3259",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "fontSizeTablet": 25,
+                        "fontSizeMobile": 24,
+                        "lineHeightMobile": 1.4,
+                        "anchor": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "838c8ff",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+                    },
+                    []
+                ],
+                [
+                    "core/block",
+                    {
+                        "ref": 3735
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "1f657c1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "ef09d34",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#8a8a8a",
+                                "buttonBorderWidth": {
+                                    "top": 1,
+                                    "right": 1,
+                                    "bottom": 1,
+                                    "left": 1
+                                },
+                                "buttonBorderRadius": 50,
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fab\" data-icon=\"google-play\" class=\"svg-inline--fa fa-google-play fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z\"></path></svg>",
+                                "iconColor1": "#000000",
+                                "iconSize": 24,
+                                "textColor1": "#000000",
+                                "text": "Play Store"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

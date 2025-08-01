@@ -1,0 +1,30 @@
+{
+    "id": "block-text-decora-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "design": "side-title-2",
+        "columns": 2,
+        "showColumnRule": true,
+        "columnRuleColor": "#6d6d6d",
+        "showTitle": true,
+        "title": "MINIMALISM",
+        "titleTabletFontSize": 25,
+        "subtitle": "",
+        "text1": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Any text will do. Description for this block.",
+        "text2": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. ",
+        "text3": "",
+        "text4": "",
+        "textFontSize": 18,
+        "titleAlign": "right",
+        "paddingRight": 10,
+        "paddingLeft": 10,
+        "paddingUnit": "%",
+        "tabletPaddingUnit": "%",
+        "blockHeightUnit": "vh",
+        "blockWidthUnit": "%",
+        "columnGap": 50,
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#faf4f4",
+        "blockBackgroundBackgroundPosition": "bottom center"
+    }
+}

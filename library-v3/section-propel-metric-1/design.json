@@ -1,0 +1,106 @@
+{
+    "id": "section-propel-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b2b097e",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "79eccd9"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "6f7ff82",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": "5,000+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "827c451",
+                        "contentAlign": "center",
+                        "fontSize": 21,
+                        "fontFamily": "Nunito",
+                        "textTransform": "uppercase",
+                        "text": "Files"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8b820ed"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "6a1e6c7",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": "1,500+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "2e642d5",
+                        "contentAlign": "center",
+                        "fontSize": 21,
+                        "fontFamily": "Nunito",
+                        "textTransform": "uppercase",
+                        "text": "Members"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e183875"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "a824518",
+                        "fontFamily": "Open Sans",
+                        "fontWeight": "600",
+                        "text": "200+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "8972252",
+                        "contentAlign": "center",
+                        "fontSize": 21,
+                        "fontFamily": "Nunito",
+                        "textTransform": "uppercase",
+                        "text": "Publications"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

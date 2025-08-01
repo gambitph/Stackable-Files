@@ -1,0 +1,73 @@
+{
+    "id": "section-dustin-hero-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "f479b6f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#e1861d",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-hero-2/906c3393a68f.jpg",
+        "blockBackgroundImageBlendMode": "screen",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "wave-4",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "8ea5867",
+                "customAttributes": [],
+                "fontSize": 64,
+                "fontFamily": "Lato",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "This is a Hero Block",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "7028bf9",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "d532aae"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "4ddc574",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

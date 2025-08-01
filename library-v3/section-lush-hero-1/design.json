@@ -1,0 +1,75 @@
+{
+    "id": "section-lush-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "225fceb",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-hero-1/105ca954dce0.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "right",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "wave-3",
+        "bottomSeparatorFlipHorizontally": true,
+        "bottomSeparatorLayer2Show": true,
+        "bottomSeparatorLayer2Color": "#66826b",
+        "bottomSeparatorLayer2Opacity": 0.1,
+        "bottomSeparatorLayer3Show": true,
+        "bottomSeparatorLayer3Color": "#66826b",
+        "bottomSeparatorLayer3Opacity": 0.2,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "d06ce45",
+                "blockWidth": 400,
+                "blockHorizontalAlign": "flex-end",
+                "fontSize": 64,
+                "fontFamily": "Lora",
+                "textColor1": "#66826b",
+                "text": "Commitment to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "d7fac4c",
+                "blockWidth": 400,
+                "blockHorizontalAlign": "flex-end",
+                "text": "Description for this block. Use this space for describing your block. Any text will do."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "1c1e420"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "3b7055d",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#be9743",
+                        "fontSize": 18,
+                        "fontFamily": "Alice",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

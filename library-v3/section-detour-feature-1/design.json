@@ -1,0 +1,87 @@
+{
+    "id": "section-detour-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "7ea6313",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5d00513",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "a0de29c",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-feature-1/886c150e70e2.jpg",
+                        "imageId": 1668,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 800,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a6bbbc9",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c52ce21",
+                        "fontFamily": "Oswald",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "text": "Explore New Places"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "570baef",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "5cb9f5d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "4e4831c",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "text": "Book Now"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

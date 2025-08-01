@@ -1,0 +1,68 @@
+{
+    "id": "section-proact-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "5a6bd6a",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#4c548a",
+        "blockBackgroundColor2": "#dd3334",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-call-to-action-1/4ce17e909078.jpg",
+        "blockBackgroundPosition": "top left",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "curve-1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "d42febc",
+                "fontSize": 64,
+                "fontFamily": "Poppins",
+                "fontWeight": "600",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Be Great. Always.",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "897b86d"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "6866f0b",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ed5f47",
+                        "buttonBorderRadius": 8,
+                        "fontSize": 18,
+                        "fontFamily": "Rubik",
+                        "text": "Contact Us"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

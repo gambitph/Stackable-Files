@@ -1,0 +1,69 @@
+{
+    "id": "section-dustin-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "d8b508e",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-hero-1/9c7e3c6793d4.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "containerBackgroundColor": "#ffbe75",
+        "containerWidth": 800,
+        "containerHorizontalAlign": "flex-start",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "3aa56ec",
+                "fontSize": 64,
+                "fontFamily": "Lato",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "The Great Experience Begins",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "31fe235",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "76932e8"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "5dc84b9",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

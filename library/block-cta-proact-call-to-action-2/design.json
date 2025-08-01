@@ -1,0 +1,19 @@
+{
+    "id": "block-cta-proact-call-to-action-2",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "Call to Action",
+        "titleTag": "h2",
+        "titleColor": "var(--stk-global-color-36508, #ed5f47)",
+        "buttonFontFamily": "Rubik",
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonBackgroundColorType": "gradient",
+        "buttonBackgroundColor": "var(--stk-global-color-29281, #4c548a)",
+        "buttonBackgroundColor2": "var(--stk-global-color-34069, #dd3334)",
+        "buttonBackgroundGradientDirection": 140,
+        "columnPaddingTop": 140,
+        "columnPaddingBottom": 140
+    }
+}

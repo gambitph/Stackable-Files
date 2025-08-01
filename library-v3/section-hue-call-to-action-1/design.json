@@ -1,0 +1,102 @@
+{
+    "id": "section-hue-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "71faea0",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#ff5acd",
+        "blockBackgroundColor2": "#0800ff",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-hue-call-to-action-1/14508ebd5723.jpg",
+        "blockBackgroundImageBlendMode": "overlay",
+        "blockBackgroundTintStrength": 8,
+        "blockFixedBackground": true,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "72fc0a7"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "6faffa8",
+                        "contentAlign": "right"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "fdea06f",
+                                "fontFamily": "Karla",
+                                "fontWeight": "bold",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Call to Action Block",
+                                "textTag": "h1"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "9ac2fde",
+                        "contentAlign": "left"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "c7467c8",
+                                "blockMargin": {
+                                    "bottom": ""
+                                },
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "cafc7e3"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "73e3681",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#00e0ff",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inconsolata",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Button Text"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "id": "section-chic-team-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d1ac22a",
+        "blockWidth": 800,
+        "blockHorizontalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b2495e4"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "17884a3",
+                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                        "containerPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "contentAlign": "",
+                        "className": "is-style-vertical"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "692b7a4",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#FFFFFF",
+                                "blockMargin": {
+                                    "bottom": 0
+                                },
+                                "blockPadding": {
+                                    "top": 32,
+                                    "right": 32,
+                                    "bottom": 32,
+                                    "left": 32
+                                },
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\tposition: absolute;\n\twidth: 16px;\n\theight: 16px;\n\tbottom: -8px;\n\tbackground: inherit;\n\ttransform: rotate(45deg);\n\tright: 64px;\n}",
+                                "customCSSMinified": ".stk-692b7a4.stk-block-text::after{content:\"\" !important;position:absolute !important;width:16px !important;height:16px !important;bottom:-8px !important;background:inherit !important;transform:rotate(45deg) !important;right:64px !important}",
+                                "zIndex": 2,
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image-box",
+                            {
+                                "uniqueId": "907d2aa",
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "54971a8",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-team-1/1c2a9f16b0dd.jpg",
+                                        "imageId": 1600,
+                                        "imageWidthAttribute": 1200,
+                                        "imageHeightAttribute": 800,
+                                        "imageHeight": 250
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2c6a8a6",
+                                        "containerPadding": {
+                                            "top": 32,
+                                            "right": 32,
+                                            "bottom": 32,
+                                            "left": 32
+                                        },
+                                        "contentAlign": "left",
+                                        "columnAlign": "flex-end"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "55cfef7",
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Trixie Bella",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "486291b",
+                                                "opacity": 0,
+                                                "transform": "translateY(-24px)",
+                                                "fontSize": 16,
+                                                "fontFamily": "Roboto",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Position",
+                                                "opacityParentHover": 1,
+                                                "transformParentHover": "translateY(0px)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d6fa9fb"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "9e86f24",
+                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                        "containerPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "contentAlign": "",
+                        "className": "is-style-vertical"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "fb32ff7",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#FFFFFF",
+                                "blockMargin": {
+                                    "bottom": 0
+                                },
+                                "blockPadding": {
+                                    "top": 32,
+                                    "right": 32,
+                                    "bottom": 32,
+                                    "left": 32
+                                },
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\tposition: absolute;\n\twidth: 16px;\n\theight: 16px;\n\tbottom: -8px;\n\tbackground: inherit;\n\ttransform: rotate(45deg);\n\tright: 64px;\n}",
+                                "customCSSMinified": ".stk-fb32ff7.stk-block-text::after{content:\"\" !important;position:absolute !important;width:16px !important;height:16px !important;bottom:-8px !important;background:inherit !important;transform:rotate(45deg) !important;right:64px !important}",
+                                "zIndex": 2,
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image-box",
+                            {
+                                "uniqueId": "28b6c08",
+                                "className": "is-style-basic"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "bbf5282",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-team-1/dde6dbdea8ac.jpg",
+                                        "imageId": 1601,
+                                        "imageWidthAttribute": 1200,
+                                        "imageHeightAttribute": 800,
+                                        "imageHeight": 250
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "400a08e",
+                                        "containerPadding": {
+                                            "top": 32,
+                                            "right": 32,
+                                            "bottom": 32,
+                                            "left": 32
+                                        },
+                                        "contentAlign": "left",
+                                        "columnAlign": "flex-end"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "206c860",
+                                                "fontSize": 32,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Denise Malone",
+                                                "textTag": "h4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "b0519e0",
+                                                "opacity": 0,
+                                                "transform": "translateY(-24px)",
+                                                "fontSize": 16,
+                                                "fontFamily": "Roboto",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Position",
+                                                "opacityParentHover": 1,
+                                                "transformParentHover": "translateY(0px)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

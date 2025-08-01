@@ -1,0 +1,69 @@
+{
+    "id": "section-devour-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "e8d9319",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-hero-1/a8aab62d2ae1.jpg",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "e9dc8d0",
+                "fontSize": 64,
+                "fontFamily": "Cherry Swash",
+                "fontWeight": "bold",
+                "textColor1": "#ffce46",
+                "text": "Comfort in a Bowl."
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "8dbc472",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "726bfa5"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "fb2d4c3",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ffce46",
+                        "buttonBorderRadius": 50,
+                        "fontFamily": "Karla",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "View Our Menu"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

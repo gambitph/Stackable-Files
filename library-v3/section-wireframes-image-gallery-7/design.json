@@ -1,0 +1,354 @@
+{
+    "id": "section-wireframes-image-gallery-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e336c91",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "565c12e"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "579ed2d",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f8b48f3",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ec1c0f5",
+                        "blockMargin": {
+                            "bottom": 0
+                        },
+                        "rowAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9d2701e",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "36efbfb",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "c09059e",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 1",
+                                        "textTag": "h5",
+                                        "anchor": "image-1"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b855a49"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d0f4fd5",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeight": 250
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "64ee81a",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 2",
+                                        "textTag": "h5",
+                                        "anchor": "image-2"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7bd6663",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "effedb1",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "643957b",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 3",
+                                        "textTag": "h5",
+                                        "anchor": "image-3"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6bc8538"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "42cd839",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeight": 250
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "68a5cab",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 4",
+                                        "textTag": "h5",
+                                        "anchor": "image-4"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "cf4c804",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "rowAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "485216c",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "136561e",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeight": 250
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "2552492",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 5",
+                                        "textTag": "h5",
+                                        "anchor": "image-5"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9a88076",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "43f3368",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b608700",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 6",
+                                        "textTag": "h5",
+                                        "anchor": "image-6"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "cfbb24e",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "1ee5ee3",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeight": 250
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3f7dcf8",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 7",
+                                        "textTag": "h5",
+                                        "anchor": "image-7"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c0eddb1",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "01fc830",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-7/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "74841ec",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 8",
+                                        "textTag": "h5",
+                                        "anchor": "image-8"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

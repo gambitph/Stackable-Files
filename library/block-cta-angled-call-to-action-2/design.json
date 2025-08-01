@@ -1,0 +1,27 @@
+{
+    "id": "block-cta-angled-call-to-action-2",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "THE GREAT EXPERIENCE AWAITS",
+        "titleTag": "h2",
+        "description": "",
+        "showDescription": false,
+        "descriptionColor": "#313131",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Sign up",
+        "buttonNewTab": false,
+        "buttonTextColor": "#ffffff",
+        "buttonBackgroundColor": "#eb5757",
+        "buttonBorderRadius": 0,
+        "paddingUnit": "%",
+        "blockHeight": 45,
+        "blockHeightUnit": "vh",
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundMediaId": 28,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-angled-call-to-action-2/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundPosition": "bottom center"
+    }
+}

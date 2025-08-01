@@ -1,0 +1,234 @@
+{
+    "id": "section-wireframes-image-gallery-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f86cfeb",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4a4778e",
+                "containerVerticalAlign": "center",
+                "columnWidth": 45,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "1006f04",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "db896b4",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "cb4d166",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc bibendum quam elit, sit amet fringilla massa dictum quis. Aliquam vitae auctor orci. Mauris in lobortis sapien, vel sollicitudin eros."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bfcdbd7",
+                "columnWidth": 55,
+                "columnAdjacentCount": 2
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "0873144",
+                        "blockMargin": {
+                            "bottom": 8
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "888f770",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-2/ff3702460345.png",
+                                "containerShadow": "none",
+                                "containerHeight": 300,
+                                "containerVerticalAlign": "flex-end"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "4cf1a26",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "6bbffcc",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5d72e8e",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-2/ff3702460345.png",
+                                "containerShadow": "none",
+                                "containerHeight": 300,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "aad6921",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "f26e26f",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "53e836f"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b73cffa",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-2/ff3702460345.png",
+                                "containerShadow": "none",
+                                "containerHeight": 300,
+                                "containerVerticalAlign": "flex-end"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "f613a41",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "ec9d0d5",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e5f6bef",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-2/ff3702460345.png",
+                                "containerShadow": "none",
+                                "containerHeight": 300,
+                                "containerVerticalAlign": "flex-end",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "0962740",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Image 4",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "9f8cfc5",
+                                        "contentAlign": "center",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

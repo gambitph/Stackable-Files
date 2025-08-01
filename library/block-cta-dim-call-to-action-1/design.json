@@ -1,0 +1,32 @@
+{
+    "id": "block-cta-dim-call-to-action-1",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "Minimalist Movement",
+        "titleTag": "h2",
+        "titleColor": "#ffffff",
+        "description": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do.",
+        "descriptionColor": "var(--stk-global-color-48343, #ffffff)",
+        "buttonFontFamily": "Roboto",
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonDesign": "basic",
+        "buttonSize": "small",
+        "buttonBackgroundColor": "#ffffff",
+        "buttonBorderRadius": 0,
+        "blockHeight": 95,
+        "blockHeightUnit": "vh",
+        "blockWidth": 45,
+        "mobileBlockWidth": 90,
+        "blockWidthUnit": "%",
+        "mobileBlockWidthUnit": "%",
+        "blockHorizontalAlign": "flex-end",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundMediaId": 27,
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-dim-call-to-action-1/block-background-background-media-url.jpg",
+        "contentAlign": "right"
+    }
+}

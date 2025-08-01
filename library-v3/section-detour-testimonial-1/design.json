@@ -1,0 +1,112 @@
+{
+    "id": "section-detour-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "37355a0",
+        "hasBackground": true,
+        "blockBackgroundColor": "#313131",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "36dd49a"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8b74912",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Oswald",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#eb5757",
+                        "text": "Hear From Our Customers",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "555e09e",
+                        "height": 24
+                    },
+                    []
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "6ffd83e",
+                        "hasContainer": false,
+                        "contentAlign": "left",
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "607de0d",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "3238192",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-testimonial-1/980d44fcf0a8.jpg",
+                                "imageId": 2009,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "5f8d64d",
+                                "customAttributes": [],
+                                "fontFamily": "Oswald",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "bd588c6",
+                                "customAttributes": [],
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

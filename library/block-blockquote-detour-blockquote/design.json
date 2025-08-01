@@ -1,0 +1,23 @@
+{
+    "id": "block-blockquote-detour-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "quoteIcon": "square",
+        "quoteOpacity": 0.3,
+        "quoteColor": "var(--stk-global-color-332, #313131)",
+        "quoteSize": 150,
+        "quoteY": 19,
+        "text": "This is a Blockquote Block. You can use this unique block to feature great lines from great people. You can also use this great block to highlight notable parts of your post or page. Go on, feature the best here.",
+        "textFontFamily": "Poppins",
+        "textAlign": "left",
+        "paddingTop": 80,
+        "paddingBottom": 80,
+        "tabletBlockWidth": 80,
+        "tabletBlockWidthUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#ffffff",
+        "showBottomSeparator": false
+    }
+}

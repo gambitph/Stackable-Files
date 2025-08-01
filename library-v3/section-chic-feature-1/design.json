@@ -1,0 +1,94 @@
+{
+    "id": "section-chic-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "72c1a24",
+        "customAttributes": [],
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2f2a25e",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "2d1e3a1",
+                        "fontSize": 56,
+                        "fontFamily": "DM Serif Display",
+                        "textColorType": "gradient",
+                        "textColor1": "#f28e18",
+                        "textColor2": "#ffa1df",
+                        "text": "Feature Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e22fdc1",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4ffe69a"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "b31ead0",
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#f28e18",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 16,
+                                "fontFamily": "Roboto",
+                                "textTransform": "uppercase",
+                                "text": "Learn More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6d289da",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "65d8f40",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-feature-1/a04b846c7e08.jpg",
+                        "imageId": 1596,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1280,
+                        "imageHeight": 600,
+                        "imageShape": "blob9"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

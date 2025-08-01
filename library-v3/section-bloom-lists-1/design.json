@@ -1,0 +1,189 @@
+{
+    "id": "section-bloom-lists-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b6ea00c",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-lists-1/3d2b4c839cb1.png",
+        "blockPadding": {
+            "top": 64,
+            "right": "",
+            "bottom": 64,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "blockPaddingTablet": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "blockPaddingMobile": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9c5901d",
+                "blockPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "hasContainer": true,
+                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                "containerPadding": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockPaddingMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3adedd0",
+                        "blockPadding": {
+                            "top": 64,
+                            "right": 64,
+                            "bottom": 64,
+                            "left": 64
+                        },
+                        "columnGap": 48,
+                        "blockPaddingTablet": {
+                            "top": 32,
+                            "right": 32,
+                            "bottom": 32,
+                            "left": 32
+                        },
+                        "blockPaddingMobile": {
+                            "top": 8,
+                            "right": 8,
+                            "bottom": 8,
+                            "left": 8
+                        },
+                        "rowGapTablet": 48
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5ffe0e0",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "40d2cff",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 64,
+                                        "fontFamily": "Courgette",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Our Branches",
+                                        "fontSizeMobile": 40
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0764f7f",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis arcu et nisl vehicula, vitae congue quam euismod. Class aptent taciti sociosqu ad litora torquent."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "ecb36b4"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "18ab5e3",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#b9d55f",
+                                                "fontSize": 18,
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "500",
+                                                "textColor1": "#14504c",
+                                                "text": "Book Appointment"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "48c0983",
+                                "containerVerticalAlign": "center",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/icon-list",
+                                    {
+                                        "uniqueId": "34f1fa7",
+                                        "text": "<li>Branch Address #1</li><li>Branch Address #2</li><li>Branch Address #3</li><li>Branch Address #4</li><li>Branch Address #5</li><li>Branch Address #6</li><li>Branch Address #7</li><li>Branch Address #8</li><li>Branch Address #9</li><li>Branch Address #10</li>",
+                                        "columns": 2,
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"map-marker-alt\" class=\"svg-inline--fa fa-map-marker-alt fa-w-12\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path fill=\"currentColor\" d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z\"></path></svg>",
+                                        "markerColor": "var(--stk-global-color-34722, #b9d55f)",
+                                        "columnsMobile": 1
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

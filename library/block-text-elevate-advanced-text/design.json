@@ -1,0 +1,22 @@
+{
+    "id": "block-text-elevate-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "design": "side-title-1",
+        "columns": 2,
+        "showColumnRule": true,
+        "columnRuleColor": "#f3f3f3",
+        "showTitle": true,
+        "titleTag": "h3",
+        "title": "Make the Switch",
+        "titleColor": "var(--stk-global-color-88711, #313131)",
+        "subtitle": "",
+        "text3": "",
+        "text4": "",
+        "textColor": "var(--stk-global-color-88711, #313131)",
+        "paddingTop": 5,
+        "paddingBottom": 5,
+        "paddingUnit": "%",
+        "align": "wide"
+    }
+}

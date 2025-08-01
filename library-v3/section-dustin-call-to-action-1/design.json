@@ -1,0 +1,70 @@
+{
+    "id": "section-dustin-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "1c2860e",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ffbe75",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dustin-call-to-action-1/d14a540188de.jpg",
+        "blockBackgroundImageBlendMode": "darken",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "bc81baa",
+                "fontSize": 64,
+                "fontFamily": "Lato",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Make Sure You are Ahead of the Curve",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "b2e21a8",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "c0e6c56"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "62295e0",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Merriweather",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

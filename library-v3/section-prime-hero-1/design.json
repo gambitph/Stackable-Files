@@ -1,0 +1,69 @@
+{
+    "id": "section-prime-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "e27e6b4",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-hero-1/c4d44a03908f.jpg",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "0e565a0",
+                "fontSize": 64,
+                "fontFamily": "Inter",
+                "fontWeight": "200",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Commitment to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "99b8ab9",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "37913da"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "c3452e8",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#0693e3",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

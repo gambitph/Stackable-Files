@@ -1,0 +1,199 @@
+{
+    "id": "section-cary-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d5ebb50",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f052d94",
+                "hasContainer": true,
+                "containerBackgroundColor": "#000000",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-image-gallery-1/a8503ee4c2b8.jpeg",
+                "containerBackgroundPosition": "top center",
+                "containerBackgroundTintStrength": 3,
+                "containerHeight": 700,
+                "containerVerticalAlign": "flex-end",
+                "containerBackgroundTintStrengthHover": 6
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "1421e45",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5f8d86b",
+                        "fontSize": 32,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "84fad9f",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "18b8fb6",
+                "hasContainer": true,
+                "containerBackgroundColor": "#000000",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-image-gallery-1/6f3e6196a335.jpeg",
+                "containerBackgroundPosition": "top center",
+                "containerBackgroundTintStrength": 3,
+                "containerHeight": 700,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "containerBackgroundTintStrengthHover": 6
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "0f9ae63",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "05635de",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "46d0db8",
+                        "customAttributes": [],
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1272d61",
+                "hasContainer": true,
+                "containerBackgroundColor": "#000000",
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-image-gallery-1/2ec252e0e9e0.jpeg",
+                "containerBackgroundPosition": "top center",
+                "containerBackgroundTintStrength": 3,
+                "containerHeight": 700,
+                "containerVerticalAlign": "flex-end",
+                "customAttributes": [],
+                "containerBackgroundTintStrengthHover": 6
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "58f66e7",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 0,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Subtitle"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b659cbd",
+                        "customAttributes": [],
+                        "fontSize": 32,
+                        "fontFamily": "Roboto",
+                        "fontWeight": "300",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image Box 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7a6f85d",
+                        "customAttributes": [],
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

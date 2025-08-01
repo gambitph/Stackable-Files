@@ -1,0 +1,166 @@
+{
+    "id": "section-arch-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "da81380",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#006ba1",
+        "blockBackgroundColor2": "#7bdcb5",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "11c2a42"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "e07e2ea",
+                        "fontFamily": "Lato",
+                        "fontWeight": "400",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Our Metrics",
+                        "showTopLine": true,
+                        "topLineColor": "#FFFFFF"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5428574",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "24ee0b8",
+                        "columnGap": 40
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f0b5d0d",
+                                "columnSpacing": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "cb55af5",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "$1000"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "55015df",
+                                        "fontSize": 16,
+                                        "fontFamily": "Lato",
+                                        "fontStyle": "italic",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for this Block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e8ea8fe"
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "b2aab7c",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "300+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "28fad25",
+                                        "fontSize": 16,
+                                        "fontFamily": "Lato",
+                                        "fontStyle": "italic",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for this Block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c7805fb"
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "69f96bb",
+                                        "fontFamily": "Lato",
+                                        "fontWeight": "700",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "75%"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "b325237",
+                                        "fontSize": 16,
+                                        "fontFamily": "Lato",
+                                        "fontStyle": "italic",
+                                        "textTransform": "uppercase",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Subtitle for this Block"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

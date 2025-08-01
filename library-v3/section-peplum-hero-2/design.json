@@ -1,0 +1,83 @@
+{
+    "id": "section-peplum-hero-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "2078400",
+        "hasBackground": true,
+        "blockBackgroundColor": "#b27197",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-hero-2/e2ee9da18f2b.jpg",
+        "blockBackgroundImageBlendMode": "overlay",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "hasContainer": false,
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "slant-1",
+        "topSeparatorColor": "#ffeff1",
+        "topSeparatorShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)",
+        "topSeparatorInverted": true,
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "slant-1",
+        "bottomSeparatorColor": "#ffeff1",
+        "bottomSeparatorShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "466ee88",
+                "fontSize": 72,
+                "fontFamily": "Yeseva One",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Special Edition",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "220ac9c",
+                "blockWidth": 600,
+                "blockHorizontalAlign": "center",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "142ce30"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "5c80d34",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#000000",
+                        "fontSize": 16,
+                        "fontFamily": "Josefin Sans",
+                        "textTransform": "uppercase",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "block-card-aurora-card",
+    "name": "ugb/card",
+    "attributes": {
+        "design": "full",
+        "borderRadius": 0,
+        "shadow": 7,
+        "image1Id": 64,
+        "image2Id": 75,
+        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-card-aurora-card/image-1-url.jpg",
+        "image2Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-card-aurora-card/image-2-url.jpg",
+        "title3": "",
+        "subtitle3": "",
+        "description3": "",
+        "buttonFontFamily": "Poppins",
+        "buttonFontSize": 18,
+        "buttonBackgroundColor": "#ffffff",
+        "buttonBorderRadius": 0,
+        "button1NewTab": false,
+        "button2NewTab": false,
+        "button3Text": "",
+        "button3NewTab": false,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "showBlockTitle": true,
+        "showBlockDescription": true
+    }
+}

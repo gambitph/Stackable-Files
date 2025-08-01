@@ -1,0 +1,437 @@
+{
+    "id": "section-wireframes-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c2612ce",
+        "blockPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "cfdf04b"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "fa5f014",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "customAttributes": [],
+                        "contentAlign": "center",
+                        "text": "Subtitle for this section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "2e2bf6a",
+                        "customAttributes": [],
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3cd92d6"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "88720d3",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "40b9e4c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-pricing-1/04fb51764f9e.png",
+                                        "imageId": 1235,
+                                        "imageWidthAttribute": 282,
+                                        "imageHeightAttribute": 300,
+                                        "imageHeight": 400
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "9477ecd",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Product 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "a6d201a",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "465cfb4",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "9a25e54",
+                                                "htmlTag": "span",
+                                                "text": "99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "281ec44",
+                                                "htmlTag": "span",
+                                                "text": ".00",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "5263925",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "280bcd7",
+                                                "buttonBackgroundColor": "transparent",
+                                                "buttonBorderType": "solid",
+                                                "text": "Button Text",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-ghost"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b41968b",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "976adf8",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-pricing-1/04fb51764f9e.png",
+                                        "imageId": 1235,
+                                        "imageWidthAttribute": 282,
+                                        "imageHeightAttribute": 300,
+                                        "imageHeight": 400
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "16e1f2d",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Product 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "8f764ba",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "0915c96",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "48995ee",
+                                                "htmlTag": "span",
+                                                "text": "99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "ba6c5f6",
+                                                "htmlTag": "span",
+                                                "text": ".00",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "c7558db",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "6a6b9cc",
+                                                "buttonBackgroundColor": "transparent",
+                                                "buttonBorderType": "solid",
+                                                "text": "Button Text",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-ghost"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c333be1",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "84d5de2",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-pricing-1/04fb51764f9e.png",
+                                        "imageId": 1235,
+                                        "imageWidthAttribute": 282,
+                                        "imageHeightAttribute": 300,
+                                        "imageHeight": 400
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "0a1c49c",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Product 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "18887a2",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "799fe03",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4b074ad",
+                                                "htmlTag": "span",
+                                                "text": "99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d41c0a4",
+                                                "htmlTag": "span",
+                                                "text": ".00",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "6458f1b",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "4b4dd41",
+                                                "buttonBackgroundColor": "transparent",
+                                                "buttonBorderType": "solid",
+                                                "text": "Button Text",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-ghost"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8598f02",
+                                "columnWidth": 25
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "11c6046",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-pricing-1/04fb51764f9e.png",
+                                        "imageId": 1235,
+                                        "imageWidthAttribute": 282,
+                                        "imageHeightAttribute": 300,
+                                        "imageHeight": 400
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "971acf1",
+                                        "customAttributes": [],
+                                        "textRemoveTextMargins": true,
+                                        "text": "Product 4",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/price",
+                                    {
+                                        "uniqueId": "7b8b1a4",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "5ce54fa",
+                                                "htmlTag": "span",
+                                                "text": "$",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4512025",
+                                                "htmlTag": "span",
+                                                "text": "99",
+                                                "innerTextTag": "span",
+                                                "className": "stk-block-price__price"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "4e2fb3e",
+                                                "htmlTag": "span",
+                                                "text": ".00",
+                                                "innerTextTag": "span"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "6e5f915",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "bb9292e",
+                                                "buttonBackgroundColor": "transparent",
+                                                "buttonBorderType": "solid",
+                                                "text": "Button Text",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-ghost"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

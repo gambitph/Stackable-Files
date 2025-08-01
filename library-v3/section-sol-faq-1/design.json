@@ -1,0 +1,611 @@
+{
+    "id": "section-sol-faq-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "889c7d6",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d462964"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "fa87037",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Raleway",
+                        "fontWeight": "800",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1a1a1a",
+                        "text": "Frequently Asked Questions"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5faf2f3",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "textColorClass": "has-stk-global-color-56986-color",
+                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "734b5ff"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "58d3230",
+                                "columnWidth": 33.3
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "9a25059",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Raleway",
+                                        "fontWeight": "800",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-71534-color",
+                                        "textColor1": "var(--stk-global-color-71534, #ed5521)",
+                                        "text": "Glasses Care"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "aeb6104",
+                                "columnWidth": 66.7
+                            },
+                            [
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "511b55d",
+                                        "hasBackground": true,
+                                        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "onlyOnePanelOpen": true
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "cd571cf",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "37c1794"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "contentAlign": "center",
+                                                                "uniqueId": "493320a",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "blockPadding": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "600",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "How do I properly care for my glasses?"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "6535fc2",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "63ed91a",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ea9dad5",
+                                                        "textColorClass": "has-stk-global-color-56986-color",
+                                                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "58ba19e",
+                                        "hasBackground": true,
+                                        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "onlyOnePanelOpen": true
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fe67aeb",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "3285383"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "contentAlign": "center",
+                                                                "uniqueId": "9155695",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "blockPadding": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "600",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "How often should I replace my lenses?"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "489c799",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "8ae21aa",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "538dad0",
+                                                        "textColorClass": "has-stk-global-color-56986-color",
+                                                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c7ab4bb"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c7cebe9",
+                                "columnWidth": 33.3
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "24c91a2",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Raleway",
+                                        "fontWeight": "800",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-71534-color",
+                                        "textColor1": "var(--stk-global-color-71534, #ed5521)",
+                                        "text": "Sunglasses Care"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c25949c",
+                                "columnWidth": 66.7
+                            },
+                            [
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "0759664",
+                                        "hasBackground": true,
+                                        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "onlyOnePanelOpen": true
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "fca3e31",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "497257f"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "contentAlign": "center",
+                                                                "uniqueId": "9ac4bb3",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "blockPadding": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "600",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "Do your sunglasses have prescription?"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "c8a7cb0",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "dfcc288",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "78764ad",
+                                                        "textColorClass": "has-stk-global-color-56986-color",
+                                                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/accordion",
+                                    {
+                                        "uniqueId": "bc557dc",
+                                        "hasBackground": true,
+                                        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPadding": {
+                                            "top": 0,
+                                            "right": 0,
+                                            "bottom": 0,
+                                            "left": 0
+                                        },
+                                        "onlyOnePanelOpen": true
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "3822167",
+                                                "blockPadding": {
+                                                    "top": 8,
+                                                    "right": 32,
+                                                    "bottom": 8,
+                                                    "left": 32
+                                                },
+                                                "htmlTag": "summary",
+                                                "templateLock": "insert",
+                                                "className": "stk--container-small stk-block-accordion__heading"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/icon-label",
+                                                    {
+                                                        "uniqueId": "e9a998a"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/heading",
+                                                            {
+                                                                "contentAlign": "center",
+                                                                "uniqueId": "f85d826",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "blockPadding": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": ""
+                                                                },
+                                                                "customAttributes": [],
+                                                                "fontSize": 24,
+                                                                "fontFamily": "Raleway",
+                                                                "fontWeight": "600",
+                                                                "textRemoveTextMargins": true,
+                                                                "textColor1": "#1a1a1a",
+                                                                "text": "Do they block out UV rays?"
+                                                            },
+                                                            []
+                                                        ],
+                                                        [
+                                                            "stackable/icon",
+                                                            {
+                                                                "uniqueId": "668a794",
+                                                                "icon": "<svg data-prefix=\"fas\" data-icon=\"chevron-down\" class=\"svg-inline--fa fa-chevron-down fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z\"></path></svg>"
+                                                            },
+                                                            []
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "bb53042",
+                                                "containerPadding": {
+                                                    "top": 0,
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "className": "stk-block-accordion__content"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ee209e3",
+                                                        "textColorClass": "has-stk-global-color-56986-color",
+                                                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

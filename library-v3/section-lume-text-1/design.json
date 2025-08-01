@@ -1,0 +1,72 @@
+{
+    "id": "section-lume-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c4f36d7",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 400,
+        "blockVerticalAlign": "center",
+        "columnGap": 64,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "68eeb07"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "cda1c8a",
+                        "fontSize": 64,
+                        "fontFamily": "Unica One",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Learn from the Greatest"
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3c9a925"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "af6d573",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "da9be33"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "81b5002",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

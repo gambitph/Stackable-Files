@@ -1,0 +1,67 @@
+{
+    "id": "section-seren-hero-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "e11a1da",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-hero-2/8dd575005c54.jpg",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "cb58425",
+                "fontSize": 80,
+                "fontFamily": "Manrope",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Title for This Block"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "2bf1f3a",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "e7b6c2d"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "57c7698",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontSize": 18,
+                        "fontFamily": "DM Sans",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

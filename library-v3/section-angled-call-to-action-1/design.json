@@ -1,0 +1,61 @@
+{
+    "id": "section-angled-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "ecd2476",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-call-to-action-1/c14fc078ccbc.jpg",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "5efdc93",
+                "fontSize": 48,
+                "fontFamily": "Poppins",
+                "fontWeight": "700",
+                "textTransform": "uppercase",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "ALWAYS GRAB THE OPPORTUNITY",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "4300458",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "10a5e56"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "f17f6a7",
+                        "customAttributes": [],
+                        "buttonBackgroundColor": "#eb5757",
+                        "fontFamily": "Poppins",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

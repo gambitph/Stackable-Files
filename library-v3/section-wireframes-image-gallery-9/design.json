@@ -1,0 +1,210 @@
+{
+    "id": "section-wireframes-image-gallery-9",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f13bcc7",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "6eb29aa"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "89356eb",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e28798d",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "1f28b41",
+                        "blockMargin": {
+                            "bottom": 0
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "92a8865"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "7eab3fd",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/71875029cdeb.png",
+                                        "imageId": 900,
+                                        "imageWidthAttribute": 1200,
+                                        "imageHeightAttribute": 632
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7271213"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "ebd6f62",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/71875029cdeb.png",
+                                        "imageId": 900,
+                                        "imageWidthAttribute": 1200,
+                                        "imageHeightAttribute": 632
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "deeaf00"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "969bef5",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/71875029cdeb.png",
+                                        "imageId": 900,
+                                        "imageWidthAttribute": 1200,
+                                        "imageHeightAttribute": 632
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ef41549"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f6cc2ee"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5fc9196",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "41d887f"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "d4ad71a",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fd44c4a"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "93dea49",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "13133b4"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "6d97c18",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6bd181d"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5d7d831",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-image-gallery-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

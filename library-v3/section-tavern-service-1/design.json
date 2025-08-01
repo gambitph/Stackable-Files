@@ -1,0 +1,392 @@
+{
+    "id": "section-tavern-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "00e35df",
+        "blockBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e48f5da"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "d97dc93",
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Milonga",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1c1a1b",
+                        "text": "What We Offer",
+                        "anchor": "the-art-of-bread-making"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0684538",
+                        "blockWidth": 700,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat. Maecenas volutpat enim a nisl tempus malesuada. Aenean arcu leo, porta id pulvinar et, vestibulum nec sem. Suspendisse aliquet dolor iaculis elit luctus, vestibulum ornare nibh blandit. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d364e5f",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1166e7b",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                "containerShadow": "8px 8px 0px 0px rgba(163, 133, 108, 1)",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundColorHover": "#1c1a1b"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "e9488f2",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"tag\" class=\"svg-inline--fa fa-tag fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z\"></path></svg>",
+                                        "iconColor1": "#a2856c"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "bff5972",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Single Session Workshop",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d29fe24",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat.",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "43f6ef2"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "06489eb",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#9b5e32",
+                                                "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Serif Pro",
+                                                "textTransform": "capitalize",
+                                                "text": "Learn More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ef5a53d",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                "containerShadow": "8px 8px 0px 0px rgba(163, 133, 108, 1)",
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundColorHover": "#1c1a1b"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "4f809fb",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "customAttributes": [],
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"tags\" class=\"svg-inline--fa fa-tags fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M497.941 225.941L286.059 14.059A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v204.118a48 48 0 0 0 14.059 33.941l211.882 211.882c18.744 18.745 49.136 18.746 67.882 0l204.118-204.118c18.745-18.745 18.745-49.137 0-67.882zM112 160c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm513.941 133.823L421.823 497.941c-18.745 18.745-49.137 18.745-67.882 0l-.36-.36L527.64 323.522c16.999-16.999 26.36-39.6 26.36-63.64s-9.362-46.641-26.36-63.64L331.397 0h48.721a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882z\"></path></svg>",
+                                        "iconColor1": "#a2856c"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "c9226d9",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Multiple Sessions Workshop",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1bbe5eb",
+                                        "customAttributes": [],
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat.",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "6cb5380",
+                                        "customAttributes": []
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "f48a7e2",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#9b5e32",
+                                                "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Serif Pro",
+                                                "textTransform": "capitalize",
+                                                "text": "Learn More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "4b8d32e",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "68eb393",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                "containerShadow": "8px 8px 0px 0px rgba(163, 133, 108, 1)",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundColorHover": "#1c1a1b"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "bd085c9",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"laptop\" class=\"svg-inline--fa fa-laptop fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z\"></path></svg>",
+                                        "iconColor1": "#a2856c"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "6a24104",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Online Workshop",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1f6e1d0",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat.",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "4cab37a"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "2e0d007",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#9b5e32",
+                                                "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Serif Pro",
+                                                "textTransform": "capitalize",
+                                                "text": "Learn More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a27ed59",
+                                "hasContainer": true,
+                                "containerBackgroundColor": "var(--stk-global-color-81840, #f6f6f6)",
+                                "containerShadow": "8px 8px 0px 0px rgba(163, 133, 108, 1)",
+                                "customAttributes": [],
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerBackgroundColorHover": "#1c1a1b"
+                            },
+                            [
+                                [
+                                    "stackable/icon",
+                                    {
+                                        "uniqueId": "40682a4",
+                                        "blockMargin": {
+                                            "bottom": ""
+                                        },
+                                        "customAttributes": [],
+                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"user-friends\" class=\"svg-inline--fa fa-user-friends fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M192 256c61.9 0 112-50.1 112-112S253.9 32 192 32 80 82.1 80 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C51.6 288 0 339.6 0 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zM480 256c53 0 96-43 96-96s-43-96-96-96-96 43-96 96 43 96 96 96zm48 32h-3.8c-13.9 4.8-28.6 8-44.2 8s-30.3-3.2-44.2-8H432c-20.4 0-39.2 5.9-55.7 15.4 24.4 26.3 39.7 61.2 39.7 99.8v38.4c0 2.2-.5 4.3-.6 6.4H592c26.5 0 48-21.5 48-48 0-61.9-50.1-112-112-112z\"></path></svg>",
+                                        "iconColor1": "#a2856c"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "289a489",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Private Classes &amp; Workshops",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "24a789e",
+                                        "customAttributes": [],
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat.",
+                                        "textColor1ParentHover": "var(--stk-global-color-58834, #ffffff)"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "a7e72b4",
+                                        "customAttributes": []
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "2d5fa71",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#9b5e32",
+                                                "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                                "fontSize": 18,
+                                                "fontFamily": "Source Serif Pro",
+                                                "textTransform": "capitalize",
+                                                "text": "Learn More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

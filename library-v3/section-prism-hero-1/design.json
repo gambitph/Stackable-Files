@@ -1,0 +1,270 @@
+{
+    "id": "section-prism-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "d3fa114",
+        "hasBackground": true,
+        "blockBackgroundColor": "transparent",
+        "blockMargin": {
+            "bottom": 32
+        },
+        "blockPadding": {
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+        },
+        "hasContainer": false,
+        "containerPadding": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "blockMarginTablet": {
+            "bottom": 24
+        },
+        "blockMarginMobile": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "align": "full",
+        "className": "is-style-horizontal"
+    },
+    "innerBlocks": [
+        [
+            "stackable/columns",
+            {
+                "uniqueId": "34abf73",
+                "hasBackground": true,
+                "blockBackgroundColor": "transparent",
+                "blockBackgroundMediaUrl": "http://sandbox.gambit.ph/usage-testing/wp-content/uploads/sites/103/2022/05/Hero-1.svg",
+                "blockBackgroundPosition": "bottom center",
+                "blockBackgroundSize": "custom",
+                "blockBackgroundTintStrength": 0,
+                "blockFixedBackground": false,
+                "blockHeight": 800,
+                "blockVerticalAlign": "center",
+                "blockMargin": {
+                    "top": "",
+                    "bottom": ""
+                },
+                "customAttributes": [],
+                "innerBlockContentAlign": "alignfull",
+                "blockHeightTablet": 480,
+                "blockVerticalAlignMobile": "flex-start",
+                "blockMarginTablet": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockMarginMobile": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "blockPaddingTablet": {
+                    "top": "",
+                    "right": "",
+                    "bottom": "",
+                    "left": ""
+                },
+                "columnGapTablet": 0,
+                "align": "full"
+            },
+            [
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "37a49ec",
+                        "containerWidth": 440,
+                        "containerVerticalAlign": "flex-start",
+                        "containerPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "contentAlign": "left",
+                        "columnAlign": "flex-start",
+                        "columnWidthMobile": 100,
+                        "columnAdjacentCountTablet": 2,
+                        "columnAdjacentCountMobile": 1
+                    },
+                    [
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "48d23ad",
+                                "blockMargin": {
+                                    "bottom": 8
+                                },
+                                "text": "<span class=\"stk-highlight\">SUBTITLE</span>"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "f2da3ea",
+                                "textRemoveTextMargins": true,
+                                "text": "Changes for the Better.",
+                                "textTag": "h1",
+                                "lineHeightMobile": 1.4,
+                                "anchor": "changes-for-the-better"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "c3e9a27",
+                                "blockMargin": {
+                                    "bottom": ""
+                                },
+                                "text": "<span class=\"stk-highlight\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc.</span>"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "ccb546f",
+                                "columnGap": 12
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "5c8e6e5",
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "var(--stk-global-color-70676, #bc4eff)",
+                                        "buttonFullWidth": false,
+                                        "buttonBorderRadius": 50,
+                                        "textColorClass": "has-stk-global-color-41660-color",
+                                        "textColor1": "var(--stk-global-color-41660, #ffffff)",
+                                        "text": "<strong>Get Started</strong>",
+                                        "blockMarginMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "blockPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "buttonPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        }
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "5b87b21",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 32,
+                                            "bottom": "",
+                                            "left": 32
+                                        },
+                                        "buttonBackgroundColor": "var(--stk-global-color-41660, #ffffff)",
+                                        "buttonFullWidth": false,
+                                        "buttonBorderType": "solid",
+                                        "buttonBorderColor": "var(--stk-global-color-60579, #1c1c1c)",
+                                        "buttonBorderWidth": {
+                                            "top": 1,
+                                            "right": 1,
+                                            "bottom": 1,
+                                            "left": 1
+                                        },
+                                        "buttonBorderRadius": 50,
+                                        "buttonShadow": "none",
+                                        "iconColor1": "var(--stk-global-color-70676, #bc4eff)",
+                                        "textColor1": "#0d0d0d",
+                                        "text": "Sign Up",
+                                        "buttonPaddingMobile": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "buttonBackgroundColorHover": "transparent",
+                                        "buttonBackgroundColorParentHover": "transparent",
+                                        "className": "is-style-ghost"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/column",
+                    {
+                        "uniqueId": "a09fbba",
+                        "columnSpacing": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "columnWidthMobile": 100,
+                        "columnAdjacentCountTablet": 2,
+                        "columnAdjacentCountMobile": 1
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "369097c",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": 12,
+                                    "right": 12,
+                                    "bottom": 12,
+                                    "left": 12
+                                },
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-hero-1/71edf6d4e4f0.png",
+                                "imageId": 3635,
+                                "imageWidthAttribute": 488,
+                                "imageHeightAttribute": 510,
+                                "imageWidth": 80,
+                                "contentAlign": "center",
+                                "blockHeightTablet": 364,
+                                "imageHeightUnit": "%",
+                                "imageWidthTablet": 100,
+                                "imageWidthMobile": 100,
+                                "contentAlignTablet": "left"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

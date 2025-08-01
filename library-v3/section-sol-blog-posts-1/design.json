@@ -1,0 +1,443 @@
+{
+    "id": "section-sol-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "33eab3c",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ee4b95b"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "eb0aab9",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "customAttributes": [],
+                        "contentAlign": "center",
+                        "fontSize": 16,
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 1,
+                        "textColor1": "#ed5521",
+                        "text": "OUR BLOG"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "efdbfbd",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 56,
+                        "fontFamily": "Raleway",
+                        "fontWeight": "800",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1a1a1a",
+                        "text": "Read Our Latest Articles"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "179d6b4",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "textColorClass": "has-stk-global-color-56986-color",
+                        "textColor1": "var(--stk-global-color-56986, #111111)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis feugiat phatera quis imperidiet curus tristique tincidunt non vitae."
+                    },
+                    []
+                ],
+                [
+                    "stackable/card",
+                    {
+                        "uniqueId": "69f3d35",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": 12,
+                            "bottom": "",
+                            "left": 12
+                        },
+                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-blog-posts-1/4577d3106a2a.jpg",
+                        "imageId": 1106,
+                        "imageWidthAttribute": 1920,
+                        "imageHeightAttribute": 1280,
+                        "className": "is-style-horizontal"
+                    },
+                    [
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "4dde504",
+                                "fontSize": 14,
+                                "fontFamily": "Inter",
+                                "fontWeight": "bold",
+                                "textTransform": "uppercase",
+                                "textColorClass": "has-stk-global-color-71534-color",
+                                "textColor1": "var(--stk-global-color-71534, #ed5521)",
+                                "text": "Featured Post"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "e3f8f34",
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Raleway",
+                                "fontWeight": "800",
+                                "textRemoveTextMargins": true,
+                                "textColor1": "#1a1a1a",
+                                "text": "10 Ways to Lessen Your Exposure to Blue Light"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "0f4d03f",
+                                "blockMargin": {
+                                    "bottom": 16
+                                },
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "fd2aa0d",
+                                "blockMargin": {
+                                    "bottom": ""
+                                },
+                                "customAttributes": [],
+                                "fontSize": 16,
+                                "fontFamily": "Inter",
+                                "textColor1": "#919191",
+                                "text": "May 27, 2021"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "6f2ec0b"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "b42b305",
+                                        "customAttributes": [],
+                                        "buttonBackgroundColor": "#ed5521",
+                                        "fontSize": 18,
+                                        "fontFamily": "Inter",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "Read More"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9691097"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "04a0741"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "85a7e1d",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-blog-posts-1/b5b3454a4403.jpg",
+                                        "imageId": 1062,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "cabc74b",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "blockPadding": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Raleway",
+                                                "fontWeight": "800",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#1a1a1a",
+                                                "text": "The Best Sunnies for Summer"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "bfb1515",
+                                                "blockMargin": {
+                                                    "bottom": 25
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColor1": "#919191",
+                                                "text": "April 2, 2021"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "5071d0b"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "916ae2a",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#ed5521",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8aca695"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "85b762b",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-blog-posts-1/a997d39e7605.jpg",
+                                        "imageId": 1108,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1281,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4b37b7f",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Raleway",
+                                                "fontWeight": "800",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#1a1a1a",
+                                                "text": "How Often to Get Your Eyes Checked"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "0b95680",
+                                                "blockMargin": {
+                                                    "bottom": 25
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColor1": "#919191",
+                                                "text": "March 22, 2021"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "c7c33b9"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "44f3d48",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#ed5521",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "5e93c5d"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "928cae4",
+                                        "containerShadow": "7px 5px 30px rgba(72, 73, 121, 0.15)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-blog-posts-1/56f2717a3953.jpg",
+                                        "imageId": 1107,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "b794aaa",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Raleway",
+                                                "fontWeight": "800",
+                                                "textRemoveTextMargins": true,
+                                                "textColor1": "#1a1a1a",
+                                                "text": "How to Keep Your Lenses Clean"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "a410d71",
+                                                "blockMargin": {
+                                                    "bottom": 25
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 16,
+                                                "fontFamily": "Inter",
+                                                "textColor1": "#919191",
+                                                "text": "March 8, 2021"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "2747e2a"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "61c841f",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#ed5521",
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Inter",
+                                                        "textColorClass": "has-stk-global-color-58834-color",
+                                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                        "text": "Read More"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

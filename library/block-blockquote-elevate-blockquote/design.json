@@ -1,0 +1,20 @@
+{
+    "id": "block-blockquote-elevate-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "quoteIcon": "round-fat",
+        "quoteOpacity": 1,
+        "quoteColor": "#000000",
+        "quoteSize": 35,
+        "quoteY": 40,
+        "textFontFamily": "Lato",
+        "textColor": "var(--stk-global-color-88711, #313131)",
+        "blockHeight": 300,
+        "tabletBlockWidth": 80,
+        "mobileBlockWidth": 90,
+        "tabletBlockWidthUnit": "%",
+        "mobileBlockWidthUnit": "%",
+        "align": "wide",
+        "contentAlign": "center"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": "section-elevate-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "ae2089b",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f6f6f6",
+        "blockBackgroundTintStrength": 8,
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "bottomSeparatorShow": false,
+        "bottomSeparatorDesign": "curve-1",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "5230fff",
+                "customAttributes": [],
+                "fontFamily": "Lato",
+                "fontWeight": "bold",
+                "text": "Make Sure You Are Ahead of the Curve"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "da7b3cb",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "00e102b"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b2e2d66",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#313131",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 18,
+                        "fontFamily": "Lato",
+                        "text": "Button"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

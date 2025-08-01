@@ -1,0 +1,194 @@
+{
+    "id": "section-lounge-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "cff73db",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f9f2e8",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2a84afa"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "fd73069"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9757575"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "352ccee",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-blog-posts-1/e8aba3e01d87.jpg",
+                                        "imageId": 2164,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e2ecaa3"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "ea8d4cc",
+                                        "fontSize": 16,
+                                        "fontFamily": "Serif",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3505a00",
+                                        "fontFamily": "Playfair Display",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#393f59",
+                                        "text": "Blog Post 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a21626b",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque urna nisi, aliquet sit amet vestibulum in, ullamcorper ut nisl."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "dae524c"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "331e8c4",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#d2b18e",
+                                                "fontSize": 18,
+                                                "fontFamily": "Serif",
+                                                "text": "Read More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "3d8a42c"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "6024247"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "5e7599c",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-blog-posts-1/74edaa386630.jpg",
+                                        "imageId": 2163,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1277
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e62a899"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "1f77de2",
+                                        "fontSize": 16,
+                                        "fontFamily": "Serif",
+                                        "text": "Subtitle"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "72f6357",
+                                        "fontFamily": "Playfair Display",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#393f59",
+                                        "text": "Blog Post 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "b857689",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque urna nisi, aliquet sit amet vestibulum in, ullamcorper ut nisl."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "e21b005"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "4295a74",
+                                                "customAttributes": [],
+                                                "buttonBackgroundColor": "#d2b18e",
+                                                "fontSize": 18,
+                                                "fontFamily": "Serif",
+                                                "text": "Read More"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

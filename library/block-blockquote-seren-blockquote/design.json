@@ -1,0 +1,31 @@
+{
+    "id": "block-blockquote-seren-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "design": "basic",
+        "borderRadius": 0,
+        "shadow": 6,
+        "containerBackgroundColorOpacity": 1,
+        "quoteOpacity": 0.2,
+        "quoteColor": "#000000",
+        "quoteSize": 165,
+        "quoteX": 40,
+        "text": "<em>This is a Blockquote. Use this great block to feature famous lines from great people or notable portions of your post or page. Go on, and let your imagination run wild with this block</em>.",
+        "textFontFamily": "Poppins",
+        "textColor": "#000000",
+        "textAlign": "right",
+        "blockHeight": 360,
+        "showBlockBackground": true,
+        "blockInnerWidth": "center",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockBackgroundFixedBackground": false,
+        "showTopSeparator": false,
+        "showBottomSeparator": false,
+        "topSeparatorDesign": "straight-1",
+        "bottomSeparatorDesign": "straight-1",
+        "topSeparatorShadow": false,
+        "bottomSeparatorShadow": false,
+        "contentAlign": "center"
+    }
+}

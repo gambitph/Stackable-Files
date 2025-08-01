@@ -1,0 +1,533 @@
+{
+    "id": "section-munch-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c20b3ee",
+        "hasBackground": true,
+        "blockBackgroundColor": "#ffedca",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-card-1/27930df01410.jpg",
+        "blockBackgroundImageBlendMode": "soft-light",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8d8ef28"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "107232d",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 72,
+                        "fontFamily": "Lilita One",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-9296-color",
+                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                        "text": "Our Menu"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d09bbb1",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis nunc erat, a luctus lectus feugiat non."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9241080"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d038ce7"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "007206b",
+                                        "containerBackgroundColor": "#ffca0e",
+                                        "containerBorderRadius": 12,
+                                        "containerShadow": "none",
+                                        "containerHeight": 300,
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-card-1/6dad8bf8033e.jpg",
+                                        "imageId": 2063,
+                                        "imageWidthAttribute": 1700,
+                                        "imageHeightAttribute": 2560,
+                                        "containerPaddingMobile": {
+                                            "top": 24,
+                                            "right": 24,
+                                            "bottom": 24,
+                                            "left": 24
+                                        },
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "7d94993",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Lilita One",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Double bacon cheeseburger",
+                                                "fontSizeTablet": 32
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "6ad5803",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 24,
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "7e0b57a",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "a34808f",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 40,
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": "10",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "ed0e356",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "d000703",
+                                                "blockMarginMobile": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "772132b",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderType": "solid",
+                                                        "buttonBorderWidth": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "buttonShadow": "6px 6px 0px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 1)",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Chivo",
+                                                        "textColor1": "#000000",
+                                                        "text": "Add to Cart",
+                                                        "blockMarginTablet": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "blockMarginMobile": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "buttonShadowHover": "6px 6px 0px 0px rgba(0,0,0, 1)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7688ab5"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "42e30c1",
+                                        "containerBackgroundColor": "#ffca0e",
+                                        "containerBorderRadius": 12,
+                                        "containerShadow": "none",
+                                        "containerHeight": 300,
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-card-1/116ecf269c42.jpg",
+                                        "imageId": 2064,
+                                        "imageWidthAttribute": 1707,
+                                        "imageHeightAttribute": 2560,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "f31bae0",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Lilita One",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Sweet potato fries with dip",
+                                                "fontSizeTablet": 32
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "ccd7a34",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 24,
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "5a7accf",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "8cf4f9f",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 40,
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": "10",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "98acd0d",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "6740a29",
+                                                "blockMarginMobile": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "e8bce77",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderType": "solid",
+                                                        "buttonBorderWidth": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "buttonShadow": "6px 6px 0px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 1)",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Chivo",
+                                                        "textColor1": "#000000",
+                                                        "text": "Add to Cart",
+                                                        "blockMarginMobile": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "buttonShadowHover": "6px 6px 0px 0px rgba(0,0,0, 1)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "efce369"
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "041655b",
+                                        "containerBackgroundColor": "#ffca0e",
+                                        "containerBorderRadius": 12,
+                                        "containerShadow": "none",
+                                        "containerHeight": 300,
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-card-1/baaa2ce6de51.jpg",
+                                        "imageId": 2065,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1440,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "contentAlign": "left",
+                                                "uniqueId": "080c59c",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 8,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Lilita One",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Taro milkshake with boba pearls",
+                                                "fontSizeTablet": 32
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "8a886ff",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 24,
+                                                    "left": ""
+                                                },
+                                                "contentAlign": "left"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "1ab4344",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "3b82ee1",
+                                                        "htmlTag": "span",
+                                                        "fontSize": 40,
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": "10",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "46da19d",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "Lilita One",
+                                                        "textColorClass": "has-stk-global-color-9296-color",
+                                                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "bbca44b",
+                                                "blockMarginMobile": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": "",
+                                                    "left": ""
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "4605e0d",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "var(--stk-global-color-58834, #ffffff)",
+                                                        "buttonFullWidth": true,
+                                                        "buttonHoverEffect": "scale",
+                                                        "buttonBorderType": "solid",
+                                                        "buttonBorderWidth": {
+                                                            "top": "",
+                                                            "right": "",
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "buttonShadow": "6px 6px 0px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 1)",
+                                                        "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                        "iconColor1": "var(--stk-global-color-9296, #000000)",
+                                                        "fontSize": 16,
+                                                        "fontFamily": "Chivo",
+                                                        "textColor1": "#000000",
+                                                        "text": "Add to Cart",
+                                                        "blockMarginMobile": {
+                                                            "top": "",
+                                                            "right": 32,
+                                                            "bottom": "",
+                                                            "left": ""
+                                                        },
+                                                        "buttonShadowHover": "6px 6px 0px 0px rgba(0,0,0, 1)"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "block-cta-arch-call-to-action-2",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "titleTag": "h2",
+        "titleColor": "#ffffff",
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Lato",
+        "buttonTextTransform": "uppercase",
+        "buttonNewTab": false,
+        "buttonSize": "small",
+        "buttonBackgroundColor": "#7bdcb5",
+        "buttonBorderRadius": 100,
+        "blockHeight": 60,
+        "blockHeightUnit": "vh",
+        "mobileColumnHeight": 400,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColorType": "gradient",
+        "blockBackgroundBackgroundColor": "#00588b",
+        "blockBackgroundBackgroundColor2": "#1f9c7b",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-arch-call-to-action-2/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 8,
+        "contentAlign": "left"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "id": "section-tavern-contact-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c15b6b4",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "50aecd3",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "7e447e6",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Milonga",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1c1a1b",
+                        "text": "Reach Out to the Team",
+                        "anchor": "the-art-of-bread-making"
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "42d131b",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#a2856c",
+                        "text": "Visit Us"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7c8593f",
+                        "text": "1241 High Street, Armadale, Victoria 3144"
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "f3329f7",
+                        "customAttributes": [],
+                        "color": "#a2856c",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "2cc9179",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#a2856c",
+                        "text": "Contact us"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c2e2e83",
+                        "text": "1800 • 382 • 299 | hello@tavern.io "
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "2f7e78b",
+                        "customAttributes": [],
+                        "color": "#a2856c",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "02a6231",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#a2856c",
+                        "text": "request a free trial"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "44087de",
+                        "text": "Try out a class for free for your first time! Get 25% off your next classes after your free trail."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9ed66f4",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "20e45c3",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-contact-1/3cd9f1987e5d.jpg",
+                        "imageId": 2327,
+                        "imageWidthAttribute": 1707,
+                        "imageHeightAttribute": 2560,
+                        "imageHeight": 600,
+                        "imageShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

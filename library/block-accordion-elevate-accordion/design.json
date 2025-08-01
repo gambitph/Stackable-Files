@@ -1,0 +1,12 @@
+{
+    "id": "block-accordion-elevate-accordion",
+    "name": "ugb/accordion",
+    "attributes": {
+        "borderRadius": 0,
+        "shadow": 2,
+        "title": "The Way to Achieve Your Dream",
+        "titleTag": "h4",
+        "blockHeightUnit": "vh",
+        "contentAlign": "left"
+    }
+}

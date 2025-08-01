@@ -1,0 +1,86 @@
+{
+    "id": "section-decora-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "96a221d",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "className": "is-style-default",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "53d335c",
+                "contentAlign": "center",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7c973e1",
+                        "fontFamily": "Nixie One",
+                        "text": "Reach the Top"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "902d408",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "88b1a0b"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "4a9022d",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#fda939",
+                                "fontSize": 18,
+                                "fontFamily": "Ledger",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8b50cb6",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "a20a29f",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-feature-2/3383ceab00c3.jpg",
+                        "imageId": 1646,
+                        "imageWidthAttribute": 800,
+                        "imageHeightAttribute": 533,
+                        "imageHeight": 500
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

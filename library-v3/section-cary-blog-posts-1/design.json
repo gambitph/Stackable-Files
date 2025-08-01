@@ -1,0 +1,187 @@
+{
+    "id": "section-cary-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "9d351e7",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bb54ab0"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "e1d763f",
+                        "rowAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7aff027"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "f3fa6cc",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-blog-posts-1/a3a8aefdccc6.jpg",
+                                        "imageId": 1987,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1280,
+                                        "imageHeight": 400
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "acc26e9"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3e372e0",
+                                        "fontSize": 40,
+                                        "fontFamily": "Roboto",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Blog Post 1"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "bf6d23b",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque urna nisi, aliquet sit amet vestibulum in, ullamcorper ut nisl. Etiam ex diam, suscipit sed dignissim sit amet, lobortis a erat. Donec lacinia, ex id congue placerat, diam ipsum tempus ligula, et porttitor leo massa sit amet urna. Praesent suscipit orci eu finibus tristique. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "8fd32aa"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "8338336",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#000000",
+                                                "fontSize": 18,
+                                                "fontFamily": "Sans-Serif",
+                                                "text": "Continue reading",
+                                                "opacityHover": 0.8
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "9f76125",
+                        "rowAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "50d6f73"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "a9c8d26",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-blog-posts-1/edff8b135afc.jpg",
+                                        "imageId": 1986,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1440,
+                                        "imageHeight": 400
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "cef1568"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a9f0f63",
+                                        "fontSize": 40,
+                                        "fontFamily": "Roboto",
+                                        "fontWeight": "300",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Blog Post 2"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1b6ca8e",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque urna nisi, aliquet sit amet vestibulum in, ullamcorper ut nisl. Etiam ex diam, suscipit sed dignissim sit amet, lobortis a erat. Donec lacinia, ex id congue placerat, diam ipsum tempus ligula, et porttitor leo massa sit amet urna. Praesent suscipit orci eu finibus tristique. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "8a71c9e"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "1960d4a",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 24,
+                                                    "bottom": "",
+                                                    "left": 24
+                                                },
+                                                "buttonBackgroundColor": "#000000",
+                                                "fontSize": 18,
+                                                "fontFamily": "Sans-Serif",
+                                                "text": "Continue reading",
+                                                "opacityHover": 0.8
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "section-glow-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a360a96",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9d4b18a"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "773efd5",
+                        "fontSize": 64,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textColor1": "#d12dcf",
+                        "text": "1,530+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "a90e811",
+                        "fontSize": 32,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Downloads"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "3887fd8",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e8ed7de"
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "3c54e3c",
+                        "fontSize": 64,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textColor1": "#d12dcf",
+                        "text": "7,234+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "064426d",
+                        "fontSize": 32,
+                        "fontFamily": "Ubuntu",
+                        "fontWeight": "bold",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Users"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d4598d2",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

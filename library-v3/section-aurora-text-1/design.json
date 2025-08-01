@@ -1,0 +1,133 @@
+{
+    "id": "section-aurora-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d2d11fa",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "81d44da"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "eca651b",
+                        "fontSize": 120,
+                        "textColor1": "#049781",
+                        "text": "A",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d3e2292",
+                        "blockMargin": {
+                            "top": -130,
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "First Class"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "51bb732",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Travel in style and comfort with limited seating in the exclusive First Class area."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8ce010e"
+            },
+            [
+                [
+                    "stackable/number-box",
+                    {
+                        "uniqueId": "7f02d58",
+                        "fontSize": 120,
+                        "textColor1": "#049781",
+                        "text": "B",
+                        "hasShape": false
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "f4211ea",
+                        "blockMargin": {
+                            "top": -130,
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Business Class"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f6e6139",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": 60
+                        },
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Get the most bang for your buck with the benefits of the Business Class seats."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "block-cta-seren-call-to-action",
+    "name": "ugb/cta",
+    "attributes": {
+        "design": "plain",
+        "title": "JOIN THE REVOLUTION",
+        "titleColor": "#ffffff",
+        "description": "",
+        "showDescription": false,
+        "descriptionColor": "#ffffff",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "JOIN NOW",
+        "buttonNewTab": false,
+        "buttonDesign": "ghost",
+        "buttonBackgroundColor": "#ffffff",
+        "buttonBorderRadius": 0,
+        "paddingBottom": 3,
+        "paddingUnit": "%",
+        "blockHeight": 40,
+        "blockHeightUnit": "vh",
+        "blockWidth": 80,
+        "blockWidthUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "showBottomSeparator": false,
+        "bottomSeparatorDesign": "slant-1",
+        "contentAlign": "center"
+    }
+}

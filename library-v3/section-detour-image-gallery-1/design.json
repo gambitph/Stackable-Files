@@ -1,0 +1,160 @@
+{
+    "id": "section-detour-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "02ad773",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "811b9ee"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "0e09de6",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "fontFamily": "Oswald",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "New Discoveries"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ee4e047"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "ad0499c",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-image-gallery-1/f1d60db1e141.jpg",
+                                "containerHeight": 300,
+                                "containerBackgroundColorHover": "#0693e3",
+                                "containerBackgroundTintStrengthHover": 8
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "a5af1f5",
+                                        "fontSize": 40,
+                                        "fontFamily": "Oswald",
+                                        "fontWeight": "bold",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Rafting"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0fd816e",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Discover the thrill and chill in the white water."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0e6a75e",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-image-gallery-1/44e65c60bbb8.jpg",
+                                "containerHeight": 300,
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#0693e3",
+                                "containerBackgroundTintStrengthHover": 8
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "106a9f2",
+                                        "customAttributes": [],
+                                        "fontSize": 40,
+                                        "fontFamily": "Oswald",
+                                        "fontWeight": "bold",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Hiking"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "51c67be",
+                                        "customAttributes": [],
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": " Push yourself and enjoy the journey to the summit. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "acb4b2d",
+                                "hasContainer": true,
+                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-image-gallery-1/864d40561963.jpg",
+                                "containerHeight": 300,
+                                "customAttributes": [],
+                                "containerBackgroundColorHover": "#0693e3",
+                                "containerBackgroundTintStrengthHover": 8
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "b381be3",
+                                        "fontSize": 40,
+                                        "fontFamily": "Oswald",
+                                        "fontWeight": "bold",
+                                        "textTransform": "uppercase",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Camping"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "1d9fd94",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": " Enjoy the cool and calm air of the mountain tops. "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

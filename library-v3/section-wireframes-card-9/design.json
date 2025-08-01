@@ -1,0 +1,202 @@
+{
+    "id": "section-wireframes-card-9",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "c68da2f",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "54e6504"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "77598a1"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "20c892c",
+                                "columnAdjacentCount": 2,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "8096014",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
+                                        "imageId": 891,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 578,
+                                        "imageHeightTablet": 240
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "5d43b08",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for this section",
+                                        "anchor": "title-for-this-section"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "516a57a",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0ff1169",
+                                "columnAdjacentCount": 2,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "fc69c5c",
+                                        "containerBackgroundMediaId": 891,
+                                        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
+                                        "containerHeight": 600,
+                                        "containerHeightTablet": 320,
+                                        "className": "is-style-full",
+                                        "containerBackgroundMediaHeightAttribute": 578,
+                                        "containerBackgroundMediaWidthAttribute": 578
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "eb0c02b",
+                                                "text": "Card 1",
+                                                "anchor": "card-1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "2cf42cb",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "67b2160",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "9b3af1e"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "376e405",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d3bce27",
+                                "columnAdjacentCount": 2,
+                                "columnWidthTablet": 100,
+                                "columnAdjacentCountTablet": 1
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "f811354",
+                                        "containerBackgroundMediaId": 891,
+                                        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
+                                        "containerHeight": 600,
+                                        "containerHeightTablet": 320,
+                                        "className": "is-style-full",
+                                        "containerBackgroundMediaHeightAttribute": 578,
+                                        "containerBackgroundMediaWidthAttribute": 578
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "8b0883e",
+                                                "text": "Card 2",
+                                                "anchor": "card-2"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "b4bc49f",
+                                                "text": "Subtitle for This Block"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "2ee751e",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "84f51ba"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "e5e4e51",
+                                                        "text": "Button"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

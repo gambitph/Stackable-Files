@@ -1,0 +1,220 @@
+{
+    "id": "section-wireframes-hero-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "5b6d67b",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "blockMarginMobile": {
+            "bottom": 0
+        },
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "d0a2af8"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ae691fa",
+                        "columnGap": 60
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0ffdfb7",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "23e3002",
+                                        "blockMargin": {
+                                            "bottom": 12
+                                        },
+                                        "text": "Lorem ipsum dolor"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3a9b8a9",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for this Hero Section",
+                                        "anchor": "title-for-this-hero-section"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4ceeb5e",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque est, est ac blandit cras habitasse in blandit."
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "3d26391",
+                                        "blockMargin": {
+                                            "bottom": 80
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "3721c18",
+                                                "text": "Primary Button"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "5e9604c",
+                                                "buttonBackgroundColor": "transparent",
+                                                "buttonBorderType": "solid",
+                                                "text": "Secondary Button",
+                                                "buttonBackgroundColorHover": "transparent",
+                                                "buttonBackgroundColorParentHover": "transparent",
+                                                "className": "is-style-ghost"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "9926f2d",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "text": "LOREM IPSUM DOLOR",
+                                        "textTag": "h5",
+                                        "anchor": "lorem-ipsum-dolor"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "49c161e"
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "2e8d785",
+                                                "columnSpacing": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "3f6a34a",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-7/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "0b303a4",
+                                                "columnSpacing": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "3b73ac2",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-7/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "9e5d09d",
+                                                "columnSpacing": {
+                                                    "top": 8,
+                                                    "right": 8,
+                                                    "bottom": 8,
+                                                    "left": 8
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/image",
+                                                    {
+                                                        "uniqueId": "8c480d2",
+                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-7/ee9b3bb1bcb9.png",
+                                                        "imageId": 891,
+                                                        "imageWidthAttribute": 578,
+                                                        "imageHeightAttribute": 578
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3cc090e"
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "fb766c0",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-hero-7/bc2db1b1ec0d.png",
+                                        "imageId": 896,
+                                        "imageWidthAttribute": 578,
+                                        "imageHeightAttribute": 871,
+                                        "imageHeight": 800
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "section-angled-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "f3b268d",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7d0fba6",
+                "hasBackground": true,
+                "blockBackgroundColor": "#000000",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-card-1/4ac1dc8381e4.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "779f97b",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "a60411a",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "e69903e"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "e56b1df",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontFamily": "Poppins",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "e5eebb5",
+                "hasBackground": true,
+                "blockBackgroundColor": "#000000",
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-angled-card-1/9da8f0b27919.jpg",
+                "blockHeight": 500,
+                "blockVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ac41a06",
+                        "fontFamily": "Poppins",
+                        "fontWeight": "700",
+                        "textTransform": "uppercase",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "a3c2d09",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "6e3afe5"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "9e15042",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontFamily": "Poppins",
+                                "text": "Button"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

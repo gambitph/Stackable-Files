@@ -1,0 +1,23 @@
+{
+    "id": "block-blockquote-cary-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "quoteIcon": "square-thin",
+        "quoteColor": "#dbdbdb",
+        "quoteSize": 129,
+        "quoteX": 40,
+        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. ",
+        "textFontFamily": "Inter",
+        "textFontWeight": "300",
+        "textLetterSpacing": 1.3,
+        "textFontSize": 18,
+        "blockWidth": 55,
+        "mobileBlockWidth": 70,
+        "blockWidthUnit": "%",
+        "mobileBlockWidthUnit": "%",
+        "blockHorizontalAlign": "flex-end",
+        "mobileBlockHorizontalAlign": "flex-end",
+        "align": "wide",
+        "contentAlign": "right"
+    }
+}

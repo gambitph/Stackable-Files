@@ -1,0 +1,178 @@
+{
+    "id": "section-wireframes-metric-6",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "6027080",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "27c77d7",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a6a2d33"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f302bbb",
+                                "contentAlign": "center",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "f45086b",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "1200+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "3a2db76",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for this Block",
+                                        "textTag": "h5",
+                                        "anchor": "title-for-this-block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "68e49a2",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "55c0243",
+                                "contentAlign": "center",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "2ad7513",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "800+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "21b9827",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for this Block",
+                                        "textTag": "h5",
+                                        "anchor": "title-for-this-block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5a6ffcf",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3ee5552",
+                                "contentAlign": "center",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "0a170dc",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "text": "800+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "0ff78a3",
+                                        "blockMargin": {
+                                            "bottom": 16
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title for this Block",
+                                        "textTag": "h5",
+                                        "anchor": "title-for-this-block"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "d6558e8",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "ceafde1",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Metric Block",
+                        "anchor": "title-for-this-metric-block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e645669",
+                        "contentAlign": "center",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

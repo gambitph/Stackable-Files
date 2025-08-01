@@ -1,0 +1,573 @@
+{
+    "id": "section-pitch-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "0a772d3",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "57dbde2"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "a7a4264",
+                        "text": "SUBTITLE",
+                        "blockMargin": {
+                            "bottom": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b5ef400",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum <span class=\"stk-highlight\">dolor sit amet</span>, consectetur adipiscing elit.",
+                        "textTag": "h3",
+                        "fontSizeMobile": 25,
+                        "anchor": "lorem-ipsum-span-style-color-var-stk-global-color-51431-1570-ef-class-stk-highlight-dolor-sit-amet-span-consectetur-adipiscing-elit"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "dd1a404",
+                        "blockBorderRadius": 24,
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "columnGap": 0,
+                        "rowGap": 0
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e70a7e8",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#e8f5ff",
+                                "blockHeight": 800,
+                                "blockVerticalAlign": "center",
+                                "columnSpacing": {
+                                    "top": 32,
+                                    "right": 32,
+                                    "bottom": 32,
+                                    "left": 32
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "0babcca",
+                                        "blockBackgroundColor": "#e8f5ff",
+                                        "blockMargin": {
+                                            "bottom": 32
+                                        },
+                                        "columnGap": 20,
+                                        "rowGap": 27,
+                                        "blockMarginMobile": {
+                                            "bottom": 24
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "e5d8954",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#ffffff",
+                                                "blockBorderRadius": 16,
+                                                "blockShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                                "columnSpacing": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "bcbb652",
+                                                        "contentAlign": "left",
+                                                        "text": "“<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel pellentesque ut nisl accumsan in. Consequat egestas semper malesuada volutpat cum accumsan ipsum.”"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/testimonial",
+                                                    {
+                                                        "uniqueId": "92912c4",
+                                                        "hasContainer": false,
+                                                        "contentAlign": "",
+                                                        "className": "is-style-bubble"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/columns",
+                                                            {
+                                                                "uniqueId": "5b3b430",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": 24
+                                                                },
+                                                                "columnFit": true,
+                                                                "innerBlockContentAlign": "alignfull"
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "fa90d90",
+                                                                        "columnAlign": "center"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/image",
+                                                                            {
+                                                                                "uniqueId": "2bc8a23",
+                                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-testimonial-1/91beb23dddde.png",
+                                                                                "imageId": 1117,
+                                                                                "imageWidthAttribute": 45,
+                                                                                "imageHeightAttribute": 45,
+                                                                                "imageHeight": 48,
+                                                                                "imageWidth": 48,
+                                                                                "imageShape": "circle",
+                                                                                "imageWidthUnit": "px"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ],
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "2f375de",
+                                                                        "contentAlign": "left"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/heading",
+                                                                            {
+                                                                                "uniqueId": "857fce1",
+                                                                                "blockMargin": {
+                                                                                    "bottom": 0
+                                                                                },
+                                                                                "textRemoveTextMargins": true,
+                                                                                "textColorClass": "has-stk-global-color-51431-color",
+                                                                                "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                                                                "text": "Justin Franci",
+                                                                                "textTag": "h5",
+                                                                                "fontSizeMobile": 16,
+                                                                                "anchor": "justin-franci"
+                                                                            },
+                                                                            []
+                                                                        ],
+                                                                        [
+                                                                            "stackable/subtitle",
+                                                                            {
+                                                                                "uniqueId": "24cfbaa",
+                                                                                "textColorClass": "has-stk-global-color-92072-color",
+                                                                                "textColor1": "var(--stk-global-color-92072, #190f33)",
+                                                                                "text": "Title &amp; Position"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "cd75780",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#ffffff",
+                                                "blockBorderRadius": 16,
+                                                "blockShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                                "columnSpacing": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "29aff62",
+                                                        "contentAlign": "left",
+                                                        "text": "“<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel pellentesque ut nisl accumsan in. Consequat egestas semper malesuada volutpat cum accumsan ipsum.”"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/testimonial",
+                                                    {
+                                                        "uniqueId": "3362ebd",
+                                                        "hasContainer": false,
+                                                        "contentAlign": "",
+                                                        "className": "is-style-bubble"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/columns",
+                                                            {
+                                                                "uniqueId": "3d64035",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": 24
+                                                                },
+                                                                "columnFit": true,
+                                                                "innerBlockContentAlign": "alignfull"
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "263089b",
+                                                                        "columnAlign": "center"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/image",
+                                                                            {
+                                                                                "uniqueId": "dc4a2be",
+                                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-testimonial-1/91beb23dddde.png",
+                                                                                "imageId": 1117,
+                                                                                "imageWidthAttribute": 45,
+                                                                                "imageHeightAttribute": 45,
+                                                                                "imageHeight": 48,
+                                                                                "imageWidth": 48,
+                                                                                "imageShape": "circle",
+                                                                                "imageWidthUnit": "px"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ],
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "9c6a5ff",
+                                                                        "contentAlign": "left"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/heading",
+                                                                            {
+                                                                                "uniqueId": "e4ce3f1",
+                                                                                "blockMargin": {
+                                                                                    "bottom": 0
+                                                                                },
+                                                                                "textRemoveTextMargins": true,
+                                                                                "textColorClass": "has-stk-global-color-51431-color",
+                                                                                "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                                                                "text": "Justin Franci",
+                                                                                "textTag": "h5",
+                                                                                "anchor": "justin-franci"
+                                                                            },
+                                                                            []
+                                                                        ],
+                                                                        [
+                                                                            "stackable/subtitle",
+                                                                            {
+                                                                                "uniqueId": "4d3a94c",
+                                                                                "textColorClass": "has-stk-global-color-92072-color",
+                                                                                "textColor1": "var(--stk-global-color-92072, #190f33)",
+                                                                                "text": "Title &amp; Position"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/columns",
+                                    {
+                                        "uniqueId": "0fe6236",
+                                        "blockBackgroundColor": "#e8f5ff",
+                                        "blockMargin": {
+                                            "bottom": 0
+                                        },
+                                        "columnGap": 20,
+                                        "columnGapMobile": 0,
+                                        "rowGapMobile": 24
+                                    },
+                                    [
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "50cbde4",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#ffffff",
+                                                "blockBorderRadius": 16,
+                                                "blockShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                                "columnSpacing": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "99c3074",
+                                                        "contentAlign": "left",
+                                                        "text": "“<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel pellentesque ut nisl accumsan in. Consequat egestas semper malesuada volutpat cum accumsan ipsum.”",
+                                                        "fontSizeMobile": 16
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/testimonial",
+                                                    {
+                                                        "uniqueId": "a4f913c",
+                                                        "hasContainer": false,
+                                                        "contentAlign": "",
+                                                        "className": "is-style-bubble"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/columns",
+                                                            {
+                                                                "uniqueId": "3774897",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": 24
+                                                                },
+                                                                "columnFit": true,
+                                                                "innerBlockContentAlign": "alignfull"
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "17859db",
+                                                                        "columnAlign": "center"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/image",
+                                                                            {
+                                                                                "uniqueId": "a4dfbeb",
+                                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-testimonial-1/91beb23dddde.png",
+                                                                                "imageId": 1117,
+                                                                                "imageWidthAttribute": 45,
+                                                                                "imageHeightAttribute": 45,
+                                                                                "imageHeight": 48,
+                                                                                "imageWidth": 48,
+                                                                                "imageShape": "circle",
+                                                                                "imageWidthUnit": "px"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ],
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "b593a27",
+                                                                        "contentAlign": "left"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/heading",
+                                                                            {
+                                                                                "uniqueId": "69fe6b5",
+                                                                                "blockMargin": {
+                                                                                    "bottom": 0
+                                                                                },
+                                                                                "textRemoveTextMargins": true,
+                                                                                "textColorClass": "has-stk-global-color-51431-color",
+                                                                                "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                                                                "text": "Justin Franci",
+                                                                                "textTag": "h5",
+                                                                                "fontSizeMobile": 16,
+                                                                                "anchor": "justin-franci"
+                                                                            },
+                                                                            []
+                                                                        ],
+                                                                        [
+                                                                            "stackable/subtitle",
+                                                                            {
+                                                                                "uniqueId": "1e5195e",
+                                                                                "textColorClass": "has-stk-global-color-92072-color",
+                                                                                "textColor1": "var(--stk-global-color-92072, #190f33)",
+                                                                                "text": "Title &amp; Position"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/column",
+                                            {
+                                                "uniqueId": "ed557c9",
+                                                "hasBackground": true,
+                                                "blockBackgroundColor": "#ffffff",
+                                                "blockBorderRadius": 16,
+                                                "blockShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                                "columnSpacing": {
+                                                    "top": 24,
+                                                    "right": 24,
+                                                    "bottom": 24,
+                                                    "left": 24
+                                                }
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "0988767",
+                                                        "contentAlign": "left",
+                                                        "text": "“<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel pellentesque ut nisl accumsan in. Consequat egestas semper malesuada volutpat cum accumsan ipsum.”",
+                                                        "fontSizeMobile": 16
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/testimonial",
+                                                    {
+                                                        "uniqueId": "205e043",
+                                                        "hasContainer": false,
+                                                        "contentAlign": "",
+                                                        "className": "is-style-bubble"
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/columns",
+                                                            {
+                                                                "uniqueId": "345cbf2",
+                                                                "blockMargin": {
+                                                                    "top": "",
+                                                                    "right": "",
+                                                                    "bottom": "",
+                                                                    "left": 24
+                                                                },
+                                                                "columnFit": true,
+                                                                "innerBlockContentAlign": "alignfull"
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "6a4baba",
+                                                                        "columnAlign": "center"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/image",
+                                                                            {
+                                                                                "uniqueId": "b02a491",
+                                                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-testimonial-1/91beb23dddde.png",
+                                                                                "imageId": 1117,
+                                                                                "imageWidthAttribute": 45,
+                                                                                "imageHeightAttribute": 45,
+                                                                                "imageHeight": 48,
+                                                                                "imageWidth": 48,
+                                                                                "imageShape": "circle",
+                                                                                "imageWidthUnit": "px"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ],
+                                                                [
+                                                                    "stackable/column",
+                                                                    {
+                                                                        "uniqueId": "bb9dcb6",
+                                                                        "contentAlign": "left"
+                                                                    },
+                                                                    [
+                                                                        [
+                                                                            "stackable/heading",
+                                                                            {
+                                                                                "uniqueId": "4902995",
+                                                                                "blockMargin": {
+                                                                                    "bottom": 0
+                                                                                },
+                                                                                "textRemoveTextMargins": true,
+                                                                                "textColorClass": "has-stk-global-color-51431-color",
+                                                                                "textColor1": "var(--stk-global-color-51431, #1570ef)",
+                                                                                "text": "Justin Franci",
+                                                                                "textTag": "h5",
+                                                                                "fontSizeMobile": 16,
+                                                                                "anchor": "justin-franci"
+                                                                            },
+                                                                            []
+                                                                        ],
+                                                                        [
+                                                                            "stackable/subtitle",
+                                                                            {
+                                                                                "uniqueId": "c691d09",
+                                                                                "textColorClass": "has-stk-global-color-92072-color",
+                                                                                "textColor1": "var(--stk-global-color-92072, #190f33)",
+                                                                                "text": "Title &amp; Position"
+                                                                            },
+                                                                            []
+                                                                        ]
+                                                                    ]
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

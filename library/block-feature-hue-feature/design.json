@@ -1,0 +1,30 @@
+{
+    "id": "block-feature-hue-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "design": "overlap-bg",
+        "containerWidth": 615,
+        "containerOffset": 150,
+        "invert": true,
+        "borderRadius": 0,
+        "shadow": 6,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-hue-feature/image-url.jpg",
+        "imageId": 21,
+        "imageWidth": 1000,
+        "imageHeight": 569,
+        "imageBorderRadius": 0,
+        "imageShadow": 6,
+        "imageShapeStretch": false,
+        "imageBackgroundHeight": 804,
+        "title": "BE THE BEST",
+        "description": "Description for this block. Use this space for describing your block. Any text will do.",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "More",
+        "buttonNewTab": false,
+        "buttonSize": "small",
+        "buttonTextColor": "var(--stk-global-color-47086, #000000)",
+        "buttonBackgroundColor": "var(--stk-global-color-43340, #00e0ff)",
+        "buttonBorderRadius": 0,
+        "align": "wide"
+    }
+}

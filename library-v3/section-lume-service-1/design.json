@@ -1,0 +1,194 @@
+{
+    "id": "section-lume-service-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "57fd0b0",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "columnGap": 56,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7e6fe89"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "fad3f87",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-service-1/cbea7e026588.png",
+                        "imageId": 2401,
+                        "imageWidthAttribute": 64,
+                        "imageHeightAttribute": 64,
+                        "imageHeight": 64,
+                        "imageWidth": 64,
+                        "contentAlign": "left",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "23cd8c5",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Discuss"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4529e66",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "26146e8"
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "bcd5172",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-service-1/879816c6a8be.png",
+                        "imageId": 2402,
+                        "imageWidthAttribute": 64,
+                        "imageHeightAttribute": 64,
+                        "imageHeight": 64,
+                        "imageWidth": 64,
+                        "contentAlign": "left",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8e1d3e2",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Evaluate"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "f915a89",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a639717"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "9fea7c7",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-service-1/3316f0275e11.png",
+                        "imageId": 2400,
+                        "imageWidthAttribute": 64,
+                        "imageHeightAttribute": 64,
+                        "imageHeight": 64,
+                        "imageWidth": 64,
+                        "contentAlign": "left",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "fc634f9",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Assess"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0fd258f",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "b571348"
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "f33cb9c",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-service-1/3f6b81838ff3.png",
+                        "imageId": 2399,
+                        "imageWidthAttribute": 64,
+                        "imageHeightAttribute": 64,
+                        "imageHeight": 64,
+                        "imageWidth": 64,
+                        "contentAlign": "left",
+                        "imageWidthUnit": "px"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3d98d62",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Verify"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "62b1aa9",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

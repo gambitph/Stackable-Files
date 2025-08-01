@@ -1,0 +1,483 @@
+{
+    "id": "section-yule-card-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "450c6f3",
+        "hasBackground": true,
+        "blockBackgroundColor": "#00473d",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "502ddb0"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "369555f",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "DM Serif Display",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Gift Packages",
+                        "textTag": "h1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "0a5a497",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c978522"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e1938e7"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "7c4cd17",
+                                        "containerBackgroundColor": "#013e36",
+                                        "containerBorderType": "solid",
+                                        "containerBorderColor": "#02332c",
+                                        "containerBorderWidth": {
+                                            "top": 1,
+                                            "right": 1,
+                                            "bottom": 1,
+                                            "left": 1
+                                        },
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "c20f276",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-card-1/a4d6904e0188.jpg",
+                                                "imageId": 1276,
+                                                "imageWidthAttribute": 1920,
+                                                "imageHeightAttribute": 1280
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "2f21a74",
+                                                "customAttributes": [],
+                                                "fontSize": 24,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Gift Wrapping 1",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "c704794"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "f42de6f",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "6e6c703",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "9",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "43f343e",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "799e37c",
+                                                "fontSize": 16,
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "With free gift tag"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "a794a25"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "70d00f0",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#00c279",
+                                                        "buttonBorderRadius": 8,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Source Sans Pro",
+                                                        "text": "Buy Now",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "9c013ad",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": " Description for this block. You can use this space for describing your block. "
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e1c42aa"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "4db7a7c",
+                                        "containerBackgroundColor": "#013e36",
+                                        "containerBorderType": "solid",
+                                        "containerBorderColor": "#02332c",
+                                        "containerBorderWidth": {
+                                            "top": 1,
+                                            "right": 1,
+                                            "bottom": 1,
+                                            "left": 1
+                                        },
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "b2c9eed",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-card-1/6a10466aadc4.jpg",
+                                                "imageId": 1277,
+                                                "imageWidthAttribute": 1920,
+                                                "imageHeightAttribute": 1280
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "295f0e7",
+                                                "customAttributes": [],
+                                                "fontSize": 24,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Gift Wrapping 1",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "1046fa1"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "f25896f",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "7a35d9b",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "9",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "72d0e5d",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "185f8c2",
+                                                "fontSize": 16,
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "With free gift tag"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "bee37ac"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "1b40f3e",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#00c279",
+                                                        "buttonBorderRadius": 8,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Source Sans Pro",
+                                                        "text": "Buy Now",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "d0dc8fd",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": " Description for this block. You can use this space for describing your block. "
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "030b2d9"
+                            },
+                            [
+                                [
+                                    "stackable/pricing-box",
+                                    {
+                                        "uniqueId": "597fcf3",
+                                        "containerBackgroundColor": "#013e36",
+                                        "containerBorderType": "solid",
+                                        "containerBorderColor": "#02332c",
+                                        "containerBorderWidth": {
+                                            "top": 1,
+                                            "right": 1,
+                                            "bottom": 1,
+                                            "left": 1
+                                        },
+                                        "className": "is-style-basic"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "ad666bf",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-card-1/0ababe39b124.jpg",
+                                                "imageId": 1278,
+                                                "imageWidthAttribute": 1920,
+                                                "imageHeightAttribute": 1280
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "6360596",
+                                                "customAttributes": [],
+                                                "fontSize": 24,
+                                                "fontFamily": "DM Serif Display",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Gift Wrapping 1",
+                                                "textTag": "h1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/price",
+                                            {
+                                                "uniqueId": "97b1eee"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "accb302",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "$",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "0d53578",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": "9",
+                                                        "innerTextTag": "span",
+                                                        "className": "stk-block-price__price"
+                                                    },
+                                                    []
+                                                ],
+                                                [
+                                                    "stackable/text",
+                                                    {
+                                                        "uniqueId": "6780e79",
+                                                        "htmlTag": "span",
+                                                        "fontFamily": "DM Serif Display",
+                                                        "textColorClass": "has-white-color",
+                                                        "textColor1": "#FFFFFF",
+                                                        "text": ".00",
+                                                        "innerTextTag": "span"
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "b97a930",
+                                                "fontSize": 16,
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "With free gift tag"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/button-group",
+                                            {
+                                                "uniqueId": "93282b7"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/button",
+                                                    {
+                                                        "uniqueId": "e707163",
+                                                        "customAttributes": [],
+                                                        "buttonBackgroundColor": "#00c279",
+                                                        "buttonBorderRadius": 8,
+                                                        "fontSize": 18,
+                                                        "fontFamily": "Source Sans Pro",
+                                                        "text": "Buy Now",
+                                                        "opacityHover": 0.8
+                                                    },
+                                                    []
+                                                ]
+                                            ]
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "c54a5fc",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": " Description for this block. You can use this space for describing your block. "
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

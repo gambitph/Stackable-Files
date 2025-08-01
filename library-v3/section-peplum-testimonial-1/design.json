@@ -1,0 +1,195 @@
+{
+    "id": "section-peplum-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "0e87e11",
+        "hasBackground": true,
+        "blockBackgroundColor": "#b27197",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-testimonial-1/dae6b72659ef.jpg",
+        "blockBackgroundTintStrength": 9,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "452d4af"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ed8a4f1",
+                        "fontSize": 56,
+                        "fontFamily": "Yeseva One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Testimonials"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9e4c1da",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "df31c8f"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9e918be"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "e88bba9",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "35e9ce9",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "5e39dcc",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-testimonial-1/7c69d96594b2.jpg",
+                                                "imageId": 2104,
+                                                "imageWidthAttribute": 1920,
+                                                "imageHeightAttribute": 2400,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "7791f4e",
+                                                "fontFamily": "Yeseva One",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "63f643d",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9ff63c0"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "10b1f23",
+                                        "hasContainer": false,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "19a3b9b",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "7b60605",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-testimonial-1/b3afac46a06f.jpg",
+                                                "imageId": 2105,
+                                                "imageWidthAttribute": 640,
+                                                "imageHeightAttribute": 960,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "138edc1",
+                                                "fontFamily": "Yeseva One",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "0eecf4c",
+                                                "fontSize": 16,
+                                                "fontFamily": "Josefin Sans",
+                                                "textTransform": "uppercase",
+                                                "textColorClass": "has-white-color",
+                                                "textColor1": "#FFFFFF",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

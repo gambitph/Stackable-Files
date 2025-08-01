@@ -1,0 +1,66 @@
+{
+    "id": "section-decora-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "1249d00",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-blog-posts-1/46c3f264708d.jpg",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "contentAlign": "right",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b62f197"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7f5c571",
+                        "fontSize": 56,
+                        "fontFamily": "Nixie One",
+                        "textRemoveTextMargins": true,
+                        "text": "Blog Post 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "8cfe9d2",
+                        "text": "Welcome to My Blog. This is your first post. Edit or delete it, then start blogging!\n\n"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "71f48a5"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "f4ece81",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#fda939",
+                                "fontSize": 18,
+                                "fontFamily": "Ledger",
+                                "text": "Continue Reading"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "id": "section-prime-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a2ba3ba",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 500,
+        "blockVerticalAlign": "center",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "131f6f9"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d9d2ed6",
+                        "fontSize": 56,
+                        "fontFamily": "Inter",
+                        "fontWeight": "200",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Our Customers"
+                    },
+                    []
+                ],
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "3ab9d6e",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "9c4765b",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "2227601",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-testimonial-1/ace5a840311b.jpg",
+                                "imageId": 1784,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageBorderRadius": 90,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "668cdfd",
+                                "fontFamily": "Inter",
+                                "fontWeight": "300",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Edward Winkelman",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "2905c77",
+                                "fontSize": 16,
+                                "fontFamily": "Inter",
+                                "textTransform": "uppercase",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

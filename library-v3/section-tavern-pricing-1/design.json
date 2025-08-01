@@ -1,0 +1,373 @@
+{
+    "id": "section-tavern-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "82517f2",
+        "hasBackground": true,
+        "blockBackgroundColor": "#cbae95",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 64,
+        "rowGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "628e3ad",
+                "containerVerticalAlign": "center",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                }
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "87803f9",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#a2856c",
+                        "text": "Subtitle for this block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "0dd6c1f",
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Milonga",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1c1a1b",
+                        "text": "Our Packages",
+                        "showTopLine": false,
+                        "topLineAlign": "center",
+                        "anchor": "the-art-of-bread-making"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ac460db",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat. Maecenas volutpat enim a nisl tempus malesuada. Aenean arcu leo, porta id pulvinar et, vestibulum nec sem. Suspendisse aliquet dolor iaculis elit luctus, vestibulum ornare nibh blandit. Maecenas aliquet ultrices scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "44cfc63"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "835649f",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "buttonBackgroundColor": "transparent",
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"arrow-right\" class=\"svg-inline--fa fa-arrow-right fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg>",
+                                "iconColor1": "#1c1a1b",
+                                "iconPosition": "right",
+                                "iconSize": 16,
+                                "fontSize": 18,
+                                "fontFamily": "Source Serif Pro",
+                                "textTransform": "capitalize",
+                                "textColor1": "#1c1a1b",
+                                "text": "Send an inquiry",
+                                "buttonBackgroundColorHover": "transparent",
+                                "buttonBackgroundColorParentHover": "transparent",
+                                "iconColor1Hover": "#9b5e32",
+                                "textColor1Hover": "#9b5e32",
+                                "className": "is-style-plain"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9c89db7",
+                "containerVerticalAlign": "center",
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "containerVerticalAlignTablet": "center"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "980f15e",
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "containerBackgroundColor": "#1c1a1b",
+                        "containerShadow": "8px 8px 0px 0px rgba(163, 133, 108, 1)",
+                        "containerPadding": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0
+                        },
+                        "className": "is-style-banner"
+                    },
+                    [
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "12b1396",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#9b5e32",
+                                "blockMargin": {
+                                    "bottom": ""
+                                },
+                                "blockPadding": {
+                                    "top": 8,
+                                    "right": 8,
+                                    "bottom": 8,
+                                    "left": 8
+                                },
+                                "fontSize": 18,
+                                "fontFamily": "Stint Ultra Condensed",
+                                "fontWeight": "500",
+                                "textTransform": "uppercase",
+                                "letterSpacing": 2,
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Bestseller! ",
+                                "textTag": "h4",
+                                "positionNumUnit": "%",
+                                "anchor": "bestseller"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "8209997",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "customAttributes": [],
+                                "fontSize": 32,
+                                "fontFamily": "Milonga",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-stk-global-color-58834-color",
+                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                "text": "Monthly Pass",
+                                "anchor": "the-art-of-bread-making"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/price",
+                            {
+                                "uniqueId": "e738bd3",
+                                "blockMargin": {
+                                    "bottom": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "contentAlign": "left",
+                                "customAttributes": []
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f999f57",
+                                        "customAttributes": [],
+                                        "htmlTag": "span",
+                                        "fontFamily": "Source Serif Pro",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "$",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "63ed646",
+                                        "customAttributes": [],
+                                        "htmlTag": "span",
+                                        "fontFamily": "Source Serif Pro",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": "25",
+                                        "innerTextTag": "span",
+                                        "className": "stk-block-price__price"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ac34ae0",
+                                        "customAttributes": [],
+                                        "htmlTag": "span",
+                                        "fontFamily": "Source Serif Pro",
+                                        "textColorClass": "has-stk-global-color-58834-color",
+                                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                        "text": ".00",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "754cac6",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 8,
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "customAttributes": [],
+                                "contentAlign": "left",
+                                "fontSize": 16,
+                                "fontFamily": "Stint Ultra Condensed",
+                                "textTransform": "uppercase",
+                                "letterSpacing": 2,
+                                "textColor1": "#a2856c",
+                                "text": "Subtitle for This Block"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/divider",
+                            {
+                                "uniqueId": "c61abed",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "width": 100
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "1c5d282",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "contentAlign": "left"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "5c3007c",
+                                        "customAttributes": [],
+                                        "buttonBackgroundColor": "#9b5e32",
+                                        "buttonShadow": "8px 8px 45px 0px rgba(var(--stk-global-color-56986-rgba, 17, 17, 17), 0.3)",
+                                        "fontSize": 18,
+                                        "fontFamily": "Source Serif Pro",
+                                        "textTransform": "capitalize",
+                                        "text": "Purchase Pass"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/icon-list",
+                            {
+                                "contentAlign": "left",
+                                "uniqueId": "c09377e",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": 32,
+                                    "left": ""
+                                },
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "customAttributes": [],
+                                "fontSize": 16,
+                                "fontFamily": "Source Serif Pro",
+                                "textColorClass": "has-stk-global-color-58834-color",
+                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                "text": "<li>Icon list item 1</li><li>Icon list item 2</li><li>Icon list item 3</li>",
+                                "columns": 1,
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"info-circle\" class=\"svg-inline--fa fa-info-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z\"></path></svg>",
+                                "markerColor": "#9b5e32"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

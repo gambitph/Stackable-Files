@@ -1,0 +1,101 @@
+{
+    "id": "section-bean-feature-3",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "7f8aa20",
+        "hasBackground": true,
+        "blockBackgroundColor": "#e2d8c7",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "acc6add",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "e51ccf7",
+                        "customAttributes": [],
+                        "fontSize": 56,
+                        "fontFamily": "Cardo",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#3f2816",
+                        "text": "Title for This Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e6e2bcc",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.  Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "0bec876"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "5d027b6",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#b79066",
+                                "fontSize": 18,
+                                "fontFamily": "Source Sans Pro",
+                                "text": "Button",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "63ae61a",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "dd6d8e3",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bean-feature-3/29fb79951e10.jpg",
+                        "imageId": 1035,
+                        "imageWidthAttribute": 2560,
+                        "imageHeightAttribute": 1433,
+                        "imageHeight": 400
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

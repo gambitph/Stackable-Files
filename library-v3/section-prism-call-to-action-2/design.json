@@ -1,0 +1,135 @@
+{
+    "id": "section-prism-call-to-action-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "b37a3c5",
+        "blockBackgroundColor": "transparent",
+        "blockHorizontalAlign": "center",
+        "blockMargin": {
+            "bottom": 80
+        },
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-call-to-action-2/7e6f05a9d139.png",
+        "containerFixedBackground": true,
+        "containerWidth": 100,
+        "containerHorizontalAlign": "center",
+        "containerPadding": {
+            "top": 240,
+            "right": "",
+            "bottom": 240,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "blockMarginTablet": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "blockMarginMobile": {
+            "bottom": 32
+        },
+        "blockPaddingTablet": {
+            "top": "",
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "containerWidthUnit": "%",
+        "containerPaddingTablet": {
+            "top": 56,
+            "right": "",
+            "bottom": 56,
+            "left": ""
+        },
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "73d79a1",
+                "text": "Product Showcase",
+                "fontSizeMobile": 24,
+                "anchor": "span-style-color-var-stk-global-color-60579-1-c-1-c-1-c-class-stk-highlight-product-showcase-span"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "bbd2b6a",
+                "blockHorizontalAlign": "center",
+                "blockMargin": {
+                    "bottom": ""
+                },
+                "text": "<span class=\"stk-highlight\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc.</span>"
+            },
+            []
+        ],
+        [
+            "stackable/video-popup",
+            {
+                "uniqueId": "78e4638"
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "5001e15",
+                        "contentAlign": "center",
+                        "icon": "<svg data-prefix=\"fas\" data-icon=\"play\" class=\"svg-inline--fa fa-play fa-w-14\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z\"></path></svg>"
+                    },
+                    []
+                ],
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "80023ff",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-call-to-action-2/77e6f81366c5.png",
+                        "imageId": 3754,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 570,
+                        "imageHeight": 570,
+                        "imageWidth": 80
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "47621f9",
+                "blockHorizontalAlign": "center",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis sed aliquam, nunc sit mauris neque, nunc."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "305f5a9"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "2f92897",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "var(--stk-global-color-60579, #1c1c1c)",
+                        "buttonBorderRadius": 50,
+                        "text": "Check it Out"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,323 @@
+{
+    "id": "section-wireframes-blog-posts-4",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d5b221a",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "04dbb22"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "8dac4cb",
+                        "text": "Title for this Section",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "c56aad7",
+                        "blockWidth": 600,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 40,
+                            "left": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu consectetur mauris. Nunc ornare dignissim sagittis. Donec mattis lorem a porta vestibulum."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "8e624d8",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d671479",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "ce46b30",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-4/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "className": "is-style-full"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "5b220cd",
+                                                "text": "Category"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "733138a",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Blog Post 1",
+                                                "textTag": "h3",
+                                                "anchor": "blog-post-1"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "16c72fa",
+                                                "height": 64
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "0b98931",
+                                                "text": "Date published"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3db1049",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "a3bdd91",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-4/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "className": "is-style-full"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "c74bc15",
+                                                "text": "Category"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "7605611",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Blog Post 2",
+                                                "textTag": "h3",
+                                                "anchor": "blog-post-2"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "4e998ef",
+                                                "height": 64
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "f9bd25b",
+                                                "text": "Date published"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1b7cb4d",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "5e07dfc",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-4/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "className": "is-style-full"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "2f1a1ec",
+                                                "text": "Category"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "e92867e",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Blog Post 3",
+                                                "textTag": "h3",
+                                                "anchor": "blog-post-3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "f0d0ce2",
+                                                "height": 64
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "0eccc08",
+                                                "text": "Date published"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2be1239",
+                                "columnWidth": 25,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 50,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "748e54a",
+                                        "containerShadow": "none",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-blog-posts-4/71e0c4bfb3a1.png",
+                                        "imageId": 1306,
+                                        "imageWidthAttribute": 500,
+                                        "imageHeightAttribute": 600,
+                                        "className": "is-style-full"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "1a7d214",
+                                                "text": "Category"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "abe120c",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Blog Post 4",
+                                                "textTag": "h3",
+                                                "anchor": "blog-post-4"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/spacer",
+                                            {
+                                                "uniqueId": "9bb5504",
+                                                "height": 64
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "b1e9874",
+                                                "text": "Date published"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "section-curious-call-to-action-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "52dfcdb",
+        "hasBackground": true,
+        "blockBackgroundColor": "#fcc6df",
+        "blockMargin": {
+            "bottom": 0
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "bfe73d2",
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "ffa1f53",
+                        "blockMargin": {
+                            "bottom": 8
+                        },
+                        "text": "SUBTITLE"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "59e09bf",
+                        "textRemoveTextMargins": true,
+                        "text": "<strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong>",
+                        "fontSizeMobile": 25,
+                        "anchor": "strong-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-strong"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "2742527",
+                        "blockMargin": {
+                            "bottom": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet. Et ratione neque sequi galisum At numquam mollitia. Et accusantium rerum et temporibus cupiditate hic minima inventore est internos galisum id sunt voluptatem sit inventore consequatur.",
+                        "fontSizeMobile": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "3aef5f1"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "addc2fd",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#ffffff",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#000000",
+                                "buttonShadow": "-4px 4px 0px 0px rgba(0,0,0, 1)",
+                                "iconColor1": "#000000",
+                                "iconPosition": "right",
+                                "textColorClass": "has-foreground-color",
+                                "textColor1": "#000000",
+                                "text": "Hire Me"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7101a5d",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#ffffff",
+                                "buttonBorderType": "solid",
+                                "buttonBorderColor": "#000000",
+                                "iconColor1": "#000000",
+                                "iconPosition": "right",
+                                "textColorClass": "has-foreground-color",
+                                "textColor1": "#000000",
+                                "text": "Contact Me"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "db617b8",
+                "positionNum": {
+                    "top": "",
+                    "right": "",
+                    "bottom": -40,
+                    "left": ""
+                },
+                "containerVerticalAlignTablet": "flex-end",
+                "positionNumTablet": {
+                    "top": "",
+                    "right": "",
+                    "bottom": -36,
+                    "left": ""
+                }
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "faad901",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-action-1/7e6f43efd36d.png",
+                        "imageId": 769,
+                        "imageWidthAttribute": 592,
+                        "imageHeightAttribute": 480,
+                        "transform": "translateY(-4px)",
+                        "positionNumMobile": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 12,
+                            "left": ""
+                        }
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

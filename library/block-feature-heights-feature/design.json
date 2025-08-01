@@ -1,0 +1,19 @@
+{
+    "id": "block-feature-heights-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-heights-feature/image-url.jpg",
+        "imageId": 13,
+        "imageWidth": 369,
+        "imageHeight": 656,
+        "title": "Feature Block",
+        "titleTag": "h2",
+        "buttonFontFamily": "Sans-Serif",
+        "buttonFontSize": 18,
+        "buttonNewTab": false,
+        "buttonBackgroundColor": "var(--stk-global-color-4603, #313131)",
+        "buttonBorderRadius": 0,
+        "align": "wide",
+        "tabletContentAlign": "left"
+    }
+}

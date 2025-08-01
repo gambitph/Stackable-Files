@@ -1,0 +1,73 @@
+{
+    "id": "section-cary-call-to-action-1",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "b6e1edf",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-cary-call-to-action-1/2e3961a2c5e8.jpeg",
+        "blockHeight": 700,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "367ea70",
+                "fontSize": 64,
+                "fontFamily": "Roboto",
+                "fontWeight": "300",
+                "textRemoveTextMargins": true,
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "d744664",
+                "blockWidth": 590,
+                "blockHorizontalAlign": "flex-start",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2e5553b"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "de63691",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 24,
+                            "bottom": "",
+                            "left": 24
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "fontSize": 18,
+                        "fontFamily": "Sans-Serif",
+                        "textColorClass": "has-black-color",
+                        "textColor1": "#000000",
+                        "text": "Try Now",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

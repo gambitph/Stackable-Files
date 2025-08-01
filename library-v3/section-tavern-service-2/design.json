@@ -1,0 +1,411 @@
+{
+    "id": "section-tavern-service-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "14696bf",
+        "hasBackground": true,
+        "blockBackgroundColor": "#cbae95",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f653bfb"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "left",
+                        "uniqueId": "7b9133c",
+                        "customAttributes": [],
+                        "fontSize": 64,
+                        "fontFamily": "Milonga",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#1c1a1b",
+                        "text": "Our Upcoming Events",
+                        "anchor": "the-art-of-bread-making"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "33b30d7",
+                        "blockWidth": 700,
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat. Maecenas volutpat enim a nisl tempus malesuada. Aenean arcu leo, porta id pulvinar et, vestibulum nec sem."
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "0e0706e",
+                        "color": "#a2856c",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "6965ef6",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "columnGap": 64,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "bf18d29",
+                                "columnWidth": 5,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 10,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "076fdfb",
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "text": "1",
+                                        "shapeBackgroundColor": "#a2856c",
+                                        "shapeShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "shapeSize": 72
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f3be682",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 95,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 90,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "8f2f662",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Event Name #1",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "af10322",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#1c1a1b",
+                        "text": "March 23, 2022 | 5:00PM"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "594a1f1",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat. Maecenas volutpat enim a nisl tempus malesuada. Aenean arcu leo, porta id pulvinar et, vestibulum nec sem."
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "811b261",
+                        "color": "#a2856c",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "e5941c8",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "columnGap": 64,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "985de37",
+                                "columnWidth": 5,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 10,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "62c56cf",
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "text": "2",
+                                        "shapeBackgroundColor": "#a2856c",
+                                        "shapeShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "shapeSize": 72
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "97c5510",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 95,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 90,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "465cc8f",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Event Name #2",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "7489a76",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#1c1a1b",
+                        "text": "March 23, 2022 | 5:00PM"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "bbc99e8",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat. Maecenas volutpat enim a nisl tempus malesuada. Aenean arcu leo, porta id pulvinar et, vestibulum nec sem."
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "8011e4f",
+                        "color": "#a2856c",
+                        "width": 100
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "ddfd55c",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "columnGap": 64,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "7158d9c",
+                                "columnWidth": 5,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 10,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "5c1d59d",
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "text": "3",
+                                        "shapeBackgroundColor": "#a2856c",
+                                        "shapeShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "shapeSize": 72
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d9ff203",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 95,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "columnWidthTablet": 90,
+                                "columnAdjacentCountTablet": 2
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "left",
+                                        "uniqueId": "c8831d3",
+                                        "customAttributes": [],
+                                        "fontSize": 32,
+                                        "fontFamily": "Milonga",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#1c1a1b",
+                                        "text": "Event Name #3",
+                                        "anchor": "the-art-of-bread-making"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "97c05bb",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 8,
+                            "left": ""
+                        },
+                        "customAttributes": [],
+                        "fontSize": 16,
+                        "fontFamily": "Stint Ultra Condensed",
+                        "textTransform": "uppercase",
+                        "letterSpacing": 2,
+                        "textColor1": "#1c1a1b",
+                        "text": "March 23, 2022 | 5:00PM"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9c5530e",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies faucibus leo non placerat. Maecenas volutpat enim a nisl tempus malesuada. Aenean arcu leo, porta id pulvinar et, vestibulum nec sem."
+                    },
+                    []
+                ],
+                [
+                    "stackable/divider",
+                    {
+                        "uniqueId": "926663b",
+                        "color": "#a2856c",
+                        "width": 100
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

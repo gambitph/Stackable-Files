@@ -1,0 +1,40 @@
+{
+    "id": "section-heights-lists-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3a9e83b",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "290c2c3"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "02f23d7",
+                        "fontFamily": "Inter",
+                        "fontWeight": "bold",
+                        "textColor1": "#313131",
+                        "text": "Icon List Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "c1b5309",
+                        "blockWidth": 600,
+                        "text": "<li>List Item 1</li><li>List Item 2</li><li>List Item 3</li><li>List Item 4 </li><li>List Item 5</li><li>List Item 6</li><li>List Item 7</li><li>List Item 8</li><li>List Item 9</li>",
+                        "columns": 3
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

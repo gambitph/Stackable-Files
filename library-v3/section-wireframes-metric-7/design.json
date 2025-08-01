@@ -1,0 +1,163 @@
+{
+    "id": "section-wireframes-metric-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a406430",
+        "blockMargin": {
+            "bottom": ""
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7544694",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "e91cea6",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-metric-7/bc2db1b1ec0d.png",
+                        "imageId": 896,
+                        "imageWidthAttribute": 578,
+                        "imageHeightAttribute": 871,
+                        "imageHeight": 480
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8f854e8",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "fc45ec7",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "text": "1200+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "f18f74c",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor",
+                        "textTag": "h5",
+                        "anchor": "lorem-ipsum-dolor"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "36b3fa6",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "aead09f",
+                "columnAlign": "center",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "dd44d81",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "text": "1200+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "9b555b7",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor",
+                        "textTag": "h5",
+                        "anchor": "lorem-ipsum-dolor"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "446d2d0",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1c1bb69",
+                "columnAlign": "flex-end",
+                "customAttributes": []
+            },
+            [
+                [
+                    "stackable/count-up",
+                    {
+                        "uniqueId": "4e066b0",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "text": "1200+"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3182a33",
+                        "blockMargin": {
+                            "bottom": 16
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Lorem ipsum dolor",
+                        "textTag": "h5",
+                        "anchor": "lorem-ipsum-dolor"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5f55b53",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat a lacus nec porttitor."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

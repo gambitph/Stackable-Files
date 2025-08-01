@@ -1,0 +1,32 @@
+{
+    "id": "block-feature-decora-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "imageColumnWidth": 65,
+        "imageColumnTabletWidth": 1,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-decora-feature/image-url.jpg",
+        "imageSize": "full",
+        "imageId": 12,
+        "imageWidth": 800,
+        "imageHeight": 533,
+        "imageBorderRadius": 0,
+        "imageShadow": 0,
+        "title": "REACH THE TOP",
+        "titleTag": "h2",
+        "description": "Description for this block. Use this space for describing your block. Any text will do. ",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Learn More",
+        "buttonNewTab": false,
+        "buttonDesign": "basic",
+        "buttonSize": "normal",
+        "buttonTextColor": "var(--stk-global-color-10299, #ffffff)",
+        "buttonBackgroundColor": "var(--stk-global-color-15876, #fda939)",
+        "buttonBorderRadius": 0,
+        "buttonShadow": 0,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "contentAlign": "center",
+        "tabletContentAlign": "center"
+    }
+}

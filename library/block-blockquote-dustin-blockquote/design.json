@@ -1,0 +1,28 @@
+{
+    "id": "block-blockquote-dustin-blockquote",
+    "name": "ugb/blockquote",
+    "attributes": {
+        "design": "centered-quote",
+        "quoteIcon": "square-modern",
+        "quoteOpacity": 0.6,
+        "quoteColor": "#ff8800",
+        "quoteSize": 170,
+        "quoteMobileY": 20,
+        "text": "Try not to become a man of success. Rather become a man of value.<br><br>- Albert Einstein",
+        "textFontFamily": "Merriweather",
+        "textFontSize": 26,
+        "textColor": "#ffffff",
+        "paddingTop": 15,
+        "paddingBottom": 15,
+        "paddingUnit": "%",
+        "tabletBlockWidth": 90,
+        "mobileBlockWidth": 100,
+        "tabletBlockWidthUnit": "%",
+        "mobileBlockWidthUnit": "%",
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-dustin-blockquote/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundTintStrength": 4
+    }
+}

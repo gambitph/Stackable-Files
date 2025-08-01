@@ -1,0 +1,126 @@
+{
+    "id": "section-lume-image-gallery-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "4588ecc",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a4d0c94",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-image-gallery-1/38ee867c8751.jpg",
+                "containerHeight": 400,
+                "containerBackgroundColorHover": "#000000",
+                "containerBackgroundTintStrengthHover": 7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "6bd72d1",
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "559b433",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "c0b1ccc",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-image-gallery-1/d4f16dda77af.jpg",
+                "containerHeight": 400,
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#000000",
+                "containerBackgroundTintStrengthHover": 7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "08bcb0f",
+                        "customAttributes": [],
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d22b369",
+                        "customAttributes": [],
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "46f96a8",
+                "hasContainer": true,
+                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-image-gallery-1/f1e56f95b5e6.jpg",
+                "containerHeight": 400,
+                "customAttributes": [],
+                "containerBackgroundColorHover": "#000000",
+                "containerBackgroundTintStrengthHover": 7
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "a294eac",
+                        "customAttributes": [],
+                        "fontFamily": "Unica One",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Image 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b266574",
+                        "customAttributes": [],
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

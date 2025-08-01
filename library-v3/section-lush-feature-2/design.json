@@ -1,0 +1,108 @@
+{
+    "id": "section-lush-feature-2",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "5898f9f",
+        "hasBackground": true,
+        "blockBackgroundColor": "#66826b",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "blockPadding": {
+            "top": 24,
+            "right": "",
+            "bottom": "",
+            "left": ""
+        },
+        "topSeparatorShow": true,
+        "topSeparatorDesign": "wave-3",
+        "topSeparatorHeight": 125,
+        "topSeparatorWidth": 1.7,
+        "topSeparatorLayer2Show": true,
+        "topSeparatorLayer2Opacity": 0.2,
+        "topSeparatorLayer3Show": true,
+        "topSeparatorLayer3Opacity": 0.2,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8e7e159",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "5700427",
+                        "fontFamily": "Lora",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for This Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "a40184a",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "73df808"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "a91132b",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#be9743",
+                                "fontSize": 18,
+                                "fontFamily": "Alice",
+                                "text": "Button Text"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "8cc2c5b",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "b80184d",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lush-feature-2/668e2b478770.jpg",
+                        "imageId": 2112,
+                        "imageWidthAttribute": 1024,
+                        "imageHeightAttribute": 898,
+                        "imageShape": "blob1"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

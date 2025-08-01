@@ -1,0 +1,149 @@
+{
+    "id": "section-lume-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "3591857",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1754b0e"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "20718c7",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "91d7160",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "11b4433",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-testimonial-1/c6f5e2a89b13.jpg",
+                                "imageId": 2138,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "5632829",
+                                "fontFamily": "Unica One",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "4e117fc",
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "eed0d3d"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "06563fa",
+                        "hasContainer": false,
+                        "className": "is-style-default"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "62bd866",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "861d7ce",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lume-testimonial-1/de3ff374f0ae.jpg",
+                                "imageId": 2139,
+                                "imageWidthAttribute": 800,
+                                "imageHeightAttribute": 800,
+                                "imageHeight": 75,
+                                "imageWidth": 75,
+                                "imageShape": "square",
+                                "imageWidthUnit": "px"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "1bf1038",
+                                "fontFamily": "Unica One",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Name",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/subtitle",
+                            {
+                                "uniqueId": "1b2cd53",
+                                "fontSize": 16,
+                                "fontFamily": "Merriweather",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Position"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

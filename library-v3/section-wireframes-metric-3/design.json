@@ -1,0 +1,243 @@
+{
+    "id": "section-wireframes-metric-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e2d6e65",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "67cdff1"
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "b151854",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 16,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "iconSize": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "f3186fd",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "b567c69"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2467249",
+                                "containerBorderType": "solid",
+                                "containerBorderWidth": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                },
+                                "containerBorderWidthMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "695901a",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "text": "1,200+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "c6eb05e",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "contentAlign": "center",
+                                        "text": "Subtitle for this Countup"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "c1b42f9",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "cad089c",
+                                "containerBorderType": "solid",
+                                "containerBorderWidth": {
+                                    "top": 0,
+                                    "right": "",
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                },
+                                "containerBorderWidthMobile": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "513f618",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "text": "2,000"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "60886a9",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "contentAlign": "center",
+                                        "text": "Subtitle for this Countup"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "770906d",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e53a051",
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "contentAlign": "center",
+                                        "uniqueId": "ff926fb",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 4,
+                                            "left": ""
+                                        },
+                                        "text": "3,500+"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/subtitle",
+                                    {
+                                        "uniqueId": "832b5ef",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "contentAlign": "center",
+                                        "text": "Subtitle for this Countup"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "23c3000",
+                                        "contentAlign": "center",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem "
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

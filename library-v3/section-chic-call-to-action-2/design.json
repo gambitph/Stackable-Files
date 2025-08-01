@@ -1,0 +1,73 @@
+{
+    "id": "section-chic-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "8b4cb35",
+        "containerBackgroundColorType": "gradient",
+        "containerBackgroundColor": "#ffa1df",
+        "containerBackgroundColor2": "#f28e18",
+        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-chic-call-to-action-2/a04b846c7e08.jpg",
+        "containerBackgroundTintStrength": 9,
+        "containerBorderRadius": 24,
+        "containerHeight": 500,
+        "containerVerticalAlign": "center",
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "91807a9",
+                "fontSize": 48,
+                "fontFamily": "DM Serif Display",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Call to Action",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "06a3f52",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "4d49940"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "656c245",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#FFFFFF",
+                        "buttonBorderRadius": 50,
+                        "fontSize": 16,
+                        "fontFamily": "Roboto",
+                        "textTransform": "uppercase",
+                        "textColor1": "#f28e18",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

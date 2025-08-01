@@ -1,0 +1,49 @@
+{
+    "id": "section-upland-hero-1",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "eedd62c",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-upland-hero-1/b62e147d8441.jpg",
+        "blockHeight": 900,
+        "hasContainer": false,
+        "contentAlign": "left",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "a917f02",
+                "blockWidth": 690,
+                "fontSize": 72,
+                "fontFamily": "Lato",
+                "fontWeight": "700",
+                "text": "The Way to Achieve Your Dream",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "2c13a90"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "eaf4469",
+                        "buttonBackgroundColor": "#313131",
+                        "fontSize": 18,
+                        "fontFamily": "Lato",
+                        "text": "Learn More",
+                        "opacityHover": 0.8
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

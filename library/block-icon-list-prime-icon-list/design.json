@@ -1,0 +1,17 @@
+{
+    "id": "block-icon-list-prime-icon-list",
+    "name": "ugb/icon-list",
+    "attributes": {
+        "columns": 3,
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-91308, #000000)",
+        "showBlockTitle": true,
+        "blockTitle": "Icon List Block",
+        "blockTitleColor": "var(--stk-global-color-9498, #0693e3)",
+        "showBlockDescription": true,
+        "contentAlign": "center",
+        "mobileContentAlign": "left"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": "block-video-popup-capital-video-popup",
+    "name": "ugb/video-popup",
+    "attributes": {
+        "videoID": "",
+        "height": 630,
+        "borderRadius": 0,
+        "shadow": 0,
+        "playButtonType": "outline",
+        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-capital-video-popup/preview-background-media-url.jpg",
+        "align": "wide",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

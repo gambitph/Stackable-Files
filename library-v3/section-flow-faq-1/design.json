@@ -1,0 +1,880 @@
+{
+    "id": "section-flow-faq-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b860015",
+        "hasBackground": true,
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-faq-1/8011b9eee1f1.png",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "columnGap": 24,
+        "rowGap": 32,
+        "innerBlockContentAlign": "alignwide",
+        "rowGapMobile": 48,
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "4870c21",
+                "columnWidth": 20,
+                "columnAdjacentCount": 2,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 30,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "06c3d16",
+                        "height": 32,
+                        "heightMobile": 0
+                    },
+                    []
+                ],
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "5b79210",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "fontWeight": "bold",
+                        "text": "Jump to section:"
+                    },
+                    []
+                ],
+                [
+                    "stackable/table-of-contents",
+                    {
+                        "uniqueId": "0b8c8e6",
+                        "fontFamily": "Space Grotesk",
+                        "textColorClass": "has-stk-global-color-9296-color",
+                        "textColor1": "var(--stk-global-color-9296, #000000)",
+                        "text": "<li><a href=\"#category-1\">Category 1</a></li><li><a href=\"#this-is-space-for-your-question\">Category 2</a></li><li><a href=\"#this-is-space-for-your-question\">Category 3</a></li>",
+                        "isSmoothScroll": true,
+                        "listType": "decimal-leading-zero",
+                        "iconGap": 8,
+                        "headings": [
+                            {
+                                "content": "Jumpstart Your Investing Journey With Us.",
+                                "level": 1,
+                                "anchor": "jumpstart-your-investing-journey-with-us",
+                                "clientId": "15892216-b828-4a20-ab8d-28e9c35733b0",
+                                "tag": 1,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Organizations that trust us:",
+                                "level": 4,
+                                "anchor": "organizations-that-trust-us",
+                                "clientId": "c5df5925-8750-4968-a72a-9642216ecb7f",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "No Need to Take Our Word for It.",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "34c5370a-565a-45b6-b242-f2ee22877546",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Downloads Per Month",
+                                "level": 4,
+                                "anchor": "downloads-per-month",
+                                "clientId": "e96f3ea6-5cd3-46ba-92fb-53de0ae440b7",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "New Users Per Month",
+                                "level": 4,
+                                "anchor": "new-users-per-month",
+                                "clientId": "b424ff8e-b982-4c03-8ff8-8bcd5af4df9e",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "5 Star Reviews",
+                                "level": 4,
+                                "anchor": "5-star-reviews",
+                                "clientId": "0df0f863-7002-44a1-97a7-a2bbcd31a20c",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Our App's Features",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "fb1c13cd-6d8b-4e91-ab07-191da0380bf5",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Our App's Features",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "eb8802b5-a2bc-40a5-8e86-e0e08bf3eed8",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 1",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "d613eff5-2d56-4748-aa4f-cfab2c867ad8",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 2",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "769d1936-b007-4f0c-a6ce-075e4c0a6201",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 3",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "dc3e7c3c-5f4d-4f2a-b73e-bad9b5f09518",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 4",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "c8bcc253-09eb-4e54-9ce3-5d22ccf179a4",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 5",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "8dabed86-7056-4211-aee2-3b45dfa9503f",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 6",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "12c0aa6a-4744-4aa7-8733-d5ac26931fa0",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 7",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "a5055700-0a04-46ed-b4df-b8d7a713fa7c",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Feature 8",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "34c81a80-1abd-4c79-9c72-220efe8f3f2e",
+                                "tag": 4,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Achieve More With Our Premium Plans.",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "7aa74e0e-9167-4993-a4b3-5fee2e825835",
+                                "tag": 2,
+                                "isExcluded": false
+                            },
+                            {
+                                "content": "Free",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "c02aa534-a362-448c-a11a-c7aba6ff33bf",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Personal",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "604e11ee-4720-4f81-905d-f574f08580bf",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Business",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "ad5f1c6f-9727-409e-9225-9b920771ac30",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Enterprise",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "936ffd6f-c390-4430-bd3b-ae534c3b537e",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Frequently Asked Questions",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "6ff62975-07df-4c0c-a003-a0eb222c46e0",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Category 1",
+                                "level": 5,
+                                "anchor": "category-1",
+                                "clientId": "aacfa16a-e92a-44c5-b295-bd981c4c312a",
+                                "tag": 5
+                            },
+                            {
+                                "content": "This is space for your question.",
+                                "level": 4,
+                                "anchor": "this-is-space-for-your-question",
+                                "clientId": "31ee5c4a-c13e-48bc-b89a-dcabe61249d3",
+                                "tag": 4
+                            },
+                            {
+                                "content": "This is space for your question.",
+                                "level": 4,
+                                "anchor": "this-is-space-for-your-question",
+                                "clientId": "6b0a2062-da10-46eb-9d4e-37ba7d6bc96f",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Category 2",
+                                "level": 5,
+                                "anchor": "this-is-space-for-your-question",
+                                "clientId": "151c2dd0-b4df-4311-8077-a275475418fd",
+                                "tag": 5
+                            },
+                            {
+                                "content": "This is space for your question.",
+                                "level": 4,
+                                "anchor": "this-is-space-for-your-question",
+                                "clientId": "2cf49bd9-1ff9-4c3e-b811-ddeb059e8812",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Category 3",
+                                "level": 5,
+                                "anchor": "this-is-space-for-your-question",
+                                "clientId": "50d1c620-424e-4573-ad4e-366d2ceade2f",
+                                "tag": 5
+                            },
+                            {
+                                "content": "This is space for your question.",
+                                "level": 4,
+                                "anchor": "this-is-space-for-your-question",
+                                "clientId": "002ae567-a66e-427c-9c11-8a088706c3eb",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Hear From Our Customers",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "46744d78-a0f8-411f-843c-8a174be8ed42",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Natalie Thompson",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "136d3509-7639-444a-bab3-a5ccf9568ca6",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Richard Diaz",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "f46b3bca-09c9-4111-b6eb-78384f25b4bd",
+                                "tag": 4
+                            },
+                            {
+                                "content": "March Miranda",
+                                "level": 4,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "3cbccea1-8f14-405f-af78-15346d3af8cf",
+                                "tag": 4
+                            },
+                            {
+                                "content": "Meet the Team Behind the Flow App",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "77663798-a0fc-426f-a946-d730527b1f9b",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Name",
+                                "level": 3,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "f952a183-acd4-4a56-b56f-5cd5003cd241",
+                                "tag": 3
+                            },
+                            {
+                                "content": "Name",
+                                "level": 3,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "f4c3683c-7526-40fd-a13c-84e5abc55373",
+                                "tag": 3
+                            },
+                            {
+                                "content": "Name",
+                                "level": 3,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "4798f6cf-66ea-4131-a759-93f92e2e3704",
+                                "tag": 3
+                            },
+                            {
+                                "content": "Name",
+                                "level": 3,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "627369da-0139-4377-a2cc-6d6cb490aaec",
+                                "tag": 3
+                            },
+                            {
+                                "content": "Contact Our Team!",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "e65e94c0-2a87-476c-8550-2692778359b9",
+                                "tag": 2
+                            },
+                            {
+                                "content": "Try Out the App Today.",
+                                "level": 2,
+                                "anchor": "no-need-to-take-our-word-for-it",
+                                "clientId": "edf32f6c-9bc1-4164-88df-60315e6095c5",
+                                "tag": 2
+                            },
+                            {
+                                "content": "30-day free trial for new users",
+                                "level": 6,
+                                "anchor": "30-day-free-trial-for-new-users",
+                                "clientId": "607f2260-16ef-40e7-880a-b48d2109cd12",
+                                "tag": 6
+                            },
+                            {
+                                "content": "14-day money back guarantee",
+                                "level": 6,
+                                "anchor": "14-day-money-back-guarantee",
+                                "clientId": "456ff399-f12e-4f3c-b50c-cccf0873b0e7",
+                                "tag": 6
+                            }
+                        ],
+                        "includeH2": false,
+                        "includeH3": false,
+                        "includeH4": false,
+                        "includeH6": false
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2403c30",
+                "columnWidth": 80,
+                "columnAdjacentCount": 2,
+                "columnSpacing": {
+                    "top": 0,
+                    "right": 0,
+                    "bottom": 0,
+                    "left": 0
+                },
+                "columnWidthTablet": 66.5,
+                "columnAdjacentCountTablet": 2
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "3fbfbbc",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Frequently Asked Questions",
+                        "anchor": "no-need-to-take-our-word-for-it",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        }
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "0d4782c",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Category 1",
+                        "textTag": "h5",
+                        "anchor": "category-1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "18e7652",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-9296, #000000)",
+                        "blockBorderWidth": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 1,
+                            "left": 0
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fbce12e",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "87081c7"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "ac2f7af",
+                                                "fontFamily": "Space Grotesk",
+                                                "hasP": true,
+                                                "text": "This is space for your question.",
+                                                "textTag": "h4",
+                                                "anchor": "this-is-space-for-your-question"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "2817b57",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"times\" class=\"svg-inline--fa fa-times fa-w-11\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 352 512\"><path fill=\"currentColor\" d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-9296, #000000)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1c95f38",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "303808b",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "8a6c0f6",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-9296, #000000)",
+                        "blockBorderWidth": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 1,
+                            "left": 0
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "3ba4f1f",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "54cd588"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "4e133f1",
+                                                "fontFamily": "Space Grotesk",
+                                                "hasP": true,
+                                                "text": "This is space for your question.",
+                                                "textTag": "h4",
+                                                "anchor": "this-is-space-for-your-question"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "aabb854",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"times\" class=\"svg-inline--fa fa-times fa-w-11\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 352 512\"><path fill=\"currentColor\" d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-9296, #000000)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a872db9",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "ed94aad",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "1d2985f",
+                        "height": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "c480e21",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Category 2",
+                        "textTag": "h5",
+                        "anchor": "this-is-space-for-your-question"
+                    },
+                    []
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "007e0f6",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-9296, #000000)",
+                        "blockBorderWidth": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 1,
+                            "left": 0
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "anchor": "this-is-space-for-your-question",
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9980463",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "3dd5a5d"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "41bca8a",
+                                                "fontFamily": "Space Grotesk",
+                                                "hasP": true,
+                                                "text": "This is space for your question.",
+                                                "textTag": "h4",
+                                                "anchor": "this-is-space-for-your-question"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "ab51441",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"times\" class=\"svg-inline--fa fa-times fa-w-11\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 352 512\"><path fill=\"currentColor\" d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-9296, #000000)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e9fe973",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "a781fc0",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "2d8115e",
+                        "height": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "d8ed7cd",
+                        "customAttributes": [],
+                        "fontFamily": "Space Grotesk",
+                        "textRemoveTextMargins": true,
+                        "text": "Category 3",
+                        "textTag": "h5",
+                        "anchor": "this-is-space-for-your-question"
+                    },
+                    []
+                ],
+                [
+                    "stackable/accordion",
+                    {
+                        "uniqueId": "40558f7",
+                        "blockBorderType": "solid",
+                        "blockBorderColor": "var(--stk-global-color-9296, #000000)",
+                        "blockBorderWidth": {
+                            "top": 0,
+                            "right": 0,
+                            "bottom": 1,
+                            "left": 0
+                        },
+                        "blockPadding": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        },
+                        "anchor": "this-is-space-for-your-question",
+                        "className": "is-style-plain"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "1e9e1a6",
+                                "blockPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "containerPadding": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": ""
+                                },
+                                "htmlTag": "summary",
+                                "templateLock": "insert",
+                                "className": "stk--container-small stk-block-accordion__heading"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "55e5101"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "181209f",
+                                                "fontFamily": "Space Grotesk",
+                                                "hasP": true,
+                                                "text": "This is space for your question.",
+                                                "textTag": "h4",
+                                                "anchor": "this-is-space-for-your-question"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "a04bcac",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus\" class=\"svg-inline--fa fa-plus fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"></path></svg>",
+                                                "icon2": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"times\" class=\"svg-inline--fa fa-times fa-w-11\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 352 512\"><path fill=\"currentColor\" d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-9296, #000000)"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e402cb2",
+                                "containerPadding": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                },
+                                "className": "stk-block-accordion__content"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "7271479",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

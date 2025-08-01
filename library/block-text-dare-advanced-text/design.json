@@ -1,0 +1,31 @@
+{
+    "id": "block-text-dare-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "columns": 3,
+        "reverseTitle": true,
+        "showColumnRule": true,
+        "columnRuleColor": "#ca9a0b",
+        "titleTag": "h1",
+        "title": "",
+        "titleColor": "#313131",
+        "subtitle": "",
+        "subtitleColor": "var(--stk-global-color-23277, #313131)",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis bibendum.",
+        "text2": "Laculis urna id volutpat lacus laoreet non curabitur gravida arcu. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Semper eget duis at tellus at urna condimentum mattis. ",
+        "text3": "Massa placerat duis ultricies lacus sed turpis. Quam quisque id diam vel quam. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus.",
+        "text4": "",
+        "textColor": "var(--stk-global-color-23277, #313131)",
+        "paddingUnit": "%",
+        "blockHeightUnit": "vh",
+        "columnHeight": 180,
+        "columnContentVerticalAlign": "flex-start",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-78615, #f8bd01)",
+        "blockBackgroundBackgroundTintStrength": 7,
+        "contentAlign": "left",
+        "mobileContentAlign": "center"
+    }
+}

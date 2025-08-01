@@ -1,0 +1,90 @@
+{
+    "id": "section-elevate-feature-1",
+    "name": "stackable/feature",
+    "attributes": {
+        "uniqueId": "5ea091d",
+        "innerBlockContentAlign": "alignwide",
+        "hasContainer": true,
+        "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+        "align": "wide",
+        "className": "is-style-default"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "822b384",
+                "columnAlign": "center",
+                "templateLock": "insert"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "743e2c0",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-feature-1/cd2700e50d0b.jpg",
+                        "imageId": 2329,
+                        "imageWidthAttribute": 1200,
+                        "imageHeightAttribute": 1046
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ebdfff5",
+                "containerVerticalAlign": "center",
+                "columnAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "99c0388",
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "Reach Your Dream"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "e5d1920",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "9edad0a"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "a66aefd",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#313131",
+                                "buttonBorderRadius": 50,
+                                "fontSize": 18,
+                                "fontFamily": "Lato",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

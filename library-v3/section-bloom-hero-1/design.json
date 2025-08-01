@@ -1,0 +1,307 @@
+{
+    "id": "section-bloom-hero-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "e696bed",
+        "hasBackground": true,
+        "blockBackgroundColor": "var(--stk-global-color-91842, #b3b1e2)",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-hero-1/fad7e5d32147.png",
+        "blockBackgroundPosition": "top center",
+        "blockBackgroundTintStrength": 7,
+        "blockFixedBackground": false,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "topSeparatorShow": false,
+        "topSeparatorDesign": "curve-3",
+        "topSeparatorHeight": 400,
+        "topSeparatorWidth": 1.7,
+        "topSeparatorShadow": "0px 5px 10px rgba(153, 153, 153, 0.35)",
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "curve-1",
+        "bottomSeparatorHeight": 400,
+        "bottomSeparatorWidth": 1,
+        "bottomSeparatorShadow": "none",
+        "bottomSeparatorInverted": false,
+        "topSeparatorLayer2Show": false,
+        "topSeparatorLayer3Show": false,
+        "innerBlockContentAlign": "alignwide",
+        "topSeparatorHeightTablet": 268,
+        "topSeparatorHeightMobile": 153,
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "5b71d4c"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "cf36ca8",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "blockPadding": {
+                            "top": 80,
+                            "right": "",
+                            "bottom": "",
+                            "left": ""
+                        },
+                        "fontFamily": "Courgette",
+                        "textTransform": "capitalize",
+                        "letterSpacing": -1,
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "textShadow": "2px 2px 4px rgba(0, 0, 0, 0.2)",
+                        "text": "Bringing Farm Fresh Flowers to your doorstep",
+                        "textTag": "h1",
+                        "fontSizeTablet": 70,
+                        "fontSizeMobile": 40
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "5f48f0c",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 32,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "textColorClass": "has-stk-global-color-58834-color",
+                        "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis arcu et nisl vehicula, vitae congue quam euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a7a52b9",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 24,
+                            "left": ""
+                        }
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "97b3894"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "0f5e937",
+                                        "contentAlign": "center",
+                                        "customAttributes": []
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "e253ee7",
+                                                "contentAlign": "left",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fab\" data-icon=\"envira\" class=\"svg-inline--fa fa-envira fa-w-14\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path fill=\"currentColor\" d=\"M0 32c477.6 0 366.6 317.3 367.1 366.3L448 480h-26l-70.4-71.2c-39 4.2-124.4 34.5-214.4-37C47 300.3 52 214.7 0 32zm79.7 46c-49.7-23.5-5.2 9.2-5.2 9.2 45.2 31.2 66 73.7 90.2 119.9 31.5 60.2 79 139.7 144.2 167.7 65 28 34.2 12.5 6-8.5-28.2-21.2-68.2-87-91-130.2-31.7-60-61-118.6-144.2-158.1z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "iconSize": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "5163c21",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "hasP": true,
+                                                "text": "Fresh when delivered",
+                                                "textTag": "h4",
+                                                "fontSizeTablet": 18
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "953ff3a"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "a284a43",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "704c77f",
+                                                "contentAlign": "left",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"cloud-sun\" class=\"svg-inline--fa fa-cloud-sun fa-w-20\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path fill=\"currentColor\" d=\"M575.2 325.7c.2-1.9.8-3.7.8-5.6 0-35.3-28.7-64-64-64-12.6 0-24.2 3.8-34.1 10-17.6-38.8-56.5-66-101.9-66-61.8 0-112 50.1-112 112 0 3 .7 5.8.9 8.7-49.6 3.7-88.9 44.7-88.9 95.3 0 53 43 96 96 96h272c53 0 96-43 96-96 0-42.1-27.2-77.4-64.8-90.4zm-430.4-22.6c-43.7-43.7-43.7-114.7 0-158.3 43.7-43.7 114.7-43.7 158.4 0 9.7 9.7 16.9 20.9 22.3 32.7 9.8-3.7 20.1-6 30.7-7.5L386 81.1c4-11.9-7.3-23.1-19.2-19.2L279 91.2 237.5 8.4C232-2.8 216-2.8 210.4 8.4L169 91.2 81.1 61.9C69.3 58 58 69.3 61.9 81.1l29.3 87.8-82.8 41.5c-11.2 5.6-11.2 21.5 0 27.1l82.8 41.4-29.3 87.8c-4 11.9 7.3 23.1 19.2 19.2l76.1-25.3c6.1-12.4 14-23.7 23.6-33.5-13.1-5.4-25.4-13.4-36-24zm-4.8-79.2c0 40.8 29.3 74.8 67.9 82.3 8-4.7 16.3-8.8 25.2-11.7 5.4-44.3 31-82.5 67.4-105C287.3 160.4 258 140 224 140c-46.3 0-84 37.6-84 83.9z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "iconSize": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "580e9da",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "hasP": true,
+                                                "text": "Sustainably farmed",
+                                                "textTag": "h4",
+                                                "fontSizeTablet": 18
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "b93a37b"
+                            },
+                            [
+                                [
+                                    "stackable/icon-label",
+                                    {
+                                        "uniqueId": "b49f0e5",
+                                        "contentAlign": "center"
+                                    },
+                                    [
+                                        [
+                                            "stackable/icon",
+                                            {
+                                                "uniqueId": "21f3108",
+                                                "contentAlign": "left",
+                                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"pen-nib\" class=\"svg-inline--fa fa-pen-nib fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M136.6 138.79a64.003 64.003 0 0 0-43.31 41.35L0 460l14.69 14.69L164.8 324.58c-2.99-6.26-4.8-13.18-4.8-20.58 0-26.51 21.49-48 48-48s48 21.49 48 48-21.49 48-48 48c-7.4 0-14.32-1.81-20.58-4.8L37.31 497.31 52 512l279.86-93.29a64.003 64.003 0 0 0 41.35-43.31L416 224 288 96l-151.4 42.79zm361.34-64.62l-60.11-60.11c-18.75-18.75-49.16-18.75-67.91 0l-56.55 56.55 128.02 128.02 56.55-56.55c18.75-18.75 18.75-49.15 0-67.91z\"></path></svg>",
+                                                "iconColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "iconSize": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "1fe0432",
+                                                "fontFamily": "Mulish",
+                                                "textColorClass": "has-stk-global-color-58834-color",
+                                                "textColor1": "var(--stk-global-color-58834, #ffffff)",
+                                                "hasP": true,
+                                                "text": "Custom greeting card",
+                                                "textTag": "h4",
+                                                "fontSizeTablet": 18
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4a96ce0",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "contentAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "7ddc19a",
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#b9d55f",
+                                "fontSize": 18,
+                                "fontFamily": "Mulish",
+                                "fontWeight": "500",
+                                "textColor1": "#14504c",
+                                "text": "Shop Now"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/video-popup",
+                    {
+                        "uniqueId": "0cf5f52",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": -150,
+                            "left": ""
+                        },
+                        "ariaLabel": "Play Video"
+                    },
+                    [
+                        [
+                            "stackable/icon",
+                            {
+                                "uniqueId": "2cf61f3",
+                                "contentAlign": "center",
+                                "icon": "<svg aria-hidden=\"true\" data-prefix=\"far\" data-icon=\"play-circle\" class=\"svg-inline--fa fa-play-circle fa-w-16\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"currentColor\" d=\"M371.7 238l-176-107c-15.8-8.8-35.7 2.5-35.7 21v208c0 18.4 19.8 29.8 35.7 21l176-101c16.4-9.1 16.4-32.8 0-42zM504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256z\"></path></svg>",
+                                "iconColor1": "var(--stk-global-color-58834, #ffffff)",
+                                "iconOpacity": 0.8,
+                                "iconSize": 100
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "3eccf85",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-hero-1/bdb33522321a.jpg",
+                                "imageId": 1667,
+                                "imageWidthAttribute": 1920,
+                                "imageHeightAttribute": 1280,
+                                "imageOverlayColor": "var(--stk-global-color-46782, #6865aa)",
+                                "imageOverlayOpacity": 0.6,
+                                "imageHeight": 600,
+                                "imageShadow": "25px 10px 30px rgba(18, 63, 82, 0.3)"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

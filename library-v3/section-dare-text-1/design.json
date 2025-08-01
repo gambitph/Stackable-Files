@@ -1,0 +1,64 @@
+{
+    "id": "section-dare-text-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "98df82c",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f8bd01",
+        "blockHeight": 350,
+        "blockVerticalAlign": "center",
+        "columnGap": 48,
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "47baccf"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "d5ebf6c",
+                        "text": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis bibendum. "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ebb9106"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "4be831c",
+                        "text": " Laculis urna id volutpat lacus laoreet non curabitur gravida arcu. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Semper eget duis at tellus at urna condimentum mattis.  "
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "608c390"
+            },
+            [
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "fd44cbf",
+                        "text": " Massa placerat duis ultricies lacus sed turpis. Quam quisque id diam vel quam. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. "
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

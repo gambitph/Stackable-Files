@@ -1,0 +1,32 @@
+{
+    "id": "block-feature-aurora-feature",
+    "name": "ugb/feature",
+    "attributes": {
+        "design": "overlap-bg2",
+        "containerWidth": 500,
+        "containerOffset": 100,
+        "invert": true,
+        "borderRadius": 0,
+        "shadow": 0,
+        "columnBackgroundColor": "#000000",
+        "columnBackgroundColorOpacity": 1,
+        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-aurora-feature/image-url.jpg",
+        "imageId": 67,
+        "imageWidth": 580,
+        "imageHeight": 387,
+        "imageBackgroundHeight": 650,
+        "title": "The Exploration",
+        "description": "Description for this block. Use this space for describing your block. Any text will do.",
+        "buttonFontFamily": "Poppins",
+        "buttonText": "Explore",
+        "buttonNewTab": false,
+        "buttonSize": "small",
+        "buttonBackgroundColor": "#ffffff",
+        "buttonBorderRadius": 0,
+        "blockHeightUnit": "vh",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000"
+    }
+}

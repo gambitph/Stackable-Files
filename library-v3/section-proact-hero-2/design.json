@@ -1,0 +1,76 @@
+{
+    "id": "section-proact-hero-2",
+    "name": "stackable/hero",
+    "attributes": {
+        "uniqueId": "3ee5554",
+        "hasBackground": true,
+        "blockBackgroundColorType": "gradient",
+        "blockBackgroundColor": "#4c548a",
+        "blockBackgroundColor2": "#dd3334",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-proact-hero-2/222550d4450f.jpg",
+        "blockBackgroundTintStrength": 6,
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "bottomSeparatorShow": true,
+        "bottomSeparatorDesign": "curve-1",
+        "bottomSeparatorShadow": "0px 0 1px rgba(120, 120, 120, 0.5)",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "a26e622",
+                "fontSize": 72,
+                "fontFamily": "Poppins",
+                "fontWeight": "600",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Commitment to Excellence",
+                "textTag": "h1"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "3d58a44",
+                "textColorClass": "has-white-color",
+                "textColor1": "#FFFFFF",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "0370394"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "b27de97",
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ed5f47",
+                        "buttonBorderRadius": 8,
+                        "fontSize": 18,
+                        "fontFamily": "Rubik",
+                        "text": "Learn More"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

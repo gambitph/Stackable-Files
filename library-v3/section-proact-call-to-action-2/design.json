@@ -1,0 +1,68 @@
+{
+    "id": "section-proact-call-to-action-2",
+    "name": "stackable/call-to-action",
+    "attributes": {
+        "uniqueId": "aeb3cf0",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "hasContainer": false,
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/heading",
+            {
+                "uniqueId": "2a65204",
+                "fontSize": 64,
+                "fontFamily": "Poppins",
+                "fontWeight": "600",
+                "textColorType": "gradient",
+                "textColor1": "#4c548a",
+                "textColor2": "#dd3334",
+                "textGradientDirection": 0,
+                "text": "Call to Action Block",
+                "textTag": "h3"
+            },
+            []
+        ],
+        [
+            "stackable/text",
+            {
+                "uniqueId": "3b5b48a",
+                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+            },
+            []
+        ],
+        [
+            "stackable/button-group",
+            {
+                "uniqueId": "9937e15"
+            },
+            [
+                [
+                    "stackable/button",
+                    {
+                        "uniqueId": "cf1ea0f",
+                        "customAttributes": [],
+                        "buttonPadding": {
+                            "top": "",
+                            "right": 32,
+                            "bottom": "",
+                            "left": 32
+                        },
+                        "buttonBackgroundColor": "#ed5f47",
+                        "buttonBorderRadius": 8,
+                        "fontSize": 18,
+                        "fontFamily": "Rubik",
+                        "text": "Contact Us"
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

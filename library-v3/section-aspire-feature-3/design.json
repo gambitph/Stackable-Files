@@ -1,0 +1,87 @@
+{
+    "id": "section-aspire-feature-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a441a12",
+        "hasBackground": true,
+        "blockBackgroundColor": "#091830",
+        "blockHeight": 800,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "b43126d",
+                "hasBackground": true,
+                "blockBackgroundColor": "#3c5070",
+                "containerHeight": 500,
+                "containerVerticalAlign": "center"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "b8fb1cd",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Archivo Black",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "ddfbd4f",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "4e21ed8"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "1202052",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 32,
+                                    "bottom": "",
+                                    "left": 32
+                                },
+                                "buttonBackgroundColor": "#d3fc32",
+                                "fontFamily": "DM Sans",
+                                "textColor1": "#091830",
+                                "text": "Learn More",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "2e7fb54",
+                "hasBackground": true,
+                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aspire-feature-3/ead630e3c815.jpeg"
+            },
+            []
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "block-video-popup-peplum-video-popup",
+    "name": "ugb/video-popup",
+    "attributes": {
+        "videoID": "",
+        "height": 630,
+        "shadow": 0,
+        "playButtonType": "outline",
+        "playButtonSize": 77,
+        "playButtonOpacity": 0.6,
+        "previewBackgroundColor": "var(--stk-global-color-10518, #b27197)",
+        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-peplum-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundTintStrength": 6,
+        "showBlockBackground": true,
+        "blockInnerWidth": "full",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "var(--stk-global-color-15911, #ffeff1)",
+        "blockTitle": "",
+        "blockDescription": ""
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "id": "section-bean-pricing-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "23b88a6",
+        "contentAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "068f664"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "374d2dc",
+                        "fontSize": 56,
+                        "fontFamily": "Cardo",
+                        "textRemoveTextMargins": true,
+                        "textColor1": "#3f2816",
+                        "text": "Title for this Block"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "55dd228",
+                        "text": " Description for this block. Use this space for describing your block. Any text will do. "
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "43dfd4f"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "14d37de"
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "eedb4f5",
+                                        "fontSize": 72,
+                                        "fontFamily": "Cardo",
+                                        "textColor1": "#e2d8c7",
+                                        "text": "$99.99"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "421a621",
+                                        "blockMargin": {
+                                            "top": -80,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "fontSize": 32,
+                                        "fontFamily": "Cardo",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f247865",
+                                        "contentAlign": "right",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "850e3e4"
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "015daf1",
+                                        "fontSize": 72,
+                                        "fontFamily": "Cardo",
+                                        "textColor1": "#e2d8c7",
+                                        "text": "1,234.00"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "6334ed0",
+                                        "blockMargin": {
+                                            "top": -80,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "fontSize": 32,
+                                        "fontFamily": "Cardo",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e03d2f9",
+                                        "contentAlign": "right",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "e7d836a"
+                            },
+                            [
+                                [
+                                    "stackable/count-up",
+                                    {
+                                        "uniqueId": "6567271",
+                                        "fontSize": 72,
+                                        "fontFamily": "Cardo",
+                                        "textColor1": "#e2d8c7",
+                                        "text": "5,678.00"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "3ef51fb",
+                                        "blockMargin": {
+                                            "top": -80,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "fontSize": 32,
+                                        "fontFamily": "Cardo",
+                                        "textRemoveTextMargins": true,
+                                        "text": "Title"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "625df92",
+                                        "contentAlign": "right",
+                                        "text": "Description"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

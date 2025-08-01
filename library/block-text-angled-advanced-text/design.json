@@ -1,0 +1,17 @@
+{
+    "id": "block-text-angled-advanced-text",
+    "name": "ugb/text",
+    "attributes": {
+        "design": "side-title-1",
+        "columns": 3,
+        "showColumnRule": true,
+        "showTitle": true,
+        "subtitle": "",
+        "text4": "",
+        "blockHeight": 64,
+        "blockHeightUnit": "vh",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full"
+    }
+}

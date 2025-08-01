@@ -1,0 +1,156 @@
+{
+    "id": "section-lounge-metric-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "d7e48ed",
+        "hasBackground": true,
+        "blockBackgroundColor": "#f5e8e3",
+        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-lounge-metric-1/8109baff2965.jpg",
+        "blockBackgroundTintStrength": 4,
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full",
+        "blockMargin": {
+            "bottom": ""
+        }
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ad3b498",
+                "hasContainer": true
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "f0fc2ac"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4cd6c95",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "d1b0f29",
+                                        "fontSize": 32,
+                                        "fontFamily": "Playfair Display",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#393f59",
+                                        "text": "Number Box"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "d2ddc90",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "fbf4286",
+                                        "fontFamily": "Playfair Display",
+                                        "textColor1": "#be9d7a",
+                                        "text": "01",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "447dbe6",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "7e47c8a",
+                "hasContainer": true
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "a3637a2"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "f28b3db",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "ad7aac1",
+                                        "fontSize": 32,
+                                        "fontFamily": "Playfair Display",
+                                        "fontWeight": "bold",
+                                        "textRemoveTextMargins": true,
+                                        "textColor1": "#393f59",
+                                        "text": "Number Box"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a46d6f0",
+                                "containerVerticalAlign": "center"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "9a8d47e",
+                                        "fontFamily": "Playfair Display",
+                                        "textColor1": "#be9d7a",
+                                        "text": "02",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "7ebede5",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

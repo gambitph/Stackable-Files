@@ -1,0 +1,30 @@
+{
+    "id": "block-count-up-bean-count-up",
+    "name": "ugb/count-up",
+    "attributes": {
+        "title4": "",
+        "countText4": "",
+        "description4": "",
+        "design": "abstract",
+        "columns": 3,
+        "icon1": "",
+        "icon2": "",
+        "icon3": "",
+        "icon4": "",
+        "iconIcon": "",
+        "numberFontFamily": "Cardo",
+        "numberFontWeight": "500",
+        "numberFontSize": 64,
+        "numberColor": "var(--stk-global-color-21900, #6f4a19)",
+        "titleColor": "var(--stk-global-color-11912, #3f2816)",
+        "paddingTop": 60,
+        "paddingBottom": 60,
+        "align": "wide",
+        "showBlockTitle": true,
+        "blockTitleAlign": "center",
+        "blockTitleColor": "var(--stk-global-color-11912, #3f2816)",
+        "showBlockDescription": true,
+        "blockDescriptionAlign": "center",
+        "blockDescriptionColor": "var(--stk-global-color-21900, #6f4a19)"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "id": "section-wireframes-feature-7",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "7f6bb96",
+        "blockMargin": {
+            "bottom": 100
+        },
+        "innerBlockContentAlign": "alignfull",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3d08ac5"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "182bf5a",
+                        "blockShadow": "0px 70px 90px -20px rgba(72, 73, 121, 0.30)",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-7/b8f581fe71e7.png",
+                        "imageId": 147,
+                        "imageWidthAttribute": 380,
+                        "imageHeightAttribute": 200,
+                        "imageHeightTablet": 400,
+                        "imageHeightMobile": 300,
+                        "imageWidthTablet": 100
+                    },
+                    []
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "1c11090",
+                "containerWidth": 480,
+                "containerVerticalAlign": "center",
+                "columnSpacingMobile": {
+                    "top": 24,
+                    "right": 24,
+                    "bottom": 24,
+                    "left": 24
+                }
+            },
+            [
+                [
+                    "stackable/icon",
+                    {
+                        "uniqueId": "08f5232",
+                        "blockMargin": {
+                            "bottom": 0
+                        },
+                        "iconSize": 32
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "dcb9a9d",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section",
+                        "textTag": "h3",
+                        "anchor": "title-for-this-section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "b7e67cb",
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                        "fontSizeTablet": 16
+                    },
+                    []
+                ],
+                [
+                    "stackable/icon-list",
+                    {
+                        "uniqueId": "551912b",
+                        "text": "<li>Feature 1</li><li>Feature 2</li><li>Feature 3</li><li>Feature 4</li>",
+                        "rowGap": 16
+                    },
+                    []
+                ]
+            ]
+        ]
+    ]
+}

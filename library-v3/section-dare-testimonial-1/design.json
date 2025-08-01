@@ -1,0 +1,223 @@
+{
+    "id": "section-dare-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8e1ed0c",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a860654"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "571683d",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "3d904b3",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#f8bd01",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-3d904b3.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "f573881",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "2e2095f"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "78003ea",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-testimonial-1/eedf8b133fd0.jpg",
+                                                "imageId": 2161,
+                                                "imageWidthAttribute": 400,
+                                                "imageHeightAttribute": 400,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "e6ecae9",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "db00ffa",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Poppins",
+                                                "fontWeight": "900",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "9b3775a",
+                                                "fontSize": 16,
+                                                "fontFamily": "Poppins",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3b4ae5a"
+            },
+            [
+                [
+                    "stackable/testimonial",
+                    {
+                        "uniqueId": "9272951",
+                        "hasContainer": false,
+                        "contentAlign": "",
+                        "className": "is-style-bubble"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "78b1f7e",
+                                "hasBackground": true,
+                                "blockBackgroundColor": "#f8bd01",
+                                "customCSS": ".stk-block-text::after {\n\tcontent: \"\";\n\twidth: 16px;\n\theight: 16px;\n\tbackground-color: inherit;\n\tposition: absolute;\n\tbottom: -8px;\n\tleft: 64px;\n\ttransform: rotate(45deg)\n}",
+                                "customCSSMinified": ".stk-78b1f7e.stk-block-text::after{content:\"\" !important;width:16px !important;height:16px !important;background-color:inherit !important;position:absolute !important;bottom:-8px !important;left:64px !important;transform:rotate(45deg) !important}",
+                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block.",
+                                "className": "stk-block-testimonial__text"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/columns",
+                            {
+                                "uniqueId": "864b6ca",
+                                "blockMargin": {
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "columnFit": true,
+                                "innerBlockContentAlign": "alignfull"
+                            },
+                            [
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "8380858"
+                                    },
+                                    [
+                                        [
+                                            "stackable/image",
+                                            {
+                                                "uniqueId": "44c4e8a",
+                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dare-testimonial-1/d65ad95bc8ef.jpg",
+                                                "imageId": 2160,
+                                                "imageWidthAttribute": 600,
+                                                "imageHeightAttribute": 600,
+                                                "imageHeight": 75,
+                                                "imageWidth": 75,
+                                                "imageShape": "circle",
+                                                "imageWidthUnit": "px"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ],
+                                [
+                                    "stackable/column",
+                                    {
+                                        "uniqueId": "a22bea3",
+                                        "contentAlign": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "ae2e9fa",
+                                                "blockMargin": {
+                                                    "bottom": 0
+                                                },
+                                                "fontFamily": "Poppins",
+                                                "fontWeight": "900",
+                                                "textTransform": "uppercase",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "d286572",
+                                                "fontSize": 16,
+                                                "fontFamily": "Poppins",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

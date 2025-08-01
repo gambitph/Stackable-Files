@@ -1,0 +1,144 @@
+{
+    "id": "section-lume-service-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "faf4bdf",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "blockHeight": 600,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "f86b048"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "75a58ca",
+                        "fontFamily": "Unica One",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Follow these Steps"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "5ce1f5e",
+                        "columnGap": 80
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "686dc98"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "e0b29f5",
+                                        "fontSize": 120,
+                                        "fontFamily": "Unica One",
+                                        "textColor1": "#37cdc0",
+                                        "text": "01",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "3393b20",
+                                        "blockMargin": {
+                                            "top": -96,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Unica One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "First Step"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4d285ea",
+                                        "contentAlign": "right",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "0bd969c"
+                            },
+                            [
+                                [
+                                    "stackable/number-box",
+                                    {
+                                        "uniqueId": "22515ee",
+                                        "fontSize": 120,
+                                        "fontFamily": "Unica One",
+                                        "textColor1": "#37cdc0",
+                                        "text": "02",
+                                        "hasShape": false
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "contentAlign": "right",
+                                        "uniqueId": "c03c650",
+                                        "blockMargin": {
+                                            "top": -96,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "fontFamily": "Unica One",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Second Step"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "0b4fbea",
+                                        "contentAlign": "right",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

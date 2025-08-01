@@ -1,0 +1,17 @@
+{
+    "id": "block-accordion-lounge-accordion",
+    "name": "ugb/accordion",
+    "attributes": {
+        "design": "line-colored",
+        "borderRadius": 0,
+        "shadow": 6,
+        "title": "Accordion Title",
+        "titleFontFamily": "Playfair Display",
+        "titleLetterSpacing": 1.5,
+        "titleFontSize": 30,
+        "titleMobileFontSize": 25,
+        "titleColor": "#393f59",
+        "arrowColor": "#393f59",
+        "borderColor": "#d2b18e"
+    }
+}

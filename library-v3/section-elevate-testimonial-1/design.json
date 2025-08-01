@@ -1,0 +1,191 @@
+{
+    "id": "section-elevate-testimonial-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "0c3845e",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "16a644b"
+            },
+            [
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "ee51f23",
+                        "customAttributes": [],
+                        "fontFamily": "Lato",
+                        "fontWeight": "bold",
+                        "text": "What Our Customers Have to Say"
+                    },
+                    []
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "d61a547"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "67566a7"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "d12594d",
+                                        "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "67ad544",
+                                                "contentAlign": "left",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "d70f241",
+                                                "fontFamily": "Lato",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "1c4d4b7",
+                                                "fontSize": 16,
+                                                "fontFamily": "Lato",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "29aa67d"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "741e519",
+                                        "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "0a98a73",
+                                                "contentAlign": "left",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "1c48b0f",
+                                                "fontFamily": "Lato",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "5835790",
+                                                "fontSize": 16,
+                                                "fontFamily": "Lato",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "8814b58"
+                            },
+                            [
+                                [
+                                    "stackable/testimonial",
+                                    {
+                                        "uniqueId": "06149c8",
+                                        "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
+                                        "contentAlign": "left",
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "a3e586b",
+                                                "contentAlign": "left",
+                                                "text": "Description for this block. Use this space for describing your block. Any text will do. Description for this block. You can use this space for describing your block."
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "f5ccce8",
+                                                "fontFamily": "Lato",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "text": "Name",
+                                                "textTag": "h3"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "227cc2e",
+                                                "fontSize": 16,
+                                                "fontFamily": "Lato",
+                                                "textTransform": "uppercase",
+                                                "text": "Position"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

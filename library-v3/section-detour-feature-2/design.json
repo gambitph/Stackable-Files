@@ -1,0 +1,80 @@
+{
+    "id": "section-detour-feature-2",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "859b340",
+        "blockHeight": 900,
+        "blockVerticalAlign": "center",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "ad6b738"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "6d9fa77",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-detour-feature-2/9565523f4c6e.jpg",
+                        "imageId": 2007,
+                        "imageWidthAttribute": 1000,
+                        "imageHeightAttribute": 667,
+                        "imageHeight": 500,
+                        "imageWidth": 70
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "84db5e2",
+                        "customAttributes": [],
+                        "fontSize": 48,
+                        "fontFamily": "Oswald",
+                        "fontWeight": "bold",
+                        "textTransform": "uppercase",
+                        "textRemoveTextMargins": true,
+                        "text": "The Great Experience",
+                        "textTag": "h3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "47a5808",
+                        "contentAlign": "center",
+                        "text": "Description for this block. Use this space for describing your block. Any text will do."
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "9fe735a",
+                        "contentAlign": "center"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "a4ab7a2",
+                                "customAttributes": [],
+                                "buttonBackgroundColor": "#eb5757",
+                                "fontSize": 16,
+                                "fontFamily": "Montserrat",
+                                "text": "Learn More"
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

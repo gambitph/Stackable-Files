@@ -1,0 +1,29 @@
+{
+    "id": "block-blog-posts-prime-blog-post",
+    "name": "ugb/blog-posts",
+    "attributes": {
+        "columns": 3,
+        "numberOfItems": 3,
+        "showImage": false,
+        "showCategory": false,
+        "titleTag": "h3",
+        "titleColor": "#ffffff",
+        "excerptLength": 30,
+        "excerptColor": "#eeeeee",
+        "showAuthor": false,
+        "showComments": false,
+        "metaFontFamily": "Inter",
+        "metaColor": "var(--stk-global-color-74909, #dfdfdf)",
+        "readmoreFontFamily": "Inter",
+        "readmoreColor": "var(--stk-global-color-9498, #0693e3)",
+        "showBlockBackground": true,
+        "blockInnerWidth": "wide",
+        "align": "full",
+        "blockBackgroundBackgroundColor": "#000000",
+        "blockTitle": "",
+        "blockTitleBottomMargin": 30,
+        "blockTitleAlign": "center",
+        "blockDescription": "",
+        "contentAlign": "right"
+    }
+}

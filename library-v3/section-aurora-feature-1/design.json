@@ -1,0 +1,373 @@
+{
+    "id": "section-aurora-feature-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "8548090",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "3f0dcb1"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "a3eca98",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-1/ce83b4a09050.jpg",
+                        "imageId": 1000,
+                        "imageWidthAttribute": 640,
+                        "imageHeightAttribute": 800,
+                        "imageHeight": 400
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "e1fbc14",
+                        "fontSize": 24,
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Item 1"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "a10236c"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "b5ecf91",
+                                "htmlTag": "span",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "5b4dbb2",
+                                "htmlTag": "span",
+                                "fontSize": 64,
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "99",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "bbd7693",
+                                "htmlTag": "span",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "52f69c7",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Item Description"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "24bde3d"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "122b9f8",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Add to Cart",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "a6fb3a4"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "0dc7021",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-1/18c4c033ab71.jpg",
+                        "imageId": 1001,
+                        "imageWidthAttribute": 640,
+                        "imageHeightAttribute": 800,
+                        "imageHeight": 400
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "7e58e32",
+                        "fontSize": 24,
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Item 2"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "e679982"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "13e9d52",
+                                "htmlTag": "span",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "915a0b9",
+                                "htmlTag": "span",
+                                "fontSize": 64,
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "99",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "ab5ee79",
+                                "htmlTag": "span",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "90f27ef",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Item Description"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "b045519"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "44edf47",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Add to Cart",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "86c7100"
+            },
+            [
+                [
+                    "stackable/image",
+                    {
+                        "uniqueId": "27dae3e",
+                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-1/419449c89d40.jpg",
+                        "imageId": 1002,
+                        "imageWidthAttribute": 640,
+                        "imageHeightAttribute": 800,
+                        "imageHeight": 400
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "uniqueId": "6179049",
+                        "fontSize": 24,
+                        "fontFamily": "Poppins",
+                        "textRemoveTextMargins": true,
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Item 3"
+                    },
+                    []
+                ],
+                [
+                    "stackable/price",
+                    {
+                        "uniqueId": "3f226f6"
+                    },
+                    [
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "8ff0ed0",
+                                "htmlTag": "span",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "$",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "13332c4",
+                                "htmlTag": "span",
+                                "fontSize": 64,
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "99",
+                                "innerTextTag": "span",
+                                "className": "stk-block-price__price"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/text",
+                            {
+                                "uniqueId": "af8e54f",
+                                "htmlTag": "span",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": ".00",
+                                "innerTextTag": "span"
+                            },
+                            []
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/text",
+                    {
+                        "uniqueId": "9d786bc",
+                        "textColorClass": "has-white-color",
+                        "textColor1": "#FFFFFF",
+                        "text": "Item Description"
+                    },
+                    []
+                ],
+                [
+                    "stackable/button-group",
+                    {
+                        "uniqueId": "2b10466"
+                    },
+                    [
+                        [
+                            "stackable/button",
+                            {
+                                "uniqueId": "c3daecb",
+                                "customAttributes": [],
+                                "buttonPadding": {
+                                    "top": "",
+                                    "right": 24,
+                                    "bottom": "",
+                                    "left": 24
+                                },
+                                "buttonBackgroundColor": "#FFFFFF",
+                                "fontFamily": "Poppins",
+                                "textColorClass": "has-black-color",
+                                "textColor1": "#000000",
+                                "text": "Add to Cart",
+                                "opacityHover": 0.8
+                            },
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

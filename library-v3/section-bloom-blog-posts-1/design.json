@@ -1,0 +1,641 @@
+{
+    "id": "section-bloom-blog-posts-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "575e52a",
+        "blockPadding": {
+            "top": 80,
+            "right": "",
+            "bottom": 80,
+            "left": ""
+        },
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "17018d9"
+            },
+            [
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "c29f772",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 48,
+                            "left": ""
+                        },
+                        "columnGap": 24,
+                        "rowGapMobile": 32
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "fda8b7f",
+                                "columnWidth": 79.9,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f476cf3",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 16,
+                                            "left": ""
+                                        },
+                                        "customAttributes": [],
+                                        "fontSize": 64,
+                                        "fontFamily": "Courgette",
+                                        "textRemoveTextMargins": true,
+                                        "textColorClass": "has-stk-global-color-46782-color",
+                                        "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                        "text": "Our Blog Posts",
+                                        "fontSizeMobile": 40
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6954da2",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi convallis arcu et nisl vehicula, vitae congue quam euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra."
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "9497c3c",
+                                "containerVerticalAlign": "center",
+                                "columnWidth": 20.1,
+                                "columnAdjacentCount": 2,
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "41c68cf",
+                                        "contentAlign": "right",
+                                        "contentAlignMobile": "left"
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "4d877d9",
+                                                "customAttributes": [],
+                                                "buttonPadding": {
+                                                    "top": "",
+                                                    "right": 32,
+                                                    "bottom": "",
+                                                    "left": 32
+                                                },
+                                                "buttonBackgroundColor": "#b9d55f",
+                                                "fontSize": 18,
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "500",
+                                                "textColor1": "#14504c",
+                                                "text": "View All"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ],
+                [
+                    "stackable/columns",
+                    {
+                        "uniqueId": "152e7ae",
+                        "columnGap": 24,
+                        "rowGap": 24
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "a517689",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "9526fc3",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-blog-posts-1/21b5eeae182b.jpg",
+                                        "imageId": 1712,
+                                        "imageWidthAttribute": 1860,
+                                        "imageHeightAttribute": 2560,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "055c1cf",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 4,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "600",
+                                                "letterSpacing": 1,
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "text": "Subtitle"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "9eda07f",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-stk-global-color-96899-color",
+                                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                                "text": "Blog Post 1",
+                                                "fontSizeTablet": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "ac9509e",
+                                                "text": "Description for this block. Use this space for describing your block. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/testimonial",
+                                            {
+                                                "uniqueId": "6d0afb6",
+                                                "hasContainer": false,
+                                                "contentAlign": "",
+                                                "className": "is-style-compact"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/columns",
+                                                    {
+                                                        "uniqueId": "a2d89ab",
+                                                        "columnFit": true,
+                                                        "columnGap": 16
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "99c49ec",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/image",
+                                                                    {
+                                                                        "uniqueId": "2b008cc",
+                                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-blog-posts-1/dcb07ab8b186.jpg",
+                                                                        "imageId": 1225,
+                                                                        "imageWidthAttribute": 800,
+                                                                        "imageHeightAttribute": 800,
+                                                                        "imageHeight": 48,
+                                                                        "imageWidth": 48,
+                                                                        "imageShape": "circle",
+                                                                        "imageWidthUnit": "px"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "ee60ec8",
+                                                                "contentAlign": "left",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "b76d43a",
+                                                                        "blockMargin": {
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "fontFamily": "Mulish",
+                                                                        "textRemoveTextMargins": true,
+                                                                        "text": "Name",
+                                                                        "textTag": "h4"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "cb5bf16",
+                                                                        "fontFamily": "Mulish",
+                                                                        "text": "July 7, 2021"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c9755e9",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "800be94",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-blog-posts-1/f118326b3717.jpg",
+                                        "imageId": 1710,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1920,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "3d1291f",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 4,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "600",
+                                                "letterSpacing": 1,
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "text": "Subtitle"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "6039414",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-stk-global-color-96899-color",
+                                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                                "text": "Blog Post 2",
+                                                "fontSizeTablet": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "a6fa981",
+                                                "text": "Description for this block. Use this space for describing your block. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/testimonial",
+                                            {
+                                                "uniqueId": "1400e56",
+                                                "hasContainer": false,
+                                                "contentAlign": "",
+                                                "className": "is-style-compact"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/columns",
+                                                    {
+                                                        "uniqueId": "c9d7f88",
+                                                        "columnFit": true,
+                                                        "columnGap": 16
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "32ed9cc",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/image",
+                                                                    {
+                                                                        "uniqueId": "0177d80",
+                                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-blog-posts-1/3dfb36b012e6.jpg",
+                                                                        "imageId": 1708,
+                                                                        "imageWidthAttribute": 640,
+                                                                        "imageHeightAttribute": 962,
+                                                                        "imageHeight": 48,
+                                                                        "imageWidth": 48,
+                                                                        "imageShape": "circle",
+                                                                        "imageWidthUnit": "px"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "5e51587",
+                                                                "contentAlign": "left",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "ae001d8",
+                                                                        "blockMargin": {
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "fontFamily": "Mulish",
+                                                                        "textRemoveTextMargins": true,
+                                                                        "text": "Name",
+                                                                        "textTag": "h4"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "0708ffa",
+                                                                        "fontFamily": "Mulish",
+                                                                        "text": "July 7, 2021"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "c89c59b",
+                                "columnSpacing": {
+                                    "top": 0,
+                                    "right": 0,
+                                    "bottom": 0,
+                                    "left": 0
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/card",
+                                    {
+                                        "uniqueId": "eaf3d0a",
+                                        "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-blog-posts-1/4df9069ff8a6.jpg",
+                                        "imageId": 1711,
+                                        "imageWidthAttribute": 1920,
+                                        "imageHeightAttribute": 1315,
+                                        "className": "is-style-default"
+                                    },
+                                    [
+                                        [
+                                            "stackable/subtitle",
+                                            {
+                                                "uniqueId": "0b0dff8",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 4,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "600",
+                                                "letterSpacing": 1,
+                                                "textColorClass": "has-stk-global-color-46782-color",
+                                                "textColor1": "var(--stk-global-color-46782, #6865aa)",
+                                                "text": "Subtitle"
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/heading",
+                                            {
+                                                "uniqueId": "1362259",
+                                                "blockMargin": {
+                                                    "top": "",
+                                                    "right": "",
+                                                    "bottom": 16,
+                                                    "left": ""
+                                                },
+                                                "customAttributes": [],
+                                                "fontSize": 32,
+                                                "fontFamily": "Mulish",
+                                                "fontWeight": "bold",
+                                                "textRemoveTextMargins": true,
+                                                "textColorClass": "has-stk-global-color-96899-color",
+                                                "textColor1": "var(--stk-global-color-96899, #1a1a1a)",
+                                                "text": "Blog Post 3",
+                                                "fontSizeTablet": 24
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/text",
+                                            {
+                                                "uniqueId": "44b198d",
+                                                "text": "Description for this block. Use this space for describing your block. "
+                                            },
+                                            []
+                                        ],
+                                        [
+                                            "stackable/testimonial",
+                                            {
+                                                "uniqueId": "3d1f450",
+                                                "hasContainer": false,
+                                                "contentAlign": "",
+                                                "className": "is-style-compact"
+                                            },
+                                            [
+                                                [
+                                                    "stackable/columns",
+                                                    {
+                                                        "uniqueId": "d9a8ab6",
+                                                        "columnFit": true,
+                                                        "columnGap": 16
+                                                    },
+                                                    [
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "04f9489",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/image",
+                                                                    {
+                                                                        "uniqueId": "a94c630",
+                                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-blog-posts-1/2008efa931f9.jpg",
+                                                                        "imageId": 1709,
+                                                                        "imageWidthAttribute": 640,
+                                                                        "imageHeightAttribute": 427,
+                                                                        "imageHeight": 48,
+                                                                        "imageWidth": 48,
+                                                                        "imageShape": "circle",
+                                                                        "imageWidthUnit": "px"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ],
+                                                        [
+                                                            "stackable/column",
+                                                            {
+                                                                "uniqueId": "4e31960",
+                                                                "contentAlign": "left",
+                                                                "columnSpacing": {
+                                                                    "top": 0,
+                                                                    "right": 0,
+                                                                    "bottom": 0,
+                                                                    "left": 0
+                                                                }
+                                                            },
+                                                            [
+                                                                [
+                                                                    "stackable/heading",
+                                                                    {
+                                                                        "uniqueId": "752e388",
+                                                                        "blockMargin": {
+                                                                            "bottom": 0
+                                                                        },
+                                                                        "fontFamily": "Mulish",
+                                                                        "textRemoveTextMargins": true,
+                                                                        "text": "Name",
+                                                                        "textTag": "h4"
+                                                                    },
+                                                                    []
+                                                                ],
+                                                                [
+                                                                    "stackable/subtitle",
+                                                                    {
+                                                                        "uniqueId": "5e4d440",
+                                                                        "fontFamily": "Mulish",
+                                                                        "text": "July 7, 2021"
+                                                                    },
+                                                                    []
+                                                                ]
+                                                            ]
+                                                        ]
+                                                    ]
+                                                ]
+                                            ]
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

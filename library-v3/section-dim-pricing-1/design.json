@@ -1,0 +1,255 @@
+{
+    "id": "section-dim-pricing-1",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "b4c17eb",
+        "hasBackground": true,
+        "blockBackgroundColor": "#000000",
+        "innerBlockContentAlign": "alignwide",
+        "align": "full"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "9fc7436"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "23ab756",
+                        "hasContainer": false,
+                        "contentAlign": "left",
+                        "className": "is-style-basic"
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "13c6b8c",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-pricing-1/b3510daedda2.jpg",
+                                "imageId": 2314,
+                                "imageWidthAttribute": 667,
+                                "imageHeightAttribute": 1000,
+                                "imageHeight": 800
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "a68bb13",
+                                "fontFamily": "Roboto",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Vertical Vase",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/price",
+                            {
+                                "uniqueId": "68fb92d"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "609c767",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "$",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "e882389",
+                                        "htmlTag": "span",
+                                        "fontSize": 72,
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "99",
+                                        "innerTextTag": "span",
+                                        "className": "stk-block-price__price"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "bcc51ef",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": ".00",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "59cb4a8"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "9e30a08",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#FFFFFF",
+                                        "fontSize": 18,
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Buy Now"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "stackable/column",
+            {
+                "uniqueId": "0712da9"
+            },
+            [
+                [
+                    "stackable/pricing-box",
+                    {
+                        "uniqueId": "40b57aa",
+                        "hasContainer": false,
+                        "contentAlign": "left",
+                        "className": "is-style-basic"
+                    },
+                    [
+                        [
+                            "stackable/image",
+                            {
+                                "uniqueId": "72925de",
+                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-dim-pricing-1/ff79c51301a3.jpg",
+                                "imageId": 2315,
+                                "imageWidthAttribute": 667,
+                                "imageHeightAttribute": 1000,
+                                "imageHeight": 800
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/heading",
+                            {
+                                "uniqueId": "4313ad6",
+                                "fontFamily": "Roboto",
+                                "textRemoveTextMargins": true,
+                                "textColorClass": "has-white-color",
+                                "textColor1": "#FFFFFF",
+                                "text": "Circular Vase",
+                                "textTag": "h3"
+                            },
+                            []
+                        ],
+                        [
+                            "stackable/price",
+                            {
+                                "uniqueId": "559985b"
+                            },
+                            [
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "4a0c7f1",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "$",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "7c8b982",
+                                        "htmlTag": "span",
+                                        "fontSize": 72,
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": "99",
+                                        "innerTextTag": "span",
+                                        "className": "stk-block-price__price"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "bd0fc4c",
+                                        "htmlTag": "span",
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-white-color",
+                                        "textColor1": "#FFFFFF",
+                                        "text": ".00",
+                                        "innerTextTag": "span"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/button-group",
+                            {
+                                "uniqueId": "1334482"
+                            },
+                            [
+                                [
+                                    "stackable/button",
+                                    {
+                                        "uniqueId": "e4ed3e5",
+                                        "customAttributes": [],
+                                        "buttonPadding": {
+                                            "top": "",
+                                            "right": 24,
+                                            "bottom": "",
+                                            "left": 24
+                                        },
+                                        "buttonBackgroundColor": "#FFFFFF",
+                                        "fontSize": 18,
+                                        "fontFamily": "Sans-Serif",
+                                        "textColorClass": "has-black-color",
+                                        "textColor1": "#000000",
+                                        "text": "Buy Now"
+                                    },
+                                    []
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

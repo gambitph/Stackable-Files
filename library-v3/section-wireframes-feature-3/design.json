@@ -1,0 +1,316 @@
+{
+    "id": "section-wireframes-feature-3",
+    "name": "stackable/columns",
+    "attributes": {
+        "uniqueId": "a11e2e3",
+        "innerBlockContentAlign": "alignwide",
+        "align": "wide"
+    },
+    "innerBlocks": [
+        [
+            "stackable/column",
+            {
+                "uniqueId": "72d2b3a"
+            },
+            [
+                [
+                    "stackable/subtitle",
+                    {
+                        "uniqueId": "33c71fe",
+                        "blockMargin": {
+                            "top": "",
+                            "right": "",
+                            "bottom": 4,
+                            "left": ""
+                        },
+                        "contentAlign": "center",
+                        "text": "Subtitle for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/heading",
+                    {
+                        "contentAlign": "center",
+                        "uniqueId": "31a833d",
+                        "textRemoveTextMargins": true,
+                        "text": "Title for this Section"
+                    },
+                    []
+                ],
+                [
+                    "stackable/spacer",
+                    {
+                        "uniqueId": "a3043de",
+                        "height": 48
+                    },
+                    []
+                ],
+                [
+                    "stackable/feature-grid",
+                    {
+                        "uniqueId": "2801f7b",
+                        "innerBlockContentAlign": "alignwide",
+                        "rowGapMobile": 48,
+                        "align": "full",
+                        "className": "is-style-offset"
+                    },
+                    [
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "2e7a3fa",
+                                "containerBorderColor": "#d3d3d3",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "870d66f",
+                                        "blockMargin": {
+                                            "top": -66,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-3/3fad8a1f4299.png",
+                                        "imageId": 1319,
+                                        "imageWidthAttribute": 250,
+                                        "imageHeightAttribute": 200,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "275b93f",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 1",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "6984497",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "e4b3623",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 24,
+                                            "left": ""
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "99afa0e",
+                                                "text": "Button",
+                                                "className": "is-style-link"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "119349c",
+                                "containerBorderColor": "#d3d3d3",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "9544744",
+                                        "blockMargin": {
+                                            "top": -66,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-3/3fad8a1f4299.png",
+                                        "imageId": 1319,
+                                        "imageWidthAttribute": 250,
+                                        "imageHeightAttribute": 200,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f45a08c",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 2",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "5ff8a28",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "52b8229",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 24,
+                                            "left": ""
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "d769533",
+                                                "text": "Button",
+                                                "className": "is-style-link"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ],
+                        [
+                            "stackable/column",
+                            {
+                                "uniqueId": "4e93808",
+                                "containerBorderColor": "#d3d3d3",
+                                "containerShadow": "0 5px 30px -10px rgba(18, 63, 82, 0.3)",
+                                "containerPadding": {
+                                    "top": 24,
+                                    "right": 24,
+                                    "bottom": 24,
+                                    "left": 24
+                                }
+                            },
+                            [
+                                [
+                                    "stackable/image",
+                                    {
+                                        "uniqueId": "e3ed882",
+                                        "blockMargin": {
+                                            "top": -66,
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": ""
+                                        },
+                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-feature-3/3fad8a1f4299.png",
+                                        "imageId": 1319,
+                                        "imageWidthAttribute": 250,
+                                        "imageHeightAttribute": 200,
+                                        "imageHeight": 80,
+                                        "imageWidth": 80,
+                                        "imageShape": "circle",
+                                        "imageWidthUnit": "px"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/heading",
+                                    {
+                                        "uniqueId": "f9bf6a6",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 8,
+                                            "left": ""
+                                        },
+                                        "textRemoveTextMargins": true,
+                                        "text": "Feature 3",
+                                        "textTag": "h3"
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/text",
+                                    {
+                                        "uniqueId": "f619d69",
+                                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices elit eget sem luctus interdum. "
+                                    },
+                                    []
+                                ],
+                                [
+                                    "stackable/button-group",
+                                    {
+                                        "uniqueId": "5c23884",
+                                        "blockMargin": {
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": 24,
+                                            "left": ""
+                                        }
+                                    },
+                                    [
+                                        [
+                                            "stackable/button",
+                                            {
+                                                "uniqueId": "592e2c5",
+                                                "text": "Button",
+                                                "className": "is-style-link"
+                                            },
+                                            []
+                                        ]
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+}

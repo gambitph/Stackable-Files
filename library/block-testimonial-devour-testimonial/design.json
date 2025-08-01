@@ -1,0 +1,24 @@
+{
+    "id": "block-testimonial-devour-testimonial",
+    "name": "ugb/testimonial",
+    "attributes": {
+        "design": "plain",
+        "columns": 3,
+        "imageSize": "thumbnail",
+        "image1Id": 17,
+        "image2Id": 16,
+        "image3Id": 19,
+        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-testimonial-devour-testimonial/image-1-url.jpg",
+        "image2Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-testimonial-devour-testimonial/image-2-url.jpg",
+        "image3Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-testimonial-devour-testimonial/image-3-url.jpg",
+        "image1Alt": "Name",
+        "image2Alt": "Name",
+        "image3Alt": "Name",
+        "paddingTop": 60,
+        "align": "wide",
+        "showBlockTitle": true,
+        "blockTitleColor": "var(--stk-global-color-71717, #3d9457)",
+        "showBlockDescription": true,
+        "contentAlign": "center"
+    }
+}
