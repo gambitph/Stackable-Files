@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "e2fed14",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/618533655416.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-curious-testimonial-1/618533655416.png",
         "blockHeight": 840,
         "blockMargin": {
             "bottom": ""
@@ -103,7 +103,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "c499d7f",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
                                         "imageId": 683,
                                         "imageWidthAttribute": 48,
                                         "imageHeightAttribute": 48,
@@ -185,7 +185,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "b87c1f4",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
                                         "imageId": 683,
                                         "imageWidthAttribute": 48,
                                         "imageHeightAttribute": 48,
@@ -267,7 +267,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "2d1e8ae",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-testimonial-1/1a4ddf4141ea.png",
                                         "imageId": 683,
                                         "imageWidthAttribute": 48,
                                         "imageHeightAttribute": 48,

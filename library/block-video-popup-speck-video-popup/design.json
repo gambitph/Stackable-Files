@@ -9,7 +9,7 @@
         "shadow": 8,
         "previewBackgroundColorType": "gradient",
         "previewBackgroundColor2": "var(--stk-global-color-84839, #1b36d1)",
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-speck-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-speck-video-popup/preview-background-media-url.jpg",
         "previewBackgroundTintStrength": 5,
         "showBlockBackground": true,
         "blockInnerWidth": "wide",

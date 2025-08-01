@@ -88,7 +88,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "698b24c",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-testimonial-1/5f020082f16f.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-tavern-testimonial-1/5f020082f16f.jpg",
                                                 "imageId": 1999,
                                                 "imageWidthAttribute": 1920,
                                                 "imageHeightAttribute": 1280,
@@ -156,7 +156,7 @@
             {
                 "uniqueId": "fe1d77a",
                 "hasBackground": true,
-                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-tavern-testimonial-1/dc762029c37e.jpg",
+                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-tavern-testimonial-1/dc762029c37e.jpg",
                 "containerHeight": 500
             },
             []

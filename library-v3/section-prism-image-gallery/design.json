@@ -8,7 +8,7 @@
         "blockMargin": {
             "bottom": 80
         },
-        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/9665ae6c7781.png",
+        "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-prism-image-gallery/9665ae6c7781.png",
         "containerFixedBackground": false,
         "containerWidth": 100,
         "containerHorizontalAlign": "center",
@@ -86,7 +86,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "a33f8c5",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/9a4b852ebb44.png",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-prism-image-gallery/9a4b852ebb44.png",
                                                 "imageId": 3646,
                                                 "imageWidthAttribute": 577,
                                                 "imageHeightAttribute": 644
@@ -105,7 +105,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "598966e",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/cdf1fb4368aa.png",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-prism-image-gallery/cdf1fb4368aa.png",
                                                 "imageId": 3647,
                                                 "imageWidthAttribute": 577,
                                                 "imageHeightAttribute": 644
@@ -124,7 +124,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "6bfee91",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-image-gallery/d9966e013120.png",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-prism-image-gallery/d9966e013120.png",
                                                 "imageId": 3648,
                                                 "imageWidthAttribute": 577,
                                                 "imageHeightAttribute": 644

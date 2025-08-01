@@ -14,7 +14,7 @@
         "buttonShadow": 5,
         "columnBackgroundColor": "var(--stk-global-color-10518, #b27197)",
         "columnBackgroundMediaId": 18,
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-peplum-call-to-action/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-peplum-call-to-action/column-background-media-url.jpg",
         "columnBackgroundTintStrength": 9,
         "showBlockBackground": true,
         "blockInnerWidth": "wide",

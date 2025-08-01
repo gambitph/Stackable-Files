@@ -31,7 +31,7 @@
         "blockBackgroundBackgroundColor": "var(--stk-global-color-29281, #4c548a)",
         "blockBackgroundBackgroundColor2": "var(--stk-global-color-34069, #dd3334)",
         "blockBackgroundBackgroundMediaId": 8,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-proact-header-2/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-proact-header-2/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundPosition": "center center",
         "blockBackgroundTabletBackgroundPosition": "top center",
         "blockBackgroundBackgroundTintStrength": 6,

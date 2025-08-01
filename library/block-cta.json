@@ -25,7 +25,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 27,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-angled-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-angled-call-to-action-1/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "center center",
       "blockBackgroundBackgroundTintStrength": 0,
       "contentAlign": "left",
@@ -55,7 +55,7 @@
       "blockInnerWidth": "full",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 28,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-angled-call-to-action-2/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-angled-call-to-action-2/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "bottom center"
     }
   },
@@ -82,7 +82,7 @@
       "blockBackgroundBackgroundColorType": "gradient",
       "blockBackgroundBackgroundColor": "#00588b",
       "blockBackgroundBackgroundColor2": "#1f9c7b",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-arch-call-to-action-2/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-arch-call-to-action-2/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 8,
       "contentAlign": "left"
     }
@@ -112,7 +112,7 @@
       "blockBackgroundBackgroundColor": "#79d8c0",
       "blockBackgroundBackgroundColor2": "#2eb5c4",
       "blockBackgroundBackgroundMediaId": 33,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-arch-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-arch-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 3
     }
   },
@@ -136,7 +136,7 @@
       "buttonPaddingLeft": 50,
       "buttonBorderRadius": 0,
       "columnBackgroundColor": "var(--stk-global-color-5332, #071731)",
-      "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-aspire-call-to-action/column-background-media-url.jpg",
+      "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-aspire-call-to-action/column-background-media-url.jpg",
       "columnBackgroundTintStrength": 7,
       "blockHeight": 35,
       "blockHeightUnit": "vh",
@@ -181,7 +181,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-aurora-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-aurora-call-to-action-1/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "center center",
       "blockBackgroundBackgroundTintStrength": 1,
       "contentAlign": "left",
@@ -204,7 +204,7 @@
       "buttonNewTab": false,
       "buttonBackgroundColor": "#ffffff",
       "buttonBorderRadius": 0,
-      "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-aurora-call-to-action-2/column-background-media-url.jpg",
+      "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-aurora-call-to-action-2/column-background-media-url.jpg",
       "hoverEffect": "scale",
       "paddingRight": 80,
       "paddingLeft": 80,
@@ -238,7 +238,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 9,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-bean-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-bean-call-to-action/block-background-background-media-url.jpg",
       "contentAlign": "center"
     }
   },
@@ -270,7 +270,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 32,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-capital-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-capital-call-to-action-1/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 5
     }
   },
@@ -311,7 +311,7 @@
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundColor2": "#86abff",
       "blockBackgroundBackgroundMediaId": 33,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-capital-call-to-action-2/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-capital-call-to-action-2/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 6,
       "blockBackgroundBackgroundGradientDirection": 40,
       "blockBackgroundFixedBackground": false,
@@ -352,7 +352,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 45,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-cary-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-cary-call-to-action/block-background-background-media-url.jpg",
       "contentAlign": "left"
     }
   },
@@ -396,7 +396,7 @@
       "blockBackgroundBackgroundColor": "#f28e18",
       "blockBackgroundBackgroundColor2": "#ffa1df",
       "blockBackgroundBackgroundMediaId": 33,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-chic-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-chic-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 7
     }
   },
@@ -455,7 +455,7 @@
       "showBlockBackground": true,
       "blockInnerWidth": "wide",
       "align": "full",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-decora-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-decora-call-to-action/block-background-background-media-url.jpg",
       "showBottomSeparator": false,
       "contentAlign": "right",
       "tabletContentAlign": "right"
@@ -479,7 +479,7 @@
       "buttonTextColor": "var(--stk-global-color-5230, #ffffff)",
       "buttonBackgroundColor": "var(--stk-global-color-71717, #3d9457)",
       "buttonBorderRadius": 100,
-      "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-1/column-background-media-url.jpg",
+      "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-devour-call-to-action-1/column-background-media-url.jpg",
       "mobileBlockHeight": 500,
       "columnPaddingTop": 120,
       "columnPaddingBottom": 120,
@@ -487,7 +487,7 @@
       "blockInnerWidth": "full",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 40,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-devour-call-to-action-1/block-background-background-media-url.jpg",
       "contentAlign": "right"
     }
   },
@@ -506,7 +506,7 @@
       "buttonBackgroundColor": "var(--stk-global-color-71717, #3d9457)",
       "buttonBorderRadius": 100,
       "columnBackgroundColor": "#000000",
-      "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-2/column-background-media-url.jpg",
+      "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-devour-call-to-action-2/column-background-media-url.jpg",
       "columnBackgroundTintStrength": 8,
       "align": "wide"
     }
@@ -539,7 +539,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 27,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-dim-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-dim-call-to-action-1/block-background-background-media-url.jpg",
       "contentAlign": "right"
     }
   },
@@ -568,7 +568,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 76,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-dim-call-to-action-2/block-background-background-media-url.jpg"
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-dim-call-to-action-2/block-background-background-media-url.jpg"
     }
   },
   "block-cta-dim-call-to-action-3": {
@@ -609,7 +609,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 77,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-dim-call-to-action-3/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-dim-call-to-action-3/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 3,
       "contentAlign": "right"
     }
@@ -663,7 +663,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundColor": "#ffffff",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-dustin-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-dustin-call-to-action-1/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 4,
       "showTopSeparator": false,
       "showBottomSeparator": false,
@@ -707,7 +707,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 55,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-dustin-call-to-action-2/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-dustin-call-to-action-2/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 4,
       "contentAlign": "right",
       "mobileContentAlign": "center"
@@ -739,7 +739,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-58632, #ffffff)",
       "blockBackgroundBackgroundMediaId": 68,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-elevate-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-elevate-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 7,
       "blockBackgroundBackgroundGradientDirection": 40,
       "blockBackgroundFixedBackground": false,
@@ -783,7 +783,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 58,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-flex-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-flex-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "bottom center",
       "blockBackgroundBackgroundTintStrength": 1,
       "showBottomSeparator": true,
@@ -975,7 +975,7 @@
       "blockBackgroundBackgroundColorType": "gradient",
       "blockBackgroundBackgroundColor": "#ff0004",
       "blockBackgroundBackgroundColor2": "#4927dd",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-hue-call-to-action-2/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-hue-call-to-action-2/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundGradientBlendMode": "exclusion",
       "blockBackgroundBackgroundTintStrength": 5,
       "blockBackgroundBackgroundGradientDirection": 50,
@@ -1037,7 +1037,7 @@
       "align": "full",
       "noPaddings": false,
       "blockBackgroundBackgroundMediaId": 42,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-lounge-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-lounge-call-to-action/block-background-background-media-url.jpg",
       "contentAlign": "right"
     }
   },
@@ -1109,7 +1109,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundMediaId": 35,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-lush-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-lush-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundMobileBackgroundPosition": "center left",
       "showBottomSeparator": true,
       "bottomSeparatorDesign": "wave-3",
@@ -1143,7 +1143,7 @@
       "buttonShadow": 5,
       "columnBackgroundColor": "var(--stk-global-color-10518, #b27197)",
       "columnBackgroundMediaId": 18,
-      "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-peplum-call-to-action/column-background-media-url.jpg",
+      "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-peplum-call-to-action/column-background-media-url.jpg",
       "columnBackgroundTintStrength": 9,
       "showBlockBackground": true,
       "blockInnerWidth": "wide",
@@ -1177,7 +1177,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 56,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-prime-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-prime-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 8
     }
   },
@@ -1216,7 +1216,7 @@
       "blockBackgroundBackgroundColor": "var(--stk-global-color-29281, #4c548a)",
       "blockBackgroundBackgroundColor2": "var(--stk-global-color-34069, #dd3334)",
       "blockBackgroundBackgroundMediaId": 9,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-proact-call-to-action-1/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-proact-call-to-action-1/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "top center",
       "blockBackgroundTabletBackgroundPosition": "center center",
       "blockBackgroundBackgroundTintStrength": 8,
@@ -1278,7 +1278,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-61578, #0f1e33)",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-propel-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-propel-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 9,
       "blockBackgroundBackgroundGradientDirection": 40,
       "blockBackgroundFixedBackground": false,
@@ -1339,7 +1339,7 @@
       "showBlockBackground": true,
       "blockInnerWidth": "full",
       "align": "full",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-speck-call-to-action/block-background-background-media-url.jpg"
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-speck-call-to-action/block-background-background-media-url.jpg"
     }
   },
   "block-cta-upland-call-to-action": {
@@ -1371,7 +1371,7 @@
       "showBlockBackground": true,
       "blockInnerWidth": "wide",
       "align": "full",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-upland-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-upland-call-to-action/block-background-background-media-url.jpg",
       "showTopSeparator": true,
       "topSeparatorDesign": "slant-1",
       "topSeparatorHeight": 110,
@@ -1402,7 +1402,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-40036, #00473d)",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-yule-call-to-action/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-yule-call-to-action/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 5,
       "contentAlign": "center"
     }

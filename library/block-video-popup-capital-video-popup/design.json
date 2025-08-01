@@ -7,7 +7,7 @@
         "borderRadius": 0,
         "shadow": 0,
         "playButtonType": "outline",
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-capital-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-capital-video-popup/preview-background-media-url.jpg",
         "align": "wide",
         "blockTitle": "",
         "blockDescription": ""

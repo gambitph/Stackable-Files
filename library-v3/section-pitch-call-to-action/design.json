@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "db3bf1f",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action/13732bda3d73.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-call-to-action/13732bda3d73.png",
         "blockHeight": 750,
         "blockVerticalAlign": "center",
         "blockMargin": {
@@ -19,7 +19,7 @@
             {
                 "uniqueId": "c4fbff6",
                 "blockBackgroundColor": "transparent",
-                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action/a77dfa389de6.png",
+                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-call-to-action/a77dfa389de6.png",
                 "contentAlign": "center"
             },
             [
@@ -30,7 +30,7 @@
                         "blockMargin": {
                             "bottom": 0
                         },
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-call-to-action/cc56df79bab9.png",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-call-to-action/cc56df79bab9.png",
                         "imageId": 1110,
                         "imageWidthAttribute": 386,
                         "imageHeightAttribute": 393,

@@ -13,7 +13,7 @@
         "buttonBackgroundColor": "var(--stk-global-color-71717, #3d9457)",
         "buttonBorderRadius": 100,
         "columnBackgroundColor": "#000000",
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-devour-call-to-action-2/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-devour-call-to-action-2/column-background-media-url.jpg",
         "columnBackgroundTintStrength": 8,
         "align": "wide"
     }

@@ -26,7 +26,7 @@
         "showBlockBackground": true,
         "blockInnerWidth": "wide",
         "align": "full",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-decora-call-to-action/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-decora-call-to-action/block-background-background-media-url.jpg",
         "showBottomSeparator": false,
         "contentAlign": "right",
         "tabletContentAlign": "right"

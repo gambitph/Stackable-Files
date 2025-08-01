@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "0deee1a",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-team-1/670b90b97c17.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-flow-team-1/670b90b97c17.png",
         "blockPadding": {
             "top": 80,
             "right": "",
@@ -157,7 +157,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "cff7764",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-team-1/9e91cc913ef7.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-team-1/9e91cc913ef7.jpg",
                                                 "imageId": 2482,
                                                 "imageWidthAttribute": 1707,
                                                 "imageHeightAttribute": 2560,
@@ -226,7 +226,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "82389bf",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-team-1/a0fdc8ea01d6.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-team-1/a0fdc8ea01d6.jpg",
                                                 "imageId": 1501,
                                                 "imageWidthAttribute": 1707,
                                                 "imageHeightAttribute": 2560,
@@ -305,7 +305,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "11022fd",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-team-1/be37c463815c.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-team-1/be37c463815c.jpg",
                                                 "imageId": 2483,
                                                 "imageWidthAttribute": 1707,
                                                 "imageHeightAttribute": 2560,
@@ -374,7 +374,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "b7127b0",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-team-1/3146686d97ec.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-team-1/3146686d97ec.jpg",
                                                 "imageId": 2484,
                                                 "imageWidthAttribute": 1707,
                                                 "imageHeightAttribute": 2560,

@@ -14,7 +14,7 @@
         "buttonNewTab": false,
         "buttonBackgroundColor": "#ffffff",
         "buttonBorderRadius": 0,
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-aurora-call-to-action-2/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-aurora-call-to-action-2/column-background-media-url.jpg",
         "hoverEffect": "scale",
         "paddingRight": 80,
         "paddingLeft": 80,

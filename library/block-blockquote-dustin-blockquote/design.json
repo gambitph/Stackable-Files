@@ -22,7 +22,7 @@
         "showBlockBackground": true,
         "blockInnerWidth": "full",
         "align": "full",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-dustin-blockquote/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-dustin-blockquote/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 4
     }
 }

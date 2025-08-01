@@ -43,7 +43,7 @@
                                         "blockMargin": {
                                             "bottom": 8
                                         },
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-1/91a36f1f0d07.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-1/91a36f1f0d07.png",
                                         "imageId": 1067,
                                         "imageWidthAttribute": 74,
                                         "imageHeightAttribute": 43,
@@ -97,7 +97,7 @@
                                         "blockMargin": {
                                             "bottom": 0
                                         },
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-1/b6b00023debd.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-1/b6b00023debd.png",
                                         "imageId": 1068,
                                         "imageWidthAttribute": 134,
                                         "imageHeightAttribute": 134,
@@ -163,7 +163,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "4b19111",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-1/7dbda834821b.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-1/7dbda834821b.png",
                                         "imageId": 1065,
                                         "imageWidthAttribute": 1440,
                                         "imageHeightAttribute": 592

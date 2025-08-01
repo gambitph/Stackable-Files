@@ -30,7 +30,7 @@
         "align": "full",
         "blockBackgroundBackgroundColor": "#000000",
         "blockBackgroundBackgroundMediaId": 31,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-capital-header/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-capital-header/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundPosition": "bottom center",
         "blockBackgroundBackgroundTintStrength": 6,
         "showBottomSeparator": true,

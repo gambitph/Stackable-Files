@@ -12,7 +12,7 @@
         "showBlockBackground": true,
         "blockInnerWidth": "center",
         "align": "full",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-icon-list-devour-icon-list/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-icon-list-devour-icon-list/block-background-background-media-url.jpg",
         "showBlockTitle": true,
         "blockTitleColor": "var(--stk-global-color-86077, #ffce46)",
         "showBlockDescription": true,

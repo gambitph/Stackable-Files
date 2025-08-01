@@ -9,7 +9,7 @@
         "playButtonColor": "#ffffff",
         "playButtonOpacity": 1,
         "previewBackgroundColor": "#3a6761",
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-arch-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-arch-video-popup/preview-background-media-url.jpg",
         "blockWidth": 700,
         "showBlockBackground": true,
         "blockInnerWidth": "full",

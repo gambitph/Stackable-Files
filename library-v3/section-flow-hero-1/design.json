@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "c09ea25",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/9105761b0e19.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/9105761b0e19.png",
         "blockMargin": {
             "bottom": ""
         },
@@ -158,7 +158,7 @@
                                                     "stackable/image",
                                                     {
                                                         "uniqueId": "3ffa484",
-                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/a2e0e032da3b.png",
+                                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/a2e0e032da3b.png",
                                                         "imageId": 2410,
                                                         "imageWidthAttribute": 184,
                                                         "imageHeightAttribute": 184,
@@ -196,7 +196,7 @@
                                                     "stackable/image",
                                                     {
                                                         "uniqueId": "584949e",
-                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/f0515e7e0e01.png",
+                                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/f0515e7e0e01.png",
                                                         "imageId": 2411,
                                                         "imageWidthAttribute": 185,
                                                         "imageHeightAttribute": 184,
@@ -241,7 +241,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "a4a4f61",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/2973d6e8a040.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/2973d6e8a040.png",
                                         "imageId": 2420,
                                         "imageWidthAttribute": 717,
                                         "imageHeightAttribute": 785,
@@ -313,7 +313,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "aaf595d",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/ae48a403f117.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/ae48a403f117.png",
                                         "imageId": 2413,
                                         "imageWidthAttribute": 240,
                                         "imageHeightAttribute": 100,
@@ -344,7 +344,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "2f5398c",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/8578867fb20b.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/8578867fb20b.png",
                                         "imageId": 2415,
                                         "imageWidthAttribute": 240,
                                         "imageHeightAttribute": 100,
@@ -375,7 +375,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "b25b003",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-flow-hero-1/59884de0ef8c.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-flow-hero-1/59884de0ef8c.png",
                                         "imageId": 2414,
                                         "imageWidthAttribute": 240,
                                         "imageHeightAttribute": 100,

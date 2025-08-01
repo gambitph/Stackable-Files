@@ -50,7 +50,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "36e7662",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-feature-2/d9ce0c42dafc.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-call-to-feature-2/d9ce0c42dafc.png",
                                         "imageId": 691,
                                         "imageWidthAttribute": 976,
                                         "imageHeightAttribute": 878
@@ -78,7 +78,7 @@
                                                 "uniqueId": "dd7dc75",
                                                 "hasContainer": true,
                                                 "containerBackgroundColor": "transparent",
-                                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-feature-2/985928861f42.png",
+                                                "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-curious-call-to-feature-2/985928861f42.png",
                                                 "containerShadow": "none"
                                             },
                                             [
@@ -86,7 +86,7 @@
                                                     "stackable/image",
                                                     {
                                                         "uniqueId": "b822fc3",
-                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-call-to-feature-2/6e994494c856.png",
+                                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-call-to-feature-2/6e994494c856.png",
                                                         "imageId": 673,
                                                         "imageWidthAttribute": 592,
                                                         "imageHeightAttribute": 380,

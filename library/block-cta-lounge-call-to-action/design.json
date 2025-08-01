@@ -44,7 +44,7 @@
         "align": "full",
         "noPaddings": false,
         "blockBackgroundBackgroundMediaId": 42,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-lounge-call-to-action/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-lounge-call-to-action/block-background-background-media-url.jpg",
         "contentAlign": "right"
     }
 }

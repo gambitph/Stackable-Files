@@ -3,7 +3,7 @@
     "name": "ugb/feature",
     "attributes": {
         "invert": true,
-        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-capital-feature/image-url.png",
+        "imageUrl": "https://stackable-files.pages.dev/library/block-feature-capital-feature/image-url.png",
         "imageId": 34,
         "imageWidth": 500,
         "imageHeight": 500,

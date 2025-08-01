@@ -16,7 +16,7 @@
                 "uniqueId": "df0a503",
                 "hasBackground": true,
                 "blockBackgroundColor": "#000000",
-                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-card-1/189caee65789.jpg",
+                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-devour-card-1/189caee65789.jpg",
                 "containerHeight": 450,
                 "containerVerticalAlign": "flex-end"
             },
@@ -80,7 +80,7 @@
                 "uniqueId": "12bc5d4",
                 "hasBackground": true,
                 "blockBackgroundColor": "#000000",
-                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-devour-card-1/5f7d17072d67.jpg",
+                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-devour-card-1/5f7d17072d67.jpg",
                 "containerHeight": 450,
                 "containerVerticalAlign": "flex-end",
                 "customAttributes": []

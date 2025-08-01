@@ -24,7 +24,7 @@
         "align": "full",
         "blockBackgroundBackgroundColor": "var(--stk-global-color-58632, #ffffff)",
         "blockBackgroundBackgroundMediaId": 68,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-elevate-call-to-action/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-elevate-call-to-action/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 7,
         "blockBackgroundBackgroundGradientDirection": 40,
         "blockBackgroundFixedBackground": false,

@@ -64,7 +64,7 @@
       "blockInnerWidth": "wide",
       "align": "full",
       "blockBackgroundBackgroundColor": "#127866",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-aurora-advanced-text/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-aurora-advanced-text/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 5
     }
   },
@@ -177,7 +177,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#000000",
       "blockBackgroundBackgroundMediaId": 74,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-dim-advanced-text/block-background-background-media-url.jpg"
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-dim-advanced-text/block-background-background-media-url.jpg"
     }
   },
   "block-text-elevate-advanced-text": {
@@ -364,7 +364,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-95593, #e4e4d3)",
       "blockBackgroundBackgroundMediaId": 16,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-lush-advanced-text/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-lush-advanced-text/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 9,
       "showBottomSeparator": true,
       "bottomSeparatorDesign": "wave-3",
@@ -405,7 +405,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-10518, #b27197)",
       "blockBackgroundBackgroundMediaId": 11,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-peplum-advanced-text/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-peplum-advanced-text/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 9,
       "blockBackgroundFixedBackground": true
     }
@@ -484,7 +484,7 @@
       "blockBackgroundBackgroundColor": "#4c548a",
       "blockBackgroundBackgroundColor2": "#dd3334",
       "blockBackgroundBackgroundMediaId": 57,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-proact-advanced-text-2/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-proact-advanced-text-2/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 9,
       "showBottomSeparator": false,
       "bottomSeparatorDesign": "wave-3",

@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "95f28e0",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-feature-1/91d7c6580d47.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-feature-1/91d7c6580d47.png",
         "blockBackgroundPosition": "center center",
         "blockHeight": 900,
         "blockVerticalAlign": "center",
@@ -108,7 +108,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "ebfcd94",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-feature-1/ec4e18ef713f.jpg",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-feature-1/ec4e18ef713f.jpg",
                                         "imageId": 1684,
                                         "imageWidthAttribute": 640,
                                         "imageHeightAttribute": 427,
@@ -169,7 +169,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "7897df5",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-feature-1/30ecebd9a5fd.jpg",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-feature-1/30ecebd9a5fd.jpg",
                                         "imageId": 1687,
                                         "imageWidthAttribute": 640,
                                         "imageHeightAttribute": 960,
@@ -245,7 +245,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "6c496e6",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-feature-1/125d0753c895.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-feature-1/125d0753c895.png",
                                         "imageId": 1689,
                                         "imageWidthAttribute": 800,
                                         "imageHeightAttribute": 504
@@ -270,7 +270,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "e856ad9",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-feature-1/1d061a46fc52.jpg",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-feature-1/1d061a46fc52.jpg",
                                         "imageId": 1686,
                                         "imageWidthAttribute": 640,
                                         "imageHeightAttribute": 960,
@@ -331,7 +331,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "b86d1ba",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-feature-1/0e97a17e1071.jpg",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-feature-1/0e97a17e1071.jpg",
                                         "imageId": 1685,
                                         "imageWidthAttribute": 640,
                                         "imageHeightAttribute": 427,

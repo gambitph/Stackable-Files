@@ -61,7 +61,7 @@
         "showBlockBackground": true,
         "blockInnerWidth": "wide",
         "align": "full",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-bean-header/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-bean-header/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundPosition": "top center",
         "blockBackgroundTabletBackgroundPosition": "center left",
         "blockBackgroundMobileBackgroundPosition": "center left",

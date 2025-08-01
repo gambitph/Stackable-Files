@@ -28,7 +28,7 @@
         "blockWidth": 700,
         "align": "full",
         "blockBackgroundBackgroundColor": "#111111",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-count-up-capital-count-up/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-count-up-capital-count-up/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 7,
         "showBlockTitle": true,
         "blockTitle": "Our Company's Stats",

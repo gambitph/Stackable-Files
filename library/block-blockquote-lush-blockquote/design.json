@@ -37,7 +37,7 @@
         "align": "full",
         "blockBackgroundBackgroundColor": "var(--stk-global-color-95593, #e4e4d3)",
         "blockBackgroundBackgroundMediaId": 34,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-lush-blockquote/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-lush-blockquote/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundPosition": "bottom center",
         "blockBackgroundTabletBackgroundPosition": "bottom right",
         "blockBackgroundMobileBackgroundPosition": "center center",

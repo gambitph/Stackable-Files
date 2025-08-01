@@ -44,7 +44,7 @@
       "blockBackgroundBackgroundColorType": "gradient",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-78337, #f28e18)",
       "blockBackgroundBackgroundColor2": "var(--stk-global-color-89474, #ffa1df)",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-chic-blockquote/block-background-background-media-url.jpg"
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-chic-blockquote/block-background-background-media-url.jpg"
     }
   },
   "block-blockquote-dare-blockquote": {
@@ -152,7 +152,7 @@
       "showBlockBackground": true,
       "blockInnerWidth": "full",
       "align": "full",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-dustin-blockquote/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-dustin-blockquote/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundTintStrength": 4
     }
   },
@@ -254,7 +254,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "#ffffff",
       "blockBackgroundBackgroundMediaId": 43,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-lounge-blockquote/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-lounge-blockquote/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "top center",
       "blockBackgroundBackgroundTintStrength": 2,
       "contentAlign": "right"
@@ -323,7 +323,7 @@
       "align": "full",
       "blockBackgroundBackgroundColor": "var(--stk-global-color-95593, #e4e4d3)",
       "blockBackgroundBackgroundMediaId": 34,
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-lush-blockquote/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-lush-blockquote/block-background-background-media-url.jpg",
       "blockBackgroundBackgroundPosition": "bottom center",
       "blockBackgroundTabletBackgroundPosition": "bottom right",
       "blockBackgroundMobileBackgroundPosition": "center center",
@@ -363,7 +363,7 @@
       "showBlockBackground": true,
       "blockInnerWidth": "wide",
       "align": "full",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-propel-blockquote/block-background-background-media-url.jpg",
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-propel-blockquote/block-background-background-media-url.jpg",
       "blockBackgroundMobileBackgroundPosition": "center left"
     }
   },
@@ -415,7 +415,7 @@
       "showBlockBackground": true,
       "blockInnerWidth": "center",
       "align": "full",
-      "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-yule-blockquote/block-background-background-media-url.jpg"
+      "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-yule-blockquote/block-background-background-media-url.jpg"
     }
   }
 }

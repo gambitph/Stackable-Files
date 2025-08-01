@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "98a2379",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-feature-1/e9a1f2eca650.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-munch-feature-1/e9a1f2eca650.png",
         "blockPadding": {
             "top": 80,
             "right": "",
@@ -264,7 +264,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "157dc5d",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-feature-1/5adcf749da9c.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-munch-feature-1/5adcf749da9c.jpg",
                         "imageId": 2179,
                         "imageWidthAttribute": 1859,
                         "imageHeightAttribute": 2560,

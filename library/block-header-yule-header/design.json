@@ -4,7 +4,7 @@
     "attributes": {
         "borderRadius": 6,
         "shadow": 0,
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-yule-header/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-yule-header/column-background-media-url.jpg",
         "columnBackgroundTintStrength": 0,
         "columnFixedBackground": false,
         "title": "Make the Season Special",

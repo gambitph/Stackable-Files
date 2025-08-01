@@ -32,7 +32,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "8096014",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
                                         "imageId": 891,
                                         "imageWidthAttribute": 578,
                                         "imageHeightAttribute": 578,
@@ -74,7 +74,7 @@
                                     {
                                         "uniqueId": "fc69c5c",
                                         "containerBackgroundMediaId": 891,
-                                        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
+                                        "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
                                         "containerHeight": 600,
                                         "containerHeightTablet": 320,
                                         "className": "is-style-full",
@@ -141,7 +141,7 @@
                                     {
                                         "uniqueId": "f811354",
                                         "containerBackgroundMediaId": 891,
-                                        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
+                                        "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-wireframes-card-9/ee9b3bb1bcb9.png",
                                         "containerHeight": 600,
                                         "containerHeightTablet": 320,
                                         "className": "is-style-full",

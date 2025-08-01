@@ -3,7 +3,7 @@
     "name": "stackable/columns",
     "attributes": {
         "uniqueId": "cf690e0",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/ebb7a3f101fa.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-2/ebb7a3f101fa.png",
         "blockMargin": {
             "bottom": ""
         },
@@ -88,9 +88,9 @@
                                 "uniqueId": "e6b87df",
                                 "hasBackground": true,
                                 "blockBackgroundColor": "transparent",
-                                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/31bcddff6661.png",
+                                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-2/31bcddff6661.png",
                                 "blockHeight": 780,
-                                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/3a18ceec4aca.png",
+                                "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-2/3a18ceec4aca.png",
                                 "columnWidth": 50,
                                 "columnAdjacentCount": 2
                             },
@@ -148,7 +148,7 @@
                                                     "stackable/image",
                                                     {
                                                         "uniqueId": "f539e2a",
-                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/eda32d6774f4.png",
+                                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-2/eda32d6774f4.png",
                                                         "imageId": 1092,
                                                         "imageWidthAttribute": 361,
                                                         "imageHeightAttribute": 360,
@@ -205,7 +205,7 @@
                                                     "stackable/image",
                                                     {
                                                         "uniqueId": "b3d178c",
-                                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-2/cc36a37a2650.png",
+                                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-2/cc36a37a2650.png",
                                                         "imageId": 1093,
                                                         "imageWidthAttribute": 270,
                                                         "imageHeightAttribute": 271,

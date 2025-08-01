@@ -20,6 +20,6 @@
         "blockBackgroundBackgroundColorType": "gradient",
         "blockBackgroundBackgroundColor": "var(--stk-global-color-78337, #f28e18)",
         "blockBackgroundBackgroundColor2": "var(--stk-global-color-89474, #ffa1df)",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-chic-blockquote/block-background-background-media-url.jpg"
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-chic-blockquote/block-background-background-media-url.jpg"
     }
 }

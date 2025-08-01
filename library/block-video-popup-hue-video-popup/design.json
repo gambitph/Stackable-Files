@@ -9,7 +9,7 @@
         "previewBackgroundColorType": "gradient",
         "previewBackgroundColor": "#ff5acd",
         "previewBackgroundColor2": "#0800ff",
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-hue-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-hue-video-popup/preview-background-media-url.jpg",
         "previewBackgroundGradientBlendMode": "multiply",
         "previewBackgroundTintStrength": 5,
         "previewBackgroundGradientDirection": 200,

@@ -5,7 +5,7 @@
         "uniqueId": "76815a0",
         "hasBackground": true,
         "blockBackgroundColor": "#000000",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-feature-1/925bc23e1fa7.jpg",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-seren-feature-1/925bc23e1fa7.jpg",
         "blockBackgroundTintStrength": 8,
         "blockHeight": 800,
         "blockVerticalAlign": "center",
@@ -86,7 +86,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "cd4f3ae",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-seren-feature-1/1aebf1fe1b10.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-seren-feature-1/1aebf1fe1b10.jpg",
                         "imageId": 2055,
                         "imageWidthAttribute": 800,
                         "imageHeightAttribute": 1200,

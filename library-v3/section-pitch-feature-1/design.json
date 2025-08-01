@@ -5,7 +5,7 @@
         "uniqueId": "aa05cd0",
         "hasBackground": true,
         "blockBackgroundColor": "transparent",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-feature-1/22b8d0ac47b1.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-feature-1/22b8d0ac47b1.png",
         "blockHeight": 800,
         "blockMargin": {
             "bottom": ""
@@ -98,7 +98,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "5df8a0b",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-feature-1/884a54f5fa01.png",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-feature-1/884a54f5fa01.png",
                         "imageId": 1135,
                         "imageWidthAttribute": 892,
                         "imageHeightAttribute": 991,

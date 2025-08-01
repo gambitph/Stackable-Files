@@ -49,7 +49,7 @@
         "blockBackgroundBackgroundColor": "var(--stk-global-color-78337, #f28e18)",
         "blockBackgroundBackgroundColor2": "var(--stk-global-color-89474, #ffa1df)",
         "blockBackgroundBackgroundMediaId": 34,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-count-up-chic-count-up/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-count-up-chic-count-up/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundImageBlendMode": "multiply",
         "blockBackgroundBackgroundTintStrength": 8,
         "blockBackgroundFixedBackground": false,

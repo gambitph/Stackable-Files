@@ -22,7 +22,7 @@
         "align": "full",
         "blockBackgroundBackgroundColor": "var(--stk-global-color-10518, #b27197)",
         "blockBackgroundBackgroundMediaId": 11,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-peplum-advanced-text/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-peplum-advanced-text/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 9,
         "blockBackgroundFixedBackground": true
     }

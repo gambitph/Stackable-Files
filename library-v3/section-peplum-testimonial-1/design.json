@@ -5,7 +5,7 @@
         "uniqueId": "0e87e11",
         "hasBackground": true,
         "blockBackgroundColor": "#b27197",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-testimonial-1/dae6b72659ef.jpg",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-peplum-testimonial-1/dae6b72659ef.jpg",
         "blockBackgroundTintStrength": 9,
         "blockHeight": 600,
         "blockVerticalAlign": "center",
@@ -77,7 +77,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "5e39dcc",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-testimonial-1/7c69d96594b2.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-peplum-testimonial-1/7c69d96594b2.jpg",
                                                 "imageId": 2104,
                                                 "imageWidthAttribute": 1920,
                                                 "imageHeightAttribute": 2400,
@@ -146,7 +146,7 @@
                                             "stackable/image",
                                             {
                                                 "uniqueId": "7b60605",
-                                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-peplum-testimonial-1/b3afac46a06f.jpg",
+                                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-peplum-testimonial-1/b3afac46a06f.jpg",
                                                 "imageId": 2105,
                                                 "imageWidthAttribute": 640,
                                                 "imageHeightAttribute": 960,

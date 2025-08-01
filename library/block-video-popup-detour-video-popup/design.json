@@ -10,7 +10,7 @@
         "playButtonSize": 115,
         "previewBackgroundColor": "#eeeeee",
         "previewBackgroundMediaId": 51,
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-detour-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-detour-video-popup/preview-background-media-url.jpg",
         "previewBackgroundTintStrength": 1,
         "previewFixedBackground": false,
         "align": "full",

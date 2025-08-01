@@ -31,7 +31,7 @@
         "showBlockBackground": true,
         "blockInnerWidth": "wide",
         "align": "full",
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-blockquote-propel-blockquote/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-blockquote-propel-blockquote/block-background-background-media-url.jpg",
         "blockBackgroundMobileBackgroundPosition": "center left"
     }
 }

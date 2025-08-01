@@ -5,7 +5,7 @@
         "uniqueId": "e696bed",
         "hasBackground": true,
         "blockBackgroundColor": "var(--stk-global-color-91842, #b3b1e2)",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-hero-1/fad7e5d32147.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-hero-1/fad7e5d32147.png",
         "blockBackgroundPosition": "top center",
         "blockBackgroundTintStrength": 7,
         "blockFixedBackground": false,
@@ -288,7 +288,7 @@
                             "stackable/image",
                             {
                                 "uniqueId": "3eccf85",
-                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-hero-1/bdb33522321a.jpg",
+                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-hero-1/bdb33522321a.jpg",
                                 "imageId": 1667,
                                 "imageWidthAttribute": 1920,
                                 "imageHeightAttribute": 1280,

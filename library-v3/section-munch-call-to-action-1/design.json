@@ -5,7 +5,7 @@
         "uniqueId": "8c872a0",
         "hasBackground": true,
         "blockBackgroundColor": "#ffedca",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-call-to-action-1/27930df01410.jpg",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-munch-call-to-action-1/27930df01410.jpg",
         "blockBackgroundImageBlendMode": "soft-light",
         "blockPadding": {
             "top": 48,
@@ -102,7 +102,7 @@
             {
                 "uniqueId": "033bc47",
                 "hasContainer": true,
-                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-munch-call-to-action-1/27930df01410.jpg",
+                "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-munch-call-to-action-1/27930df01410.jpg",
                 "containerBorderRadius": 12,
                 "containerShadow": "none",
                 "containerHeight": 500

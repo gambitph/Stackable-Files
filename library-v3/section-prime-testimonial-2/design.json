@@ -5,7 +5,7 @@
         "uniqueId": "5278292",
         "hasBackground": true,
         "blockBackgroundColor": "#000000",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-testimonial-2/eb4f617aeabf.jpg",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-prime-testimonial-2/eb4f617aeabf.jpg",
         "blockBackgroundTintStrength": 6,
         "blockHeight": 700,
         "blockVerticalAlign": "center",
@@ -41,7 +41,7 @@
                             "stackable/image",
                             {
                                 "uniqueId": "a446986",
-                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-testimonial-2/c6bb48b36c9c.jpg",
+                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-prime-testimonial-2/c6bb48b36c9c.jpg",
                                 "imageId": 1789,
                                 "imageWidthAttribute": 591,
                                 "imageHeightAttribute": 591,
@@ -98,7 +98,7 @@
                             "stackable/image",
                             {
                                 "uniqueId": "c967d2b",
-                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prime-testimonial-2/cc8c8e0b6f68.jpg",
+                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-prime-testimonial-2/cc8c8e0b6f68.jpg",
                                 "imageId": 1791,
                                 "imageWidthAttribute": 591,
                                 "imageHeightAttribute": 591,

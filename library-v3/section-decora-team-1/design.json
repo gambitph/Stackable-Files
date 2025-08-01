@@ -15,7 +15,7 @@
             {
                 "uniqueId": "8e5e0d0",
                 "hasContainer": true,
-                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-team-1/c3af6ab2ac58.jpg",
+                "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-decora-team-1/c3af6ab2ac58.jpg",
                 "containerHeight": 400,
                 "containerVerticalAlign": "flex-end",
                 "containerBackgroundColorHover": "#fda939",
@@ -53,7 +53,7 @@
             {
                 "uniqueId": "cf32d83",
                 "hasContainer": true,
-                "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-decora-team-1/45b6539a543a.jpg",
+                "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-decora-team-1/45b6539a543a.jpg",
                 "containerVerticalAlign": "flex-end",
                 "containerBackgroundColorHover": "#fda939",
                 "containerBackgroundTintStrengthHover": 8

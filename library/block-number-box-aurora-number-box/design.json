@@ -19,7 +19,7 @@
         "borderRadius": 0,
         "shadow": 0,
         "columnBackgroundColor": "#1d1d1d",
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-number-box-aurora-number-box/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-number-box-aurora-number-box/column-background-media-url.jpg",
         "columnBackgroundColorOpacity": 1,
         "columnBackgroundTintStrength": 8,
         "numberOpacity": 1,

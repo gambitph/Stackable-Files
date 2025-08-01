@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "4d71862",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-3/f29f97571b81.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-curious-feature-3/f29f97571b81.png",
         "blockMargin": {
             "bottom": ""
         },
@@ -78,7 +78,7 @@
                         "uniqueId": "1bc3b0a",
                         "hasBackground": true,
                         "blockBackgroundColor": "#fe9964",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-feature-3/4881e0714f00.png",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-feature-3/4881e0714f00.png",
                         "imageId": 636,
                         "imageWidthAttribute": 576,
                         "imageHeightAttribute": 612,

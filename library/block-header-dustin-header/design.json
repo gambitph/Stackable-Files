@@ -5,7 +5,7 @@
         "design": "half-overlay",
         "shadow": 0,
         "columnBackgroundColor": "#ffffff",
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-dustin-header/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-dustin-header/column-background-media-url.jpg",
         "columnBackgroundColorOpacity": 0.9,
         "columnBackgroundTintStrength": 2,
         "title": "The Great Experience Begins",

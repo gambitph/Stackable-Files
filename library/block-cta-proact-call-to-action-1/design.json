@@ -33,7 +33,7 @@
         "blockBackgroundBackgroundColor": "var(--stk-global-color-29281, #4c548a)",
         "blockBackgroundBackgroundColor2": "var(--stk-global-color-34069, #dd3334)",
         "blockBackgroundBackgroundMediaId": 9,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-proact-call-to-action-1/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-proact-call-to-action-1/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundPosition": "top center",
         "blockBackgroundTabletBackgroundPosition": "center center",
         "blockBackgroundBackgroundTintStrength": 8,

@@ -8,7 +8,7 @@
         "shadow": 0,
         "previewBackgroundColor": "var(--stk-global-color-30923, #000000)",
         "previewBackgroundMediaId": 75,
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-dim-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-dim-video-popup/preview-background-media-url.jpg",
         "previewBackgroundTintStrength": 4,
         "previewFixedBackground": false,
         "showBlockBackground": true,

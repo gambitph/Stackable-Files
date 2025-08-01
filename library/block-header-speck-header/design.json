@@ -5,7 +5,7 @@
         "fullHeight": true,
         "design": "plain",
         "columnBackgroundColor": "var(--stk-global-color-84839, #1b36d1)",
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-speck-header/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-speck-header/column-background-media-url.jpg",
         "columnBackgroundTintStrength": 9,
         "titleColor": "var(--stk-global-color-30181, #ffffff)",
         "titleMobileFontSize": 36,
@@ -35,7 +35,7 @@
         "blockInnerWidth": "full",
         "align": "full",
         "blockBackgroundBackgroundMediaId": 53,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-speck-header/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-speck-header/block-background-background-media-url.jpg",
         "blockBackgroundMobileBackgroundPosition": "center left",
         "contentAlign": "left"
     }

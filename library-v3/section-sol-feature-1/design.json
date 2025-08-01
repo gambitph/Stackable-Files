@@ -27,7 +27,7 @@
                         "blockMargin": {
                             "bottom": ""
                         },
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-feature-1/f5b2d9d01434.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-sol-feature-1/f5b2d9d01434.jpg",
                         "imageId": 1046,
                         "imageWidthAttribute": 1920,
                         "imageHeightAttribute": 2401,
@@ -134,7 +134,7 @@
                             "stackable/image",
                             {
                                 "uniqueId": "179b24d",
-                                "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-sol-feature-1/f0f7db099f1a.jpg",
+                                "imageUrl": "https://stackable-files.pages.dev/library-v3/section-sol-feature-1/f0f7db099f1a.jpg",
                                 "imageId": 1047,
                                 "imageWidthAttribute": 1920,
                                 "imageHeightAttribute": 2560,

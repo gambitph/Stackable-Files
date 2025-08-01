@@ -57,7 +57,7 @@
         "align": "full",
         "blockBackgroundBackgroundColor": "#000000",
         "blockBackgroundBackgroundMediaId": 70,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-pricing-box-prime-pricing-box/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-pricing-box-prime-pricing-box/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 7,
         "showBlockTitle": true,
         "blockTitle": "Subscription Fee",

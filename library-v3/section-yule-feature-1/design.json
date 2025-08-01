@@ -21,7 +21,7 @@
                     "stackable/hero",
                     {
                         "uniqueId": "00ab284",
-                        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-yule-feature-1/917517c2954c.jpg",
+                        "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-yule-feature-1/917517c2954c.jpg",
                         "containerBorderRadius": 8,
                         "containerHeight": 700,
                         "contentAlign": "left"

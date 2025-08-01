@@ -12,7 +12,7 @@
             {
                 "uniqueId": "ae96eae",
                 "hasBackground": true,
-                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-image-gallery-1/b3cacf3c5b3b.jpg",
+                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-elevate-image-gallery-1/b3cacf3c5b3b.jpg",
                 "containerHeight": 300,
                 "containerVerticalAlign": "flex-end",
                 "blockBackgroundColorHover": "#000000"
@@ -51,7 +51,7 @@
             {
                 "uniqueId": "828a58e",
                 "hasBackground": true,
-                "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-image-gallery-1/55d35227c31f.jpg",
+                "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-elevate-image-gallery-1/55d35227c31f.jpg",
                 "containerHeight": 300,
                 "containerVerticalAlign": "flex-end",
                 "customAttributes": [],

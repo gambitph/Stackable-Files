@@ -5,7 +5,7 @@
         "uniqueId": "f6aced4",
         "hasBackground": true,
         "blockBackgroundColor": "var(--stk-global-color-91842, #b3b1e2)",
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-bloom-service-1/5f594baaebbd.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-bloom-service-1/5f594baaebbd.png",
         "blockBackgroundTintStrength": 6,
         "blockFixedBackground": false,
         "blockPadding": {

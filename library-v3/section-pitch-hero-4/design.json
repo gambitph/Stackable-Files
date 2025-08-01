@@ -54,7 +54,7 @@
                     {
                         "uniqueId": "5e24c37",
                         "hasBackground": true,
-                        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-4/bcc0857462c1.png",
+                        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-4/bcc0857462c1.png",
                         "blockBorderType": "solid",
                         "blockBorderColor": "var(--stk-global-color-51431, #1570ef)",
                         "blockBorderRadius": 24,
@@ -90,7 +90,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "60e8ea5",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-4/b6a6a83fb1d1.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-4/b6a6a83fb1d1.png",
                                         "imageId": 1101,
                                         "imageWidthAttribute": 150,
                                         "imageHeightAttribute": 58,
@@ -106,7 +106,7 @@
                                     "stackable/image",
                                     {
                                         "uniqueId": "dd68273",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-pitch-hero-4/f286219b1cd7.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-pitch-hero-4/f286219b1cd7.png",
                                         "imageId": 1103,
                                         "imageWidthAttribute": 80,
                                         "imageHeightAttribute": 36,

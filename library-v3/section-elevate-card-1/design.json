@@ -18,7 +18,7 @@
                     {
                         "uniqueId": "a25edd9",
                         "containerShadow": "0px 2px 20px rgba(153, 153, 153, 0.2)",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-card-1/02f5f7cf3468.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-elevate-card-1/02f5f7cf3468.jpg",
                         "imageId": 2352,
                         "imageWidthAttribute": 1920,
                         "imageHeightAttribute": 1282,
@@ -98,7 +98,7 @@
                     "stackable/card",
                     {
                         "uniqueId": "9d7b6a2",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-elevate-card-1/b1be51cc3170.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-elevate-card-1/b1be51cc3170.jpg",
                         "imageId": 2353,
                         "imageWidthAttribute": 1920,
                         "imageHeightAttribute": 1282,

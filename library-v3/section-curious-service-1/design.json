@@ -5,7 +5,7 @@
         "uniqueId": "bdb9228",
         "hasBackground": true,
         "blockBackgroundMediaId": 1002,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/3c1bf6ddb280.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-curious-service-1/3c1bf6ddb280.png",
         "innerBlockContentAlign": "alignwide",
         "align": "full",
         "blockBackgroundMediaHeightAttribute": 1440,
@@ -72,7 +72,7 @@
                                     {
                                         "uniqueId": "8e56a57",
                                         "blockShadow": "-8px 8px 0px 0px rgba(0,0,0, 1)",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/f2e6315f3983.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-service-1/f2e6315f3983.png",
                                         "imageId": 1001,
                                         "imageWidthAttribute": 577,
                                         "imageHeightAttribute": 542
@@ -111,7 +111,7 @@
                                     {
                                         "uniqueId": "479d5cf",
                                         "blockShadow": "-8px 8px 0px 0px rgba(0,0,0, 1)",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/6576dae4854a.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-service-1/6576dae4854a.png",
                                         "imageId": 1000,
                                         "imageWidthAttribute": 577,
                                         "imageHeightAttribute": 542,
@@ -153,7 +153,7 @@
                                     {
                                         "uniqueId": "542eb6e",
                                         "blockShadow": "-8px 8px 0px 0px rgba(0,0,0, 1)",
-                                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-service-1/1a30c27e9162.png",
+                                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-service-1/1a30c27e9162.png",
                                         "imageId": 999,
                                         "imageWidthAttribute": 577,
                                         "imageHeightAttribute": 542,

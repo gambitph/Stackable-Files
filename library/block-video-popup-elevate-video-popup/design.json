@@ -10,7 +10,7 @@
         "playButtonOpacity": 1,
         "previewBackgroundColor": "var(--stk-global-color-58632, #ffffff)",
         "previewBackgroundMediaId": 67,
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-elevate-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-elevate-video-popup/preview-background-media-url.jpg",
         "previewBackgroundTintStrength": 4,
         "showBlockBackground": true,
         "blockInnerWidth": "wide",

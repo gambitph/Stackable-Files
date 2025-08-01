@@ -48,7 +48,7 @@
         "blockBackgroundBackgroundColor": "var(--stk-global-color-58632, #ffffff)",
         "blockBackgroundBackgroundColor2": "#ffb20b",
         "blockBackgroundBackgroundMediaId": 61,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-header-elevate-header/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-header-elevate-header/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 9,
         "blockBackgroundBackgroundGradientDirection": 40,
         "contentAlign": "left"

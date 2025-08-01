@@ -9,7 +9,7 @@
         "playButtonSize": 77,
         "playButtonOpacity": 0.6,
         "previewBackgroundColor": "var(--stk-global-color-10518, #b27197)",
-        "previewBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-video-popup-peplum-video-popup/preview-background-media-url.jpg",
+        "previewBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-video-popup-peplum-video-popup/preview-background-media-url.jpg",
         "previewBackgroundTintStrength": 6,
         "showBlockBackground": true,
         "blockInnerWidth": "full",

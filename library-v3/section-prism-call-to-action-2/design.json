@@ -8,7 +8,7 @@
         "blockMargin": {
             "bottom": 80
         },
-        "containerBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-call-to-action-2/7e6f05a9d139.png",
+        "containerBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-prism-call-to-action-2/7e6f05a9d139.png",
         "containerFixedBackground": true,
         "containerWidth": 100,
         "containerHorizontalAlign": "center",
@@ -86,7 +86,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "80023ff",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-prism-call-to-action-2/77e6f81366c5.png",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-prism-call-to-action-2/77e6f81366c5.png",
                         "imageId": 3754,
                         "imageWidthAttribute": 1200,
                         "imageHeightAttribute": 570,

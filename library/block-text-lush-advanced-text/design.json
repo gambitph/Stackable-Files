@@ -28,7 +28,7 @@
         "align": "full",
         "blockBackgroundBackgroundColor": "var(--stk-global-color-95593, #e4e4d3)",
         "blockBackgroundBackgroundMediaId": 16,
-        "blockBackgroundBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-text-lush-advanced-text/block-background-background-media-url.jpg",
+        "blockBackgroundBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-text-lush-advanced-text/block-background-background-media-url.jpg",
         "blockBackgroundBackgroundTintStrength": 9,
         "showBottomSeparator": true,
         "bottomSeparatorDesign": "wave-3",

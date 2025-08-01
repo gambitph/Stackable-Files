@@ -18,7 +18,7 @@
         "buttonPaddingLeft": 50,
         "buttonBorderRadius": 0,
         "columnBackgroundColor": "var(--stk-global-color-5332, #071731)",
-        "columnBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-cta-aspire-call-to-action/column-background-media-url.jpg",
+        "columnBackgroundMediaUrl": "https://stackable-files.pages.dev/library/block-cta-aspire-call-to-action/column-background-media-url.jpg",
         "columnBackgroundTintStrength": 7,
         "blockHeight": 35,
         "blockHeightUnit": "vh",

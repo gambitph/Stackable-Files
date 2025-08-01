@@ -10,7 +10,7 @@
         "shadow": 9,
         "columnBackgroundColor": "var(--stk-global-color-71717, #3d9457)",
         "columnBackgroundColorOpacity": 1,
-        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library/block-feature-devour-feature/image-url.png",
+        "imageUrl": "https://stackable-files.pages.dev/library/block-feature-devour-feature/image-url.png",
         "imageShape": "circle",
         "imageId": 41,
         "imageWidth": 800,

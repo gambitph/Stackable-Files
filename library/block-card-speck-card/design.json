@@ -7,7 +7,7 @@
         "borderRadius": 0,
         "shadow": 8,
         "image1Id": 7,
-        "image1Url": "https://storage.googleapis.com/stackable-plugin-assets/library/block-card-speck-card/image-1-url.jpg",
+        "image1Url": "https://stackable-files.pages.dev/library/block-card-speck-card/image-1-url.jpg",
         "title2": "",
         "title3": "",
         "titleColor": "var(--stk-global-color-30181, #ffffff)",

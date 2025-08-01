@@ -19,7 +19,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "a3eca98",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-1/ce83b4a09050.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-aurora-feature-1/ce83b4a09050.jpg",
                         "imageId": 1000,
                         "imageWidthAttribute": 640,
                         "imageHeightAttribute": 800,
@@ -139,7 +139,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "0dc7021",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-1/18c4c033ab71.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-aurora-feature-1/18c4c033ab71.jpg",
                         "imageId": 1001,
                         "imageWidthAttribute": 640,
                         "imageHeightAttribute": 800,
@@ -259,7 +259,7 @@
                     "stackable/image",
                     {
                         "uniqueId": "27dae3e",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-aurora-feature-1/419449c89d40.jpg",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-aurora-feature-1/419449c89d40.jpg",
                         "imageId": 1002,
                         "imageWidthAttribute": 640,
                         "imageHeightAttribute": 800,

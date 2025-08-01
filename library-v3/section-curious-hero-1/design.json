@@ -4,7 +4,7 @@
     "attributes": {
         "uniqueId": "f2b5cb4",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-hero-1/5b39e641ad84.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-curious-hero-1/5b39e641ad84.png",
         "blockHeight": 720,
         "blockMargin": {
             "bottom": 150
@@ -161,7 +161,7 @@
                     {
                         "uniqueId": "32e2f7e",
                         "blockVerticalAlign": "flex-end",
-                        "imageUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-curious-hero-1/4881e0714f00.png",
+                        "imageUrl": "https://stackable-files.pages.dev/library-v3/section-curious-hero-1/4881e0714f00.png",
                         "imageId": 636,
                         "imageWidthAttribute": 576,
                         "imageHeightAttribute": 612,

@@ -4,11 +4,11 @@
     "attributes": {
         "uniqueId": "6956bce",
         "hasBackground": true,
-        "blockBackgroundMediaUrl": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-hero-1/e5cd374e7e9b.png",
+        "blockBackgroundMediaUrl": "https://stackable-files.pages.dev/library-v3/section-agora-hero-1/e5cd374e7e9b.png",
         "blockHeight": 900,
         "blockVerticalAlign": "center",
         "innerBlockContentAlign": "alignwide",
-        "blockBackgroundMediaUrlMobile": "https://storage.googleapis.com/stackable-plugin-assets/library-v3/section-agora-hero-1/a85ca7c0e252.png",
+        "blockBackgroundMediaUrlMobile": "https://stackable-files.pages.dev/library-v3/section-agora-hero-1/a85ca7c0e252.png",
         "blockHeightMobile": 800,
         "align": "full"
     },
