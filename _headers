@@ -1,0 +1,11 @@
+/dist/*
+  Cache-Control: public, max-age=86400
+
+/library/*
+  Cache-Control: public, max-age=86400
+
+/library-v3/*
+  Cache-Control: public, max-age=86400
+
+/library-v4/*
+  Cache-Control: public, max-age=86400
